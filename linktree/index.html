@@ -1,0 +1,512 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Mathew Stevens — Solana Developer</title>
+<meta name="description" content="Full-stack Solana developer. Trading infrastructure, agent wallets, and cross-platform Mobile Wallet Adapter SDKs. SolPulse · Agentic · open-source MWA SDKs." />
+<meta name="theme-color" content="#0a0a0a" />
+<link rel="icon" type="image/png" href="assets/agentic-favicon.png" />
+<link rel="apple-touch-icon" href="assets/agentic.png" />
+
+<!-- Social share card (X / iMessage / Slack).
+     NOTE: update the absolute URLs below to your real deploy domain (e.g. links.solpulse.trade). -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Mathew Stevens — Solana Developer" />
+<meta property="og:description" content="Trading infrastructure, agent wallets, and cross-platform Mobile Wallet Adapter SDKs." />
+<meta property="og:url" content="https://links.solpulse.trade/" />
+<meta property="og:image" content="https://links.solpulse.trade/assets/og.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="628" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Mathew Stevens — Solana Developer" />
+<meta name="twitter:description" content="Trading infrastructure, agent wallets, and cross-platform Mobile Wallet Adapter SDKs." />
+<meta name="twitter:image" content="https://links.solpulse.trade/assets/og.png" />
+<meta name="twitter:site" content="@mattinfra" />
+
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+
+<style>
+  :root {
+    --bg: #0a0a0a;
+    --card: rgba(24, 24, 27, 0.6);
+    --card-hover: rgba(0, 212, 170, 0.06);
+    --border: rgba(255, 255, 255, 0.10);
+    --border-hover: rgba(0, 212, 170, 0.45);
+    --accent: #00D4AA;
+    --text: #fafafa;
+    --muted: #a1a1aa;
+    --faint: #71717a;
+  }
+
+  * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+
+  html, body { margin: 0; padding: 0; width: 100%; overflow-x: hidden; }
+
+  body {
+    position: relative;
+    background: var(--bg);
+    color: var(--text);
+    font-family: "Inter", system-ui, -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    min-height: 100vh;
+    line-height: 1.4;
+  }
+
+  /* Ambient teal glow, top-center — mirrors the SolPulse landing page */
+  body::before {
+    content: "";
+    position: fixed;
+    top: -240px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 620px;
+    height: 620px;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(0, 212, 170, 0.16) 0%, rgba(0, 212, 170, 0.04) 45%, transparent 70%);
+    filter: blur(60px);
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .wrap {
+    position: relative;
+    z-index: 1;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 56px 20px 48px;
+  }
+
+  /* ---------- Header ---------- */
+  .header { text-align: center; }
+
+  .avatar {
+    width: 96px;
+    height: 96px;
+    margin: 0 auto 18px;
+    border-radius: 50%;
+    padding: 1px;
+    background: linear-gradient(135deg, var(--accent), #0a8c72);
+    box-shadow: 0 0 30px -10px rgba(0, 212, 170, 0.48);
+  }
+  .avatar-inner {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background: #0c0c0e;
+    display: grid;
+    place-items: center;
+    overflow: hidden;
+  }
+  .avatar-inner img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
+    object-position: center top;
+  }
+  .avatar-inner span {
+    font-weight: 800;
+    font-size: 30px;
+    letter-spacing: 1px;
+    background: linear-gradient(135deg, #ffffff, var(--accent));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+
+  .name {
+    margin: 0;
+    font-size: 26px;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+  }
+  .tagline {
+    margin: 6px 0 2px;
+    font-size: 14.5px;
+    font-weight: 600;
+    color: var(--accent);
+  }
+  .subtagline {
+    margin: 0 auto;
+    max-width: 360px;
+    font-size: 13px;
+    color: var(--muted);
+  }
+
+  .socials {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin-top: 20px;
+  }
+
+  /* ---------- Section labels ---------- */
+  .section-label {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin: 34px 2px 14px;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    color: var(--faint);
+  }
+  .section-label::before {
+    content: "";
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: var(--accent);
+    box-shadow: 0 0 8px var(--accent);
+  }
+  .section-label::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: linear-gradient(90deg, rgba(255,255,255,0.10), transparent);
+  }
+
+  /* ---------- Cards ---------- */
+  .tile {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 14px 16px;
+    margin-bottom: 12px;
+    border-radius: 16px;
+    border: 1px solid var(--border);
+    background: var(--card);
+    box-shadow: 0 0 40px -12px rgba(0, 212, 170, 0.10);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    transition: transform 0.18s ease, border-color 0.18s ease, background 0.18s ease, box-shadow 0.18s ease;
+  }
+  .tile:hover {
+    transform: translateY(-2px);
+    border-color: var(--border-hover);
+    background: linear-gradient(var(--card-hover), var(--card-hover)), var(--card);
+    box-shadow: 0 0 44px -10px rgba(0, 212, 170, 0.28);
+  }
+
+  /* App tiles */
+  .app-logo {
+    width: 52px;
+    height: 52px;
+    border-radius: 13px;
+    flex: 0 0 auto;
+    object-fit: cover;
+    background: #111;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+  }
+  /* App tiles wrap their action row below the title on narrow screens so the
+     sub-line stays fully readable; on wider screens the buttons sit to the right. */
+  .tile.app { flex-wrap: wrap; row-gap: 12px; }
+  .app-meta { flex: 1 1 170px; min-width: 0; }
+  .app-name { font-size: 16px; font-weight: 700; letter-spacing: -0.01em; }
+  .app-sub {
+    font-size: 12px;
+    color: var(--muted);
+    margin-top: 2px;
+  }
+  .app-actions { display: flex; gap: 8px; flex: 0 0 auto; margin-left: auto; }
+
+  /* Repo tiles — whole row is one link */
+  a.repo { text-decoration: none; color: inherit; }
+  .repo-meta { flex: 1 1 auto; min-width: 0; }
+  .repo-name { font-size: 15px; font-weight: 700; letter-spacing: -0.01em; }
+  .repo-sub { font-size: 12px; color: var(--muted); margin-top: 2px; }
+  .repo .ghmark {
+    flex: 0 0 auto;
+    width: 40px; height: 40px;
+    display: grid; place-items: center;
+    border-radius: 50%;
+    border: 1px solid var(--border);
+    background: rgba(255, 255, 255, 0.04);
+    color: #e4e4e7;
+    transition: color 0.18s ease, border-color 0.18s ease, background 0.18s ease;
+  }
+  .repo:hover .ghmark {
+    color: var(--accent);
+    border-color: var(--border-hover);
+    background: rgba(0, 212, 170, 0.12);
+  }
+
+  /* ---------- Icon buttons ---------- */
+  .iconbtn {
+    width: 42px;
+    height: 42px;
+    display: grid;
+    place-items: center;
+    border-radius: 50%;
+    border: 1px solid var(--border);
+    background: rgba(255, 255, 255, 0.04);
+    color: #e4e4e7;
+    text-decoration: none;
+    transition: transform 0.16s ease, color 0.16s ease, border-color 0.16s ease, background 0.16s ease, box-shadow 0.16s ease;
+  }
+  .iconbtn:hover, .iconbtn:focus-visible {
+    transform: translateY(-2px);
+    color: var(--accent);
+    border-color: var(--border-hover);
+    background: rgba(0, 212, 170, 0.12);
+    box-shadow: 0 0 18px -4px rgba(0, 212, 170, 0.5);
+    outline: none;
+  }
+  .iconbtn svg { width: 20px; height: 20px; display: block; }
+  /* Brand-colored marks keep their colors (no tint) but still get the glow */
+  .iconbtn.brand:hover { color: inherit; }
+
+  /* ---------- Footer ---------- */
+  .footer { margin-top: 36px; text-align: center; }
+  .pills {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 6px;
+    margin-bottom: 18px;
+  }
+  .pill {
+    font-size: 10.5px;
+    font-weight: 600;
+    color: var(--muted);
+    padding: 4px 9px;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    background: rgba(255, 255, 255, 0.03);
+  }
+  .copy { font-size: 11.5px; color: var(--faint); }
+  .copy b { color: var(--muted); font-weight: 600; }
+
+  /* ---------- Toast ---------- */
+  #toast {
+    position: fixed;
+    left: 50%;
+    bottom: 26px;
+    transform: translate(-50%, 24px);
+    background: rgba(12, 12, 14, 0.96);
+    border: 1px solid var(--border-hover);
+    color: #e4e4e7;
+    font-size: 13px;
+    font-weight: 500;
+    padding: 11px 16px;
+    border-radius: 12px;
+    box-shadow: 0 8px 40px -8px rgba(0, 212, 170, 0.4);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.25s ease, transform 0.25s ease;
+    z-index: 50;
+    max-width: calc(100vw - 40px);
+    text-align: center;
+  }
+  #toast.show { opacity: 1; transform: translate(-50%, 0); }
+  #toast .sol { color: var(--accent); font-weight: 700; }
+
+  /* ---------- Entrance animation ---------- */
+  @keyframes rise {
+    from { opacity: 0; transform: translateY(14px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+  .reveal { opacity: 0; animation: rise 0.5s ease forwards; }
+
+  @media (prefers-reduced-motion: reduce) {
+    .reveal { animation: none; opacity: 1; }
+    .tile, .iconbtn { transition: none; }
+  }
+
+  /* ---------- Narrow phones ---------- */
+  @media (max-width: 380px) {
+    .wrap { padding-top: 44px; }
+    .app-logo { width: 46px; height: 46px; }
+    .iconbtn { width: 38px; height: 38px; }
+    .iconbtn svg { width: 18px; height: 18px; }
+    .app-actions { gap: 6px; }
+    .tile { gap: 11px; padding: 12px 13px; }
+  }
+</style>
+</head>
+<body>
+  <main class="wrap">
+
+    <!-- ============ HEADER ============ -->
+    <header class="header reveal" style="animation-delay:.02s">
+      <div class="avatar">
+        <div class="avatar-inner">
+          <img src="saiyan-profile-photo.jpeg" alt="Mathew Stevens profile avatar" />
+        </div>
+      </div>
+      <h1 class="name">Mathew Stevens</h1>
+      <p class="tagline">Full-stack Solana developer</p>
+      <p class="subtagline">Trading infrastructure · agent wallets · cross-platform wallet SDKs</p>
+
+      <div class="socials">
+        <a class="iconbtn" href="https://github.com/mstevens843" target="_blank" rel="noopener" aria-label="GitHub">
+          <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.305-5.467-1.334-5.467-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12z"/></svg>
+        </a>
+        <a class="iconbtn" href="https://linkedin.com/in/mathewbradleystevens" target="_blank" rel="noopener" aria-label="LinkedIn">
+          <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.225 0z"/></svg>
+        </a>
+        <a class="iconbtn" href="https://x.com/mattinfra" target="_blank" rel="noopener" aria-label="X (Twitter)">
+          <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231 5.45-6.231zm-1.161 17.52h1.833L7.084 4.126H5.117l11.966 15.644z"/></svg>
+        </a>
+      </div>
+    </header>
+
+    <!-- ============ APPS ============ -->
+    <div class="section-label reveal" style="animation-delay:.08s">Apps</div>
+
+    <!-- SolPulse -->
+    <div class="tile app reveal" style="animation-delay:.12s">
+      <img class="app-logo" src="assets/solpulse.png" alt="SolPulse logo" />
+      <div class="app-meta">
+        <div class="app-name">SolPulse</div>
+        <div class="app-sub">Solana trading platform · 350+ users · 4.1★</div>
+      </div>
+      <div class="app-actions">
+        <a class="iconbtn" href="https://solpulse.trade" target="_blank" rel="noopener" aria-label="SolPulse website" title="Website">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3c2.5 2.5 3.8 5.8 3.8 9s-1.3 6.5-3.8 9c-2.5-2.5-3.8-5.8-3.8-9S9.5 5.5 12 3z"/></svg>
+        </a>
+        <a class="iconbtn brand dapp" href="solanadappstore://details?id=trade.solpulse.app" aria-label="SolPulse on the Solana dApp Store" title="Solana dApp Store">
+          <svg viewBox="0 0 397.7 311.7" aria-hidden="true"><defs><linearGradient id="sol-a" x1="360.879" y1="-37.455" x2="141.213" y2="383.294" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#00ffa3"/><stop offset="1" stop-color="#dc1fff"/></linearGradient></defs><path fill="url(#sol-a)" d="M64.6 237.9c2.4-2.4 5.7-3.8 9.2-3.8h317.4c5.8 0 8.7 7 4.6 11.1l-62.7 62.7c-2.4 2.4-5.7 3.8-9.2 3.8H6.5c-5.8 0-8.7-7-4.6-11.1z"/><path fill="url(#sol-a)" d="M64.6 3.8C67.1 1.4 70.4 0 73.8 0h317.4c5.8 0 8.7 7 4.6 11.1l-62.7 62.7c-2.4 2.4-5.7 3.8-9.2 3.8H6.5c-5.8 0-8.7-7-4.6-11.1z"/><path fill="url(#sol-a)" d="M333.1 120.1c-2.4-2.4-5.7-3.8-9.2-3.8H6.5c-5.8 0-8.7 7-4.6 11.1l62.7 62.7c2.4 2.4 5.7 3.8 9.2 3.8h317.4c5.8 0 8.7-7 4.6-11.1z"/></svg>
+        </a>
+        <a class="iconbtn brand" href="https://play.google.com/store/apps/details?id=trade.solpulse.app" target="_blank" rel="noopener" aria-label="SolPulse on Google Play" title="Google Play">
+          <svg viewBox="0 0 512 512" aria-hidden="true"><defs><linearGradient id="gp1-a" x1="241.7" y1="68.8" x2="35.3" y2="275.2" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#00a0ff"/><stop offset=".26" stop-color="#00bdff"/><stop offset=".51" stop-color="#00d2ff"/><stop offset=".76" stop-color="#00dfff"/><stop offset="1" stop-color="#00e3ff"/></linearGradient><linearGradient id="gp2-a" x1="447.9" y1="256" x2="29.5" y2="256" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ffe000"/><stop offset=".41" stop-color="#ffbd00"/><stop offset=".78" stop-color="#ffa500"/><stop offset="1" stop-color="#ff9c00"/></linearGradient><linearGradient id="gp3-a" x1="291.4" y1="295.6" x2="-50.1" y2="637.1" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ff3a44"/><stop offset="1" stop-color="#c31162"/></linearGradient><linearGradient id="gp4-a" x1="69.6" y1="-35.5" x2="222.1" y2="116.9" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#32a071"/><stop offset=".07" stop-color="#2da771"/><stop offset=".48" stop-color="#15cf74"/><stop offset=".8" stop-color="#06e775"/><stop offset="1" stop-color="#00f076"/></linearGradient></defs><path fill="url(#gp1-a)" d="M28.6 24.3c-4.7 5-7.5 12.7-7.5 22.7v418c0 10 2.8 17.7 7.5 22.7l1.4 1.4 234.2-234.2v-5.5L30 22.9z"/><path fill="url(#gp2-a)" d="M342 412.4l-78-78v-5.5l78-78.1 1.8 1 92.5 52.5c26.4 15 26.4 39.6 0 54.6l-92.5 52.5z"/><path fill="url(#gp3-a)" d="M343.8 411.4L264 331.6 29.9 565.7c8.7 9.2 23.1 10.4 39.3 1.2l274.6-155.5"/><path fill="url(#gp4-a)" d="M343.8 256.1L69.2 100.5C53 91.3 38.6 92.5 29.9 101.7l234.1 234z"/></svg>
+        </a>
+      </div>
+    </div>
+
+    <!-- Agentic -->
+    <div class="tile app reveal" style="animation-delay:.16s">
+      <img class="app-logo" src="assets/agentic.png" alt="Agentic logo" />
+      <div class="app-meta">
+        <div class="app-name">Agentic</div>
+        <div class="app-sub">Solana agent-wallet · web · CLI · desktop</div>
+      </div>
+      <div class="app-actions">
+        <a class="iconbtn" href="https://agentic-signer.com" target="_blank" rel="noopener" aria-label="Agentic website" title="Website">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3c2.5 2.5 3.8 5.8 3.8 9s-1.3 6.5-3.8 9c-2.5-2.5-3.8-5.8-3.8-9S9.5 5.5 12 3z"/></svg>
+        </a>
+        <a class="iconbtn brand dapp" href="solanadappstore://details?id=com.agentic.wallet" aria-label="Agentic on the Solana dApp Store" title="Solana dApp Store">
+          <svg viewBox="0 0 397.7 311.7" aria-hidden="true"><defs><linearGradient id="sol-b" x1="360.879" y1="-37.455" x2="141.213" y2="383.294" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#00ffa3"/><stop offset="1" stop-color="#dc1fff"/></linearGradient></defs><path fill="url(#sol-b)" d="M64.6 237.9c2.4-2.4 5.7-3.8 9.2-3.8h317.4c5.8 0 8.7 7 4.6 11.1l-62.7 62.7c-2.4 2.4-5.7 3.8-9.2 3.8H6.5c-5.8 0-8.7-7-4.6-11.1z"/><path fill="url(#sol-b)" d="M64.6 3.8C67.1 1.4 70.4 0 73.8 0h317.4c5.8 0 8.7 7 4.6 11.1l-62.7 62.7c-2.4 2.4-5.7 3.8-9.2 3.8H6.5c-5.8 0-8.7-7-4.6-11.1z"/><path fill="url(#sol-b)" d="M333.1 120.1c-2.4-2.4-5.7-3.8-9.2-3.8H6.5c-5.8 0-8.7 7-4.6 11.1l62.7 62.7c2.4 2.4 5.7 3.8 9.2 3.8h317.4c5.8 0 8.7-7 4.6-11.1z"/></svg>
+        </a>
+        <a class="iconbtn brand" href="https://play.google.com/store/apps/details?id=com.agentic.wallet" target="_blank" rel="noopener" aria-label="Agentic on Google Play" title="Google Play">
+          <svg viewBox="0 0 512 512" aria-hidden="true"><defs><linearGradient id="gp1-b" x1="241.7" y1="68.8" x2="35.3" y2="275.2" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#00a0ff"/><stop offset=".26" stop-color="#00bdff"/><stop offset=".51" stop-color="#00d2ff"/><stop offset=".76" stop-color="#00dfff"/><stop offset="1" stop-color="#00e3ff"/></linearGradient><linearGradient id="gp2-b" x1="447.9" y1="256" x2="29.5" y2="256" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ffe000"/><stop offset=".41" stop-color="#ffbd00"/><stop offset=".78" stop-color="#ffa500"/><stop offset="1" stop-color="#ff9c00"/></linearGradient><linearGradient id="gp3-b" x1="291.4" y1="295.6" x2="-50.1" y2="637.1" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ff3a44"/><stop offset="1" stop-color="#c31162"/></linearGradient><linearGradient id="gp4-b" x1="69.6" y1="-35.5" x2="222.1" y2="116.9" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#32a071"/><stop offset=".07" stop-color="#2da771"/><stop offset=".48" stop-color="#15cf74"/><stop offset=".8" stop-color="#06e775"/><stop offset="1" stop-color="#00f076"/></linearGradient></defs><path fill="url(#gp1-b)" d="M28.6 24.3c-4.7 5-7.5 12.7-7.5 22.7v418c0 10 2.8 17.7 7.5 22.7l1.4 1.4 234.2-234.2v-5.5L30 22.9z"/><path fill="url(#gp2-b)" d="M342 412.4l-78-78v-5.5l78-78.1 1.8 1 92.5 52.5c26.4 15 26.4 39.6 0 54.6l-92.5 52.5z"/><path fill="url(#gp3-b)" d="M343.8 411.4L264 331.6 29.9 565.7c8.7 9.2 23.1 10.4 39.3 1.2l274.6-155.5"/><path fill="url(#gp4-b)" d="M343.8 256.1L69.2 100.5C53 91.3 38.6 92.5 29.9 101.7l234.1 234z"/></svg>
+        </a>
+      </div>
+    </div>
+
+    <!-- ============ OPEN-SOURCE INFRASTRUCTURE ============ -->
+    <div class="section-label reveal" style="animation-delay:.20s">Open-source infrastructure</div>
+
+    <a class="tile repo reveal" style="animation-delay:.24s" href="https://github.com/mstevens843/ios-solana-wallet-adapter" target="_blank" rel="noopener">
+      <div class="repo-meta">
+        <div class="repo-name">iOS Solana Wallet Adapter</div>
+        <div class="repo-sub">Native iOS deeplink signing — Phantom, Solflare, Backpack</div>
+      </div>
+      <span class="ghmark" aria-label="View on GitHub">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.305-5.467-1.334-5.467-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12z"/></svg>
+      </span>
+    </a>
+
+    <a class="tile repo reveal" style="animation-delay:.27s" href="https://github.com/mstevens843/cocos-solana-mwa-sdk" target="_blank" rel="noopener">
+      <div class="repo-meta">
+        <div class="repo-name">Cocos Creator MWA SDK</div>
+        <div class="repo-sub">First Solana MWA 2.0 SDK for Cocos Creator · zero-dep core</div>
+      </div>
+      <span class="ghmark" aria-label="View on GitHub">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.305-5.467-1.334-5.467-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12z"/></svg>
+      </span>
+    </a>
+
+    <a class="tile repo reveal" style="animation-delay:.30s" href="https://github.com/mstevens843/unreal-solana-mwa" target="_blank" rel="noopener">
+      <div class="repo-meta">
+        <div class="repo-name">Unreal Engine MWA SDK</div>
+        <div class="repo-sub">First production Solana MWA plugin for Unreal Engine 5</div>
+      </div>
+      <span class="ghmark" aria-label="View on GitHub">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.305-5.467-1.334-5.467-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12z"/></svg>
+      </span>
+    </a>
+
+    <a class="tile repo reveal" style="animation-delay:.33s" href="https://github.com/mstevens843/capacitor-solana-mobile-wallet-adapter" target="_blank" rel="noopener">
+      <div class="repo-meta">
+        <div class="repo-name">Capacitor Solana MWA</div>
+        <div class="repo-sub">First Capacitor plugin for Solana Mobile Wallet Adapter</div>
+      </div>
+      <span class="ghmark" aria-label="View on GitHub">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.305-5.467-1.334-5.467-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12z"/></svg>
+      </span>
+    </a>
+
+    <a class="tile repo reveal" style="animation-delay:.36s" href="https://github.com/mstevens843/godot-solana-mwa-example" target="_blank" rel="noopener">
+      <div class="repo-meta">
+        <div class="repo-name">Godot MWA SDK</div>
+        <div class="repo-sub">Godot MWA brought to RN parity — Solana Mobile grant · merged PRs</div>
+      </div>
+      <span class="ghmark" aria-label="View on GitHub">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.305-5.467-1.334-5.467-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12z"/></svg>
+      </span>
+    </a>
+
+    <a class="tile repo reveal" style="animation-delay:.39s" href="https://github.com/mstevens843/unity-solana-mwa-example" target="_blank" rel="noopener">
+      <div class="repo-meta">
+        <div class="repo-name">Unity MWA SDK</div>
+        <div class="repo-sub">Unity MWA brought to RN parity — Solana Mobile grant · merged PRs</div>
+      </div>
+      <span class="ghmark" aria-label="View on GitHub">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.305-5.467-1.334-5.467-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12z"/></svg>
+      </span>
+    </a>
+
+    <!-- ============ FOOTER ============ -->
+    <footer class="footer reveal" style="animation-delay:.44s">
+      <div class="pills">
+        <span class="pill">React</span>
+        <span class="pill">Node.js</span>
+        <span class="pill">TypeScript</span>
+        <span class="pill">Swift</span>
+        <span class="pill">Kotlin</span>
+        <span class="pill">C++</span>
+        <span class="pill">C#</span>
+        <span class="pill">Unity</span>
+        <span class="pill">Unreal</span>
+        <span class="pill">Godot</span>
+        <span class="pill">Cocos</span>
+        <span class="pill">Solana</span>
+        <span class="pill">Anchor</span>
+      </div>
+      <div class="copy">© 2026 <b>Mathew Stevens</b> · Built on Solana</div>
+    </footer>
+  </main>
+
+  <div id="toast" role="status" aria-live="polite"></div>
+
+  <script>
+    // dApp Store buttons: the solanadappstore:// scheme only resolves on Solana Seeker / Saga
+    // devices that have the dApp Store app installed. Everywhere else it silently no-ops, so we
+    // surface a short toast instead of leaving the visitor with a dead click. The anchor still
+    // fires the scheme natively on supported devices — we don't preventDefault.
+    (function () {
+      var toast = document.getElementById('toast');
+      var timer;
+      function showToast(html) {
+        toast.innerHTML = html;
+        toast.classList.add('show');
+        clearTimeout(timer);
+        timer = setTimeout(function () { toast.classList.remove('show'); }, 3200);
+      }
+      document.querySelectorAll('a.dapp').forEach(function (el) {
+        el.addEventListener('click', function () {
+          showToast('Opens in the <span class="sol">Solana dApp Store</span> on Seeker &amp; Saga');
+        });
+      });
+    })();
+  </script>
+</body>
+</html>
