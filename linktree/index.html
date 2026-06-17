@@ -213,6 +213,20 @@
     color: var(--muted);
     margin-top: 2px;
   }
+  .rating-value {
+    display: inline-flex;
+    align-items: center;
+    gap: 3px;
+    white-space: nowrap;
+  }
+  .rating-star {
+    width: 13px;
+    height: 13px;
+    color: #fbbf24;
+    fill: currentColor;
+    stroke: currentColor;
+    flex: 0 0 auto;
+  }
   .app-actions { display: flex; gap: 8px; flex: 0 0 auto; margin-left: auto; }
 
   /* Repo tiles — whole row is one link */
@@ -367,7 +381,7 @@
       <img class="app-logo" src="assets/solpulse.png" alt="SolPulse logo" />
       <div class="app-meta">
         <div class="app-name">SolPulse</div>
-        <div class="app-sub">Solana trading platform · 350+ users · 4.1★</div>
+        <div class="app-sub">Solana trading platform · 350+ users · <span class="rating-value">4.1<svg class="rating-star" viewBox="0 0 24 24" aria-hidden="true"><path d="m12 2.75 2.77 5.62 6.2.9-4.49 4.38 1.06 6.18L12 16.91l-5.54 2.92 1.06-6.18-4.49-4.38 6.2-.9L12 2.75z"/></svg></span></div>
       </div>
       <div class="app-actions">
         <a class="iconbtn" href="https://solpulse.trade" target="_blank" rel="noopener" aria-label="SolPulse website" title="Website">
@@ -391,7 +405,7 @@
       <img class="app-logo" src="assets/agentic.png" alt="Agentic logo" />
       <div class="app-meta">
         <div class="app-name">Agentic</div>
-        <div class="app-sub">Solana agent-wallet · 10 reviews · 4.8★</div>
+        <div class="app-sub">Solana agent-wallet · 500+ users · 20 ratings · <span class="rating-value">4.2<svg class="rating-star" viewBox="0 0 24 24" aria-hidden="true"><path d="m12 2.75 2.77 5.62 6.2.9-4.49 4.38 1.06 6.18L12 16.91l-5.54 2.92 1.06-6.18-4.49-4.38 6.2-.9L12 2.75z"/></svg></span></div>
       </div>
       <div class="app-actions">
         <a class="iconbtn" href="https://agentic-signer.com" target="_blank" rel="noopener" aria-label="Agentic website" title="Website">

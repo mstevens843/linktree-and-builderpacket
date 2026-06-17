@@ -293,6 +293,19 @@
     .metric:nth-child(2n) { border-right: 0; }
     .metric strong { display: block; font-size: 22px; line-height: 1; font-weight: 800; color: var(--accent); }
     .metric span { display: block; margin-top: 6px; color: var(--muted); font-size: 12px; font-weight: 600; line-height: 1.25; }
+    .metric strong.rating-value {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+    }
+    .rating-star {
+      width: 16px;
+      height: 16px;
+      color: var(--amber);
+      fill: currentColor;
+      stroke: currentColor;
+      flex: 0 0 auto;
+    }
 
     .profile-note { padding: 15px 18px 18px; color: var(--muted); font-size: 13px; line-height: 1.45; }
 
@@ -655,10 +668,10 @@
           </div>
           <div class="metric-list" aria-label="Builder metrics">
             <div class="metric"><strong>350+</strong><span>SolPulse users</span></div>
-            <div class="metric"><strong>4.1</strong><span>SolPulse Android</span></div>
-            <div class="metric"><strong>10</strong><span>Agentic reviews</span></div>
-            <div class="metric"><strong>4.8</strong><span>Agentic rating</span></div>
-            <div class="metric"><strong>2</strong><span>dApp Store apps</span></div>
+            <div class="metric"><strong class="rating-value">4.1<svg class="rating-star" viewBox="0 0 24 24" aria-hidden="true"><path d="m12 2.75 2.77 5.62 6.2.9-4.49 4.38 1.06 6.18L12 16.91l-5.54 2.92 1.06-6.18-4.49-4.38 6.2-.9L12 2.75z"/></svg></strong><span>SolPulse Android</span></div>
+            <div class="metric"><strong>500+</strong><span>Agentic users</span></div>
+            <div class="metric"><strong>20</strong><span>Agentic ratings</span></div>
+            <div class="metric"><strong class="rating-value">4.2<svg class="rating-star" viewBox="0 0 24 24" aria-hidden="true"><path d="m12 2.75 2.77 5.62 6.2.9-4.49 4.38 1.06 6.18L12 16.91l-5.54 2.92 1.06-6.18-4.49-4.38 6.2-.9L12 2.75z"/></svg></strong><span>Agentic rating</span></div>
             <div class="metric"><strong>4</strong><span>Merged upstream PRs</span></div>
           </div>
           <div class="profile-note">
@@ -731,11 +744,11 @@
               <span class="tag good">Non-custodial</span>
             </div>
             <p class="project-copy">
-              Deployed Solana agent-wallet application at agentic-signer.com with 10 Solana dApp Store reviews in 3 days and a 4.8-star rating. Agents prepare actions, users approve with their real wallet, and keys never leave the wallet. One WalletBackend powers MCP tools, Vercel AI tools, Solana Agent Kit, CLI, desktop, and web surfaces.
+              Deployed Solana agent-wallet application at agentic-signer.com with 500+ users in under 2 weeks, 20 ratings, and a 4.2-star rating. Agents prepare actions, users approve with their real wallet, and keys never leave the wallet. One WalletBackend powers MCP tools, Vercel AI tools, Solana Agent Kit, CLI, desktop, and web surfaces.
             </p>
             <ul class="feature-list">
               <li>Address lookup, message signing, transaction signing, sign-and-send, approval polling, and simulation.</li>
-              <li>Web, CLI, desktop, Google Play, and Solana dApp Store release surfaces with early 4.8-star user traction.</li>
+              <li>Web, CLI, desktop, Google Play, and Solana dApp Store release surfaces with 500+ users, 20 ratings, and early 4.2-star user traction.</li>
               <li>Package ID discovered locally: <strong>com.agentic.wallet</strong>.</li>
             </ul>
             <div class="button-strip" aria-label="Agentic links">
