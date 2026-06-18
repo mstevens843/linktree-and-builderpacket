@@ -1,0 +1,150 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Length 3447 >>
+stream
+BT
+/F1 16.0 Tf
+64 738.00 Td
+(Mathew Stevens) Tj
+-64 -738.00 Td
+/F1 10.0 Tf
+64 723.80 Td
+(mathewstevens7457@gmail.com | https://mathewstevens.dev/portfolio/ | https://github.com/mstevens843) Tj
+-64 -723.80 Td
+/F1 10.0 Tf
+64 709.60 Td
+(Sourcegraph - Software Engineer - Code Understanding) Tj
+-64 -709.60 Td
+/F1 10.2 Tf
+64 674.10 Td
+(Dear Sourcegraph hiring team,) Tj
+-64 -674.10 Td
+/F1 10.2 Tf
+64 638.60 Td
+(I am excited about the Software Engineer - Code Understanding role because Sourcegraph is) Tj
+-64 -638.60 Td
+/F1 10.2 Tf
+64 624.40 Td
+(working on the layer that both developers and agents need next: reliable understanding of) Tj
+-64 -624.40 Td
+/F1 10.2 Tf
+64 610.20 Td
+(large, complex codebases. Code Search, Deep Search, Code Intel, Code Review, MCP, and agent-) Tj
+-64 -610.20 Td
+/F1 10.2 Tf
+64 596.00 Td
+(powered documentation are not side features; they are becoming the way engineers navigate) Tj
+-64 -596.00 Td
+/F1 10.2 Tf
+64 581.80 Td
+(unfamiliar systems and keep quality high as AI writes more code.) Tj
+-64 -581.80 Td
+/F1 10.2 Tf
+64 546.30 Td
+(My background is a strong fit for that direction. I built Agentic, a non-custodial signing) Tj
+-64 -546.30 Td
+/F1 10.2 Tf
+64 532.10 Td
+(layer for AI agents with MCP tools, Vercel AI tools, a Solana Agent Kit adapter, structured) Tj
+-64 -532.10 Td
+/F1 10.2 Tf
+64 517.90 Td
+(schemas, approval polling, transaction/message signing, and wallet-backed execution. The) Tj
+-64 -517.90 Td
+/F1 10.2 Tf
+64 503.70 Td
+(system is built around a simple but important principle: agents can accelerate work, but the) Tj
+-64 -503.70 Td
+/F1 10.2 Tf
+64 489.50 Td
+(engineer or user still has to understand, approve, and own the outcome. That same principle) Tj
+-64 -489.50 Td
+/F1 10.2 Tf
+64 475.30 Td
+(applies to AI coding tools and code review.) Tj
+-64 -475.30 Td
+/F1 10.2 Tf
+64 439.80 Td
+(I also built SolPulse, a production Solana trading platform with 350+ users, full-stack) Tj
+-64 -439.80 Td
+/F1 10.2 Tf
+64 425.60 Td
+(dashboards, APIs, PostgreSQL/Redis, WebSockets/SSE, execution logs, wallet-safe signing, and) Tj
+-64 -425.60 Td
+/F1 10.2 Tf
+64 411.40 Td
+(reliability requirements around live capital. Building and operating that product required) Tj
+-64 -411.40 Td
+/F1 10.2 Tf
+64 397.20 Td
+(exactly the kind of codebase understanding that Sourcegraph improves: tracing behavior) Tj
+-64 -397.20 Td
+/F1 10.2 Tf
+64 383.00 Td
+(across services, working through frontend/backend boundaries, debugging production issues,) Tj
+-64 -383.00 Td
+/F1 10.2 Tf
+64 368.80 Td
+(and making changes without losing context.) Tj
+-64 -368.80 Td
+/F1 10.2 Tf
+64 333.30 Td
+(Across SDK and developer-tooling work, I have built integrations across Cocos, Unreal Engine) Tj
+-64 -333.30 Td
+/F1 10.2 Tf
+64 319.10 Td
+(5, Godot, Unity, Capacitor, and native iOS wallet flows. That gave me a lot of empathy for) Tj
+-64 -319.10 Td
+/F1 10.2 Tf
+64 304.90 Td
+(developers trying to understand unfamiliar APIs, sample code, and cross-language systems. I) Tj
+-64 -304.90 Td
+/F1 10.2 Tf
+64 290.70 Td
+(would bring Sourcegraph strong TypeScript/product engineering, practical agent workflow) Tj
+-64 -290.70 Td
+/F1 10.2 Tf
+64 276.50 Td
+(experience, and a clear respect for the fact that AI-generated code still needs to be) Tj
+-64 -276.50 Td
+/F1 10.2 Tf
+64 262.30 Td
+(readable, reviewable, and operated by humans.) Tj
+-64 -262.30 Td
+/F1 10.2 Tf
+64 226.80 Td
+(Best,) Tj
+-64 -226.80 Td
+/F1 10.2 Tf
+64 212.60 Td
+(Mathew Stevens) Tj
+-64 -212.60 Td
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Page /Parent 4 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 2 0 R >>
+endobj
+4 0 obj
+<< /Type /Pages /Count 1 /Kids [3 0 R] >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 4 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000085 00000 n 
+0000003584 00000 n 
+0000003710 00000 n 
+0000003767 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+3816
+%%EOF

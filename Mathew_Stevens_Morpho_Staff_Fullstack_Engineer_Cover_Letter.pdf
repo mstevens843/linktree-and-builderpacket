@@ -1,0 +1,137 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R >> >> /MediaBox [0 0 612 792] /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 3583 >>
+stream
+BT
+/F1 9.8 Tf
+50 746 Td
+12 TL
+(Mathew Stevens) Tj
+T*
+(Bay Area, CA / Remote) Tj
+T*
+(github.com/mstevens843 | linkedin.com/in/mathewbradleystevens | x.com/mattinfra) Tj
+T*
+(solpulse.trade | agentic-signer.com) Tj
+T*
+T*
+(June 17, 2026) Tj
+T*
+T*
+(Morpho Team) Tj
+T*
+T*
+(Dear Morpho Team,) Tj
+T*
+T*
+(I am applying for the Staff Fullstack Engineer role because Morpho is building the kind of) Tj
+T*
+(open financial infrastructure I want to work on: a product surface around onchain capital) Tj
+T*
+(where reliability, performance, developer experience, and correctness all matter. A lending) Tj
+T*
+(protocol with more than $10B in deposits needs engineering that treats the frontend, APIs,) Tj
+T*
+(indexers, SDKs, and observability as one system.) Tj
+T*
+T*
+(I built and operate SolPulse, a live Solana trading platform across web, iOS, Android, and) Tj
+T*
+(the Solana dApp Store with 350+ users. It includes a real-time execution engine,) Tj
+T*
+(WebSockets/SSE, PostgreSQL, Prisma, Redis, multi-DEX routing, priority-fee controls, token) Tj
+T*
+(intelligence, and layered risk systems around live capital. Owning that system end to end) Tj
+T*
+(has made me practical about financial product engineering: users need fast interfaces, but) Tj
+T*
+(the important work is often state consistency, failure handling, observability, and making) Tj
+T*
+(sure a single bad signal cannot bypass risk limits.) Tj
+T*
+T*
+(The onchain data side of SolPulse maps especially well to Morpho's product architecture) Tj
+T*
+(needs. I built 35 intelligence pillars for token scoring and risk, including smart-money and) Tj
+T*
+(whale tracking, dev-identity checks, rug scanning, and regime-aware signals. The platform) Tj
+T*
+(integrates multiple data providers and turns noisy chain activity into product decisions) Tj
+T*
+(under tight latency constraints. Morpho's GraphQL APIs, REST surfaces, data indexers,) Tj
+T*
+(caching, and real-time streaming systems are a different protocol surface, but the) Tj
+T*
+(engineering shape is familiar: reliable interpretation of chain events, fast queries, and) Tj
+T*
+(APIs that integrators can build on.) Tj
+T*
+T*
+(I also built Agentic, a non-custodial signing layer for Solana AI agents where one) Tj
+T*
+(WalletBackend contract powers MCP tools, Vercel AI tools, and a Solana Agent Kit adapter.) Tj
+T*
+(Alongside it, I have shipped SDKs and plugins across Cocos, Unreal Engine 5, Godot, Unity,) Tj
+T*
+(Capacitor, and native iOS wallet flows, including first-of-their-kind Solana Mobile Wallet) Tj
+T*
+(Adapter tooling verified on Solana Seeker hardware. That experience is directly relevant to) Tj
+T*
+(Morpho's API and SDK strategy: versioned abstractions, clear developer surfaces, typed) Tj
+T*
+(interactions, and integration paths that reduce support burden instead of creating it.) Tj
+T*
+T*
+(My deepest protocol work has been in Solana rather than EVM, but the core problems I have) Tj
+T*
+(solved are the ones Morpho is scaling: product architecture around onchain state,) Tj
+T*
+(high-reliability systems for financial users, developer tooling for integrators, and fast) Tj
+T*
+(full-stack delivery without a rigid playbook. I can get up the Morpho-specific and) Tj
+T*
+(EVM-specific curve quickly because I have already had to own the full path from wallet to) Tj
+T*
+(transaction to data layer to user-facing workflow.) Tj
+T*
+T*
+(I would be excited to help Morpho scale its product suite and build the technical) Tj
+T*
+(foundations that make open lending feel fast, trustworthy, and easy for integrators to) Tj
+T*
+(adopt.) Tj
+T*
+T*
+(Sincerely,) Tj
+T*
+T*
+(Mathew Stevens) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000317 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+3952
+%%EOF

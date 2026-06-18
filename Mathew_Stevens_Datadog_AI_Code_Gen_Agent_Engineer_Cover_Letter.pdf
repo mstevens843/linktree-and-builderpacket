@@ -1,0 +1,146 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Length 3264 >>
+stream
+BT
+/F1 16.0 Tf
+64 738.00 Td
+(Mathew Stevens) Tj
+-64 -738.00 Td
+/F1 10.0 Tf
+64 723.80 Td
+(mathewstevens7457@gmail.com | https://mathewstevens.dev/portfolio/ | https://github.com/mstevens843) Tj
+-64 -723.80 Td
+/F1 10.0 Tf
+64 709.60 Td
+(Datadog - Senior Software Engineer, AI Code Gen - Agent Engineer) Tj
+-64 -709.60 Td
+/F1 10.2 Tf
+64 674.10 Td
+(Dear Datadog hiring team,) Tj
+-64 -674.10 Td
+/F1 10.2 Tf
+64 638.60 Td
+(I am excited about the Senior Software Engineer, AI Code Gen - Agent Engineer role because) Tj
+-64 -638.60 Td
+/F1 10.2 Tf
+64 624.40 Td
+(AI coding systems are becoming part of the real engineering loop. The hard part is not just) Tj
+-64 -624.40 Td
+/F1 10.2 Tf
+64 610.20 Td
+(generating code; it is giving agents the right context, making tool use observable,) Tj
+-64 -610.20 Td
+/F1 10.2 Tf
+64 596.00 Td
+(validating results, preserving developer ownership, and connecting agent behavior to the) Tj
+-64 -596.00 Td
+/F1 10.2 Tf
+64 581.80 Td
+(operational truth of production systems. Datadog is one of the best places to build that) Tj
+-64 -581.80 Td
+/F1 10.2 Tf
+64 567.60 Td
+(layer.) Tj
+-64 -567.60 Td
+/F1 10.2 Tf
+64 532.10 Td
+(My strongest relevant project is Agentic, a non-custodial signing layer for AI agents.) Tj
+-64 -532.10 Td
+/F1 10.2 Tf
+64 517.90 Td
+(Agents can prepare actions, but the user's real wallet remains the approval boundary. It) Tj
+-64 -517.90 Td
+/F1 10.2 Tf
+64 503.70 Td
+(includes MCP tools, Vercel AI tools, a Solana Agent Kit adapter, structured schemas,) Tj
+-64 -503.70 Td
+/F1 10.2 Tf
+64 489.50 Td
+(approval polling, transaction/message signing, and a shared WalletBackend abstraction. That) Tj
+-64 -489.50 Td
+/F1 10.2 Tf
+64 475.30 Td
+(work forced me to think carefully about agent intent, tool boundaries, auditability, failure) Tj
+-64 -475.30 Td
+/F1 10.2 Tf
+64 461.10 Td
+(states, and how to make automated actions safe enough for users to trust.) Tj
+-64 -461.10 Td
+/F1 10.2 Tf
+64 425.60 Td
+(I also built SolPulse, a production Solana trading platform with 350+ users, real-time) Tj
+-64 -425.60 Td
+/F1 10.2 Tf
+64 411.40 Td
+(dashboards, execution logs, APIs, PostgreSQL/Redis, WebSockets/SSE, and reliability) Tj
+-64 -411.40 Td
+/F1 10.2 Tf
+64 397.20 Td
+(requirements around live capital. When software affects live user decisions, logs, state) Tj
+-64 -397.20 Td
+/F1 10.2 Tf
+64 383.00 Td
+(visibility, and fast debugging are not optional; they are the product. That perspective maps) Tj
+-64 -383.00 Td
+/F1 10.2 Tf
+64 368.80 Td
+(directly to Datadog's strength in observability and developer workflows.) Tj
+-64 -368.80 Td
+/F1 10.2 Tf
+64 333.30 Td
+(I would bring Datadog practical agent-building experience, full-stack production) Tj
+-64 -333.30 Td
+/F1 10.2 Tf
+64 319.10 Td
+(engineering, TypeScript/backend depth, and a bias toward tools that help developers move) Tj
+-64 -319.10 Td
+/F1 10.2 Tf
+64 304.90 Td
+(faster without hiding system behavior. I am especially interested in building AI coding) Tj
+-64 -304.90 Td
+/F1 10.2 Tf
+64 290.70 Td
+(workflows that are useful, inspectable, measurable, and grounded in how engineers actually) Tj
+-64 -290.70 Td
+/F1 10.2 Tf
+64 276.50 Td
+(debug and ship software.) Tj
+-64 -276.50 Td
+/F1 10.2 Tf
+64 241.00 Td
+(Best,) Tj
+-64 -241.00 Td
+/F1 10.2 Tf
+64 226.80 Td
+(Mathew Stevens) Tj
+-64 -226.80 Td
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Page /Parent 4 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 2 0 R >>
+endobj
+4 0 obj
+<< /Type /Pages /Count 1 /Kids [3 0 R] >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 4 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000085 00000 n 
+0000003401 00000 n 
+0000003527 00000 n 
+0000003584 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+3633
+%%EOF

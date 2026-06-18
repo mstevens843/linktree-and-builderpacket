@@ -1,0 +1,64 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 3843 >>
+stream
+BT /F1 18.0 Tf 1 0 0 1 54.0 738.0 Tm (Mathew Stevens) Tj ET
+BT /F1 8.3 Tf 1 0 0 1 54.0 713.0 Tm (Bay Area, CA / Remote | github.com/mstevens843 | linkedin.com/in/mathewbradleystevens | solpulse.trade |) Tj ET
+BT /F1 8.3 Tf 1 0 0 1 54.0 699.7 Tm (agentic-signer.com) Tj ET
+BT /F1 10.8 Tf 1 0 0 1 54.0 665.4 Tm (June 16, 2026) Tj ET
+BT /F1 10.8 Tf 1 0 0 1 54.0 632.6 Tm (Aptos Labs Hiring Team,) Tj ET
+BT /F1 10.8 Tf 1 0 0 1 54.0 605.8 Tm (I am applying for the Staff Software Engineer, Product role because it sits exactly where my) Tj ET
+BT /F1 10.8 Tf 1 0 0 1 54.0 591.0 Tm (strongest work has been: building Web3 products that developers and real users can actually) Tj ET
+BT /F1 10.8 Tf 1 0 0 1 54.0 576.2 Tm (use, across wallets, SDKs, APIs, trading flows, and consumer-facing interfaces. I have been) Tj ET
+BT /F1 10.8 Tf 1 0 0 1 54.0 561.4 Tm (working from the Solana side of the ecosystem, but the product problems in this role are the) Tj ET
+BT /F1 10.8 Tf 1 0 0 1 54.0 546.6 Tm (same ones I solve every day: make complex on-chain actions understandable, reliable, and safe) Tj ET
+BT /F1 10.8 Tf 1 0 0 1 54.0 531.8 Tm (enough for people to trust.) Tj ET
+BT /F1 10.8 Tf 1 0 0 1 54.0 506.0 Tm (I solo-built and operate SolPulse, a production Solana trading platform live on web, iOS,) Tj ET
+BT /F1 10.8 Tf 1 0 0 1 54.0 491.2 Tm (Android, and the Solana dApp Store with 350+ users. It is not a demo app. It handles real) Tj ET
+BT /F1 10.8 Tf 1 0 0 1 54.0 476.4 Tm (capital, which forced me to care about the parts of product engineering that usually decide) Tj ET
+BT /F1 10.8 Tf 1 0 0 1 54.0 461.6 Tm (whether a Web3 app survives contact with users: transaction state, idempotency, failed quotes,) Tj ET
+BT /F1 10.8 Tf 1 0 0 1 54.0 446.8 Tm (race conditions, stale market data, wallet approval UX, mobile constraints, and clear recovery) Tj ET
+BT /F1 10.8 Tf 1 0 0 1 54.0 432.0 Tm (paths when infrastructure is slow or inconsistent.) Tj ET
+BT /F1 10.8 Tf 1 0 0 1 54.0 406.2 Tm (The other side of my work is developer infrastructure. I wrote the first Mobile Wallet Adapter) Tj ET
+BT /F1 10.8 Tf 1 0 0 1 54.0 391.4 Tm (2.0 SDK for Cocos Creator and the first production-ready Unreal Engine 5 MWA plugin, both) Tj ET
+BT /F1 10.8 Tf 1 0 0 1 54.0 376.6 Tm (verified on Solana Seeker hardware. I also shipped SDK work across Unity, Godot, Capacitor,) Tj ET
+BT /F1 10.8 Tf 1 0 0 1 54.0 361.8 Tm (and iOS-native signing, and landed multiple upstream fixes in public Solana SDKs after finding) Tj ET
+BT /F1 10.8 Tf 1 0 0 1 54.0 347.0 Tm (integration issues through real device testing.) Tj ET
+BT /F1 10.8 Tf 1 0 0 1 54.0 321.2 Tm (That mix maps closely to Aptos' product team. You are looking for someone who can build Web3) Tj ET
+BT /F1 10.8 Tf 1 0 0 1 54.0 306.4 Tm (applications and tools across dApps, wallets, SDKs, APIs, standards, and protocols while still) Tj ET
+BT /F1 10.8 Tf 1 0 0 1 54.0 291.6 Tm (caring about the quality of the user-facing experience. My day-to-day stack is TypeScript,) Tj ET
+BT /F1 10.8 Tf 1 0 0 1 54.0 276.8 Tm (React, Node, Postgres, Redis, WebSockets, and on-chain APIs, but the more important pattern is) Tj ET
+BT /F1 10.8 Tf 1 0 0 1 54.0 262.0 Tm (ownership: I design the interface, build the backend, integrate wallets and signing, debug) Tj ET
+BT /F1 10.8 Tf 1 0 0 1 54.0 247.2 Tm (production behavior, and keep iterating until the flow is reliable for users.) Tj ET
+BT /F1 10.8 Tf 1 0 0 1 54.0 221.4 Tm (I would be excited to help Aptos build developer and consumer products that make decentralized) Tj ET
+BT /F1 10.8 Tf 1 0 0 1 54.0 206.6 Tm (assets feel safer, faster, and more usable. Thank you for taking the time to review my) Tj ET
+BT /F1 10.8 Tf 1 0 0 1 54.0 191.8 Tm (application.) Tj ET
+BT /F1 10.8 Tf 1 0 0 1 54.0 166.0 Tm (Best,) Tj ET
+BT /F1 10.8 Tf 1 0 0 1 54.0 151.2 Tm (Mathew Stevens) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000004080 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+4206
+%%EOF

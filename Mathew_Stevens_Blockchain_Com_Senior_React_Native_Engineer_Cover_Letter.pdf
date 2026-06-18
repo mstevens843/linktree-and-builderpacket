@@ -1,0 +1,134 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R >> >> /MediaBox [0 0 612 792] /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 3524 >>
+stream
+BT
+/F1 9.8 Tf
+50 746 Td
+12 TL
+(Mathew Stevens) Tj
+T*
+(Bay Area, CA / Remote) Tj
+T*
+(github.com/mstevens843 | linkedin.com/in/mathewbradleystevens | x.com/mattinfra) Tj
+T*
+(solpulse.trade | agentic-signer.com) Tj
+T*
+T*
+(June 17, 2026) Tj
+T*
+T*
+(Blockchain.com Mobile Team) Tj
+T*
+T*
+(Dear Blockchain.com Mobile Team,) Tj
+T*
+T*
+(I am applying for the Senior React Native Engineer role because Blockchain.com is working on) Tj
+T*
+(the kind of mobile crypto product surface I know well: wallet-native experiences, trading) Tj
+T*
+(flows, reusable architecture, and reliable consumer applications around real digital assets.) Tj
+T*
+T*
+(I built and operate SolPulse, a live Solana trading platform across web, iOS, Android, and) Tj
+T*
+(the Solana dApp Store with 350+ users. It includes real-time execution, WebSockets/SSE,) Tj
+T*
+(PostgreSQL, Prisma, Redis, multi-DEX routing, priority-fee controls, token intelligence, and) Tj
+T*
+(layered risk systems around live capital. That experience maps closely to Blockchain.com's) Tj
+T*
+(mobile direction: building fast, trustworthy applications where auth, wallet, trading, data,) Tj
+T*
+(and execution flows have to work together cleanly.) Tj
+T*
+T*
+(The role's focus on modular mobile architecture is especially compelling. Across SolPulse) Tj
+T*
+(and my wallet SDK work, I have had to separate reusable signing, wallet, transaction, data,) Tj
+T*
+(and UI responsibilities so they can be used across different platforms and product surfaces.) Tj
+T*
+(I have shipped Solana Mobile Wallet Adapter tooling across Cocos, Unreal Engine 5, Godot,) Tj
+T*
+(Unity, Capacitor, and native iOS flows, including first-of-their-kind SDKs verified on) Tj
+T*
+(Solana Seeker hardware. That work required careful API boundaries, compatibility testing) Tj
+T*
+(across real wallets, clear contracts between modules, and production-grade handling of) Tj
+T*
+(signing and authentication flows.) Tj
+T*
+T*
+(My strongest daily stack is TypeScript, React, Node, PostgreSQL, Redis, and mobile wallet) Tj
+T*
+(infrastructure. I have also worked across Swift, Kotlin, C++, C#, and cross-platform) Tj
+T*
+(mobile/plugin environments. While my deepest shipped mobile production work has not been a) Tj
+T*
+(pure React Native app, the architecture problems Blockchain.com describes are the problems I) Tj
+T*
+(have been solving directly: shared modules, secure wallet flows, backend API integration,) Tj
+T*
+(app-store-ready mobile UX, and reliable behavior under real user pressure.) Tj
+T*
+T*
+(I also use AI-assisted development tools heavily, including Codex and Claude, but I treat) Tj
+T*
+(them as accelerators rather than substitutes for engineering judgment. In systems that touch) Tj
+T*
+(wallets, keys, trading, and user funds, generated code still needs strict review, clear) Tj
+T*
+(state handling, strong typing, and careful production validation.) Tj
+T*
+T*
+(What attracts me to Blockchain.com is the chance to help build mobile infrastructure that) Tj
+T*
+(can support many new crypto experiences without rebuilding the same wallet, trading, auth,) Tj
+T*
+(and on-ramp primitives each time. I would bring strong TypeScript/product engineering,) Tj
+T*
+(production crypto experience, mobile wallet depth, and a practical reliability mindset from) Tj
+T*
+(operating live systems with real users and real capital.) Tj
+T*
+T*
+(I would be excited to help Blockchain.com evolve its mobile architecture and ship) Tj
+T*
+(high-quality crypto applications across iOS and Android.) Tj
+T*
+T*
+(Sincerely,) Tj
+T*
+T*
+(Mathew Stevens) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000317 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+3893
+%%EOF

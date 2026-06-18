@@ -1,0 +1,76 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 4479 >>
+stream
+BT /F2 15 Tf 54.0 748.0 Td (Mathew Stevens) Tj ET
+BT /F1 9.5 Tf 54.0 734.8 Td (github.com/mstevens843 | linkedin.com/in/mathewbradleystevens | solpulse.trade | agentic-signer.com) Tj ET
+BT /F1 10.3 Tf 54.0 713.0 Td (June 17, 2026) Tj ET
+BT /F1 10.3 Tf 54.0 691.2 Td (CoW DAO Hiring Team) Tj ET
+BT /F1 10.3 Tf 54.0 669.5 Td (Re: Staff Backend Engineer \(Rust\)) Tj ET
+BT /F1 10.3 Tf 54.0 647.7 Td (Dear CoW DAO team,) Tj ET
+BT /F1 10.3 Tf 54.0 625.9 Td (I am excited to apply for the Staff Backend Engineer role because CoW DAO is working on one of) Tj ET
+BT /F1 10.3 Tf 54.0 612.7 Td (the hardest and most important problems in DeFi: making trade execution more reliable,) Tj ET
+BT /F1 10.3 Tf 54.0 599.5 Td (transparent, and protected from harmful MEV. I have spent the last year building and operating) Tj ET
+BT /F1 10.3 Tf 54.0 586.3 Td (SolPulse, a live Solana trading platform where execution quality, transaction reliability, and) Tj ET
+BT /F1 10.3 Tf 54.0 573.1 Td (user trust directly matter because real capital is involved.) Tj ET
+BT /F1 10.3 Tf 54.0 551.3 Td (As the sole engineer behind SolPulse, I designed the trading system across web, iOS, Android,) Tj ET
+BT /F1 10.3 Tf 54.0 538.1 Td (and the Solana dApp Store. The platform supports sniper entries, DCA, limit orders, smart) Tj ET
+BT /F1 10.3 Tf 54.0 524.9 Td (TP/SL exits, multi-DEX swap routing, priority-fee controls, token intelligence, and layered) Tj ET
+BT /F1 10.3 Tf 54.0 511.7 Td (risk controls. The execution engine was built around practical failure modes: race conditions,) Tj ET
+BT /F1 10.3 Tf 54.0 498.5 Td (idempotency, missed-trade versus bad-trade tradeoffs, stale market data, provider reliability,) Tj ET
+BT /F1 10.3 Tf 54.0 485.3 Td (and observability under live load. It was designed to support 1,200 concurrent transactions at) Tj ET
+BT /F1 10.3 Tf 54.0 472.1 Td (10ms monitoring while keeping user safety and risk limits in front of speed.) Tj ET
+BT /F1 10.3 Tf 54.0 450.3 Td (That background maps closely to the problems CoW Protocol is solving in off-chain services,) Tj ET
+BT /F1 10.3 Tf 54.0 437.1 Td (order flow, developer-facing APIs, and reliable settlement paths. The core engineering pattern) Tj ET
+BT /F1 10.3 Tf 54.0 423.9 Td (is familiar to me: preserve correctness under changing blockchain conditions, expose clean) Tj ET
+BT /F1 10.3 Tf 54.0 410.7 Td (APIs over complex protocol behavior, build systems that degrade safely, and make execution) Tj ET
+BT /F1 10.3 Tf 54.0 397.5 Td (outcomes understandable to users and integrators.) Tj ET
+BT /F1 10.3 Tf 54.0 375.8 Td (I also bring hands-on Solana protocol and Rust/Anchor experience. In my Cocos Solana MWA demo) Tj ET
+BT /F1 10.3 Tf 54.0 362.6 Td (game, I used Anchor and Rust to write wins and losses on-chain, connecting game state, wallet) Tj ET
+BT /F1 10.3 Tf 54.0 349.4 Td (approvals, and program execution into one working flow. More broadly, I built Agentic, a non-) Tj ET
+BT /F1 10.3 Tf 54.0 336.2 Td (custodial signing layer for Solana AI agents, and authored multiple Solana Mobile Wallet) Tj ET
+BT /F1 10.3 Tf 54.0 323.0 Td (Adapter SDKs, including the first Cocos Creator MWA SDK and a production-ready Unreal Engine 5) Tj ET
+BT /F1 10.3 Tf 54.0 309.8 Td (MWA plugin. Those projects required low-level transaction handling, wallet approval flows,) Tj ET
+BT /F1 10.3 Tf 54.0 296.6 Td (message and transaction signing, custom serialization, and careful boundaries between user) Tj ET
+BT /F1 10.3 Tf 54.0 283.4 Td (custody and automated execution.) Tj ET
+BT /F1 10.3 Tf 54.0 261.6 Td (What interests me most about CoW DAO is the combination of deep protocol work and real user) Tj ET
+BT /F1 10.3 Tf 54.0 248.4 Td (impact. CoW Swap, MEV Blocker, and the protocol services behind them sit in a place where) Tj ET
+BT /F1 10.3 Tf 54.0 235.2 Td (backend engineering quality directly changes execution outcomes for DeFi users. I would bring) Tj ET
+BT /F1 10.3 Tf 54.0 222.0 Td (production trading-system experience, Solana/Rust/Anchor familiarity, strong ownership, and a) Tj ET
+BT /F1 10.3 Tf 54.0 208.8 Td (practical understanding of APIs, routing, risk, and wallet-safe execution to the team.) Tj ET
+BT /F1 10.3 Tf 54.0 187.0 Td (Thank you for your time and consideration. I would be excited to help CoW DAO build the next) Tj ET
+BT /F1 10.3 Tf 54.0 173.8 Td (generation of decentralized trading infrastructure.) Tj ET
+BT /F1 10.3 Tf 54.0 152.0 Td (Sincerely,) Tj ET
+BT /F1 10.3 Tf 54.0 130.2 Td (Mathew Stevens) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000266 00000 n 
+0000004797 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+4933
+%%EOF

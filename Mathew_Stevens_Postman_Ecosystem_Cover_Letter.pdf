@@ -1,0 +1,142 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Length 3110 >>
+stream
+BT
+/F1 16.0 Tf
+64 738.00 Td
+(Mathew Stevens) Tj
+-64 -738.00 Td
+/F1 10.0 Tf
+64 723.80 Td
+(mathewstevens7457@gmail.com | https://mathewstevens.dev/portfolio/ | https://github.com/mstevens843) Tj
+-64 -723.80 Td
+/F1 10.0 Tf
+64 709.60 Td
+(Postman - Senior Software Engineer, Ecosystem) Tj
+-64 -709.60 Td
+/F1 10.2 Tf
+64 674.10 Td
+(Dear Postman hiring team,) Tj
+-64 -674.10 Td
+/F1 10.2 Tf
+64 638.60 Td
+(I am excited about the Senior Software Engineer, Ecosystem role because API tooling becomes) Tj
+-64 -638.60 Td
+/F1 10.2 Tf
+64 624.40 Td
+(most valuable when it connects cleanly with the rest of a developer's workflow: SDKs, auth,) Tj
+-64 -624.40 Td
+/F1 10.2 Tf
+64 610.20 Td
+(testing, docs, integrations, agents, internal tools, and production debugging. Postman's) Tj
+-64 -610.20 Td
+/F1 10.2 Tf
+64 596.00 Td
+(ecosystem surface area is exactly where thoughtful API design and practical integration work) Tj
+-64 -596.00 Td
+/F1 10.2 Tf
+64 581.80 Td
+(can compound for millions of developers.) Tj
+-64 -581.80 Td
+/F1 10.2 Tf
+64 546.30 Td
+(My background is deeply developer-tools oriented. I built Agentic around one shared) Tj
+-64 -546.30 Td
+/F1 10.2 Tf
+64 532.10 Td
+(WalletBackend contract that powers MCP tools, Vercel AI tools, a Solana Agent Kit adapter,) Tj
+-64 -532.10 Td
+/F1 10.2 Tf
+64 517.90 Td
+(approval polling, transaction/message signing, and wallet-backed execution without) Tj
+-64 -517.90 Td
+/F1 10.2 Tf
+64 503.70 Td
+(duplicating core logic. The goal was to turn a complex signing and trust problem into a) Tj
+-64 -503.70 Td
+/F1 10.2 Tf
+64 489.50 Td
+(clean interface that multiple developer surfaces could use safely.) Tj
+-64 -489.50 Td
+/F1 10.2 Tf
+64 454.00 Td
+(I also built SolPulse, a live Solana trading platform with 350+ users across web, iOS,) Tj
+-64 -454.00 Td
+/F1 10.2 Tf
+64 439.80 Td
+(Android, and the Solana dApp Store. It includes production APIs, real-time dashboards,) Tj
+-64 -439.80 Td
+/F1 10.2 Tf
+64 425.60 Td
+(PostgreSQL/Redis, WebSockets/SSE, execution logs, wallet-safe signing, and reliability) Tj
+-64 -425.60 Td
+/F1 10.2 Tf
+64 411.40 Td
+(requirements around live capital. Across SDK/plugin work, I have built developer-facing) Tj
+-64 -411.40 Td
+/F1 10.2 Tf
+64 397.20 Td
+(integrations across Cocos, Unreal Engine 5, Godot, Unity, Capacitor, and native iOS flows,) Tj
+-64 -397.20 Td
+/F1 10.2 Tf
+64 383.00 Td
+(including demos, docs, examples, and native bridges.) Tj
+-64 -383.00 Td
+/F1 10.2 Tf
+64 347.50 Td
+(I would bring Postman strong full-stack engineering, API design judgment, and direct) Tj
+-64 -347.50 Td
+/F1 10.2 Tf
+64 333.30 Td
+(experience building tools across multiple ecosystems where developers need clear) Tj
+-64 -333.30 Td
+/F1 10.2 Tf
+64 319.10 Td
+(abstractions and reliable behavior. I like product engineering where the complexity is real,) Tj
+-64 -319.10 Td
+/F1 10.2 Tf
+64 304.90 Td
+(but the developer experience feels simple, and that is exactly why Postman's ecosystem work) Tj
+-64 -304.90 Td
+/F1 10.2 Tf
+64 290.70 Td
+(stands out to me.) Tj
+-64 -290.70 Td
+/F1 10.2 Tf
+64 255.20 Td
+(Best,) Tj
+-64 -255.20 Td
+/F1 10.2 Tf
+64 241.00 Td
+(Mathew Stevens) Tj
+-64 -241.00 Td
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Page /Parent 4 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 2 0 R >>
+endobj
+4 0 obj
+<< /Type /Pages /Count 1 /Kids [3 0 R] >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 4 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000085 00000 n 
+0000003247 00000 n 
+0000003373 00000 n 
+0000003430 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+3479
+%%EOF

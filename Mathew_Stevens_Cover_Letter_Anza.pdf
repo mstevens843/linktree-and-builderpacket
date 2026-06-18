@@ -1,0 +1,74 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 5321 >>
+stream
+BT /F2 21.00 Tf 0.060 0.090 0.160 rg 54.00 742.00 Td (Mathew Stevens) Tj ET
+BT /F2 10.40 Tf 0.059 0.463 0.431 rg 54.00 719.00 Td (Solana Infrastructure & SDK Engineer | Production Systems | Wallet Security) Tj ET
+BT /F1 8.45 Tf 0.200 0.250 0.320 rg 54.00 703.00 Td (Bay Area, CA / Remote | github.com/mstevens843 | linkedin.com/in/mathewbradleystevens | x.com/mattinfra) Tj ET
+BT /F1 8.45 Tf 0.200 0.250 0.320 rg 54.00 691.00 Td (solpulse.trade | agentic-signer.com) Tj ET
+0.059 0.463 0.431 RG 1.80 w 54.00 681.00 m 558.00 681.00 l S
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 660.00 Td (June 5, 2026) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 647.85 Td (Anza Hiring Team) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 635.70 Td (Re: Senior Software Engineer, Generalist) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 611.70 Td (Dear Anza Hiring Team,) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 594.70 Td (I am applying for the Senior Software Engineer, Generalist role because Anza is working on the part of) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 582.55 Td (Solana I want to move closer to: core infrastructure where performance, reliability, security, and open) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 570.40 Td (implementation quality matter to the whole network. My background is not a generic Web3 background. I) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 558.25 Td (have been building and operating Solana systems where transaction behavior, wallet safety, latency,) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 546.10 Td (observability, and failure modes have immediate consequences for real users.) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 528.45 Td (I built and operate SolPulse, a live Solana trading platform across web, Android, and the Solana dApp) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 516.30 Td (Store with 350+ users. The system includes automated execution, sniper and DCA flows, limit orders,) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 504.15 Td (smart TP/SL exits, multi-DEX routing, priority-fee controls, token intelligence, risk limits, and) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 492.00 Td (real-time logs. Building it forced the engineering work Anza describes in the posting: measuring) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 479.85 Td (bottlenecks, debugging production behavior, reasoning about race conditions and idempotency, and) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 467.70 Td (designing reliability controls around systems that handle real capital.) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 450.05 Td (My other strongest match is infrastructure at the Solana wallet and SDK layer. I authored) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 437.90 Td (first-of-their-kind Solana Mobile Wallet Adapter SDKs for Cocos Creator and Unreal Engine 5, including) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 425.75 Td (an Android bridge with encrypted wallet association, a zero-dependency transaction) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 413.60 Td (serializer/Base58/RPC core for Cocos, and a C++/Blueprint surface over the official Kotlin client) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 401.45 Td (library for Unreal. I verified signing flows on Solana Seeker hardware across Phantom, Solflare,) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 389.30 Td (Backpack, Jupiter, and Seed Vault, and contributed merged fixes upstream to public Godot and Unity) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 377.15 Td (Solana SDKs.) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 359.50 Td (That work maps directly to Anza's need for engineers who can analyze unfamiliar code, collaborate with) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 347.35 Td (subject-matter experts, benchmark practical solutions, and document architecture clearly. I am) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 335.20 Td (comfortable moving between product-facing Solana behavior and lower-level implementation details:) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 323.05 Td (transaction construction, signing boundaries, mobile security constraints, RPC behavior, logs, metrics,) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 310.90 Td (and the tradeoffs between developer ergonomics and protocol safety.) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 293.25 Td (I would be excited to bring production Solana ownership, C++ systems integration, adversarial thinking) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 281.10 Td (around wallet and transaction safety, and open-source SDK discipline to Anza. I know Agave is a deeper) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 268.95 Td (infrastructure surface than most application work, and that is exactly the appeal. I would welcome the) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 256.80 Td (chance to discuss how my experience operating Solana systems above the client can translate into) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 244.65 Td (stronger performance and reliability work inside the client and the broader network.) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54.00 227.00 Td (Sincerely,) Tj ET
+BT /F2 10.05 Tf 0.060 0.090 0.160 rg 54.00 210.00 Td (Mathew Stevens) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000005624 00000 n 
+0000005694 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+5769
+%%EOF

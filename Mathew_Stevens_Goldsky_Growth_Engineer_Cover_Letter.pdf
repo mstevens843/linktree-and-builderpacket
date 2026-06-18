@@ -1,0 +1,133 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R >> >> /MediaBox [0 0 612 792] /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 3407 >>
+stream
+BT
+/F1 9.8 Tf
+50 746 Td
+12 TL
+(Mathew Stevens) Tj
+T*
+(Bay Area, CA / Remote) Tj
+T*
+(github.com/mstevens843 | linkedin.com/in/mathewbradleystevens | x.com/mattinfra) Tj
+T*
+(solpulse.trade | agentic-signer.com) Tj
+T*
+T*
+(June 17, 2026) Tj
+T*
+T*
+(Goldsky Team) Tj
+T*
+T*
+(Dear Goldsky Team,) Tj
+T*
+T*
+(I am applying for the Growth Engineer role because Goldsky is working at a point I) Tj
+T*
+(understand well: turning difficult onchain infrastructure into product surfaces that) Tj
+T*
+(financial teams can actually use. The mix of stablecoin data infrastructure, AI-powered) Tj
+T*
+(workflows, customer-facing demos, and growth systems is a strong fit for how I build.) Tj
+T*
+T*
+(I built and operate SolPulse, a live Solana trading platform across web, iOS, Android, and) Tj
+T*
+(the Solana dApp Store with 350+ users. It runs on a TypeScript/React/Node stack with) Tj
+T*
+(PostgreSQL, Prisma, Redis, WebSockets, SSE, multi-DEX routing, priority-fee controls, and) Tj
+T*
+(real-time token intelligence. The system depends on external data feeds, careful state) Tj
+T*
+(handling, and practical reliability decisions around live capital. That maps closely to) Tj
+T*
+(Goldsky's world: abstracting away chains, RPCs, indexing, reorgs, latency, and accuracy so) Tj
+T*
+(customers can focus on the financial product they are trying to ship.) Tj
+T*
+T*
+(A second part of my background is agentic automation. I built Agentic, a non-custodial) Tj
+T*
+(signing layer for Solana AI agents where the agent prepares an action and the user's real) Tj
+T*
+(wallet approves it. One WalletBackend contract powers MCP tools, Vercel AI tools, and a) Tj
+T*
+(Solana Agent Kit adapter, with signing, approval polling, and tool interfaces designed) Tj
+T*
+(around real workflows. That experience fits the role's mandate to build AI-powered internal) Tj
+T*
+(tools, account research workflows, knowledge agents, onboarding helpers, and automations) Tj
+T*
+(that save a small team serious time.) Tj
+T*
+T*
+(Goldsky's growth engineering surface also lines up with my analytics background. Before) Tj
+T*
+(moving fully into engineering, I spent more than three years at Socket Mobile owning web) Tj
+T*
+(analytics end to end: collection, QA, dashboards, analysis, A/B tests, and multivariate) Tj
+T*
+(testing. I am comfortable connecting product behavior to business questions, instrumenting) Tj
+T*
+(the right events, separating signal from noise, and building the operational tooling that) Tj
+T*
+(lets a team double down on what is actually working.) Tj
+T*
+T*
+(Beyond those products, I have shipped SDKs and plugins across Cocos, Unreal Engine 5, Godot,) Tj
+T*
+(Unity, Capacitor, and native iOS wallet flows, including first-of-their-kind Solana Mobile) Tj
+T*
+(Wallet Adapter tooling verified on Solana Seeker hardware. That work required the same) Tj
+T*
+(instincts Goldsky needs for demos, playgrounds, integration accelerators, and technical) Tj
+T*
+(content: make hard infrastructure feel usable, explain it clearly, and remove friction for) Tj
+T*
+(the next developer or customer.) Tj
+T*
+T*
+(I would bring Goldsky a rare mix of production crypto engineering, full-stack TypeScript) Tj
+T*
+(execution, AI workflow experience, and growth analytics judgment. I would be excited to help) Tj
+T*
+(build the automations and product surfaces that make Goldsky grow faster with a small, sharp) Tj
+T*
+(team.) Tj
+T*
+T*
+(Sincerely,) Tj
+T*
+T*
+(Mathew Stevens) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000317 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+3776
+%%EOF

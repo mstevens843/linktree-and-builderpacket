@@ -1,0 +1,72 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 5414 >>
+stream
+BT /F2 21 Tf 0.060 0.090 0.160 rg 54 742 Td (Mathew Stevens) Tj ET
+BT /F2 10.4 Tf 0.059 0.463 0.431 rg 54 719 Td (Full-Stack Solana Developer | Mobile Wallet Infrastructure | SDK Engineering) Tj ET
+BT /F1 8.45 Tf 0.200 0.250 0.320 rg 54 703 Td (Bay Area, CA / Remote | github.com/mstevens843 | linkedin.com/in/mathewbradleystevens | x.com/mattinfra) Tj ET
+BT /F1 8.45 Tf 0.200 0.250 0.320 rg 54 691 Td (solpulse.trade | agentic-signer.com) Tj ET
+0.059 0.463 0.431 RG 1.8 w 54 681 m 558 681 l S
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54 660 Td (June 2, 2026) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54 636 Td (Fireblocks / Dynamic Hiring Team) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54 623.85 Td (Re: Mobile Engineer) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54 599.85 Td (Dear Fireblocks / Dynamic Hiring Team,) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54 582.85 Td (I am applying for the Mobile Engineer role because Dynamic is building the exact class of infrastructure I have) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54 570.7 Td (been focused on: secure, developer-first wallet SDKs that let teams add embedded wallet functionality, signing,) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54 558.5500000000001 Td (and blockchain interactions without weakening user control. My recent work combines native mobile wallet flows,) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54 546.4000000000001 Td (SDK API design, Solana signing, and production app ownership.) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54 528.7500000000001 Td (I built and shipped SolPulse, a live Solana trading platform with 350+ users, an Android app, Solana dApp Store) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54 516.6000000000001 Td (listing, and Solana Seeker / Seed Vault signing support. SolPulse combines token discovery, automated execution,) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54 504.45000000000016 Td (multi-DEX routing, priority fees, smart TP/SL exits, real-time logs, token intelligence, and risk controls while) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54 492.3000000000002 Td (keeping wallet signing user-controlled. Building it gave me direct experience with reliable mobile wallet UX,) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54 480.1500000000002 Td (transaction approval state, onchain execution, and production behavior when real users and capital are involved.) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54 462.5000000000002 Td (I also built Agentic, a deployed Solana agent-wallet app where AI agents prepare wallet actions and users approve) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54 450.35000000000025 Td (through their own wallets. It includes MCP tools, a Wallet Standard browser backend, Vercel AI tools, a Solana) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54 438.2000000000003 Td (Agent Kit adapter, approval polling, message signing, transaction signing, sign-and-send, and simulation. The point is) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54 426.0500000000003 Td (similar to Dynamic: make powerful wallet functionality easy for developers to integrate without forcing private) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54 413.9000000000003 Td (keys into app servers, env vars, or embedded signers.) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54 396.25000000000034 Td (The strongest match is my SDK and Solana Mobile Wallet Adapter work. I have built integration infrastructure) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54 384.10000000000036 Td (across Unreal Engine 5, Cocos Creator, Capacitor, iOS, Godot, and Unity, including TypeScript APIs, native Android) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54 371.9500000000004 Td (bridges, C++ JNI surfaces, encrypted wallet association, auth caching, wallet picker flows, deeplink signing,) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54 359.8000000000004 Td (SIWS-style approval, sample apps, demos, and documentation. I verified flows on Solana Seeker hardware across) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54 347.65000000000043 Td (Phantom, Solflare, Backpack, Jupiter, and Seed Vault.) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54 330.00000000000045 Td (Before Solana, I worked as an Analytics Specialist / Data Analyst at Socket Mobile, where I built production) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54 317.8500000000005 Td (reporting workflows and worked cross-functionally with technical and business teams. That background helps me) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54 305.7000000000005 Td (care not only about code, but about adoption: clear APIs, useful examples, accurate docs, and integrations) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54 293.5500000000005 Td (customers can maintain.) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54 275.90000000000055 Td (I would be excited to bring shipped wallet products, mobile SDK engineering, secure signing flow experience, and) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54 263.75000000000057 Td (founder-level ownership to Dynamic at Fireblocks. I can point to live products and open-source infrastructure I) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54 251.60000000000056 Td (built end to end, and I would welcome the chance to discuss how that maps to your mobile SDK roadmap.) Tj ET
+BT /F1 10.05 Tf 0.090 0.130 0.170 rg 54 230.95000000000056 Td (Sincerely,) Tj ET
+BT /F2 10.05 Tf 0.060 0.090 0.160 rg 54 213.95000000000056 Td (Mathew Stevens) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000005717 00000 n 
+0000005787 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+5862
+%%EOF

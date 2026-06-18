@@ -1,0 +1,150 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Length 3336 >>
+stream
+BT
+/F1 16.0 Tf
+64 738.00 Td
+(Mathew Stevens) Tj
+-64 -738.00 Td
+/F1 10.0 Tf
+64 723.80 Td
+(mathewstevens7457@gmail.com | https://mathewstevens.dev/portfolio/ | https://github.com/mstevens843) Tj
+-64 -723.80 Td
+/F1 10.0 Tf
+64 709.60 Td
+(Tailscale - Mobile Platform Developer) Tj
+-64 -709.60 Td
+/F1 10.2 Tf
+64 674.10 Td
+(Dear Tailscale hiring team,) Tj
+-64 -674.10 Td
+/F1 10.2 Tf
+64 638.60 Td
+(I am excited about the Mobile Platform Developer role because Tailscale's product depends on) Tj
+-64 -638.60 Td
+/F1 10.2 Tf
+64 624.40 Td
+(the kind of mobile engineering I respect: native platform behavior, secure networking) Tj
+-64 -624.40 Td
+/F1 10.2 Tf
+64 610.20 Td
+(concepts, careful UX, shared cross-platform logic, and reliability that users should not) Tj
+-64 -610.20 Td
+/F1 10.2 Tf
+64 596.00 Td
+(have to think about. Building VPN and connectivity software across iOS, Android, desktop,) Tj
+-64 -596.00 Td
+/F1 10.2 Tf
+64 581.80 Td
+(and backend services is exactly the kind of product/platform boundary that rewards practical) Tj
+-64 -581.80 Td
+/F1 10.2 Tf
+64 567.60 Td
+(engineering judgment.) Tj
+-64 -567.60 Td
+/F1 10.2 Tf
+64 532.10 Td
+(My strongest mobile experience comes from shipping real products and cross-platform SDK) Tj
+-64 -532.10 Td
+/F1 10.2 Tf
+64 517.90 Td
+(flows. I built SolPulse, a live Solana trading platform with 350+ users across web, iOS,) Tj
+-64 -517.90 Td
+/F1 10.2 Tf
+64 503.70 Td
+(Android, and the Solana dApp Store. It includes wallet-safe mobile flows, real-time market) Tj
+-64 -503.70 Td
+/F1 10.2 Tf
+64 489.50 Td
+(and execution data, dashboards, production APIs, WebSockets/SSE, PostgreSQL/Redis, and) Tj
+-64 -489.50 Td
+/F1 10.2 Tf
+64 475.30 Td
+(reliability requirements around live capital. Shipping SolPulse across platforms taught me) Tj
+-64 -475.30 Td
+/F1 10.2 Tf
+64 461.10 Td
+(how much product quality depends on small mobile details: lifecycle behavior, signing UX,) Tj
+-64 -461.10 Td
+/F1 10.2 Tf
+64 446.90 Td
+(latency, failure states, and clear user feedback.) Tj
+-64 -446.90 Td
+/F1 10.2 Tf
+64 411.40 Td
+(I have also built developer-facing wallet and signing infrastructure across Capacitor,) Tj
+-64 -411.40 Td
+/F1 10.2 Tf
+64 397.20 Td
+(native iOS flows, Unity, Unreal Engine 5, Godot, and Cocos. That work required designing) Tj
+-64 -397.20 Td
+/F1 10.2 Tf
+64 383.00 Td
+(shared abstractions while still respecting what each runtime and platform does differently.) Tj
+-64 -383.00 Td
+/F1 10.2 Tf
+64 368.80 Td
+(I am comfortable crossing product, API, native bridge, and backend boundaries to make a) Tj
+-64 -368.80 Td
+/F1 10.2 Tf
+64 354.60 Td
+(platform feel coherent to users and developers.) Tj
+-64 -354.60 Td
+/F1 10.2 Tf
+64 319.10 Td
+(I would bring Tailscale strong cross-platform product engineering, Swift/iOS exposure,) Tj
+-64 -319.10 Td
+/F1 10.2 Tf
+64 304.90 Td
+(mobile wallet/security experience, real production ownership, and a track record of learning) Tj
+-64 -304.90 Td
+/F1 10.2 Tf
+64 290.70 Td
+(platform edges deeply enough to ship. Tailscale's mix of Swift, Kotlin, Go, mobile) Tj
+-64 -290.70 Td
+/F1 10.2 Tf
+64 276.50 Td
+(networking, and secure client behavior is a role where that breadth would be useful from day) Tj
+-64 -276.50 Td
+/F1 10.2 Tf
+64 262.30 Td
+(one.) Tj
+-64 -262.30 Td
+/F1 10.2 Tf
+64 226.80 Td
+(Best,) Tj
+-64 -226.80 Td
+/F1 10.2 Tf
+64 212.60 Td
+(Mathew Stevens) Tj
+-64 -212.60 Td
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Page /Parent 4 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 2 0 R >>
+endobj
+4 0 obj
+<< /Type /Pages /Count 1 /Kids [3 0 R] >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 4 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000085 00000 n 
+0000003473 00000 n 
+0000003599 00000 n 
+0000003656 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+3705
+%%EOF

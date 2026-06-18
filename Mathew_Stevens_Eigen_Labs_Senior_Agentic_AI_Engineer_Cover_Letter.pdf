@@ -1,0 +1,127 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 3 0 R >> >> /MediaBox [0 0 612 792] /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 3066 >>
+stream
+BT
+/F1 9.8 Tf
+50 746 Td
+12 TL
+(Mathew Stevens) Tj
+T*
+(Bay Area, CA / Remote) Tj
+T*
+(github.com/mstevens843 | linkedin.com/in/mathewbradleystevens | x.com/mattinfra) Tj
+T*
+(solpulse.trade | agentic-signer.com) Tj
+T*
+T*
+(June 17, 2026) Tj
+T*
+T*
+(Eigen Labs Team) Tj
+T*
+T*
+(Dear Eigen Labs Team,) Tj
+T*
+T*
+(I am applying for the Senior Agentic AI Engineer role because Eigen Labs is building the) Tj
+T*
+(exact trust layer I believe agent systems need next. The hard part is no longer getting an) Tj
+T*
+(LLM to produce a plausible action. The hard part is making autonomous software reliable) Tj
+T*
+(enough to coordinate work, use tools, touch capital, and prove what happened afterward.) Tj
+T*
+T*
+(My most relevant project is Agentic, a non-custodial signing layer for Solana AI agents) Tj
+T*
+(where the agent prepares an action and the user's real wallet approves it. One WalletBackend) Tj
+T*
+(contract powers MCP tools, Vercel AI tools, and a Solana Agent Kit adapter from the same) Tj
+T*
+(abstraction, with message signing, transaction signing, sign-and-send, and approval polling.) Tj
+T*
+(Building it forced me to design around agent intent, tool boundaries, asynchronous approval,) Tj
+T*
+(wallet identity, and state transitions that have to be understandable when real assets are) Tj
+T*
+(involved.) Tj
+T*
+T*
+(I also built and operate SolPulse, a live Solana trading platform across web, iOS, Android,) Tj
+T*
+(and the Solana dApp Store with 350+ users. It includes a real-time execution engine,) Tj
+T*
+(WebSockets/SSE, PostgreSQL, Prisma, Redis, multi-DEX routing, priority-fee controls, token) Tj
+T*
+(intelligence, and layered risk systems around live capital. That experience maps directly to) Tj
+T*
+(Eigen's need for engineers who understand production behavior: retries, failure modes,) Tj
+T*
+(observability, cost and performance tradeoffs, and the difference between a demo and a) Tj
+T*
+(system people depend on.) Tj
+T*
+T*
+(Beyond those products, I have shipped SDKs and plugins across Cocos, Unreal Engine 5, Godot,) Tj
+T*
+(Unity, Capacitor, and native iOS wallet flows, including first-of-their-kind Solana Mobile) Tj
+T*
+(Wallet Adapter tooling verified on Solana Seeker hardware. I have also landed fixes in) Tj
+T*
+(public Solana SDKs. That work gave me a strong feel for developer platforms: clean) Tj
+T*
+(contracts, debuggable abstractions, careful protocol handling, and documentation surfaces) Tj
+T*
+(that help other builders move faster.) Tj
+T*
+T*
+(What attracts me to Eigen is the clarity of the thesis: if AI agents become economic actors,) Tj
+T*
+(they need identity, execution guarantees, attribution, ownership, and capital. I would bring) Tj
+T*
+(strong TypeScript/backend experience, a production reliability mindset, hands-on agent) Tj
+T*
+(tooling work, and unusually direct experience at the intersection of wallets, agents, and) Tj
+T*
+(verifiable onchain actions.) Tj
+T*
+T*
+(I would be excited to help Eigen turn agentic infrastructure into production systems) Tj
+T*
+(developers can trust.) Tj
+T*
+T*
+(Sincerely,) Tj
+T*
+T*
+(Mathew Stevens) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000317 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+3435
+%%EOF

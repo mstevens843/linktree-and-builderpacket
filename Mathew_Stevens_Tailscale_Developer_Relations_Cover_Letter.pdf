@@ -1,0 +1,150 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Length 3421 >>
+stream
+BT
+/F1 16.0 Tf
+64 738.00 Td
+(Mathew Stevens) Tj
+-64 -738.00 Td
+/F1 10.0 Tf
+64 723.80 Td
+(mathewstevens7457@gmail.com | https://mathewstevens.dev/portfolio/ | https://github.com/mstevens843) Tj
+-64 -723.80 Td
+/F1 10.0 Tf
+64 709.60 Td
+(Tailscale - Developer Relations Engineer) Tj
+-64 -709.60 Td
+/F1 10.2 Tf
+64 674.10 Td
+(Dear Tailscale hiring team,) Tj
+-64 -674.10 Td
+/F1 10.2 Tf
+64 638.60 Td
+(I am excited about the Developer Relations Engineer role because Tailscale is the kind of) Tj
+-64 -638.60 Td
+/F1 10.2 Tf
+64 624.40 Td
+(deeply technical product that succeeds by making difficult infrastructure feel simple.) Tj
+-64 -624.40 Td
+/F1 10.2 Tf
+64 610.20 Td
+(Secure connectivity, identity, privileged access, developer tooling, and secure AI access) Tj
+-64 -610.20 Td
+/F1 10.2 Tf
+64 596.00 Td
+(are hard domains; the best developer experience work turns those concepts into clear) Tj
+-64 -596.00 Td
+/F1 10.2 Tf
+64 581.80 Td
+(examples, usable demos, strong docs, and patterns that engineers can trust in production.) Tj
+-64 -581.80 Td
+/F1 10.2 Tf
+64 546.30 Td
+(My background sits naturally at that intersection of engineering and developer) Tj
+-64 -546.30 Td
+/F1 10.2 Tf
+64 532.10 Td
+(communication. I built Agentic, a non-custodial signing layer for AI agents with MCP tools,) Tj
+-64 -532.10 Td
+/F1 10.2 Tf
+64 517.90 Td
+(Vercel AI tools, a Solana Agent Kit adapter, approval polling, structured tool schemas, and) Tj
+-64 -517.90 Td
+/F1 10.2 Tf
+64 503.70 Td
+(wallet-backed execution. The product problem was both technical and educational: how do you) Tj
+-64 -503.70 Td
+/F1 10.2 Tf
+64 489.50 Td
+(let agents initiate useful work while keeping the user's real wallet as the security) Tj
+-64 -489.50 Td
+/F1 10.2 Tf
+64 475.30 Td
+(boundary, and how do you explain that clearly to developers building on it?) Tj
+-64 -475.30 Td
+/F1 10.2 Tf
+64 439.80 Td
+(I also built SolPulse, a live Solana trading platform with 350+ users across web, iOS,) Tj
+-64 -439.80 Td
+/F1 10.2 Tf
+64 425.60 Td
+(Android, and the Solana dApp Store. It includes real-time execution, WebSockets/SSE,) Tj
+-64 -425.60 Td
+/F1 10.2 Tf
+64 411.40 Td
+(PostgreSQL/Redis, dashboards, production APIs, wallet flows, and reliability requirements) Tj
+-64 -411.40 Td
+/F1 10.2 Tf
+64 397.20 Td
+(around live capital. Beyond that, I have built SDKs/plugins across Cocos, Unreal Engine 5,) Tj
+-64 -397.20 Td
+/F1 10.2 Tf
+64 383.00 Td
+(Godot, Unity, Capacitor, and native iOS, including docs, demos, native bridges, open-source) Tj
+-64 -383.00 Td
+/F1 10.2 Tf
+64 368.80 Td
+(PRs, and integration examples.) Tj
+-64 -368.80 Td
+/F1 10.2 Tf
+64 333.30 Td
+(That is why this role stands out. I like building things, breaking them down until the edge) Tj
+-64 -333.30 Td
+/F1 10.2 Tf
+64 319.10 Td
+(cases are clear, and turning the result into assets other developers can actually use:) Tj
+-64 -319.10 Td
+/F1 10.2 Tf
+64 304.90 Td
+(examples, reference architectures, technical writing, videos, sample apps, and public) Tj
+-64 -304.90 Td
+/F1 10.2 Tf
+64 290.70 Td
+(technical conversations. Tailscale's work around secure AI access, infrastructure security,) Tj
+-64 -290.70 Td
+/F1 10.2 Tf
+64 276.50 Td
+(and developer-friendly networking is a strong match for the builder-storyteller profile I) Tj
+-64 -276.50 Td
+/F1 10.2 Tf
+64 262.30 Td
+(would bring to the team.) Tj
+-64 -262.30 Td
+/F1 10.2 Tf
+64 226.80 Td
+(Best,) Tj
+-64 -226.80 Td
+/F1 10.2 Tf
+64 212.60 Td
+(Mathew Stevens) Tj
+-64 -212.60 Td
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Page /Parent 4 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 2 0 R >>
+endobj
+4 0 obj
+<< /Type /Pages /Count 1 /Kids [3 0 R] >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 4 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000085 00000 n 
+0000003558 00000 n 
+0000003684 00000 n 
+0000003741 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+3790
+%%EOF

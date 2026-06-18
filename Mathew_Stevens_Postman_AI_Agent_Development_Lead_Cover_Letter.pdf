@@ -1,0 +1,146 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Length 3252 >>
+stream
+BT
+/F1 16.0 Tf
+64 738.00 Td
+(Mathew Stevens) Tj
+-64 -738.00 Td
+/F1 10.0 Tf
+64 723.80 Td
+(mathewstevens7457@gmail.com | https://mathewstevens.dev/portfolio/ | https://github.com/mstevens843) Tj
+-64 -723.80 Td
+/F1 10.0 Tf
+64 709.60 Td
+(Postman - Member of Technical Staff, AI Agent Development Lead) Tj
+-64 -709.60 Td
+/F1 10.2 Tf
+64 674.10 Td
+(Dear Postman hiring team,) Tj
+-64 -674.10 Td
+/F1 10.2 Tf
+64 638.60 Td
+(I am excited about the Member of Technical Staff, AI Agent Development Lead role because) Tj
+-64 -638.60 Td
+/F1 10.2 Tf
+64 624.40 Td
+(Postman is already where developers define, test, debug, and understand APIs. The next step) Tj
+-64 -624.40 Td
+/F1 10.2 Tf
+64 610.20 Td
+(for agentic software is not a generic chat surface; it is structured execution over real) Tj
+-64 -610.20 Td
+/F1 10.2 Tf
+64 596.00 Td
+(tools, APIs, auth, schemas, state, and observable results. Postman is unusually well) Tj
+-64 -596.00 Td
+/F1 10.2 Tf
+64 581.80 Td
+(positioned to make that practical for developers.) Tj
+-64 -581.80 Td
+/F1 10.2 Tf
+64 546.30 Td
+(My recent work is directly aligned with that problem. I built Agentic, a non-custodial) Tj
+-64 -546.30 Td
+/F1 10.2 Tf
+64 532.10 Td
+(signing layer for AI agents on Solana. An agent can prepare a transaction or message, but) Tj
+-64 -532.10 Td
+/F1 10.2 Tf
+64 517.90 Td
+(the user's real wallet remains the approval boundary. It includes MCP tools, Vercel AI) Tj
+-64 -517.90 Td
+/F1 10.2 Tf
+64 503.70 Td
+(tools, a Solana Agent Kit adapter, structured schemas, approval polling, transaction/message) Tj
+-64 -503.70 Td
+/F1 10.2 Tf
+64 489.50 Td
+(signing, and a shared WalletBackend abstraction across agent surfaces. The core product) Tj
+-64 -489.50 Td
+/F1 10.2 Tf
+64 475.30 Td
+(challenge was making agents useful while keeping actions inspectable, bounded, and human-) Tj
+-64 -475.30 Td
+/F1 10.2 Tf
+64 461.10 Td
+(approved.) Tj
+-64 -461.10 Td
+/F1 10.2 Tf
+64 425.60 Td
+(I also built SolPulse, a live Solana trading platform with 350+ users across web, iOS,) Tj
+-64 -425.60 Td
+/F1 10.2 Tf
+64 411.40 Td
+(Android, and the Solana dApp Store. It includes production APIs, real-time execution flows,) Tj
+-64 -411.40 Td
+/F1 10.2 Tf
+64 397.20 Td
+(dashboards, PostgreSQL/Redis, WebSockets/SSE, wallet-safe signing, and reliability) Tj
+-64 -397.20 Td
+/F1 10.2 Tf
+64 383.00 Td
+(requirements around live capital. That experience gave me strong instincts for agent and API) Tj
+-64 -383.00 Td
+/F1 10.2 Tf
+64 368.80 Td
+(systems where state, latency, failure modes, and user trust matter.) Tj
+-64 -368.80 Td
+/F1 10.2 Tf
+64 333.30 Td
+(I would bring Postman hands-on agent infrastructure experience, full-stack product) Tj
+-64 -333.30 Td
+/F1 10.2 Tf
+64 319.10 Td
+(engineering, strong TypeScript/API judgment, and a developer-tools mindset from shipping) Tj
+-64 -319.10 Td
+/F1 10.2 Tf
+64 304.90 Td
+(SDKs/plugins across Cocos, Unreal Engine 5, Godot, Unity, Capacitor, and native iOS flows. I) Tj
+-64 -304.90 Td
+/F1 10.2 Tf
+64 290.70 Td
+(am interested in helping Postman make AI agents something developers can build, test,) Tj
+-64 -290.70 Td
+/F1 10.2 Tf
+64 276.50 Td
+(inspect, and trust in real workflows.) Tj
+-64 -276.50 Td
+/F1 10.2 Tf
+64 241.00 Td
+(Best,) Tj
+-64 -241.00 Td
+/F1 10.2 Tf
+64 226.80 Td
+(Mathew Stevens) Tj
+-64 -226.80 Td
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Page /Parent 4 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 2 0 R >>
+endobj
+4 0 obj
+<< /Type /Pages /Count 1 /Kids [3 0 R] >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 4 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000085 00000 n 
+0000003389 00000 n 
+0000003515 00000 n 
+0000003572 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+3621
+%%EOF

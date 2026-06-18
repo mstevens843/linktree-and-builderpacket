@@ -1,0 +1,150 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Length 3447 >>
+stream
+BT
+/F1 16.0 Tf
+64 738.00 Td
+(Mathew Stevens) Tj
+-64 -738.00 Td
+/F1 10.0 Tf
+64 723.80 Td
+(mathewstevens7457@gmail.com | https://mathewstevens.dev/portfolio/ | https://github.com/mstevens843) Tj
+-64 -723.80 Td
+/F1 10.0 Tf
+64 709.60 Td
+(Honeycomb.io - Senior Software Engineer - AI Intelligence) Tj
+-64 -709.60 Td
+/F1 10.2 Tf
+64 674.10 Td
+(Dear Honeycomb hiring team,) Tj
+-64 -674.10 Td
+/F1 10.2 Tf
+64 638.60 Td
+(I am excited about the Senior Software Engineer - AI Intelligence role because Honeycomb is) Tj
+-64 -638.60 Td
+/F1 10.2 Tf
+64 624.40 Td
+(building AI where it can matter most: inside real observability workflows. Canvas, the) Tj
+-64 -624.40 Td
+/F1 10.2 Tf
+64 610.20 Td
+(Honeycomb MCP server, Canvas Agent, and Canvas Skills are compelling because they are not) Tj
+-64 -610.20 Td
+/F1 10.2 Tf
+64 596.00 Td
+(generic chat surfaces. They are agentic product experiences that investigate, reason, and) Tj
+-64 -596.00 Td
+/F1 10.2 Tf
+64 581.80 Td
+(act on real production telemetry, where user trust depends on accuracy, UX, and reliability.) Tj
+-64 -581.80 Td
+/F1 10.2 Tf
+64 546.30 Td
+(I have been building in that same direction. I built Agentic, a non-custodial signing layer) Tj
+-64 -546.30 Td
+/F1 10.2 Tf
+64 532.10 Td
+(for AI agents where agents prepare actions but the user's real wallet remains the approval) Tj
+-64 -532.10 Td
+/F1 10.2 Tf
+64 517.90 Td
+(boundary. It includes MCP tools, Vercel AI tools, a Solana Agent Kit adapter, approval) Tj
+-64 -517.90 Td
+/F1 10.2 Tf
+64 503.70 Td
+(polling, structured schemas, wallet-backed execution, and a shared abstraction that lets) Tj
+-64 -503.70 Td
+/F1 10.2 Tf
+64 489.50 Td
+(multiple agent surfaces use the same signing backend. The core product challenge was making) Tj
+-64 -489.50 Td
+/F1 10.2 Tf
+64 475.30 Td
+(AI actions useful without allowing the agent to bypass human approval or hide what it was) Tj
+-64 -475.30 Td
+/F1 10.2 Tf
+64 461.10 Td
+(doing.) Tj
+-64 -461.10 Td
+/F1 10.2 Tf
+64 425.60 Td
+(I also built SolPulse, a live Solana trading platform with 350+ users, full-stack) Tj
+-64 -425.60 Td
+/F1 10.2 Tf
+64 411.40 Td
+(dashboards, real-time execution, WebSockets/SSE, PostgreSQL/Redis, production APIs, and) Tj
+-64 -411.40 Td
+/F1 10.2 Tf
+64 397.20 Td
+(reliability requirements around live capital. That product gave me strong instincts around) Tj
+-64 -397.20 Td
+/F1 10.2 Tf
+64 383.00 Td
+(frontend UX under pressure: users need clear state, fast feedback, logs they can trust, and) Tj
+-64 -383.00 Td
+/F1 10.2 Tf
+64 368.80 Td
+(product flows that do not collapse when real-time systems get messy.) Tj
+-64 -368.80 Td
+/F1 10.2 Tf
+64 333.30 Td
+(The AI Intelligence role is a strong fit because it leans into React/TypeScript product) Tj
+-64 -333.30 Td
+/F1 10.2 Tf
+64 319.10 Td
+(ownership, supporting backend work, agent infrastructure, MCP, production ownership, and) Tj
+-64 -319.10 Td
+/F1 10.2 Tf
+64 304.90 Td
+(evaluation-minded AI product development. I would bring hands-on experience with agent) Tj
+-64 -304.90 Td
+/F1 10.2 Tf
+64 290.70 Td
+(workflows, developer tools, real-time systems, and user-facing product surfaces where trust) Tj
+-64 -290.70 Td
+/F1 10.2 Tf
+64 276.50 Td
+(matters. I like building AI features that are grounded in real workflows, measurable) Tj
+-64 -276.50 Td
+/F1 10.2 Tf
+64 262.30 Td
+(outcomes, and clear interfaces rather than novelty.) Tj
+-64 -262.30 Td
+/F1 10.2 Tf
+64 226.80 Td
+(Best,) Tj
+-64 -226.80 Td
+/F1 10.2 Tf
+64 212.60 Td
+(Mathew Stevens) Tj
+-64 -212.60 Td
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Page /Parent 4 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 2 0 R >>
+endobj
+4 0 obj
+<< /Type /Pages /Count 1 /Kids [3 0 R] >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 4 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000085 00000 n 
+0000003584 00000 n 
+0000003710 00000 n 
+0000003767 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+3816
+%%EOF

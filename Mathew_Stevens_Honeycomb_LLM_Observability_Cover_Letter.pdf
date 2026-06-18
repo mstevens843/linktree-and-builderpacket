@@ -1,0 +1,158 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Length 3707 >>
+stream
+BT
+/F1 16.0 Tf
+64 738.00 Td
+(Mathew Stevens) Tj
+-64 -738.00 Td
+/F1 10.0 Tf
+64 723.80 Td
+(mathewstevens7457@gmail.com | https://mathewstevens.dev/portfolio/ | https://github.com/mstevens843) Tj
+-64 -723.80 Td
+/F1 10.0 Tf
+64 709.60 Td
+(Honeycomb.io - Senior Software Engineer - LLM Observability) Tj
+-64 -709.60 Td
+/F1 10.2 Tf
+64 674.10 Td
+(Dear Honeycomb hiring team,) Tj
+-64 -674.10 Td
+/F1 10.2 Tf
+64 638.60 Td
+(I am excited about the Senior Software Engineer - LLM Observability role because it is) Tj
+-64 -638.60 Td
+/F1 10.2 Tf
+64 624.40 Td
+(focused on one of the most important problems in production AI: making agent and LLM systems) Tj
+-64 -624.40 Td
+/F1 10.2 Tf
+64 610.20 Td
+(observable enough that engineers can trust, debug, and improve them. The team's work on) Tj
+-64 -610.20 Td
+/F1 10.2 Tf
+64 596.00 Td
+(telemetry for spans, traces, token usage, cost, eval signals, and OpenTelemetry-based) Tj
+-64 -596.00 Td
+/F1 10.2 Tf
+64 581.80 Td
+(normalization across ecosystems like LangChain, OpenLLMetry, and Braintrust is exactly the) Tj
+-64 -581.80 Td
+/F1 10.2 Tf
+64 567.60 Td
+(kind of infrastructure that turns AI from a demo into an operable product.) Tj
+-64 -567.60 Td
+/F1 10.2 Tf
+64 532.10 Td
+(My recent work is directly relevant. I built Agentic, a non-custodial signing layer for AI) Tj
+-64 -532.10 Td
+/F1 10.2 Tf
+64 517.90 Td
+(agents where the agent can prepare an action, but the user's real wallet remains the) Tj
+-64 -517.90 Td
+/F1 10.2 Tf
+64 503.70 Td
+(approval boundary. It includes MCP tools, Vercel AI tools, a Solana Agent Kit adapter,) Tj
+-64 -503.70 Td
+/F1 10.2 Tf
+64 489.50 Td
+(structured tool schemas, approval polling, transaction and message signing, and a shared) Tj
+-64 -489.50 Td
+/F1 10.2 Tf
+64 475.30 Td
+(WalletBackend abstraction across agent surfaces. That forced me to think carefully about) Tj
+-64 -475.30 Td
+/F1 10.2 Tf
+64 461.10 Td
+(intent, approval, failure states, auditability, and how to make agent behavior inspectable) Tj
+-64 -461.10 Td
+/F1 10.2 Tf
+64 446.90 Td
+(when real user assets are involved.) Tj
+-64 -446.90 Td
+/F1 10.2 Tf
+64 411.40 Td
+(I also built SolPulse, a live Solana trading platform with 350+ users across web, iOS,) Tj
+-64 -411.40 Td
+/F1 10.2 Tf
+64 397.20 Td
+(Android, and the Solana dApp Store. It uses real-time execution flows, WebSockets/SSE,) Tj
+-64 -397.20 Td
+/F1 10.2 Tf
+64 383.00 Td
+(PostgreSQL/Redis, dashboards, execution logs, wallet-safe signing, and reliability practices) Tj
+-64 -383.00 Td
+/F1 10.2 Tf
+64 368.80 Td
+(around live capital. That experience gave me a practical view of production ownership: when) Tj
+-64 -368.80 Td
+/F1 10.2 Tf
+64 354.60 Td
+(systems are live, observability is not decoration; it is how you protect users, debug) Tj
+-64 -354.60 Td
+/F1 10.2 Tf
+64 340.40 Td
+(quickly, and keep moving without guessing.) Tj
+-64 -340.40 Td
+/F1 10.2 Tf
+64 304.90 Td
+(I would bring Honeycomb a useful mix of full-stack product engineering, agent infrastructure) Tj
+-64 -304.90 Td
+/F1 10.2 Tf
+64 290.70 Td
+(experience, TypeScript/React, backend/API judgment, and production reliability instincts. I) Tj
+-64 -290.70 Td
+/F1 10.2 Tf
+64 276.50 Td
+(am especially interested in helping define the source of truth for how AI systems behave in) Tj
+-64 -276.50 Td
+/F1 10.2 Tf
+64 262.30 Td
+(production, because I have felt the cost of opaque agent workflows firsthand. Honeycomb's) Tj
+-64 -262.30 Td
+/F1 10.2 Tf
+64 248.10 Td
+(LLM observability work feels like the right layer of the stack to make production AI safer,) Tj
+-64 -248.10 Td
+/F1 10.2 Tf
+64 233.90 Td
+(clearer, and more useful for engineering teams.) Tj
+-64 -233.90 Td
+/F1 10.2 Tf
+64 198.40 Td
+(Best,) Tj
+-64 -198.40 Td
+/F1 10.2 Tf
+64 184.20 Td
+(Mathew Stevens) Tj
+-64 -184.20 Td
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Page /Parent 4 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 2 0 R >>
+endobj
+4 0 obj
+<< /Type /Pages /Count 1 /Kids [3 0 R] >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 4 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000085 00000 n 
+0000003844 00000 n 
+0000003970 00000 n 
+0000004027 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+4076
+%%EOF

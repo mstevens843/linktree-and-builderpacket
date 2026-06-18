@@ -1,0 +1,154 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Length 3470 >>
+stream
+BT
+/F1 16.0 Tf
+64 738.00 Td
+(Mathew Stevens) Tj
+-64 -738.00 Td
+/F1 10.0 Tf
+64 723.80 Td
+(mathewstevens7457@gmail.com | https://mathewstevens.dev/portfolio/ | https://github.com/mstevens843) Tj
+-64 -723.80 Td
+/F1 10.0 Tf
+64 709.60 Td
+(Scale AI - Frontier Agents Engineer) Tj
+-64 -709.60 Td
+/F1 10.2 Tf
+64 674.10 Td
+(Dear Scale AI hiring team,) Tj
+-64 -674.10 Td
+/F1 10.2 Tf
+64 638.60 Td
+(I am excited about the Frontier Agents Engineer role because it sits where agent systems) Tj
+-64 -638.60 Td
+/F1 10.2 Tf
+64 624.40 Td
+(become real: customer data, internal APIs, production deployment, evaluation, human-in-the-) Tj
+-64 -624.40 Td
+/F1 10.2 Tf
+64 610.20 Td
+(loop workflows, and practical business outcomes. The role's focus on architecting custom AI) Tj
+-64 -610.20 Td
+/F1 10.2 Tf
+64 596.00 Td
+(solutions, integrating with customer environments, building production agents, and turning) Tj
+-64 -596.00 Td
+/F1 10.2 Tf
+64 581.80 Td
+(repeated deployment patterns into product improvements is a strong match for how I like to) Tj
+-64 -581.80 Td
+/F1 10.2 Tf
+64 567.60 Td
+(work.) Tj
+-64 -567.60 Td
+/F1 10.2 Tf
+64 532.10 Td
+(My strongest relevant project is Agentic, a non-custodial signing layer for AI agents on) Tj
+-64 -532.10 Td
+/F1 10.2 Tf
+64 517.90 Td
+(Solana. Agents can prepare transactions or messages, but the user's real wallet remains the) Tj
+-64 -517.90 Td
+/F1 10.2 Tf
+64 503.70 Td
+(approval boundary. It includes MCP tools, Vercel AI tools, a Solana Agent Kit adapter,) Tj
+-64 -503.70 Td
+/F1 10.2 Tf
+64 489.50 Td
+(structured schemas, approval polling, transaction/message signing, and a shared) Tj
+-64 -489.50 Td
+/F1 10.2 Tf
+64 475.30 Td
+(WalletBackend abstraction. That project required careful thinking about tool use, state,) Tj
+-64 -475.30 Td
+/F1 10.2 Tf
+64 461.10 Td
+(permissions, human approval, and how to make agent actions inspectable when the outcome) Tj
+-64 -461.10 Td
+/F1 10.2 Tf
+64 446.90 Td
+(matters.) Tj
+-64 -446.90 Td
+/F1 10.2 Tf
+64 411.40 Td
+(I also built SolPulse, a live Solana trading platform with 350+ users across web, iOS,) Tj
+-64 -411.40 Td
+/F1 10.2 Tf
+64 397.20 Td
+(Android, and the Solana dApp Store. It includes production APIs, dashboards,) Tj
+-64 -397.20 Td
+/F1 10.2 Tf
+64 383.00 Td
+(PostgreSQL/Redis, WebSockets/SSE, real-time execution flows, wallet-safe signing, and) Tj
+-64 -383.00 Td
+/F1 10.2 Tf
+64 368.80 Td
+(reliability requirements around live capital. Building and operating SolPulse gave me) Tj
+-64 -368.80 Td
+/F1 10.2 Tf
+64 354.60 Td
+(practical experience debugging across the stack, handling ambiguous product requirements,) Tj
+-64 -354.60 Td
+/F1 10.2 Tf
+64 340.40 Td
+(making real-time state visible, and building systems users could trust outside a demo.) Tj
+-64 -340.40 Td
+/F1 10.2 Tf
+64 304.90 Td
+(I would bring Scale AI hands-on agent infrastructure experience, strong full-stack) Tj
+-64 -304.90 Td
+/F1 10.2 Tf
+64 290.70 Td
+(engineering, API and data-flow judgment, and customer-facing technical communication from) Tj
+-64 -290.70 Td
+/F1 10.2 Tf
+64 276.50 Td
+(SDK/plugin work across Cocos, Unreal, Godot, Unity, Capacitor, and iOS. I am especially) Tj
+-64 -276.50 Td
+/F1 10.2 Tf
+64 262.30 Td
+(interested in building agents that are measurable, integrated into real workflows, and) Tj
+-64 -262.30 Td
+/F1 10.2 Tf
+64 248.10 Td
+(grounded in feedback loops that make them better over time.) Tj
+-64 -248.10 Td
+/F1 10.2 Tf
+64 212.60 Td
+(Best,) Tj
+-64 -212.60 Td
+/F1 10.2 Tf
+64 198.40 Td
+(Mathew Stevens) Tj
+-64 -198.40 Td
+ET
+endstream
+endobj
+3 0 obj
+<< /Type /Page /Parent 4 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 2 0 R >>
+endobj
+4 0 obj
+<< /Type /Pages /Count 1 /Kids [3 0 R] >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 4 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000085 00000 n 
+0000003607 00000 n 
+0000003733 00000 n 
+0000003790 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+3839
+%%EOF

@@ -1,0 +1,26 @@
+Mathew Stevens
+Bay Area, CA / San Francisco
+github.com/mstevens843 | linkedin.com/in/mathewbradleystevens | x.com/mattinfra
+solpulse.trade | agentic-signer.com
+
+June 16, 2026
+
+Factory Team
+
+Dear Factory Team,
+
+I am applying for the Product Engineer role because Factory is working on a problem I care about directly: bringing real autonomy to software engineering. The most interesting AI products are not thin chat surfaces. They are systems that can reason over messy work, use tools, touch real code paths, operate safely, and help engineering teams ship faster. Factory's focus on software development agents for enterprise engineering teams is exactly the kind of product and infrastructure work I want to build.
+
+My background is full-stack product engineering across TypeScript, React, Node, APIs, databases, real-time systems, and developer tooling. I built and operate SolPulse, a live Solana trading platform across web, iOS, Android, and the Solana dApp Store with 350+ users. It includes a real-time execution engine, WebSockets/SSE, PostgreSQL, Prisma, Redis, multi-DEX routing, priority-fee controls, token intelligence, and layered risk systems around live capital. That experience maps strongly to Factory's need for engineers who can ship secure, fault-tolerant product features for customers that expect reliability.
+
+I also built Agentic, a non-custodial signing layer for AI agents where the agent prepares an action and the user's real wallet approves it. One WalletBackend contract powers MCP tools, Vercel AI tools, and a Solana Agent Kit adapter from the same abstraction, with message signing, transaction signing, sign-and-send, and approval polling. Building that forced me to think deeply about agent workflows, tool interfaces, user approval, asynchronous execution, and how to make powerful agent systems understandable and safe for developers.
+
+Beyond those products, I have shipped SDKs and plugins across Cocos, Unreal Engine 5, Godot, Unity, Capacitor, and native iOS wallet flows, including first-of-their-kind Solana Mobile Wallet Adapter tooling verified on Solana Seeker hardware. I have also landed fixes in public Solana SDKs. That work required strong frontend and backend execution, careful API design, cross-platform debugging, and the product judgment to turn complex protocols into surfaces developers can actually use.
+
+What attracts me to Factory is the combination of ambitious AI infrastructure and practical product engineering. The role sits in the right place for me: close to users, close to design and research, and responsible for taking ideas from concept to reliable shipped features. I would bring a builder's bias, strong TypeScript/React/Node experience, production reliability from operating real systems, and a deep interest in software agents that do useful work in the real world.
+
+I would be excited to help Factory build the platform that makes autonomous software engineering real for enterprise teams.
+
+Sincerely,
+
+Mathew Stevens
