@@ -292,7 +292,18 @@
 
     .metric:nth-child(2n) { border-right: 0; }
     .metric strong { display: block; font-size: 22px; line-height: 1; font-weight: 800; color: var(--accent); }
-    .metric span { display: block; margin-top: 6px; color: var(--muted); font-size: 12px; font-weight: 600; line-height: 1.25; }
+    .metric strong.metric-pair {
+      display: inline-flex;
+      align-items: center;
+      gap: 9px;
+      flex-wrap: wrap;
+    }
+    .metric strong.metric-pair .rating-value {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+    }
+    .metric > span { display: block; margin-top: 6px; color: var(--muted); font-size: 12px; font-weight: 600; line-height: 1.25; overflow-wrap: anywhere; }
     .metric strong.rating-value {
       display: inline-flex;
       align-items: center;
@@ -406,6 +417,39 @@
     .button-strip { display: flex; flex-wrap: wrap; gap: 8px; }
 
     .repo-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
+
+    .infra-controls {
+      display: flex;
+      justify-content: flex-end;
+      gap: 8px;
+      min-height: 42px;
+      margin: -6px 0 12px;
+    }
+
+    .infra-arrow {
+      display: grid;
+      place-items: center;
+      width: 42px;
+      height: 42px;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: var(--soft);
+      color: var(--ink);
+      cursor: pointer;
+      transition: transform 0.16s ease, border-color 0.16s ease, background 0.16s ease, box-shadow 0.16s ease, color 0.16s ease;
+    }
+
+    .infra-arrow:hover,
+    .infra-arrow:focus-visible {
+      transform: translateY(-2px);
+      border-color: var(--accent-border);
+      background: var(--accent-soft);
+      color: var(--accent);
+      box-shadow: var(--glow-hover);
+      outline: none;
+    }
+
+    .infra-arrow[hidden] { display: none; }
 
     .repo-card {
       min-height: 225px;
@@ -540,7 +584,10 @@
     }
 
     @media (max-width: 760px) {
-      .shell { width: min(100% - 24px, 1120px); }
+      .shell {
+        width: calc(100% - 24px);
+        max-width: 1120px;
+      }
 
       .topbar-inner { min-height: 58px; }
 
@@ -559,15 +606,15 @@
       .eyebrow::before { flex: 0 0 32px; }
 
       h1 {
-        font-size: 34px;
-        line-height: 1.04;
-        overflow-wrap: break-word;
+        font-size: 28px;
+        line-height: 1.08;
+        overflow-wrap: anywhere;
       }
 
       h2 {
-        font-size: 26px;
-        line-height: 1.08;
-        overflow-wrap: break-word;
+        font-size: 24px;
+        line-height: 1.12;
+        overflow-wrap: anywhere;
       }
 
       .lede,
@@ -596,8 +643,13 @@
 
       .section-head { display: grid; gap: 10px; align-items: start; }
 
+      .profile-card {
+        width: 100%;
+        max-width: 100%;
+      }
+
       .metric { padding: 14px 12px; }
-      .metric span { font-size: 11.5px; }
+      .metric > span { font-size: 11.5px; }
 
       .project-title-row { display: grid; }
 
@@ -667,12 +719,12 @@
             </div>
           </div>
           <div class="metric-list" aria-label="Builder metrics">
-            <div class="metric"><strong>500+</strong><span>SolPulse users</span></div>
-            <div class="metric"><strong class="rating-value">4.3<svg class="rating-star" viewBox="0 0 24 24" aria-hidden="true"><path d="m12 2.75 2.77 5.62 6.2.9-4.49 4.38 1.06 6.18L12 16.91l-5.54 2.92 1.06-6.18-4.49-4.38 6.2-.9L12 2.75z"/></svg></strong><span>SolPulse rating</span></div>
-            <div class="metric"><strong>500+</strong><span>Agentic users</span></div>
-            <div class="metric"><strong>22</strong><span>SolPulse reviews</span></div>
-            <div class="metric"><strong class="rating-value">4.2<svg class="rating-star" viewBox="0 0 24 24" aria-hidden="true"><path d="m12 2.75 2.77 5.62 6.2.9-4.49 4.38 1.06 6.18L12 16.91l-5.54 2.92 1.06-6.18-4.49-4.38 6.2-.9L12 2.75z"/></svg></strong><span>Agentic rating</span></div>
+            <div class="metric"><strong>550+</strong><span>SolPulse users</span></div>
+            <div class="metric"><strong class="metric-pair"><span class="rating-value">4.3<svg class="rating-star" viewBox="0 0 24 24" aria-hidden="true"><path d="m12 2.75 2.77 5.62 6.2.9-4.49 4.38 1.06 6.18L12 16.91l-5.54 2.92 1.06-6.18-4.49-4.38 6.2-.9L12 2.75z"/></svg></span><span>22</span></strong><span>SolPulse rating / reviews</span></div>
+            <div class="metric"><strong>650+</strong><span>Agentic users</span></div>
+            <div class="metric"><strong class="metric-pair"><span class="rating-value">4.2<svg class="rating-star" viewBox="0 0 24 24" aria-hidden="true"><path d="m12 2.75 2.77 5.62 6.2.9-4.49 4.38 1.06 6.18L12 16.91l-5.54 2.92 1.06-6.18-4.49-4.38 6.2-.9L12 2.75z"/></svg></span><span>24</span></strong><span>Agentic rating / reviews</span></div>
             <div class="metric"><strong>4</strong><span>Merged upstream PRs</span></div>
+            <div class="metric"><strong>7</strong><span>Infrastructure projects</span></div>
           </div>
           <div class="profile-note">
             Best fit: Solana infra, wallet integrations, SDK engineering, developer tooling, mobile dApps, and full-stack product engineering.
@@ -707,7 +759,7 @@
               Solo-built production trading platform with multi-mode scanning, DCA, limit orders, smart TP/SL exits, 35 intelligence pillars, multi-DEX routing, priority fee controls, and institutional risk controls exposed through a consumer UI.
             </p>
             <ul class="feature-list">
-              <li>500+ users, 22 reviews, 4.3-star rating, Apple App Store, Solana dApp Store, and web releases.</li>
+              <li>550+ users, 22 reviews, 4.3-star rating, Apple App Store, Solana dApp Store, and web releases.</li>
               <li>Execution path documented for 1,200 concurrent transactions and 10ms monitoring intervals.</li>
               <li>Seed Vault and Mobile Wallet Adapter signing flows keep keys inside user wallets/devices.</li>
             </ul>
@@ -744,11 +796,11 @@
               <span class="tag good">Non-custodial</span>
             </div>
             <p class="project-copy">
-              Deployed Solana agent-wallet application at agentic-signer.com with 500+ users in under 2 weeks, 20 ratings, and a 4.2-star rating. Agents prepare actions, users approve with their real wallet, and keys never leave the wallet. One WalletBackend powers MCP tools, Vercel AI tools, Solana Agent Kit, CLI, desktop, and web surfaces.
+              Deployed Solana agent-wallet application at agentic-signer.com with 650+ users in under 2 weeks, 24 ratings, and a 4.2-star rating. Agents prepare actions, users approve with their real wallet, and keys never leave the wallet. One WalletBackend powers MCP tools, Vercel AI tools, Solana Agent Kit, CLI, desktop, and web surfaces.
             </p>
             <ul class="feature-list">
               <li>Address lookup, message signing, transaction signing, sign-and-send, approval polling, and simulation.</li>
-              <li>Web, CLI, desktop, Google Play, and Solana dApp Store release surfaces with 500+ users, 20 ratings, and early 4.2-star user traction.</li>
+              <li>Web, CLI, desktop, Google Play, and Solana dApp Store release surfaces with 650+ users, 24 ratings, and early 4.2-star user traction.</li>
               <li>Package ID discovered locally: <strong>com.agentic.wallet</strong>.</li>
             </ul>
             <div class="button-strip" aria-label="Agentic links">
@@ -780,13 +832,34 @@
         <div class="section-head">
           <div>
             <p class="section-kicker">Infrastructure repos</p>
-            <h2>Wallet SDKs and examples.</h2>
+            <h2>Wallet SDKs, safety, and examples.</h2>
           </div>
           <p class="section-copy">The infra links go to public repositories and grant/example work. App repos are not required here; app users should use the product buttons above.</p>
         </div>
 
-        <div class="repo-grid">
-          <a class="repo-card" href="https://github.com/mstevens843/unreal-solana-mwa" target="_blank" rel="noreferrer">
+        <div class="infra-controls" aria-label="Infrastructure project pages">
+          <button class="infra-arrow" type="button" data-infra-prev aria-label="Previous infrastructure projects" hidden>
+            <i data-lucide="arrow-left" class="icon" aria-hidden="true"></i>
+          </button>
+          <button class="infra-arrow" type="button" data-infra-next aria-label="Next infrastructure projects">
+            <i data-lucide="arrow-right" class="icon" aria-hidden="true"></i>
+          </button>
+        </div>
+
+        <div class="repo-grid" data-infra-grid>
+          <a class="repo-card" data-infra-card href="https://github.com/mstevens843/solana-tx-guard" target="_blank" rel="noreferrer">
+            <div class="repo-top">
+              <div class="icon-box"><i data-lucide="shield-check" class="icon" aria-hidden="true"></i></div>
+              <div>
+                <h3>TxShield / Solana Tx Guard</h3>
+                <p>Open embeddable Solana transaction-safety layer with pre-sign drain detection, static rules, optional simulation, and atomic guard.</p>
+              </div>
+            </div>
+            <div class="repo-foot"><span>TypeScript SDK</span><span class="gh"><svg class="gicon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.305-5.467-1.334-5.467-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12z"/></svg>GitHub</span></div>
+          </a>
+
+
+          <a class="repo-card" data-infra-card href="https://github.com/mstevens843/unreal-solana-mwa" target="_blank" rel="noreferrer">
             <div class="repo-top">
               <div class="icon-box"><i data-lucide="boxes" class="icon" aria-hidden="true"></i></div>
               <div>
@@ -797,7 +870,7 @@
             <div class="repo-foot"><span>UE5 plugin</span><span class="gh"><svg class="gicon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.305-5.467-1.334-5.467-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12z"/></svg>GitHub</span></div>
           </a>
 
-          <a class="repo-card" href="https://github.com/mstevens843/cocos-solana-mwa-sdk" target="_blank" rel="noreferrer">
+          <a class="repo-card" data-infra-card href="https://github.com/mstevens843/cocos-solana-mwa-sdk" target="_blank" rel="noreferrer">
             <div class="repo-top">
               <div class="icon-box"><i data-lucide="gamepad-2" class="icon" aria-hidden="true"></i></div>
               <div>
@@ -808,7 +881,7 @@
             <div class="repo-foot"><span>Cocos Creator</span><span class="gh"><svg class="gicon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.305-5.467-1.334-5.467-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12z"/></svg>GitHub</span></div>
           </a>
 
-          <a class="repo-card" href="https://github.com/mstevens843/ios-solana-wallet-adapter" target="_blank" rel="noreferrer">
+          <a class="repo-card" data-infra-card href="https://github.com/mstevens843/ios-solana-wallet-adapter" target="_blank" rel="noreferrer">
             <div class="repo-top">
               <div class="icon-box"><i data-lucide="smartphone" class="icon" aria-hidden="true"></i></div>
               <div>
@@ -819,7 +892,7 @@
             <div class="repo-foot"><span>Swift package</span><span class="gh"><svg class="gicon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.305-5.467-1.334-5.467-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12z"/></svg>GitHub</span></div>
           </a>
 
-          <a class="repo-card" href="https://github.com/mstevens843/capacitor-solana-mobile-wallet-adapter" target="_blank" rel="noreferrer">
+          <a class="repo-card" data-infra-card href="https://github.com/mstevens843/capacitor-solana-mobile-wallet-adapter" target="_blank" rel="noreferrer">
             <div class="repo-top">
               <div class="icon-box"><i data-lucide="plug" class="icon" aria-hidden="true"></i></div>
               <div>
@@ -830,7 +903,7 @@
             <div class="repo-foot"><span>Capacitor</span><span class="gh"><svg class="gicon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.305-5.467-1.334-5.467-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12z"/></svg>GitHub</span></div>
           </a>
 
-          <a class="repo-card" href="https://github.com/mstevens843/godot-solana-mwa-example" target="_blank" rel="noreferrer">
+          <a class="repo-card" data-infra-card href="https://github.com/mstevens843/godot-solana-mwa-example" target="_blank" rel="noreferrer">
             <div class="repo-top">
               <div class="icon-box"><i data-lucide="waypoints" class="icon" aria-hidden="true"></i></div>
               <div>
@@ -841,7 +914,7 @@
             <div class="repo-foot"><span>Grant work</span><span class="gh"><svg class="gicon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.305-5.467-1.334-5.467-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12z"/></svg>GitHub</span></div>
           </a>
 
-          <a class="repo-card" href="https://github.com/mstevens843/unity-solana-mwa-example" target="_blank" rel="noreferrer">
+          <a class="repo-card" data-infra-card href="https://github.com/mstevens843/unity-solana-mwa-example" target="_blank" rel="noreferrer">
             <div class="repo-top">
               <div class="icon-box"><i data-lucide="layers-3" class="icon" aria-hidden="true"></i></div>
               <div>
@@ -975,6 +1048,43 @@
     if (window.lucide) {
       window.lucide.createIcons();
     }
+
+    (function () {
+      var grid = document.querySelector('[data-infra-grid]');
+      if (!grid) return;
+
+      var cards = Array.prototype.slice.call(grid.querySelectorAll('[data-infra-card]'));
+      var prev = document.querySelector('[data-infra-prev]');
+      var next = document.querySelector('[data-infra-next]');
+      var pageSize = 6;
+      var page = 0;
+      var pageCount = Math.ceil(cards.length / pageSize);
+
+      function renderInfraPage() {
+        cards.forEach(function (card, index) {
+          card.hidden = Math.floor(index / pageSize) !== page;
+        });
+
+        if (prev) prev.hidden = page <= 0;
+        if (next) next.hidden = page >= pageCount - 1;
+      }
+
+      if (prev) {
+        prev.addEventListener('click', function () {
+          page = Math.max(0, page - 1);
+          renderInfraPage();
+        });
+      }
+
+      if (next) {
+        next.addEventListener('click', function () {
+          page = Math.min(pageCount - 1, page + 1);
+          renderInfraPage();
+        });
+      }
+
+      renderInfraPage();
+    })();
 
     /* dApp Store buttons: the solanadappstore:// scheme only resolves on Solana Seeker / Saga
        devices with the dApp Store app installed. Everywhere else it no-ops, so we surface a
