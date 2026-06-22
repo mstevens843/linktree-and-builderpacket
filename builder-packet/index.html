@@ -292,6 +292,49 @@
 
     .metric:nth-child(2n) { border-right: 0; }
     .metric strong { display: block; font-size: 22px; line-height: 1; font-weight: 800; color: var(--accent); }
+    .metric-wide {
+      grid-column: 1 / -1;
+      min-height: 88px;
+      border-right: 0;
+      padding: 13px 16px 14px;
+    }
+    .metric-wide + .metric-wide { margin-top: -1px; }
+    .metric-product {
+      display: block;
+      margin: 0 0 8px;
+      color: var(--ink);
+      font-size: 12px;
+      font-weight: 800;
+      line-height: 1;
+    }
+    .metric-split {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+      align-items: start;
+      gap: 0;
+    }
+    .metric-side {
+      min-width: 0;
+      display: grid;
+      gap: 5px;
+    }
+    .metric-side + .metric-side {
+      border-left: 1px solid var(--line);
+      padding-left: 16px;
+      margin-left: 16px;
+    }
+    .metric-side strong {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      font-size: 23px;
+    }
+    .metric-side span {
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 650;
+      line-height: 1.15;
+    }
     .metric strong.metric-pair {
       display: inline-flex;
       align-items: center;
@@ -459,6 +502,8 @@
       gap: 18px;
       padding: 18px;
     }
+
+    .repo-card[hidden] { display: none; }
 
     .repo-card:hover { transform: translateY(-2px); border-color: var(--accent-border); box-shadow: var(--glow-hover); }
 
@@ -720,9 +765,21 @@
           </div>
           <div class="metric-list" aria-label="Builder metrics">
             <div class="metric"><strong>550+</strong><span>SolPulse users</span></div>
-            <div class="metric"><strong class="metric-pair"><span class="rating-value">4.3<svg class="rating-star" viewBox="0 0 24 24" aria-hidden="true"><path d="m12 2.75 2.77 5.62 6.2.9-4.49 4.38 1.06 6.18L12 16.91l-5.54 2.92 1.06-6.18-4.49-4.38 6.2-.9L12 2.75z"/></svg></span><span>22</span></strong><span>SolPulse rating / reviews</span></div>
             <div class="metric"><strong>650+</strong><span>Agentic users</span></div>
-            <div class="metric"><strong class="metric-pair"><span class="rating-value">4.2<svg class="rating-star" viewBox="0 0 24 24" aria-hidden="true"><path d="m12 2.75 2.77 5.62 6.2.9-4.49 4.38 1.06 6.18L12 16.91l-5.54 2.92 1.06-6.18-4.49-4.38 6.2-.9L12 2.75z"/></svg></span><span>24</span></strong><span>Agentic rating / reviews</span></div>
+            <div class="metric metric-wide" aria-label="SolPulse rating and reviews">
+              <span class="metric-product">SolPulse</span>
+              <div class="metric-split">
+                <div class="metric-side"><strong>4.3<svg class="rating-star" viewBox="0 0 24 24" aria-hidden="true"><path d="m12 2.75 2.77 5.62 6.2.9-4.49 4.38 1.06 6.18L12 16.91l-5.54 2.92 1.06-6.18-4.49-4.38 6.2-.9L12 2.75z"/></svg></strong><span>Rating</span></div>
+                <div class="metric-side"><strong>22</strong><span>Reviews</span></div>
+              </div>
+            </div>
+            <div class="metric metric-wide" aria-label="Agentic rating and reviews">
+              <span class="metric-product">Agentic</span>
+              <div class="metric-split">
+                <div class="metric-side"><strong>4.2<svg class="rating-star" viewBox="0 0 24 24" aria-hidden="true"><path d="m12 2.75 2.77 5.62 6.2.9-4.49 4.38 1.06 6.18L12 16.91l-5.54 2.92 1.06-6.18-4.49-4.38 6.2-.9L12 2.75z"/></svg></strong><span>Rating</span></div>
+                <div class="metric-side"><strong>24</strong><span>Reviews</span></div>
+              </div>
+            </div>
             <div class="metric"><strong>4</strong><span>Merged upstream PRs</span></div>
             <div class="metric"><strong>7</strong><span>Infrastructure projects</span></div>
           </div>
@@ -1062,7 +1119,9 @@
 
       function renderInfraPage() {
         cards.forEach(function (card, index) {
-          card.hidden = Math.floor(index / pageSize) !== page;
+          var isHidden = Math.floor(index / pageSize) !== page;
+          card.hidden = isHidden;
+          card.style.display = isHidden ? 'none' : '';
         });
 
         if (prev) prev.hidden = page <= 0;
