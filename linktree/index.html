@@ -220,6 +220,8 @@
     font-size: 12px;
     color: var(--muted);
     margin-top: 2px;
+    line-height: 1.35;
+    overflow-wrap: anywhere;
   }
   .rating-value {
     display: inline-flex;
@@ -347,6 +349,15 @@
   @media (prefers-reduced-motion: reduce) {
     .reveal { animation: none; opacity: 1; }
     .tile, .iconbtn { transition: none; }
+  }
+
+  @media (max-width: 520px) {
+    .tile.app {
+      grid-template-areas:
+        "logo meta"
+        "actions actions";
+    }
+    .app-actions { justify-self: end; }
   }
 
   /* ---------- Narrow phones ---------- */

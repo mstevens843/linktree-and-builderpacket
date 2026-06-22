@@ -294,19 +294,11 @@
     .metric strong { display: block; font-size: 22px; line-height: 1; font-weight: 800; color: var(--accent); }
     .metric-wide {
       grid-column: 1 / -1;
-      min-height: 88px;
+      min-height: 78px;
       border-right: 0;
-      padding: 13px 16px 14px;
+      padding: 11px 16px 12px;
     }
     .metric-wide + .metric-wide { margin-top: -1px; }
-    .metric-product {
-      display: block;
-      margin: 0 0 8px;
-      color: var(--ink);
-      font-size: 12px;
-      font-weight: 800;
-      line-height: 1;
-    }
     .metric-split {
       display: grid;
       grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
@@ -316,7 +308,7 @@
     .metric-side {
       min-width: 0;
       display: grid;
-      gap: 5px;
+      gap: 4px;
     }
     .metric-side + .metric-side {
       border-left: 1px solid var(--line);
@@ -328,6 +320,12 @@
       align-items: center;
       gap: 5px;
       font-size: 23px;
+    }
+    .metric-side-label {
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 700;
+      line-height: 1;
     }
     .metric-side span {
       color: var(--muted);
@@ -767,17 +765,15 @@
             <div class="metric"><strong>550+</strong><span>SolPulse users</span></div>
             <div class="metric"><strong>650+</strong><span>Agentic users</span></div>
             <div class="metric metric-wide" aria-label="SolPulse rating and reviews">
-              <span class="metric-product">SolPulse</span>
               <div class="metric-split">
-                <div class="metric-side"><strong>4.3<svg class="rating-star" viewBox="0 0 24 24" aria-hidden="true"><path d="m12 2.75 2.77 5.62 6.2.9-4.49 4.38 1.06 6.18L12 16.91l-5.54 2.92 1.06-6.18-4.49-4.38 6.2-.9L12 2.75z"/></svg></strong><span>Rating</span></div>
-                <div class="metric-side"><strong>22</strong><span>Reviews</span></div>
+                <div class="metric-side"><span class="metric-side-label">SolPulse</span><strong>4.3<svg class="rating-star" viewBox="0 0 24 24" aria-hidden="true"><path d="m12 2.75 2.77 5.62 6.2.9-4.49 4.38 1.06 6.18L12 16.91l-5.54 2.92 1.06-6.18-4.49-4.38 6.2-.9L12 2.75z"/></svg></strong><span>Rating</span></div>
+                <div class="metric-side"><span class="metric-side-label">SolPulse</span><strong>22</strong><span>Reviews</span></div>
               </div>
             </div>
             <div class="metric metric-wide" aria-label="Agentic rating and reviews">
-              <span class="metric-product">Agentic</span>
               <div class="metric-split">
-                <div class="metric-side"><strong>4.2<svg class="rating-star" viewBox="0 0 24 24" aria-hidden="true"><path d="m12 2.75 2.77 5.62 6.2.9-4.49 4.38 1.06 6.18L12 16.91l-5.54 2.92 1.06-6.18-4.49-4.38 6.2-.9L12 2.75z"/></svg></strong><span>Rating</span></div>
-                <div class="metric-side"><strong>24</strong><span>Reviews</span></div>
+                <div class="metric-side"><span class="metric-side-label">Agentic</span><strong>4.2<svg class="rating-star" viewBox="0 0 24 24" aria-hidden="true"><path d="m12 2.75 2.77 5.62 6.2.9-4.49 4.38 1.06 6.18L12 16.91l-5.54 2.92 1.06-6.18-4.49-4.38 6.2-.9L12 2.75z"/></svg></strong><span>Rating</span></div>
+                <div class="metric-side"><span class="metric-side-label">Agentic</span><strong>24</strong><span>Reviews</span></div>
               </div>
             </div>
             <div class="metric"><strong>4</strong><span>Merged upstream PRs</span></div>
