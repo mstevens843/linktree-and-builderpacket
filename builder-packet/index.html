@@ -242,6 +242,7 @@
     .btn-primary:hover { color: #03110d; box-shadow: 0 0 40px -6px rgba(0, 212, 170, 0.85); }
 
     .btn-small { min-height: 38px; padding: 8px 12px; font-size: 12.5px; }
+    button.btn { font-family: inherit; cursor: pointer; }
 
     .btn-disabled { color: var(--faint); background: var(--soft); pointer-events: none; }
 
@@ -407,6 +408,14 @@
 
     .project-title-row { display: flex; justify-content: space-between; gap: 14px; align-items: start; }
     .project-name-wrap { display: flex; align-items: center; gap: 12px; min-width: 0; }
+    .project-actions {
+      display: flex;
+      align-items: flex-start;
+      justify-content: flex-end;
+      gap: 8px;
+      flex-wrap: wrap;
+      flex: 0 0 auto;
+    }
 
     .project-logo {
       width: 46px;
@@ -437,6 +446,30 @@
 
     .tag.good { border-color: rgba(0, 212, 170, 0.40); color: var(--accent); background: rgba(0, 212, 170, 0.10); }
     .tag.open { border-color: rgba(251, 191, 36, 0.35); color: var(--amber); background: rgba(251, 191, 36, 0.08); }
+
+    .demo-trigger {
+      width: auto;
+      min-height: 30px;
+      padding: 6px 10px;
+      border-radius: 999px;
+      border-color: rgba(0, 212, 170, 0.34);
+      background: rgba(0, 212, 170, 0.08);
+      color: var(--accent);
+      font-size: 11.5px;
+      line-height: 1;
+      box-shadow: 0 0 20px -12px rgba(0, 212, 170, 0.7);
+    }
+
+    .demo-trigger .icon { width: 14px; height: 14px; }
+
+    .demo-trigger:hover,
+    .demo-trigger:focus-visible {
+      color: #03110d;
+      border-color: transparent;
+      background: linear-gradient(135deg, var(--accent), #31e9cc);
+      box-shadow: 0 0 26px -8px rgba(0, 212, 170, 0.95);
+      outline: none;
+    }
 
     .project-copy { margin: 0; color: var(--body); font-size: 14px; line-height: 1.52; }
     .project-copy strong, .feature-list strong { color: var(--ink); font-weight: 700; font-family: "JetBrains Mono", ui-monospace, monospace; font-size: 0.95em; }
@@ -580,6 +613,108 @@
     .footer a { color: var(--accent); font-weight: 650; }
     .footer a:hover { text-decoration: underline; }
 
+    html.demo-open,
+    html.demo-open body {
+      overflow: hidden;
+    }
+
+    .demo-dialog {
+      width: auto;
+      max-width: calc(100vw - 24px);
+      max-height: calc(100dvh - 24px);
+      margin: auto;
+      padding: 0;
+      border: 0;
+      background: transparent;
+      color: var(--ink);
+      overflow: visible;
+    }
+
+    .demo-dialog::backdrop {
+      background: rgba(0, 0, 0, 0.76);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+    }
+
+    .demo-shell {
+      width: min(460px, calc(100vw - 24px));
+      max-height: calc(100dvh - 24px);
+      display: grid;
+      gap: 12px;
+      padding: 14px;
+      border: 1px solid var(--accent-border);
+      border-radius: 22px;
+      background:
+        radial-gradient(circle at 50% 0%, rgba(0, 212, 170, 0.18), transparent 42%),
+        rgba(10, 10, 10, 0.96);
+      box-shadow: 0 28px 90px rgba(0, 0, 0, 0.78), 0 0 60px -20px rgba(0, 212, 170, 0.75);
+      overflow: hidden;
+    }
+
+    .demo-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 14px;
+      min-width: 0;
+      padding: 2px 2px 0 4px;
+    }
+
+    .demo-title {
+      margin: 0;
+      color: var(--ink);
+      font-size: 15px;
+      line-height: 1.1;
+      font-weight: 800;
+    }
+
+    .demo-close {
+      display: grid;
+      place-items: center;
+      flex: 0 0 auto;
+      width: 38px;
+      height: 38px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      background: var(--soft);
+      color: var(--ink);
+      cursor: pointer;
+      transition: transform 0.16s ease, border-color 0.16s ease, background 0.16s ease, color 0.16s ease, box-shadow 0.16s ease;
+    }
+
+    .demo-close:hover,
+    .demo-close:focus-visible {
+      transform: translateY(-1px);
+      border-color: var(--accent-border);
+      background: var(--accent-soft);
+      color: var(--accent);
+      box-shadow: var(--glow-hover);
+      outline: none;
+    }
+
+    .demo-frame {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 0;
+      padding: 8px;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      background: rgba(255, 255, 255, 0.035);
+    }
+
+    .demo-frame video {
+      display: block;
+      width: auto;
+      max-width: 100%;
+      height: min(78dvh, 760px);
+      max-height: calc(100dvh - 132px);
+      border-radius: 15px;
+      background: #000;
+      box-shadow: 0 18px 60px rgba(0, 0, 0, 0.58);
+      object-fit: contain;
+    }
+
     /* dApp Store toast */
     #toast {
       position: fixed;
@@ -675,6 +810,7 @@
       }
 
       .btn { width: 100%; }
+      .demo-trigger { width: max-content; }
 
       .product-grid,
       .repo-grid {
@@ -694,8 +830,23 @@
       .metric > span { font-size: 11.5px; }
 
       .project-title-row { display: grid; }
+      .project-actions { justify-content: flex-start; }
 
       .tag { width: max-content; }
+
+      .demo-shell {
+        width: calc(100vw - 20px);
+        padding: 12px;
+        border-radius: 18px;
+      }
+
+      .demo-frame { padding: 6px; }
+
+      .demo-frame video {
+        height: min(72dvh, 720px);
+        max-height: calc(100dvh - 122px);
+        border-radius: 13px;
+      }
 
       .pr-link { grid-template-columns: 1fr auto; }
 
@@ -805,7 +956,13 @@
                   <div class="profile-meta">Solana trading platform</div>
                 </div>
               </div>
-              <span class="tag good">Live trading system</span>
+              <div class="project-actions">
+                <button class="btn btn-small demo-trigger" type="button" data-demo-src="assets/solpulse-demo.mp4" data-demo-title="SolPulse mobile demo" aria-label="Open SolPulse mobile demo">
+                  <i data-lucide="smartphone" class="icon" aria-hidden="true"></i>
+                  Demo
+                </button>
+                <span class="tag good">Live trading system</span>
+              </div>
             </div>
             <p class="project-copy">
               Solo-built production trading platform with multi-mode scanning, DCA, limit orders, smart TP/SL exits, 35 intelligence pillars, multi-DEX routing, priority fee controls, and institutional risk controls exposed through a consumer UI.
@@ -845,7 +1002,13 @@
                   <div class="profile-meta">First Solana-native multi-wallet agent signer</div>
                 </div>
               </div>
-              <span class="tag good">Non-Custodial AI Agent</span>
+              <div class="project-actions">
+                <button class="btn btn-small demo-trigger" type="button" data-demo-src="assets/agentic-demo.mp4" data-demo-title="Agentic mobile demo" aria-label="Open Agentic mobile demo">
+                  <i data-lucide="smartphone" class="icon" aria-hidden="true"></i>
+                  Demo
+                </button>
+                <span class="tag good">Non-Custodial AI Agent</span>
+              </div>
             </div>
             <p class="project-copy">
               First Solana-native multi-wallet agent signer, live at agentic-signer.com with Apple App Store, Google Play, verified Solana dApp Store, web app, CLI, and desktop releases. Agents propose chat-driven actions and plans; users approve or deny with their real wallet; keys never leave the wallet. One WalletBackend powers the chat/app flow, MCP tools, Vercel AI tools, Solana Agent Kit, CLI, desktop, and web surfaces.
@@ -1093,6 +1256,20 @@
     </div>
   </footer>
 
+  <dialog class="demo-dialog" id="demo-dialog" aria-labelledby="demo-dialog-title">
+    <div class="demo-shell">
+      <div class="demo-head">
+        <h2 class="demo-title" id="demo-dialog-title">Mobile demo</h2>
+        <button class="demo-close" type="button" data-demo-close aria-label="Close demo">
+          <i data-lucide="x" class="icon" aria-hidden="true"></i>
+        </button>
+      </div>
+      <div class="demo-frame">
+        <video id="demo-video" controls playsinline preload="metadata"></video>
+      </div>
+    </div>
+  </dialog>
+
   <div id="toast" role="status" aria-live="polite"></div>
 
   <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
@@ -1138,6 +1315,61 @@
       }
 
       renderInfraPage();
+    })();
+
+    (function () {
+      var dialog = document.getElementById('demo-dialog');
+      var video = document.getElementById('demo-video');
+      var title = document.getElementById('demo-dialog-title');
+      var close = document.querySelector('[data-demo-close]');
+      if (!dialog || !video || !title || !close) return;
+
+      function clearDemo() {
+        video.pause();
+        video.removeAttribute('src');
+        video.load();
+        document.documentElement.classList.remove('demo-open');
+      }
+
+      function closeDemo() {
+        if (dialog.open && typeof dialog.close === 'function') {
+          dialog.close();
+        } else {
+          dialog.removeAttribute('open');
+        }
+        clearDemo();
+      }
+
+      document.querySelectorAll('[data-demo-src]').forEach(function (trigger) {
+        trigger.addEventListener('click', function () {
+          var src = trigger.getAttribute('data-demo-src');
+          var demoTitle = trigger.getAttribute('data-demo-title') || 'Mobile demo';
+          title.textContent = demoTitle;
+          video.setAttribute('aria-label', demoTitle);
+          video.src = src;
+          video.currentTime = 0;
+          document.documentElement.classList.add('demo-open');
+
+          if (typeof dialog.showModal === 'function') {
+            dialog.showModal();
+          } else {
+            dialog.setAttribute('open', '');
+          }
+
+          var playRequest = video.play();
+          if (playRequest && typeof playRequest.catch === 'function') {
+            playRequest.catch(function () {});
+          }
+        });
+      });
+
+      close.addEventListener('click', closeDemo);
+
+      dialog.addEventListener('click', function (event) {
+        if (event.target === dialog) closeDemo();
+      });
+
+      dialog.addEventListener('close', clearDemo);
     })();
 
     /* dApp Store buttons: the solanadappstore:// scheme only resolves on Solana Seeker / Saga
