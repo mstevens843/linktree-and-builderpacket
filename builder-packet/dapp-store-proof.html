@@ -1,0 +1,327 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Solana dApp Store Proof - Mathew Stevens</title>
+<meta name="description" content="Solana dApp Store proof for Agentic and SolPulse: public listing screenshots, ratings, reviews, and platform links." />
+<meta name="theme-color" content="#0a0a0a" />
+<link rel="icon" type="image/png" href="assets/agentic.png" />
+<style>
+  :root {
+    --bg: #0a0a0a;
+    --panel: rgba(24, 24, 27, 0.72);
+    --panel-strong: rgba(18, 18, 21, 0.94);
+    --border: rgba(255, 255, 255, 0.12);
+    --border-hot: rgba(0, 212, 170, 0.46);
+    --accent: #00d4aa;
+    --text: #fafafa;
+    --muted: #a1a1aa;
+    --faint: #71717a;
+  }
+
+  * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0;
+    min-height: 100vh;
+    color: var(--text);
+    background: #0a0a0a;
+    font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  body::before {
+    content: "";
+    position: fixed;
+    inset: -260px auto auto 50%;
+    width: 760px;
+    height: 760px;
+    transform: translateX(-50%);
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(0, 212, 170, 0.18), rgba(0, 212, 170, 0.04) 48%, transparent 70%);
+    filter: blur(64px);
+    pointer-events: none;
+  }
+
+  a { color: inherit; }
+
+  .wrap {
+    position: relative;
+    z-index: 1;
+    width: min(1040px, calc(100% - 32px));
+    margin: 0 auto;
+    padding: 42px 0 58px;
+  }
+
+  .topline {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    margin-bottom: 30px;
+  }
+
+  .back {
+    display: inline-flex;
+    align-items: center;
+    min-height: 38px;
+    padding: 0 13px;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.04);
+    color: var(--muted);
+    font-size: 13px;
+    font-weight: 700;
+    text-decoration: none;
+  }
+
+  .kicker {
+    margin: 0 0 8px;
+    color: var(--accent);
+    font-size: 12px;
+    font-weight: 800;
+    letter-spacing: 1.3px;
+    text-transform: uppercase;
+  }
+
+  h1 {
+    max-width: 780px;
+    margin: 0;
+    font-size: clamp(34px, 7vw, 68px);
+    line-height: 0.94;
+    letter-spacing: 0;
+  }
+
+  .lede {
+    max-width: 720px;
+    margin: 18px 0 0;
+    color: var(--muted);
+    font-size: 17px;
+  }
+
+  .proof-shot {
+    margin: 30px 0 18px;
+    padding: 10px;
+    border: 1px solid var(--border-hot);
+    border-radius: 18px;
+    background: rgba(0, 212, 170, 0.05);
+    box-shadow: 0 24px 90px -48px rgba(0, 212, 170, 0.62);
+  }
+
+  .proof-shot img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    background: #050505;
+  }
+
+  .caption {
+    margin: 10px 2px 0;
+    color: var(--faint);
+    font-size: 12px;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 16px;
+    margin-top: 22px;
+  }
+
+  .card {
+    scroll-margin-top: 22px;
+    border: 1px solid var(--border);
+    border-radius: 18px;
+    background: var(--panel);
+    padding: 20px;
+  }
+
+  .card:target {
+    border-color: var(--border-hot);
+    box-shadow: 0 0 0 1px rgba(0, 212, 170, 0.18), 0 22px 70px -46px rgba(0, 212, 170, 0.9);
+  }
+
+  .app-head {
+    display: grid;
+    grid-template-columns: 54px 1fr;
+    gap: 14px;
+    align-items: center;
+    margin-bottom: 16px;
+  }
+
+  .logo {
+    width: 54px;
+    height: 54px;
+    border-radius: 14px;
+    object-fit: cover;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    background: #111;
+  }
+
+  h2 {
+    margin: 0;
+    font-size: 24px;
+    line-height: 1.1;
+    letter-spacing: 0;
+  }
+
+  .package {
+    margin-top: 3px;
+    color: var(--muted);
+    font-size: 13px;
+    overflow-wrap: anywhere;
+  }
+
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 8px;
+    margin: 14px 0 16px;
+  }
+
+  .stat {
+    min-height: 74px;
+    padding: 12px 10px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    background: var(--panel-strong);
+  }
+
+  .stat strong {
+    display: block;
+    color: var(--text);
+    font-size: 20px;
+    line-height: 1.1;
+  }
+
+  .stat span {
+    display: block;
+    margin-top: 5px;
+    color: var(--muted);
+    font-size: 12px;
+  }
+
+  .note {
+    margin: 0 0 18px;
+    color: var(--muted);
+    font-size: 14px;
+  }
+
+  .actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 40px;
+    padding: 0 14px;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    background: rgba(255, 255, 255, 0.05);
+    color: var(--text);
+    font-size: 13px;
+    font-weight: 800;
+    text-decoration: none;
+  }
+
+  .btn.primary {
+    border-color: var(--border-hot);
+    color: var(--accent);
+    background: rgba(0, 212, 170, 0.11);
+  }
+
+  .btn:hover,
+  .back:hover {
+    border-color: var(--border-hot);
+    color: var(--accent);
+  }
+
+  .foot {
+    margin-top: 24px;
+    color: var(--faint);
+    font-size: 12px;
+  }
+
+  @media (max-width: 760px) {
+    .wrap { width: min(100% - 24px, 520px); padding-top: 28px; }
+    .topline { align-items: flex-start; flex-direction: column; }
+    .grid { grid-template-columns: 1fr; }
+    .stats { grid-template-columns: 1fr; }
+    .proof-shot { margin-top: 24px; padding: 7px; border-radius: 14px; }
+    .proof-shot img { border-radius: 8px; }
+  }
+</style>
+</head>
+<body>
+  <main class="wrap">
+    <div class="topline">
+      <a class="back" href="./">Back to mattinfra.dev</a>
+      <p class="kicker">Solana dApp Store proof</p>
+    </div>
+
+    <h1>Public dApp Store traction, visible without a Solana Mobile device.</h1>
+    <p class="lede">The Solana dApp Store listing links are native Seeker/Saga deep links. This page provides browser-visible proof for the Agentic and SolPulse listings, ratings, reviews, and release presence.</p>
+
+    <figure class="proof-shot">
+      <img src="assets/dapp-store-proof.png" width="841" height="496" alt="Solana dApp Store listings for Agentic and SolPulse showing users, ratings, reviews, and platform buttons." />
+      <figcaption class="caption">Screenshot of the Solana dApp Store app listing surface showing Agentic and SolPulse.</figcaption>
+    </figure>
+
+    <section class="grid" aria-label="dApp Store proof cards">
+      <article class="card" id="agentic">
+        <div class="app-head">
+          <img class="logo" src="assets/agentic.png" alt="Agentic logo" />
+          <div>
+            <h2>Agentic</h2>
+            <div class="package">com.agentic.wallet</div>
+          </div>
+        </div>
+        <div class="stats" aria-label="Agentic dApp Store stats">
+          <div class="stat"><strong>750+</strong><span>users</span></div>
+          <div class="stat"><strong>26</strong><span>ratings</span></div>
+          <div class="stat"><strong>4.2</strong><span>star rating</span></div>
+        </div>
+        <p class="note">First Solana-native multi-wallet agent signer with Apple App Store, Google Play, and verified Solana dApp Store release surfaces.</p>
+        <div class="actions">
+          <a class="btn" href="https://agentic-signer.com" target="_blank" rel="noopener">Website</a>
+          <a class="btn" href="https://apps.apple.com/us/app/agentic-signer/id6774866574" target="_blank" rel="noopener">App Store</a>
+          <a class="btn" href="https://play.google.com/store/apps/details?id=com.agentic.wallet" target="_blank" rel="noopener">Google Play</a>
+          <a class="btn primary" href="solanadappstore://details?id=com.agentic.wallet">Native dApp Store</a>
+        </div>
+      </article>
+
+      <article class="card" id="solpulse">
+        <div class="app-head">
+          <img class="logo" src="assets/solpulse.png" alt="SolPulse logo" />
+          <div>
+            <h2>SolPulse</h2>
+            <div class="package">trade.solpulse.app</div>
+          </div>
+        </div>
+        <div class="stats" aria-label="SolPulse dApp Store stats">
+          <div class="stat"><strong>600+</strong><span>users</span></div>
+          <div class="stat"><strong>23</strong><span>reviews</span></div>
+          <div class="stat"><strong>4.3</strong><span>star rating</span></div>
+        </div>
+        <p class="note">Live Solana trading platform with Apple App Store, Google Play, Solana dApp Store, and web release surfaces.</p>
+        <div class="actions">
+          <a class="btn" href="https://solpulse.trade" target="_blank" rel="noopener">Website</a>
+          <a class="btn" href="https://apps.apple.com/us/app/solpulse/id6760656199?uo=4" target="_blank" rel="noopener">App Store</a>
+          <a class="btn" href="https://play.google.com/store/apps/details?id=trade.solpulse.app" target="_blank" rel="noopener">Google Play</a>
+          <a class="btn primary" href="solanadappstore://details?id=trade.solpulse.app">Native dApp Store</a>
+        </div>
+      </article>
+    </section>
+
+    <p class="foot">Native Solana dApp Store links require the Solana dApp Store app on supported Solana Mobile devices. Browser visitors can use this page as a shareable proof URL.</p>
+  </main>
+</body>
+</html>
