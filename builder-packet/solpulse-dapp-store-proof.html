@@ -1,0 +1,389 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>SolPulse Solana dApp Store Proof - Mathew Stevens</title>
+<meta name="description" content="Browser-visible Solana dApp Store proof for SolPulse: listing, 4.1 rating, 18 reviews, screenshots, and install links." />
+<meta property="og:title" content="SolPulse Solana dApp Store Proof" />
+<meta property="og:description" content="Public proof of SolPulse's Solana dApp Store listing, rating, and reviews." />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="assets/solpulse-dapp-store-ratings.png" />
+<meta name="theme-color" content="#0a0a0a" />
+<link rel="icon" type="image/png" href="assets/solpulse.png" />
+<style>
+  :root {
+    color-scheme: dark;
+    --bg: #0a0a0a;
+    --panel: rgba(24, 24, 27, 0.72);
+    --panel-strong: rgba(15, 15, 17, 0.94);
+    --line: rgba(255, 255, 255, 0.12);
+    --line-hot: rgba(0, 212, 170, 0.42);
+    --accent: #00d4aa;
+    --ink: #fafafa;
+    --body: #c7cdd1;
+    --muted: #a1a1aa;
+    --faint: #71717a;
+  }
+
+  * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+  html { scroll-behavior: smooth; }
+  html, body { margin: 0; min-height: 100%; overflow-x: hidden; }
+
+  body {
+    color: var(--ink);
+    background: var(--bg);
+    font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  body::before {
+    content: "";
+    position: fixed;
+    inset: -300px auto auto 50%;
+    width: 900px;
+    height: 760px;
+    transform: translateX(-50%);
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(0, 212, 170, 0.16), rgba(0, 212, 170, 0.04) 48%, transparent 72%);
+    filter: blur(74px);
+    pointer-events: none;
+  }
+
+  a { color: inherit; text-decoration: none; }
+  img { max-width: 100%; }
+
+  .wrap {
+    position: relative;
+    z-index: 1;
+    width: min(1120px, calc(100% - 32px));
+    margin: 0 auto;
+    padding: 34px 0 64px;
+  }
+
+  .topline {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    margin-bottom: 34px;
+  }
+
+  .back {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 38px;
+    padding: 0 14px;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.04);
+    color: var(--muted);
+    font-size: 13px;
+    font-weight: 750;
+  }
+
+  .back:hover, .btn:hover {
+    border-color: var(--line-hot);
+    color: var(--accent);
+  }
+
+  .source {
+    margin: 0;
+    color: var(--accent);
+    font-size: 12px;
+    font-weight: 800;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+  }
+
+  .hero {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 380px;
+    gap: 32px;
+    align-items: start;
+    margin-bottom: 30px;
+  }
+
+  .app-kicker {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 18px;
+    color: var(--muted);
+    font-size: 14px;
+    font-weight: 700;
+  }
+
+  .app-kicker img {
+    width: 42px;
+    height: 42px;
+    border-radius: 12px;
+    border: 1px solid var(--line);
+  }
+
+  h1 {
+    margin: 0;
+    max-width: 760px;
+    font-size: clamp(42px, 8vw, 78px);
+    line-height: 0.92;
+    letter-spacing: 0;
+  }
+
+  .lede {
+    max-width: 760px;
+    margin: 20px 0 0;
+    color: var(--body);
+    font-size: 18px;
+  }
+
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 10px;
+    margin-top: 24px;
+  }
+
+  .stat {
+    min-height: 84px;
+    padding: 14px 13px;
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    background: var(--panel-strong);
+  }
+
+  .stat strong {
+    display: block;
+    font-size: 26px;
+    line-height: 1.05;
+  }
+
+  .stat span {
+    display: block;
+    margin-top: 6px;
+    color: var(--muted);
+    font-size: 12px;
+    font-weight: 650;
+  }
+
+  .actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 9px;
+    margin-top: 24px;
+  }
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 42px;
+    padding: 0 15px;
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    background: rgba(255, 255, 255, 0.05);
+    color: var(--ink);
+    font-size: 13px;
+    font-weight: 800;
+  }
+
+  .btn.primary {
+    border-color: var(--line-hot);
+    color: var(--accent);
+    background: rgba(0, 212, 170, 0.10);
+  }
+
+  .note-card {
+    border: 1px solid var(--line);
+    border-radius: 18px;
+    background: var(--panel);
+    padding: 20px;
+  }
+
+  .note-card h2 {
+    margin: 0 0 8px;
+    font-size: 22px;
+    line-height: 1.1;
+  }
+
+  .note-card p {
+    margin: 0;
+    color: var(--muted);
+    font-size: 14px;
+  }
+
+  .section {
+    margin-top: 30px;
+  }
+
+  .section-head {
+    display: flex;
+    align-items: end;
+    justify-content: space-between;
+    gap: 18px;
+    margin-bottom: 14px;
+  }
+
+  h2 {
+    margin: 0;
+    font-size: clamp(27px, 5vw, 44px);
+    line-height: 1.05;
+    letter-spacing: 0;
+  }
+
+  .section-copy {
+    max-width: 660px;
+    margin: 0;
+    color: var(--muted);
+    font-size: 14px;
+  }
+
+  .screen-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 18px;
+  }
+
+  .screen-grid.reviews {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .shot {
+    margin: 0;
+    border: 1px solid var(--line);
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.035);
+    padding: 10px;
+    box-shadow: 0 22px 70px -54px rgba(0, 212, 170, 0.7);
+  }
+
+  .shot.featured {
+    border-color: var(--line-hot);
+    background: rgba(0, 212, 170, 0.045);
+  }
+
+  .shot img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 13px;
+    background: #050505;
+  }
+
+  .shot figcaption {
+    margin: 10px 4px 2px;
+    color: var(--faint);
+    font-size: 12px;
+  }
+
+  .footer-note {
+    margin: 28px 0 0;
+    color: var(--faint);
+    font-size: 12px;
+  }
+
+  @media (max-width: 920px) {
+    .hero { grid-template-columns: 1fr; }
+    .note-card { max-width: 620px; }
+    .screen-grid.reviews { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  }
+
+  @media (max-width: 640px) {
+    .wrap { width: min(100% - 24px, 520px); padding-top: 24px; }
+    .topline { align-items: flex-start; flex-direction: column; margin-bottom: 26px; }
+    .stats, .screen-grid, .screen-grid.reviews { grid-template-columns: 1fr; }
+    .section-head { display: grid; gap: 8px; align-items: start; }
+    .btn { width: 100%; }
+    .shot { border-radius: 16px; padding: 7px; }
+    .shot img { border-radius: 10px; }
+  }
+</style>
+</head>
+<body>
+  <main class="wrap">
+    <div class="topline">
+      <a class="back" href="./">Back to mattinfra.dev</a>
+      <p class="source">Solana dApp Store proof</p>
+    </div>
+
+    <section class="hero" aria-labelledby="page-title">
+      <div>
+        <div class="app-kicker">
+          <img src="assets/solpulse.png" alt="SolPulse app icon" />
+          <span>SolPulse - trade.solpulse.app</span>
+        </div>
+        <h1 id="page-title">SolPulse dApp Store ratings and reviews.</h1>
+        <p class="lede">Browser-visible proof for SolPulse's Solana dApp Store listing. The native store listing opens only through Solana Mobile devices, so this page preserves the public app listing, rating, and review evidence for desktop and standard mobile visitors.</p>
+
+        <div class="stats" aria-label="SolPulse Solana dApp Store stats">
+          <div class="stat"><strong>4.1/5</strong><span>average rating</span></div>
+          <div class="stat"><strong>18</strong><span>reviews shown in store</span></div>
+          <div class="stat"><strong>600+</strong><span>users across releases</span></div>
+        </div>
+
+        <div class="actions" aria-label="SolPulse links">
+          <a class="btn" href="https://solpulse.trade" target="_blank" rel="noopener">Website</a>
+          <a class="btn" href="https://apps.apple.com/us/app/solpulse/id6760656199?uo=4" target="_blank" rel="noopener">App Store</a>
+          <a class="btn" href="https://play.google.com/store/apps/details?id=trade.solpulse.app" target="_blank" rel="noopener">Google Play</a>
+          <a class="btn primary" href="solanadappstore://details?id=trade.solpulse.app">Native dApp Store</a>
+        </div>
+      </div>
+
+      <aside class="note-card" aria-label="Why this page exists">
+        <h2>Why a proof page?</h2>
+        <p>Solana Mobile documents dApp Store listings with the native <code>solanadappstore://</code> scheme. That works on supported Solana Mobile devices, but not as a public App Store-style browser page. These SolPulse screenshots were captured from the live Solana dApp Store on July 2, 2026.</p>
+      </aside>
+    </section>
+
+    <section class="section" aria-labelledby="listing-heading">
+      <div class="section-head">
+        <h2 id="listing-heading">Listing Surface</h2>
+        <p class="section-copy">Install page and rating summary shown from the Solana dApp Store mobile experience.</p>
+      </div>
+      <div class="screen-grid">
+        <figure class="shot featured">
+          <img src="assets/solpulse-dapp-store-listing.png" width="1200" height="2670" alt="SolPulse Solana dApp Store listing showing app icon, open button, 4.1 rating, description, and preview screenshots." />
+          <figcaption>SolPulse install/listing page in the Solana dApp Store.</figcaption>
+        </figure>
+        <figure class="shot featured">
+          <img src="assets/solpulse-dapp-store-ratings.png" width="920" height="2048" alt="SolPulse ratings and reviews summary showing 4.1 rating and 18 reviews." />
+          <figcaption>Ratings summary before opening the full review list.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section class="section" aria-labelledby="reviews-heading">
+      <div class="section-head">
+        <h2 id="reviews-heading">Review Evidence</h2>
+        <p class="section-copy">Sequential review-list captures from the SolPulse Solana dApp Store listing.</p>
+      </div>
+      <div class="screen-grid reviews">
+        <figure class="shot">
+          <img src="assets/solpulse-dapp-store-reviews-1.png" width="1200" height="2670" loading="lazy" decoding="async" alt="First SolPulse full reviews screenshot with recent Solana dApp Store reviews." />
+          <figcaption>Reviews screen 1.</figcaption>
+        </figure>
+        <figure class="shot">
+          <img src="assets/solpulse-dapp-store-reviews-2.png" width="1200" height="2670" loading="lazy" decoding="async" alt="Second SolPulse full reviews screenshot with additional Solana dApp Store reviews." />
+          <figcaption>Reviews screen 2.</figcaption>
+        </figure>
+        <figure class="shot">
+          <img src="assets/solpulse-dapp-store-reviews-3.png" width="1200" height="2670" loading="lazy" decoding="async" alt="Third SolPulse full reviews screenshot with more Solana dApp Store reviews." />
+          <figcaption>Reviews screen 3.</figcaption>
+        </figure>
+        <figure class="shot">
+          <img src="assets/solpulse-dapp-store-reviews-4.png" width="920" height="2048" loading="lazy" decoding="async" alt="Fourth SolPulse full reviews screenshot with older Solana dApp Store reviews." />
+          <figcaption>Reviews screen 4.</figcaption>
+        </figure>
+        <figure class="shot">
+          <img src="assets/solpulse-dapp-store-reviews-5.png" width="920" height="2048" loading="lazy" decoding="async" alt="Fifth SolPulse full reviews screenshot with older Solana dApp Store reviews." />
+          <figcaption>Reviews screen 5.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <p class="footer-note">Native dApp Store links require the Solana dApp Store app on supported Solana Mobile devices. This page is intended as a normal browser URL for teams reviewing SolPulse's public traction.</p>
+  </main>
+</body>
+</html>

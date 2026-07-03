@@ -417,6 +417,12 @@
       flex: 0 0 auto;
     }
 
+    .action-stack {
+      display: grid;
+      justify-items: end;
+      gap: 6px;
+    }
+
     .project-logo {
       width: 46px;
       height: 46px;
@@ -446,6 +452,21 @@
 
     .tag.good { border-color: rgba(0, 212, 170, 0.40); color: var(--accent); background: rgba(0, 212, 170, 0.10); }
     .tag.open { border-color: rgba(251, 191, 36, 0.35); color: var(--amber); background: rgba(251, 191, 36, 0.08); }
+
+    .review-proof-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.1;
+      font-weight: 700;
+      white-space: nowrap;
+      transition: color 0.15s ease;
+    }
+
+    .review-proof-link:hover { color: var(--ink); }
+    .review-proof-link .icon { width: 14px; height: 14px; stroke-width: 2.1; }
 
     .demo-trigger {
       width: auto;
@@ -820,6 +841,7 @@
 
       .project-title-row { display: grid; }
       .project-actions { justify-content: flex-start; }
+      .action-stack { justify-items: start; }
 
       .tag { width: max-content; }
 
@@ -902,7 +924,7 @@
             <div class="metric metric-wide" aria-label="SolPulse rating and reviews">
               <div class="metric-split">
                 <div class="metric-side"><span class="metric-side-label">SolPulse</span><strong>4.3<svg class="rating-star" viewBox="0 0 24 24" aria-hidden="true"><path d="m12 2.75 2.77 5.62 6.2.9-4.49 4.38 1.06 6.18L12 16.91l-5.54 2.92 1.06-6.18-4.49-4.38 6.2-.9L12 2.75z"/></svg></strong><span>Rating</span></div>
-                <div class="metric-side"><span class="metric-side-label">SolPulse</span><strong>23</strong><span>Reviews</span></div>
+                <div class="metric-side"><span class="metric-side-label">SolPulse</span><strong>24</strong><span>Reviews</span></div>
               </div>
             </div>
             <div class="metric"><strong>4</strong><span>Merged upstream PRs</span></div>
@@ -940,7 +962,13 @@
                   <i data-lucide="smartphone" class="icon" aria-hidden="true"></i>
                   Demo
                 </button>
-                <span class="tag good">Non-Custodial AI Agent</span>
+                <div class="action-stack">
+                  <span class="tag good">Non-Custodial AI Agent</span>
+                  <a class="review-proof-link" href="https://mattinfra.dev/agentic-dapp-store-proof.html" target="_blank" rel="noreferrer" aria-label="Open Agentic Solana dApp Store review proof">
+                    <i data-lucide="file-text" class="icon" aria-hidden="true"></i>
+                    Review proof
+                  </a>
+                </div>
               </div>
             </div>
             <p class="project-copy">
@@ -964,7 +992,7 @@
                 <svg class="gicon" viewBox="0 0 512 512" aria-hidden="true"><defs><linearGradient id="gp1a" x1="241.7" y1="68.8" x2="35.3" y2="275.2" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#00a0ff"/><stop offset=".26" stop-color="#00bdff"/><stop offset=".51" stop-color="#00d2ff"/><stop offset=".76" stop-color="#00dfff"/><stop offset="1" stop-color="#00e3ff"/></linearGradient><linearGradient id="gp2a" x1="447.9" y1="256" x2="29.5" y2="256" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ffe000"/><stop offset=".41" stop-color="#ffbd00"/><stop offset=".78" stop-color="#ffa500"/><stop offset="1" stop-color="#ff9c00"/></linearGradient><linearGradient id="gp3a" x1="291.4" y1="295.6" x2="-50.1" y2="637.1" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ff3a44"/><stop offset="1" stop-color="#c31162"/></linearGradient><linearGradient id="gp4a" x1="69.6" y1="-35.5" x2="222.1" y2="116.9" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#32a071"/><stop offset=".07" stop-color="#2da771"/><stop offset=".48" stop-color="#15cf74"/><stop offset=".8" stop-color="#06e775"/><stop offset="1" stop-color="#00f076"/></linearGradient></defs><path fill="url(#gp1a)" d="M28.6 24.3c-4.7 5-7.5 12.7-7.5 22.7v418c0 10 2.8 17.7 7.5 22.7l1.4 1.4 234.2-234.2v-5.5L30 22.9z"/><path fill="url(#gp2a)" d="M342 412.4l-78-78v-5.5l78-78.1 1.8 1 92.5 52.5c26.4 15 26.4 39.6 0 54.6l-92.5 52.5z"/><path fill="url(#gp3a)" d="M343.8 411.4L264 331.6 29.9 565.7c8.7 9.2 23.1 10.4 39.3 1.2l274.6-155.5"/><path fill="url(#gp4a)" d="M343.8 256.1L69.2 100.5C53 91.3 38.6 92.5 29.9 101.7l234.1 234z"/></svg>
                 Google Play
               </a>
-              <a class="btn btn-small dapp" href="dapp-store-proof.html#agentic" data-native-href="solanadappstore://details?id=com.agentic.wallet" target="_blank" rel="noreferrer">
+              <a class="btn btn-small dapp" href="https://mattinfra.dev/agentic-dapp-store-proof.html" target="_blank" rel="noreferrer">
                 <!-- <svg class="gicon" viewBox="0 0 397.7 311.7" aria-hidden="true"><defs><linearGradient id="sol-ag" x1="360.879" y1="-37.455" x2="141.213" y2="383.294" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#00ffa3"/><stop offset="1" stop-color="#dc1fff"/></linearGradient></defs><path fill="url(#sol-ag)" d="M64.6 237.9c2.4-2.4 5.7-3.8 9.2-3.8h317.4c5.8 0 8.7 7 4.6 11.1l-62.7 62.7c-2.4 2.4-5.7 3.8-9.2 3.8H6.5c-5.8 0-8.7-7-4.6-11.1z"/><path fill="url(#sol-ag)" d="M64.6 3.8C67.1 1.4 70.4 0 73.8 0h317.4c5.8 0 8.7 7 4.6 11.1l-62.7 62.7c-2.4 2.4-5.7 3.8-9.2 3.8H6.5c-5.8 0-8.7-7-4.6-11.1z"/><path fill="url(#sol-ag)" d="M333.1 120.1c-2.4-2.4-5.7-3.8-9.2-3.8H6.5c-5.8 0-8.7 7-4.6 11.1l62.7 62.7c2.4 2.4 5.7 3.8 9.2 3.8h317.4c5.8 0 8.7-7 4.6-11.1z"/></svg> -->
                 <svg class="gicon solana-mobile-mark" viewBox="0 0 398 312" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M64.6 237.9c2.4-2.4 5.7-3.8 9.2-3.8h317.4c5.8 0 8.7 7 4.6 11.1l-62.7 62.7c-2.4 2.4-5.7 3.8-9.2 3.8H6.5c-5.8 0-8.7-7-4.6-11.1l62.7-62.7z" fill="white"/><path d="M64.6 3.8C67.1 1.4 70.4 0 73.8 0h317.4c5.8 0 8.7 7 4.6 11.1l-62.7 62.7c-2.4 2.4-5.7 3.8-9.2 3.8H6.5c-5.8 0-8.7-7-4.6-11.1L64.6 3.8z" fill="white"/><path d="M333.1 120.1c-2.4-2.4-5.7-3.8-9.2-3.8H6.5c-5.8 0-8.7 7-4.6 11.1l62.7 62.7c2.4 2.4 5.7 3.8 9.2 3.8h317.4c5.8 0 8.7-7 4.6-11.1l-62.7-62.7z" fill="white"/></svg>
                 dApp Store
@@ -986,14 +1014,20 @@
                   <i data-lucide="smartphone" class="icon" aria-hidden="true"></i>
                   Demo
                 </button>
-                <span class="tag good">Live trading system</span>
+                <div class="action-stack">
+                  <span class="tag good">Live trading system</span>
+                  <a class="review-proof-link" href="https://mattinfra.dev/solpulse-dapp-store-proof.html" target="_blank" rel="noreferrer" aria-label="Open SolPulse Solana dApp Store review proof">
+                    <i data-lucide="file-text" class="icon" aria-hidden="true"></i>
+                    Review proof
+                  </a>
+                </div>
               </div>
             </div>
             <p class="project-copy">
               Solo-built production trading platform with multi-mode scanning, DCA, limit orders, smart TP/SL exits, 35 intelligence pillars, multi-DEX routing, priority fee controls, and institutional risk controls exposed through a consumer UI.
             </p>
             <ul class="feature-list">
-              <li>600+ users, 23 reviews, 4.3-star rating, Apple App Store, Solana dApp Store, and web releases.</li>
+              <li>600+ users, 24 reviews, 4.3-star rating, Apple App Store, Solana dApp Store, and web releases.</li>
               <li>Execution path documented for 1,200 concurrent transactions and 10ms monitoring intervals.</li>
               <li>Seed Vault and Mobile Wallet Adapter signing flows keep keys inside user wallets/devices.</li>
             </ul>
@@ -1010,7 +1044,7 @@
                 <svg class="gicon" viewBox="0 0 512 512" aria-hidden="true"><defs><linearGradient id="gp1s" x1="241.7" y1="68.8" x2="35.3" y2="275.2" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#00a0ff"/><stop offset=".26" stop-color="#00bdff"/><stop offset=".51" stop-color="#00d2ff"/><stop offset=".76" stop-color="#00dfff"/><stop offset="1" stop-color="#00e3ff"/></linearGradient><linearGradient id="gp2s" x1="447.9" y1="256" x2="29.5" y2="256" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ffe000"/><stop offset=".41" stop-color="#ffbd00"/><stop offset=".78" stop-color="#ffa500"/><stop offset="1" stop-color="#ff9c00"/></linearGradient><linearGradient id="gp3s" x1="291.4" y1="295.6" x2="-50.1" y2="637.1" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ff3a44"/><stop offset="1" stop-color="#c31162"/></linearGradient><linearGradient id="gp4s" x1="69.6" y1="-35.5" x2="222.1" y2="116.9" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#32a071"/><stop offset=".07" stop-color="#2da771"/><stop offset=".48" stop-color="#15cf74"/><stop offset=".8" stop-color="#06e775"/><stop offset="1" stop-color="#00f076"/></linearGradient></defs><path fill="url(#gp1s)" d="M28.6 24.3c-4.7 5-7.5 12.7-7.5 22.7v418c0 10 2.8 17.7 7.5 22.7l1.4 1.4 234.2-234.2v-5.5L30 22.9z"/><path fill="url(#gp2s)" d="M342 412.4l-78-78v-5.5l78-78.1 1.8 1 92.5 52.5c26.4 15 26.4 39.6 0 54.6l-92.5 52.5z"/><path fill="url(#gp3s)" d="M343.8 411.4L264 331.6 29.9 565.7c8.7 9.2 23.1 10.4 39.3 1.2l274.6-155.5"/><path fill="url(#gp4s)" d="M343.8 256.1L69.2 100.5C53 91.3 38.6 92.5 29.9 101.7l234.1 234z"/></svg>
                 Google Play
               </a>
-              <a class="btn btn-small dapp" href="dapp-store-proof.html#solpulse" data-native-href="solanadappstore://details?id=trade.solpulse.app" target="_blank" rel="noreferrer">
+              <a class="btn btn-small dapp" href="https://mattinfra.dev/solpulse-dapp-store-proof.html" target="_blank" rel="noreferrer">
                 <!-- <svg class="gicon" viewBox="0 0 397.7 311.7" aria-hidden="true"><defs><linearGradient id="sol-sp" x1="360.879" y1="-37.455" x2="141.213" y2="383.294" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#00ffa3"/><stop offset="1" stop-color="#dc1fff"/></linearGradient></defs><path fill="url(#sol-sp)" d="M64.6 237.9c2.4-2.4 5.7-3.8 9.2-3.8h317.4c5.8 0 8.7 7 4.6 11.1l-62.7 62.7c-2.4 2.4-5.7 3.8-9.2 3.8H6.5c-5.8 0-8.7-7-4.6-11.1z"/><path fill="url(#sol-sp)" d="M64.6 3.8C67.1 1.4 70.4 0 73.8 0h317.4c5.8 0 8.7 7 4.6 11.1l-62.7 62.7c-2.4 2.4-5.7 3.8-9.2 3.8H6.5c-5.8 0-8.7-7-4.6-11.1z"/><path fill="url(#sol-sp)" d="M333.1 120.1c-2.4-2.4-5.7-3.8-9.2-3.8H6.5c-5.8 0-8.7 7-4.6 11.1l62.7 62.7c2.4 2.4 5.7 3.8 9.2 3.8h317.4c5.8 0 8.7-7 4.6-11.1z"/></svg> -->
                 <svg class="gicon solana-mobile-mark" viewBox="0 0 398 312" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M64.6 237.9c2.4-2.4 5.7-3.8 9.2-3.8h317.4c5.8 0 8.7 7 4.6 11.1l-62.7 62.7c-2.4 2.4-5.7 3.8-9.2 3.8H6.5c-5.8 0-8.7-7-4.6-11.1l62.7-62.7z" fill="white"/><path d="M64.6 3.8C67.1 1.4 70.4 0 73.8 0h317.4c5.8 0 8.7 7 4.6 11.1l-62.7 62.7c-2.4 2.4-5.7 3.8-9.2 3.8H6.5c-5.8 0-8.7-7-4.6-11.1L64.6 3.8z" fill="white"/><path d="M333.1 120.1c-2.4-2.4-5.7-3.8-9.2-3.8H6.5c-5.8 0-8.7 7-4.6 11.1l62.7 62.7c2.4 2.4 5.7 3.8 9.2 3.8h317.4c5.8 0 8.7-7 4.6-11.1l-62.7-62.7z" fill="white"/></svg>
                 dApp Store
@@ -1349,51 +1383,8 @@
       dialog.addEventListener('close', clearDemo);
     })();
 
-    /* dApp Store buttons: Solana Mobile only documents the native solanadappstore:// scheme.
-       Regular browsers get a local proof page with screenshots and review stats; Android gets
-       one native open attempt first, then falls back if the browser remains visible. */
-    (function () {
-      var toast = document.getElementById('toast');
-      var timer;
-      function showToast(html) {
-        if (!toast) return;
-        toast.innerHTML = html;
-        toast.classList.add('show');
-        clearTimeout(timer);
-        timer = setTimeout(function () { toast.classList.remove('show'); }, 3200);
-      }
-      function isAndroid() {
-        return /Android/i.test(navigator.userAgent || '');
-      }
-      document.querySelectorAll('a.dapp[data-native-href]').forEach(function (el) {
-        el.addEventListener('click', function (event) {
-          var nativeHref = el.getAttribute('data-native-href');
-          var fallbackHref = el.getAttribute('href');
-
-          if (!nativeHref || !fallbackHref || !isAndroid()) {
-            return;
-          }
-
-          event.preventDefault();
-          showToast('Opening <span class="sol">Solana dApp Store</span> if available');
-
-          var pageHidden = false;
-          function markHidden() {
-            if (document.visibilityState === 'hidden') pageHidden = true;
-          }
-
-          document.addEventListener('visibilitychange', markHidden);
-          window.location.href = nativeHref;
-
-          setTimeout(function () {
-            document.removeEventListener('visibilitychange', markHidden);
-            if (!pageHidden && document.visibilityState !== 'hidden') {
-              window.location.href = fallbackHref;
-            }
-          }, 1600);
-        });
-      });
-    })();
+    /* dApp Store buttons intentionally point to a normal HTTPS proof page.
+       Native store links live on that proof page as explicit secondary actions. */
   </script>
 </body>
 </html>
