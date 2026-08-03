@@ -3,25 +3,24 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-<title>Mathew Stevens — Solana Developer</title>
-<meta name="description" content="Full-stack Solana developer. Trading infrastructure, agent wallets, and cross-platform Mobile Wallet Adapter SDKs. SolPulse · Agentic · open-source MWA SDKs." />
+<title>Mathew Stevens — Full-Stack Software Engineer</title>
+<meta name="description" content="Full-stack software engineer building live products, real-time systems, AI-agent tools, SDKs, and mobile apps. SolPulse · Agentic · open-source infrastructure." />
 <meta name="theme-color" content="#0a0a0a" />
 <link rel="icon" type="image/png" href="assets/agentic-favicon.png" />
 <link rel="apple-touch-icon" href="assets/agentic.png" />
 
-<!-- Social share card (X / iMessage / Slack).
-     NOTE: update the absolute URLs below to your real deploy domain (e.g. links.solpulse.trade). -->
+<!-- Social share card (X / iMessage / Slack). -->
 <meta property="og:type" content="website" />
-<meta property="og:title" content="Mathew Stevens — Solana Developer" />
-<meta property="og:description" content="Trading infrastructure, agent wallets, and cross-platform Mobile Wallet Adapter SDKs." />
-<meta property="og:url" content="https://links.solpulse.trade/" />
-<meta property="og:image" content="https://links.solpulse.trade/assets/og.png" />
+<meta property="og:title" content="Mathew Stevens — Full-Stack Software Engineer" />
+<meta property="og:description" content="Live products, real-time systems, AI-agent tools, SDKs, and mobile apps." />
+<meta property="og:url" content="https://mattinfra.dev/" />
+<meta property="og:image" content="https://mattinfra.dev/assets/og.png" />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="628" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Mathew Stevens — Solana Developer" />
-<meta name="twitter:description" content="Trading infrastructure, agent wallets, and cross-platform Mobile Wallet Adapter SDKs." />
-<meta name="twitter:image" content="https://links.solpulse.trade/assets/og.png" />
+<meta name="twitter:title" content="Mathew Stevens — Full-Stack Software Engineer" />
+<meta name="twitter:description" content="Live products, real-time systems, AI-agent tools, SDKs, and mobile apps." />
+<meta name="twitter:image" content="https://mattinfra.dev/assets/og.png" />
 <meta name="twitter:site" content="@mattinfra" />
 
 <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -75,9 +74,10 @@
   .wrap {
     position: relative;
     z-index: 1;
+    width: min(500px, calc(100vw - 56px));
     max-width: 500px;
     margin: 0 auto;
-    padding: 56px 20px 48px;
+    padding: 56px 0 48px;
   }
 
   /* ---------- Header ---------- */
@@ -176,6 +176,8 @@
     display: flex;
     align-items: center;
     gap: 14px;
+    width: 100%;
+    min-width: 0;
     padding: 14px 16px;
     margin-bottom: 12px;
     border-radius: 16px;
@@ -249,10 +251,10 @@
   a.repo { text-decoration: none; color: inherit; }
   .repo-meta { flex: 1 1 auto; min-width: 0; }
   .repo-name { font-size: 15px; font-weight: 700; letter-spacing: -0.01em; }
-  .repo-sub { font-size: 12px; color: var(--muted); margin-top: 2px; }
+  .repo-sub { font-size: 12px; color: var(--muted); margin-top: 2px; overflow-wrap: anywhere; }
   .repo .ghmark {
     flex: 0 0 auto;
-    width: 40px; height: 40px;
+    width: 38px; height: 38px;
     display: grid; place-items: center;
     border-radius: 50%;
     border: 1px solid var(--border);
@@ -268,8 +270,8 @@
 
   /* ---------- Icon buttons ---------- */
   .iconbtn {
-    width: 42px;
-    height: 42px;
+    width: 40px;
+    height: 40px;
     display: grid;
     place-items: center;
     border-radius: 50%;
@@ -287,7 +289,7 @@
     box-shadow: 0 0 18px -4px rgba(0, 212, 170, 0.5);
     outline: none;
   }
-  .iconbtn svg { width: 20px; height: 20px; display: block; }
+  .iconbtn svg { width: 19px; height: 19px; display: block; }
   .iconbtn .solana-mobile-mark { width: 22px; height: 18px; }
   /* Brand-colored marks keep their colors (no tint) but still get the glow */
   .iconbtn.brand:hover { color: inherit; }
@@ -310,7 +312,7 @@
     border: 1px solid var(--border);
     background: rgba(255, 255, 255, 0.03);
   }
-  .copy { font-size: 11.5px; color: var(--faint); }
+  .copy { font-size: 11.5px; color: var(--faint); line-height: 1.45; overflow-wrap: anywhere; }
   .copy b { color: var(--muted); font-weight: 600; }
 
   /* ---------- Toast ---------- */
@@ -352,22 +354,26 @@
   }
 
   @media (max-width: 520px) {
+    .wrap { width: min(360px, calc(100vw - 32px)); }
     .tile.app {
       grid-template-areas:
         "logo meta"
         "actions actions";
     }
-    .app-actions { justify-self: end; }
+    .app-actions {
+      justify-self: start;
+      padding-left: 66px;
+    }
   }
 
   /* ---------- Narrow phones ---------- */
   @media (max-width: 380px) {
-    .wrap { padding-top: 44px; }
+    .wrap { width: calc(100vw - 28px); padding-top: 44px; }
     .app-logo { width: 46px; height: 46px; }
     .tile.app { grid-template-columns: 46px minmax(0, 1fr); }
-    .iconbtn { width: 38px; height: 38px; }
+    .iconbtn { width: 37px; height: 37px; }
     .iconbtn svg { width: 18px; height: 18px; }
-    .app-actions { gap: 6px; }
+    .app-actions { gap: 6px; padding-left: 60px; }
     .tile { gap: 11px; padding: 12px 13px; }
   }
 </style>
@@ -383,8 +389,8 @@
         </div>
       </div>
       <h1 class="name">Mathew Stevens</h1>
-      <p class="tagline">Full-stack Solana developer</p>
-      <p class="subtagline">Trading infrastructure · agent wallets · cross-platform wallet SDKs</p>
+      <p class="tagline">Full-stack software engineer</p>
+      <p class="subtagline">Live products · real-time systems · AI agents · SDKs</p>
 
       <div class="socials">
         <a class="iconbtn" href="https://github.com/mstevens843" target="_blank" rel="noopener" aria-label="GitHub">
@@ -407,7 +413,7 @@
       <img class="app-logo" src="assets/agentic.png" alt="Agentic logo" />
       <div class="app-meta">
         <div class="app-name">Agentic</div>
-        <div class="app-sub">Solana agent-wallet · 1000+ users · 35 reviews · <span class="rating-value">4.2<svg class="rating-star" viewBox="0 0 24 24" aria-hidden="true"><path d="m12 2.75 2.77 5.62 6.2.9-4.49 4.38 1.06 6.18L12 16.91l-5.54 2.92 1.06-6.18-4.49-4.38 6.2-.9L12 2.75z"/></svg></span></div>
+        <div class="app-sub">AI-agent signer · 1000+ users · 36 reviews · <span class="rating-value">4.2<svg class="rating-star" viewBox="0 0 24 24" aria-hidden="true"><path d="m12 2.75 2.77 5.62 6.2.9-4.49 4.38 1.06 6.18L12 16.91l-5.54 2.92 1.06-6.18-4.49-4.38 6.2-.9L12 2.75z"/></svg></span></div>
       </div>
       <div class="app-actions">
         <a class="iconbtn" href="https://agentic-signer.com" target="_blank" rel="noopener" aria-label="Agentic website" title="Website">
@@ -431,7 +437,7 @@
       <img class="app-logo" src="assets/solpulse.png" alt="SolPulse logo" />
       <div class="app-meta">
         <div class="app-name">SolPulse</div>
-        <div class="app-sub">Solana trading platform · 750+ users · 26 reviews · <span class="rating-value">4.3<svg class="rating-star" viewBox="0 0 24 24" aria-hidden="true"><path d="m12 2.75 2.77 5.62 6.2.9-4.49 4.38 1.06 6.18L12 16.91l-5.54 2.92 1.06-6.18-4.49-4.38 6.2-.9L12 2.75z"/></svg></span></div>
+        <div class="app-sub">Real-time trading · 800+ users · 26 reviews · <span class="rating-value">4.3<svg class="rating-star" viewBox="0 0 24 24" aria-hidden="true"><path d="m12 2.75 2.77 5.62 6.2.9-4.49 4.38 1.06 6.18L12 16.91l-5.54 2.92 1.06-6.18-4.49-4.38 6.2-.9L12 2.75z"/></svg></span></div>
       </div>
       <div class="app-actions">
         <a class="iconbtn" href="https://solpulse.trade" target="_blank" rel="noopener" aria-label="SolPulse website" title="Website">
@@ -455,8 +461,8 @@
 
     <a class="tile repo reveal" style="animation-delay:.24s" href="https://github.com/mstevens843/solana-tx-guard" target="_blank" rel="noopener">
       <div class="repo-meta">
-        <div class="repo-name">TxShield / Solana Tx Guard</div>
-        <div class="repo-sub">Open pre-sign transaction safety for wallets and dApps</div>
+        <div class="repo-name">TxShield / Tx Guard</div>
+        <div class="repo-sub">Open pre-sign transaction safety for wallets and apps</div>
       </div>
       <span class="ghmark" aria-label="View on GitHub">
         <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.305-5.467-1.334-5.467-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12z"/></svg>
@@ -465,8 +471,8 @@
 
     <a class="tile repo reveal" style="animation-delay:.27s" href="https://github.com/mstevens843/ios-solana-wallet-adapter" target="_blank" rel="noopener">
       <div class="repo-meta">
-        <div class="repo-name">iOS Solana Wallet Adapter</div>
-        <div class="repo-sub">Native iOS deeplink signing — Phantom, Solflare, Backpack</div>
+        <div class="repo-name">iOS Native Wallet Adapter</div>
+        <div class="repo-sub">Swift package for encrypted wallet deeplink signing</div>
       </div>
       <span class="ghmark" aria-label="View on GitHub">
         <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.305-5.467-1.334-5.467-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12z"/></svg>
@@ -476,7 +482,7 @@
     <a class="tile repo reveal" style="animation-delay:.30s" href="https://github.com/mstevens843/cocos-solana-mwa-sdk" target="_blank" rel="noopener">
       <div class="repo-meta">
         <div class="repo-name">Cocos Creator MWA SDK</div>
-        <div class="repo-sub">First Solana MWA 2.0 SDK for Cocos Creator · zero-dep core</div>
+        <div class="repo-sub">First Mobile Wallet Adapter SDK for Cocos Creator</div>
       </div>
       <span class="ghmark" aria-label="View on GitHub">
         <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.305-5.467-1.334-5.467-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12z"/></svg>
@@ -486,7 +492,7 @@
     <a class="tile repo reveal" style="animation-delay:.33s" href="https://github.com/mstevens843/unreal-solana-mwa" target="_blank" rel="noopener">
       <div class="repo-meta">
         <div class="repo-name">Unreal Engine MWA SDK</div>
-        <div class="repo-sub">First production Solana MWA plugin for Unreal Engine 5</div>
+        <div class="repo-sub">Production-ready UE5 wallet adapter plugin</div>
       </div>
       <span class="ghmark" aria-label="View on GitHub">
         <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.305-5.467-1.334-5.467-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12z"/></svg>
@@ -495,8 +501,8 @@
 
     <a class="tile repo reveal" style="animation-delay:.36s" href="https://github.com/mstevens843/capacitor-solana-mobile-wallet-adapter" target="_blank" rel="noopener">
       <div class="repo-meta">
-        <div class="repo-name">Capacitor Solana MWA</div>
-        <div class="repo-sub">First Capacitor plugin for Solana Mobile Wallet Adapter</div>
+        <div class="repo-name">Capacitor Mobile Wallet Adapter</div>
+        <div class="repo-sub">Native Android wallet bridge for Capacitor apps</div>
       </div>
       <span class="ghmark" aria-label="View on GitHub">
         <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.305-5.467-1.334-5.467-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12z"/></svg>
@@ -505,8 +511,8 @@
 
     <a class="tile repo reveal" style="animation-delay:.39s" href="https://github.com/mstevens843/godot-solana-mwa-example" target="_blank" rel="noopener">
       <div class="repo-meta">
-        <div class="repo-name">Godot MWA SDK</div>
-        <div class="repo-sub">Godot MWA brought to RN parity — Solana Mobile grant · merged PRs</div>
+        <div class="repo-name">Godot Mobile Wallet Adapter</div>
+        <div class="repo-sub">Merged reconnect, SIWS, auth-cache, and sign/send PRs</div>
       </div>
       <span class="ghmark" aria-label="View on GitHub">
         <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.305-5.467-1.334-5.467-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12z"/></svg>
@@ -515,8 +521,8 @@
 
     <a class="tile repo reveal" style="animation-delay:.42s" href="https://github.com/mstevens843/unity-solana-mwa-example" target="_blank" rel="noopener">
       <div class="repo-meta">
-        <div class="repo-name">Unity MWA SDK</div>
-        <div class="repo-sub">Unity MWA brought to RN parity — Solana Mobile grant · merged PRs</div>
+        <div class="repo-name">Unity Mobile Wallet Adapter</div>
+        <div class="repo-sub">Merged WebGL wallet auto-select UX PR</div>
       </div>
       <span class="ghmark" aria-label="View on GitHub">
         <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.305-5.467-1.334-5.467-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12z"/></svg>
@@ -529,6 +535,8 @@
         <span class="pill">React</span>
         <span class="pill">Node.js</span>
         <span class="pill">TypeScript</span>
+        <span class="pill">PostgreSQL</span>
+        <span class="pill">Redis</span>
         <span class="pill">Swift</span>
         <span class="pill">Kotlin</span>
         <span class="pill">C++</span>
@@ -537,10 +545,12 @@
         <span class="pill">Unreal</span>
         <span class="pill">Godot</span>
         <span class="pill">Cocos</span>
+        <span class="pill">SDKs</span>
+        <span class="pill">AI Agents</span>
         <span class="pill">Solana</span>
         <span class="pill">Anchor</span>
       </div>
-      <div class="copy">© 2026 <b>Mathew Stevens</b> · Built on Solana</div>
+      <div class="copy">© 2026 <b>Mathew Stevens</b> · Full-stack products, SDKs, and real-time systems</div>
     </footer>
   </main>
 
