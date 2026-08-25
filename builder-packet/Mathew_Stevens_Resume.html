@@ -66,8 +66,8 @@
     border: 1px solid #d7ebea;
     background: #f4fbfa;
     border-radius: 8px;
-    font-size: 10.35px;
-    line-height: 1.38;
+    font-size: 9.9px;
+    line-height: 1.32;
     color: #263238;
   }
   .grid {
@@ -119,16 +119,16 @@
   }
   li {
     margin: 0 0 2.2px;
-    font-size: 9.45px;
-    line-height: 1.28;
+    font-size: 9.25px;
+    line-height: 1.24;
     color: #273740;
   }
   .tight li { margin-bottom: 1.8px; }
   .skills {
     display: grid;
     gap: 5px;
-    font-size: 9.25px;
-    line-height: 1.28;
+    font-size: 9.05px;
+    line-height: 1.24;
     color: #2f3f46;
   }
   .skill-row strong { color: #172026; font-weight: 820; }
@@ -160,15 +160,17 @@
   .edu p { margin: 0 0 5px; font-size: 9.35px; line-height: 1.3; color: #2f3f46; }
   .small-note { font-size: 8.9px; color: #64737b; line-height: 1.3; margin-top: 4px; }
   @media print {
-    .page { padding: 0.38in 0.48in 0.32in; }
-    header { padding-bottom: 10px; }
+    .page { padding: 0.34in 0.48in 0.28in; }
+    header { padding-bottom: 8px; }
     .summary {
-      margin: 9px 0 8px;
-      padding: 9px 12px;
-      line-height: 1.34;
+      margin: 8px 0 7px;
+      padding: 8px 11px;
+      line-height: 1.28;
     }
-    section { margin-bottom: 9px; }
-    .tight li { margin-bottom: 1.6px; }
+    section { margin-bottom: 7px; }
+    .item { margin-bottom: 5px; }
+    h2 { margin-bottom: 3px; padding-bottom: 2px; }
+    .tight li { margin-bottom: 1.2px; }
   }
 </style>
 </head>
@@ -178,7 +180,7 @@
     <header>
       <div>
         <h1>Mathew Stevens</h1>
-        <div class="title">Full-Stack Software Engineer | Product Engineering | Real-Time Systems | SDKs</div>
+        <div class="title">Full-Stack Software Engineer | AI Systems | Real-Time Systems | SDKs</div>
       </div>
       <div class="contact">
         Bay Area, CA / Remote<br />
@@ -190,7 +192,7 @@
     </header>
 
     <div class="summary">
-      Full-stack software engineer building production web/mobile products, backend APIs, real-time systems, AI-agent tools, and cross-platform SDKs. Built and launched SolPulse, a live trading platform with React/Vite, Node/Express, PostgreSQL/Prisma, Redis, App Store/Google Play releases, 800+ users, 26 reviews, and a 4.3-star rating. Built Agentic, a multi-wallet AI-agent signing platform across web, mobile, CLI, and desktop with MCP/Vercel AI tooling, 1000+ users, 35 reviews, and a 4.2-star rating in under 1 month. Created SDKs and security tooling across Unreal, Cocos, Capacitor, Godot, Unity, iOS, and TxShield, with 4 merged upstream PRs.
+      Full-stack software engineer building production web/mobile products, backend APIs, real-time systems, AI-agent tools, AI evaluation benchmarks, and cross-platform SDKs. Built SolPulse (800+ users, 4.3/26 rating/reviews), Agentic (1000+ users, 4.2/35), AI Fund / Andrew Ng ConfigPilot, Klavis TB3 eval work, and SDK/security tooling across Unreal, Cocos, Capacitor, Godot, Unity, iOS, and TxShield.
     </div>
 
     <div class="grid">
@@ -252,23 +254,24 @@
           </div>
           <div class="item">
             <div class="item-head">
-              <h3>Cross-Platform SDKs and Engine Integrations</h3>
-              <div class="meta">Unreal, Cocos, Godot, Unity</div>
+              <h3>AI Systems and Evaluation</h3>
+              <div class="meta">Python, Docker, Terminal-Bench, FastAPI</div>
             </div>
             <ul class="tight">
-              <li>Built Unreal Engine 5 mobile wallet plugin using Kotlin clientlib, C++ JNI bridge, Blueprint UFUNCTION surface, auth caching, SIWS, signing, and sign-and-send flows.</li>
-              <li>Built first Cocos Creator Mobile Wallet Adapter SDK from scratch with TypeScript API, native Android bridge, ECDH/AES-GCM wallet association, auth caching, and Token Duel demo game.</li>
-              <li>Delivered Godot MWA reconnect architecture, capabilities/sign-send bridge, SIWS wallet-proof APIs, persistent auth-token cache, and Unity WebGL auto-select UX fix.</li>
+              <li>Built ConfigPilot for an AI Fund / Andrew Ng challenge: an OEM decision engine with deterministic AI guardrails for margin, inventory, lead-time, and audit-verified recommendations.</li>
+              <li>Designed a Klavis Terminal-Bench 3 durable-outbox benchmark with 6/6 clean reward-0 trials across Claude Opus and OpenAI Codex, exposing frontier-agent false positives in UNKNOWN outcomes, receipts, revocation, exactly-once execution, and audit legality.</li>
+              <li>Hardened verifier isolation against reward-hacking using a separate tool ledger, root-only controls, unprivileged execution, cheat oracles, and deterministic reward checks.</li>
             </ul>
           </div>
           <div class="item">
             <div class="item-head">
-              <h3>iOS Wallet Adapter</h3>
-              <div class="meta">Swift, CryptoKit</div>
+              <h3>Cross-Platform SDKs and Engine Integrations</h3>
+              <div class="meta">Unreal, Cocos, Godot, Unity, iOS</div>
             </div>
             <ul class="tight">
-              <li>Built iOS-native wallet adapter package for Phantom, Solflare, and Backpack deeplink signing with encrypted URL/callback flows.</li>
-              <li>Implemented X25519 ephemeral keys, NaCl box encryption, Base58 encoding, callback decoding, Keychain-backed state, wallet picker UI, and SIWS-style semantics.</li>
+              <li>Built Unreal Engine 5 mobile wallet plugin using Kotlin clientlib, C++ JNI bridge, Blueprint UFUNCTION surface, auth caching, SIWS, signing, and sign-and-send flows.</li>
+              <li>Built first Cocos Creator Mobile Wallet Adapter SDK from scratch with TypeScript API, native Android bridge, ECDH/AES-GCM wallet association, auth caching, and Token Duel demo game.</li>
+              <li>Delivered Godot MWA reconnect architecture, SIWS wallet-proof APIs, persistent auth-token cache, Unity WebGL UX fix, and iOS-native Swift/CryptoKit wallet adapter flows.</li>
             </ul>
           </div>
         </section>
@@ -280,10 +283,10 @@
           <div class="skills">
             <div class="skill-row"><strong>Languages:</strong> TypeScript, JavaScript, Node.js, Swift, C#, C++, GDScript, Kotlin, SQL, Python</div>
             <div class="skill-row"><strong>Frontend:</strong> React, Vite, Zustand, Tailwind, Radix UI, Capacitor, SwiftUI</div>
-            <div class="skill-row"><strong>Backend:</strong> Express, PostgreSQL, Prisma, Redis, WebSockets, SSE, REST APIs, auth systems, Stripe</div>
+            <div class="skill-row"><strong>Backend:</strong> Express, FastAPI, Pydantic, PostgreSQL, Prisma, Redis, WebSockets, SSE, REST APIs</div>
             <div class="skill-row"><strong>Security / Transaction Systems:</strong> web3.js, Mobile Wallet Adapter, Wallet Standard, Seed Vault, Jupiter, Anchor, SPL tokens, transaction signing</div>
             <div class="skill-row"><strong>Platforms:</strong> Android, iOS, Unity, Unreal Engine, Godot, Cocos Creator</div>
-            <div class="skill-row"><strong>Infra:</strong> Render, Helius, Chainstack, Birdeye, CI, observability, logging, rate limits</div>
+            <div class="skill-row"><strong>AI Eval / Infra:</strong> Docker, Harbor, Terminal-Bench, deterministic verifiers, CI, observability, logging</div>
           </div>
         </section>
 
@@ -305,7 +308,7 @@
             <li>GitHub portfolio: <a href="https://github.com/mstevens843">github.com/mstevens843</a></li>
             <li>Godot Mobile Wallet Adapter PRs: #449 reconnect/capabilities/sign-send bridge; #453 SIWS wallet-proof APIs; #454 auth-token cache.</li>
             <li>Unity Wallet Adapter merged PR: #275 WebGL single-wallet auto-select UX fix.</li>
-            <li>Public repos: TxShield, Unreal MWA, Cocos MWA, Agent Wallet Adapter, Capacitor MWA, iOS Wallet Adapter.</li>
+            <li>Project proof: ConfigPilot, Klavis TB3 durable outbox, TxShield, Unreal MWA, Cocos MWA, Capacitor MWA, iOS Wallet Adapter.</li>
           </ul>
         </section>
 
@@ -319,13 +322,13 @@
           <h2>Focus Areas</h2>
           <div class="pill-row">
             <span class="pill">Full-Stack Products</span>
+            <span class="pill">AI Evaluation</span>
             <span class="pill">Real-Time Systems</span>
             <span class="pill">SDK Engineering</span>
             <span class="pill">Mobile Apps</span>
             <span class="pill">AI Agent Tools</span>
-            <span class="pill">Developer Tools</span>
           </div>
-          <div class="small-note">Best-fit roles: full-stack product engineering, backend/API systems, SDK engineering, developer tooling, mobile apps, real-time infrastructure, agent workflows, and user-facing product engineering.</div>
+          <div class="small-note">Best-fit roles: full-stack product engineering, backend/API systems, AI evaluation, SDK engineering, mobile apps, real-time infrastructure, agent workflows, and user-facing product engineering.</div>
         </section>
       </div>
     </div>
