@@ -180,7 +180,7 @@
     <header>
       <div>
         <h1>Mathew Stevens</h1>
-        <div class="title">Full-Stack Software Engineer | AI Agent Infra | Real-Time Systems | SDKs</div>
+        <div class="title">Full-Stack Software Engineer | AI Systems | Real-Time Products | SDKs</div>
       </div>
       <div class="contact">
         Bay Area, CA / Remote<br />
@@ -192,7 +192,7 @@
     </header>
 
     <div class="summary">
-      Full-stack software engineer building production web/mobile products, backend APIs, real-time systems, AI-agent safety/evaluation infrastructure, and cross-platform SDKs. Built SolPulse (800+ users, 4.3/26 rating/reviews), Agentic (1000+ users, 4.2/35), AI Fund / Andrew Ng ConfigPilot, Terminal-Bench eval work, and SDK/security tooling across Unreal, Cocos, Capacitor, Godot, Unity, iOS, and TxShield.
+      Full-stack software engineer building production web/mobile products, backend APIs, real-time systems, AI-enabled workflows, SDKs, and reliability/evaluation tooling. Creator of Agentic and SolPulse, with 1,800+ users, 62 reviews, app-store releases, trading infrastructure, wallet/security systems, Capability Record Replay, Terminal-Bench work, Crashpoint, and AI Fund / Andrew Ng ConfigPilot.
     </div>
 
     <div class="grid">
@@ -201,16 +201,16 @@
           <h2>Experience</h2>
           <div class="item">
             <div class="item-head">
-              <h3>Independent Full-Stack Engineer / AI Infra Builder</h3>
+              <h3>Independent Full-Stack Engineer / Product &amp; Systems Builder</h3>
               <div class="meta">2025 - Present</div>
             </div>
             <ul>
-              <li>Built and launched SolPulse, a production trading platform across web, Android, and iOS using React/Vite, Node/Express, PostgreSQL/Prisma, Redis, real-time logs, and mobile store releases.</li>
-              <li>Built and deployed Agentic, a multi-wallet AI-agent signer across web, mobile, CLI, and desktop, reaching 1000+ users in under 1 month with 35 reviews and a 4.2-star rating.</li>
-              <li>Designed automated trading infrastructure with multi-mode scanning, DCA, limit orders, smart TP/SL exits, real-time filters, multi-DEX routing, priority fee controls, and execution logs.</li>
-              <li>Built security-sensitive approval and signing workflows using Mobile Wallet Adapter, Wallet Standard, Seed Vault, and mobile deeplink patterns so private keys remain inside user wallets/devices.</li>
-              <li>Created wallet SDKs and demos for Unreal Engine, Cocos Creator, Capacitor, Godot, Unity, and iOS-native wallet adapter flows.</li>
-              <li>Contributed merged upstream PRs to Godot Mobile Wallet Adapter and Unity Wallet Adapter repositories.</li>
+              <li>Built and deployed Agentic, a multi-wallet AI-agent signer across web, mobile, CLI, and desktop, reaching 1000+ users with 36 reviews and a 4.2-star rating.</li>
+              <li>Built Capability Record Replay, a model-to-deterministic-replay runtime where one LLM discovery run becomes a typed, approved capability that later executes with no model in the decision path.</li>
+              <li>Built AI-agent reliability/eval systems covering Terminal-Bench durable-outbox failures, exactly-once external actions, crash/recovery conformance, detector undercount, and judge artifact.</li>
+              <li>Delivered AI Fund / Andrew Ng ConfigPilot, an OEM decision engine where LLM recommendations are checked by deterministic margin, inventory, lead-time, policy, and audit guardrails.</li>
+              <li>Built and launched SolPulse, a production trading platform across web, Android, and iOS with multi-mode scanning, DCA, limit orders, smart exits, risk caps, and real-time strategy logs.</li>
+              <li>Built wallet/SDK surfaces across Mobile Wallet Adapter, Wallet Standard, Seed Vault, Unreal, Cocos, Godot, Unity, Capacitor, and iOS-native signing flows; contributed merged upstream PRs to Godot and Unity wallet adapters.</li>
             </ul>
           </div>
           <div class="item">
@@ -230,6 +230,39 @@
           <h2>Selected Projects</h2>
           <div class="item">
             <div class="item-head">
+              <h3>Agentic - AI Agent Signing Platform</h3>
+              <div class="meta">Web, CLI, Desktop, App Store</div>
+            </div>
+            <ul class="tight">
+              <li>Built multi-wallet AI-agent signer where agents propose wallet actions and users approve through their own wallets; private keys never leave user devices.</li>
+              <li>Reached 1000+ users with 36 reviews and a 4.2-star rating across web, mobile, CLI, desktop, MCP tools, SDK surfaces, and app-store releases.</li>
+              <li>Implemented shared WalletBackend plus A2A AgentCard, AP2/ACP/MPP payment-adapter flows, MCP/Vercel AI tools, approval polling, simulation, and sign-and-send UX.</li>
+            </ul>
+          </div>
+          <div class="item">
+            <div class="item-head">
+              <h3>Capability Record Replay - Agent Automation Runtime</h3>
+              <div class="meta">TypeScript, Playwright, Anthropic, CLI</div>
+            </div>
+            <ul class="tight">
+              <li>Built system where an LLM drives a legacy back-office UI once, then synthesis emits a typed, versioned capability artifact replayed without a model in the decision path.</li>
+              <li>Implemented browser and terminal surfaces, deterministic interpreter, policy chokepoint, signed approvals, typed business outcomes, recovery/failure taxonomy, evidence journals, and redaction canaries.</li>
+              <li>Verified a live Claude Opus discovery run and model-free replay; conformance suite killed 9/9 weakened replay engines across 25 hostile fixture scenarios.</li>
+            </ul>
+          </div>
+          <div class="item">
+            <div class="item-head">
+              <h3>Agent Reliability &amp; Eval Integrity Systems</h3>
+              <div class="meta">Python, TypeScript, Docker, Terminal-Bench</div>
+            </div>
+            <ul class="tight">
+              <li>Built original Klavis Terminal-Bench durable-outbox task where 6/6 frontier-agent trials failed clean reward-0; reference implementation passes 267/267 checks.</li>
+              <li>Built Durable Agent Outbox and Crashpoint to measure exactly-once external side effects, UNKNOWN outcomes, receipt reconciliation, revocation, and crash/recovery across LangGraph, Temporal, and DBOS.</li>
+              <li>Built Cheat-Oracle and Judge-Artifact audits showing detector undercount and grader artifact in public agent benchmarks, with tamper-evident receipts, controls, and disclosure-ready reports.</li>
+            </ul>
+          </div>
+          <div class="item">
+            <div class="item-head">
               <h3>SolPulse - Trading Platform</h3>
               <div class="meta">React, Node, PostgreSQL, Redis</div>
             </div>
@@ -237,39 +270,6 @@
               <li>Built solo full-stack trading product with live website, App Store, Google Play, and browser-visible release proof.</li>
               <li>Implemented execution engine with Sniper, DCA, limit orders, smart exits, multi-DEX swap routing, priority fee controls, and real-time strategy logs.</li>
               <li>Built intelligence and risk systems covering token scoring, dev identity checks, smart money tracking, rug scanning, whale scanning, max daily loss, and per-trade risk caps.</li>
-            </ul>
-          </div>
-          <div class="item">
-            <div class="item-head">
-              <h3>Agentic - AI Agent Signing Platform</h3>
-              <div class="meta">Web, CLI, Desktop, App Store</div>
-            </div>
-            <ul class="tight">
-              <li>Built first multi-wallet AI-agent signer across web, mobile, CLI, and desktop, reaching 1000+ users in under 1 month with 35 reviews and a 4.2-star rating.</li>
-              <li>Implemented shared WalletBackend plus A2A AgentCard, AP2/ACP/MPP payment-adapter flows, MCP/Vercel AI tools, CLI, desktop, and browser surfaces behind the same non-custodial approval boundary.</li>
-              <li>Added tools for address lookup, message signing, transaction signing, sign-and-send, approval polling, and transaction simulation.</li>
-            </ul>
-          </div>
-          <div class="item">
-            <div class="item-head">
-              <h3>AI Agent Safety &amp; Evaluation Infrastructure</h3>
-              <div class="meta">TypeScript, Python, Docker, Terminal-Bench</div>
-            </div>
-            <ul class="tight">
-              <li>Built four AI-agent safety/eval systems covering durable external actions, prompt-injection containment, model-regression detection, and pre-execution tool-call risk scoring.</li>
-              <li>Validated 1,300+ passing tests across TypeScript/Python safety repos with conformance suites, mutant implementations, deterministic verifiers, frozen fixtures, leakage audits, and reproducible reports.</li>
-              <li>Delivered ConfigPilot and Klavis/Terminal-Bench work: an OEM decision engine plus 6/6 clean reward-0 trials exposing frontier-agent false positives and reward-hacking paths.</li>
-            </ul>
-          </div>
-          <div class="item">
-            <div class="item-head">
-              <h3>Cross-Platform SDKs and Engine Integrations</h3>
-              <div class="meta">Unreal, Cocos, Godot, Unity, iOS</div>
-            </div>
-            <ul class="tight">
-              <li>Built Unreal Engine 5 mobile wallet plugin using Kotlin clientlib, C++ JNI bridge, Blueprint UFUNCTION surface, auth caching, SIWS, signing, and sign-and-send flows.</li>
-              <li>Built first Cocos Creator Mobile Wallet Adapter SDK from scratch with TypeScript API, native Android bridge, ECDH/AES-GCM wallet association, auth caching, and Token Duel demo game.</li>
-              <li>Delivered Godot MWA reconnect architecture, SIWS wallet-proof APIs, persistent auth-token cache, Unity WebGL UX fix, and iOS-native Swift/CryptoKit wallet adapter flows.</li>
             </ul>
           </div>
         </section>
@@ -284,7 +284,7 @@
             <div class="skill-row"><strong>Backend:</strong> Express, FastAPI, Pydantic, PostgreSQL, Prisma, Redis, WebSockets, SSE, REST APIs</div>
             <div class="skill-row"><strong>Security / Transaction Systems:</strong> web3.js, Mobile Wallet Adapter, Wallet Standard, Seed Vault, Jupiter, Anchor, SPL tokens, transaction signing</div>
             <div class="skill-row"><strong>Platforms:</strong> Android, iOS, Unity, Unreal Engine, Godot, Cocos Creator</div>
-            <div class="skill-row"><strong>AI Eval / Infra:</strong> Docker, Harbor, Terminal-Bench, conformance suites, mutant tests, leakage audits, deterministic verifiers, CI</div>
+            <div class="skill-row"><strong>Systems / AI Infra:</strong> capability replay, deterministic interpreters, policy gates, side-effect ledgers, Terminal-Bench, conformance suites, mutant tests, eval-integrity audits</div>
           </div>
         </section>
 
@@ -294,7 +294,7 @@
             <div class="metric"><strong>800+</strong><span>SolPulse users</span></div>
             <div class="metric"><strong>4.3 / 26</strong><span>SolPulse rating/reviews</span></div>
             <div class="metric"><strong>1000+</strong><span>Agentic users</span></div>
-            <div class="metric"><strong>4.2 / 35</strong><span>Agentic rating/reviews</span></div>
+            <div class="metric"><strong>4.2 / 36</strong><span>Agentic rating/reviews</span></div>
             <div class="metric"><strong>2</strong><span>Store-listed apps</span></div>
             <div class="metric"><strong>4</strong><span>Merged upstream PRs</span></div>
           </div>
@@ -306,27 +306,27 @@
             <li>GitHub portfolio: <a href="https://github.com/mstevens843">github.com/mstevens843</a></li>
             <li>Godot Mobile Wallet Adapter PRs: #449 reconnect/capabilities/sign-send bridge; #453 SIWS wallet-proof APIs; #454 auth-token cache.</li>
             <li>Unity Wallet Adapter merged PR: #275 WebGL single-wallet auto-select UX fix.</li>
-            <li>Project proof: durable-agent-outbox, agent-context-containment, model-regression-sentinel, toolcall-risk-classifier, ConfigPilot, Klavis TB3, TxShield, wallet SDKs.</li>
+            <li>Project proof: capability-record-replay, durable-agent-outbox, crashpoint, cheat-oracle, judge-artifact, agent-context-containment, model-regression-sentinel, toolcall-risk-classifier, ConfigPilot, Klavis TB3, TxShield.</li>
           </ul>
         </section>
 
         <section class="edu">
           <h2>Education</h2>
           <p><strong>San Francisco State University</strong><br />B.S., Business Information Systems, 2018</p>
-          <p><strong>Springboard</strong><br />Software Engineering Certificate, 2025<br />Full-stack curriculum covering JavaScript, React, Node.js, Express, PostgreSQL, REST APIs, auth, and testing.</p>
+          <p><strong>Springboard</strong><br />Software Engineering Certificate, 2025</p>
         </section>
 
         <section>
           <h2>Focus Areas</h2>
           <div class="pill-row">
             <span class="pill">Full-Stack Products</span>
-            <span class="pill">AI Evaluation</span>
+            <span class="pill">AI Systems</span>
+            <span class="pill">Eval Integrity</span>
             <span class="pill">Real-Time Systems</span>
-            <span class="pill">SDK Engineering</span>
             <span class="pill">Mobile Apps</span>
-            <span class="pill">AI Agent Tools</span>
+            <span class="pill">SDK Engineering</span>
           </div>
-          <div class="small-note">Best-fit roles: full-stack product engineering, backend/API systems, AI evaluation, SDK engineering, mobile apps, real-time infrastructure, agent workflows, and user-facing product engineering.</div>
+          <div class="small-note">Best-fit roles: full-stack product engineering, backend/API systems, AI-enabled systems, reliability/eval tooling, SDKs, mobile apps, and real-time infrastructure.</div>
         </section>
       </div>
     </div>
