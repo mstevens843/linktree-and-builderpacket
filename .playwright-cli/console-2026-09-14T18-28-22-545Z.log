@@ -1,0 +1,8 @@
+[     157ms] [ERROR] The Content Security Policy directive 'frame-ancestors' is ignored when delivered via a <meta> element. @ https://www.metabase.com/jobs?_live_review=1789410502555:0
+[     157ms] [ERROR] X-Frame-Options may only be set via an HTTP header sent along with a document. It may not be set inside <meta>. @ https://www.metabase.com/jobs?_live_review=1789410502555:0
+[     677ms] [LOG] application code 🌳🍀🌳🌱🌳🍀🌳🌵🍀🍁🌳🌱🌳🌻🍀🍁🌳🌿🌳🌲🌴🌲🌳🌿🌳🌺🌳🌼🌳🍀🌳🌺🌳🌼🌳🍀🌳🌳🍀🍂🌳🍀🌳🍀🌳🌿🌴🌼 @ https://www.metabase.com/js/jobs.js:25
+[    1037ms] [ERROR] The Content Security Policy directive 'frame-ancestors' is ignored when delivered via a <meta> element. @ https://www.metabase.com/js/cookie-consent.js:142
+[    1399ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep @ https://dc.ads.linkedin.com/collect/?pid=9492426&fmt=gif:0
+[    1469ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_RESPONSE.NotSameOriginAfterDefaultedToSameOriginByCoep @ https://bat.bing.com/action/0?ti=97144880&Ver=2:0
+[    1484ms] [ERROR] The Content Security Policy directive 'frame-ancestors' is ignored when delivered via a <meta> element. @ https://script.hotjar.com/modules.e762be2b6b709245aabb.js:1
+[    1484ms] [ERROR] The Content Security Policy directive 'frame-ancestors' is ignored when delivered via a <meta> element. @ https://script.hotjar.com/modules.e762be2b6b709245aabb.js:1

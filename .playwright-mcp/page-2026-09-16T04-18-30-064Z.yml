@@ -1,0 +1,613 @@
+- generic [ref=f374e1]:
+  - link [aria-hidden] [ref=f374e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - text: Skip to main content
+  - banner [aria-hidden] [ref=f374e3]:
+    - navigation [ref=f374e4]:
+      - link [ref=f374e5] [cursor=pointer]:
+        - /url: /?trk=public_jobs_nav-header-logo
+        - generic [ref=f374e6]: LinkedIn
+      - generic [ref=f374e19]:
+        - button [ref=f374e21] [cursor=pointer]:
+          - generic [ref=f374e22]: Jobs
+        - tabpanel [ref=f374e23]:
+          - search [ref=f374e24]:
+            - generic [ref=f374e25]:
+              - combobox [ref=f374e26]: Software Engineer I - AI Agents
+              - button [ref=f374e27] [cursor=pointer]:
+                - generic [ref=f374e28]: Clear text
+            - generic [ref=f374e34]:
+              - combobox [ref=f374e35]: San Pablo, CA
+              - button [ref=f374e36] [cursor=pointer]:
+                - generic [ref=f374e37]: Clear text
+            - button [ref=f374e43] [cursor=pointer]
+        - status [ref=f374e47]
+      - generic [ref=f374e48]:
+        - link [ref=f374e49] [cursor=pointer]:
+          - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&fromSignIn=true&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fsoftware-engineer-i-ai-agents-at-observe-ai-4467776863&trk=public_jobs_nav-header-signin
+          - text: Sign in
+        - link [ref=f374e50] [cursor=pointer]:
+          - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fsoftware-engineer-i-ai-agents-at-observe-ai-4467776863&trk=public_jobs_nav-header-join
+          - text: Join now
+  - main [aria-hidden] [ref=f374e51]:
+    - generic [ref=f374e53]:
+      - generic [ref=f374e55]:
+        - link [ref=f374e56] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/observeai?trk=public_jobs_topcard_logo
+        - generic [ref=f374e59]:
+          - heading [level=1] [ref=f374e60]: Software Engineer I - AI Agents
+          - heading [level=4] [ref=f374e61]:
+            - generic [ref=f374e62]:
+              - link [ref=f374e64] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/observeai?trk=public_jobs_topcard-org-name
+                - text: Observe.AI
+              - text: · Redwood City, CA
+            - generic [ref=f374e65]:
+              - text: 7 hours ago
+              - figure [ref=f374e66]: · Over 200 applicants
+            - link [ref=f374e68] [cursor=pointer]:
+              - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D18090845%26title%3DSoftware%2BEngineer&emailAddress=&fromSignIn=&trk=public_jobs_see-who-was-hired_people-search-link_face-pile-cta
+              - paragraph [ref=f374e71]: See who Observe.AI has hired for this role
+          - generic [ref=f374e72]:
+            - button [ref=f374e73] [cursor=pointer]: Apply
+            - button [ref=f374e74] [cursor=pointer]: Save
+        - button [ref=f374e77] [cursor=pointer]
+        - generic [ref=f374e79]:
+          - heading [level=3] [ref=f374e80]: Use AI to assess how you fit
+          - paragraph [ref=f374e81]: Get AI-powered advice on this job and more exclusive features.
+          - generic [ref=f374e82]:
+            - button [ref=f374e83] [cursor=pointer]
+            - button [ref=f374e85] [cursor=pointer]:
+              - generic [ref=f374e87]: Am I a good fit for this job?
+            - button [ref=f374e88] [cursor=pointer]:
+              - generic [ref=f374e90]: Tailor my resume
+      - generic [ref=f374e91]:
+        - generic [ref=f374e93]:
+          - generic [ref=f374e95]:
+            - generic [ref=f374e96]:
+              - paragraph [ref=f374e97]:
+                - strong [ref=f374e98]: About Us
+              - paragraph [ref=f374e99]: Observe.AI is the AI Agents platform for customer experience, designed to help organizations deliver faster, smarter, and more efficient customer service at scale. The platform enables businesses to deploy specialized AI Agents that autonomously execute work across the full CX lifecycle—from handling customer conversations to supporting frontline teams and optimizing operations.
+              - paragraph [ref=f374e100]: Each AI Agent is purpose-built for a specific role, equipped to understand context, make decisions, take action, and continuously improve outcomes. This allows organizations to increase resolution speed, elevate service quality, and reduce operational costs while empowering your frontline team to focus on higher-value work.
+              - paragraph [ref=f374e101]: Built on a CX-native foundation, Observe.AI helps leading brands like DoorDash, Affordable Care, Signify Health, and Verida improve customer satisfaction, boost agent productivity, and deliver consistent, scalable performance across every customer interaction.
+              - paragraph [ref=f374e102]:
+                - strong [ref=f374e103]: Why Join Us
+              - paragraph [ref=f374e104]: We are looking for a Software Engineer I to help build and improve enterprise AI agent products. You will work with experienced engineers to develop backend services, integrate Large Language Models, connect AI agents with external systems, and improve the reliability and performance of production applications.
+              - paragraph [ref=f374e105]: This is an entry-level role suitable for a recent graduate or an engineer with up to three years of software development experience.
+              - paragraph [ref=f374e106]:
+                - strong [ref=f374e107]: What You’ll Be Doing
+              - paragraph [ref=f374e108]:
+                - strong [ref=f374e109]: Software Development
+              - list [ref=f374e110]:
+                - listitem [ref=f374e111]: Build and maintain services using Python , typescript, golang.
+                - listitem [ref=f374e112]: Develop APIs and integrations with internal and external systems.
+                - listitem [ref=f374e113]: Write clean, readable, tested, and maintainable code.
+                - listitem [ref=f374e114]: Debug application issues and contribute to production fixes.
+                - listitem [ref=f374e115]: Participate in code reviews, technical discussions, and engineering planning.
+              - text: AI Agent Development
+              - list [ref=f374e116]:
+                - listitem [ref=f374e117]: Help develop core pipeline for conversational AI agents.
+                - listitem [ref=f374e118]: Build prompts, tools, workflows, and conversation logic for AI agents.
+                - listitem [ref=f374e119]: Support Retrieval-Augmented Generation using documents, embeddings, and vector databases.
+                - listitem [ref=f374e120]: Create tests and evaluations to measure agent accuracy and reliability.
+              - strong [ref=f374e122]: Voice and Real-Time Systems
+              - list [ref=f374e123]:
+                - listitem [ref=f374e124]: Contribute to voice AI pipelines involving Speech-to-Text and Text-to-Speech systems.
+                - listitem [ref=f374e125]: Help integrate voice agents with telephony and contact-center platforms.
+                - listitem [ref=f374e126]: Investigate latency, audio-quality, and conversation-flow issues.
+                - listitem [ref=f374e127]: Learn and work with real-time communication technologies such as WebSockets, WebRTC, SIP, or RTP.
+              - strong [ref=f374e129]: Production and Platform Engineering
+              - list [ref=f374e130]:
+                - listitem [ref=f374e131]: Monitor services using logs, metrics, traces, and dashboards.
+                - listitem [ref=f374e132]: Help improve system reliability, performance, and cost efficiency.
+                - listitem [ref=f374e133]: Work with Docker, Kubernetes, cloud infrastructure, and CI/CD pipelines.
+                - listitem [ref=f374e134]: Document technical designs, APIs, operational procedures, and troubleshooting steps.
+              - text: Collaboration
+              - list [ref=f374e135]:
+                - listitem [ref=f374e136]: Work closely with product managers, senior engineers, and implementation teams.
+                - listitem [ref=f374e137]: Understand customer requirements and translate them into technical solutions.
+                - listitem [ref=f374e138]: Communicate progress, risks, dependencies, and technical trade-offs clearly.
+                - listitem [ref=f374e139]: Learn from feedback and take increasing ownership of product areas.
+              - paragraph [ref=f374e140]
+              - paragraph [ref=f374e141]:
+                - strong [ref=f374e142]: What You’ll Bring To The Role
+              - list [ref=f374e143]:
+                - listitem [ref=f374e144]: Bachelor’s degree in Computer Science, Software Engineering, or a related technical field.
+                - listitem [ref=f374e145]: Up to three years of software development experience, including internships or academic projects.
+                - listitem [ref=f374e146]: Strong programming fundamentals and problem-solving skills.
+                - listitem [ref=f374e147]: Experience with Python, JavaScript, TypeScript, golan, or a similar asynchronous programming language.
+                - listitem [ref=f374e148]: Understanding of data structures, algorithms, APIs, databases, and object-oriented programming.
+                - listitem [ref=f374e149]: Familiarity with Git and standard software development practices.
+                - listitem [ref=f374e150]: Ability to learn new technologies and work effectively in a collaborative environment
+              - paragraph [ref=f374e151]: "*Preferred Not Required"
+              - list [ref=f374e152]:
+                - listitem [ref=f374e153]: Event-driven systems and message queues such as Kafka, RabbitMQ, or SQS.
+                - listitem [ref=f374e154]: Speech-to-Text, Text-to-Speech, WebRTC, SIP, Twilio, or contact-center platforms.
+                - listitem [ref=f374e155]: Monitoring tools such as Datadog, Prometheus, or Grafana.
+                - listitem [ref=f374e156]: Personal, academic, or open-source projects involving AI or distributed systems.
+              - paragraph [ref=f374e157]:
+                - strong [ref=f374e158]: Why You’ll Love It Here
+              - list [ref=f374e159]:
+                - listitem [ref=f374e160]:
+                  - strong [ref=f374e161]: "Competitive compensation including equity:"
+                  - text: Market-aligned base pay, performance incentives, and meaningful equity ownership
+                - listitem [ref=f374e162]:
+                  - strong [ref=f374e163]: "Excellent medical, dental, and vision insurance options:"
+                  - text: Comprehensive medical, dental and vision benefits for employees and eligible dependents
+                - listitem [ref=f374e164]:
+                  - strong [ref=f374e165]: "Flexible Paid Time Off:"
+                  - text: Our unlimited, flexible PTO policy empowers you to take the time you need to recharge, maintain balance, and perform at your best.
+                - listitem [ref=f374e166]:
+                  - strong [ref=f374e167]: "Additional Time to Recharge:"
+                  - text: 10 company holidays, an annual company-wide Winter Break, and paid parental leave to fully support life outside of work.
+                - listitem [ref=f374e168]:
+                  - strong [ref=f374e169]: "401(k) plan:"
+                  - text: Long-term financial planning support with tax-advantaged retirement savings
+                - listitem [ref=f374e170]:
+                  - strong [ref=f374e171]: "Quarterly Lifestyle Spending Account:"
+                  - text: Flexible quarterly stipend to support wellness, learning and professional development, and personal growth
+                - listitem [ref=f374e172]:
+                  - strong [ref=f374e173]: Monthly Mobile + Internet Stipend
+                  - text: ": Support for remote and hybrid work connectivity needs"
+                - listitem [ref=f374e174]:
+                  - strong [ref=f374e175]: "Pre-tax Commuter Benefits:"
+                  - text: Tax-efficient transit and commuting support for hybrid and in-office employees
+                - listitem [ref=f374e176]:
+                  - strong [ref=f374e177]: "Autonomy and Agency:"
+                  - text: Play a meaningful role in scaling a category-defining GenAI platform transforming the future of customer experience.
+              - paragraph [ref=f374e178]:
+                - strong [ref=f374e179]: Salary Range
+              - paragraph [ref=f374e180]:
+                - text: The base salary compensation range targeted for this full-time position is
+                - strong [ref=f374e181]: $145 - 165K
+                - strong [ref=f374e182]
+                - text: per year. Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives and equity (in the form of options). This salary range is an estimate, and the actual salary may vary based on the Company’s compensation practices.
+              - paragraph [ref=f374e183]:
+                - strong [ref=f374e184]: Our Commitment to Inclusion and Belonging
+              - paragraph [ref=f374e185]:
+                - emphasis [ref=f374e186]: Observe.AI is an Equal Employment Opportunity employer that proudly pursues and hires a diverse workforce. Observe.AI does not make hiring or employment decisions on the basis of race, color, religion or religious belief, ethnic or national origin, nationality, sex, gender, gender identity, sexual orientation, disability, age, military or veteran status, or any other basis protected by applicable local, state, or federal laws or prohibited by Company policy. Observe.AI also strives for a healthy and safe workplace and strictly prohibits harassment of any kind.
+              - paragraph [ref=f374e187]:
+                - emphasis [ref=f374e188]: We welcome all people. We celebrate diversity of all kinds and are committed to creating an inclusive culture built on a foundation of respect for all individuals. We seek to hire, develop, and retain talented people from all backgrounds. Individuals from non-traditional backgrounds, historically marginalized or underrepresented groups are strongly encouraged to apply.
+              - paragraph [ref=f374e189]:
+                - emphasis [ref=f374e190]: If you are ambitious, make an impact wherever you go, and you're ready to shape the future of Observe.AI, we encourage you to apply. For more information, visit
+                - emphasis [ref=f374e191]
+                - emphasis [ref=f374e192]: www.observe.ai
+                - emphasis [ref=f374e193]: .
+              - paragraph [ref=f374e194]
+            - button [ref=f374e195] [cursor=pointer]: Show more
+          - list [ref=f374e197]:
+            - listitem [ref=f374e198]:
+              - heading [level=3] [ref=f374e199]: Seniority level
+              - text: Entry level
+            - listitem [ref=f374e200]:
+              - heading [level=3] [ref=f374e201]: Employment type
+              - text: Full-time
+            - listitem [ref=f374e202]:
+              - heading [level=3] [ref=f374e203]: Job function
+              - text: Engineering and Information Technology
+            - listitem [ref=f374e204]:
+              - heading [level=3] [ref=f374e205]: Industries
+              - text: Software Development
+        - generic [ref=f374e210]:
+          - paragraph [ref=f374e211]: Referrals increase your chances of interviewing at Observe.AI by 2x
+          - link [ref=f374e212] [cursor=pointer]:
+            - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D18090845&emailAddress=&fromSignIn=&trk=public_jobs_find-a-referral-cta
+            - text: See who you know
+      - generic [ref=f374e215]:
+        - paragraph [ref=f374e216]:
+          - text: Get notified about new Software Engineer jobs in
+          - strong [ref=f374e217]: Redwood City, CA
+          - text: .
+        - link [ref=f374e218] [cursor=pointer]:
+          - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fsoftware-engineer-i-ai-agents-at-observe-ai-4467776863&trk=public_jobs_job-alert-guest-redirect-cta
+          - text: Sign in to create job alert
+      - navigation [ref=f374e219]:
+        - list [ref=f374e220]:
+          - listitem [ref=f374e221]:
+            - link [ref=f374e222] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/
+              - text: Jobs
+            - text: /
+          - listitem [ref=f374e223]:
+            - link [ref=f374e224] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/machine-learning-engineer-jobs
+              - text: Machine Learning Engineer jobs
+            - text: /
+          - listitem [ref=f374e225]:
+            - generic [ref=f374e226]: Software Engineer I - AI Agents
+      - generic [ref=f374e227]:
+        - heading [level=2] [ref=f374e228]: Similar jobs
+        - generic [ref=f374e230]:
+          - list [ref=f374e231]:
+            - listitem [ref=f374e232]:
+              - generic [ref=f374e233]:
+                - link [ref=f374e234] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/ai-and-agentic-engineer-i-at-exelixis-4450381696?refId=NJ0RxFGlHfJgOhugOvZ%2FvA%3D%3D&trackingId=8xQ3adva4HYZPFCO2XaIPw%3D%3D
+                  - generic [ref=f374e235]: AI and Agentic Engineer I
+                - generic [ref=f374e236]:
+                  - heading [level=3] [ref=f374e237]: AI and Agentic Engineer I
+                  - heading [level=4] [ref=f374e238]:
+                    - link [ref=f374e239] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/exelixis?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Exelixis
+                  - generic [ref=f374e240]:
+                    - generic [ref=f374e241]: Alameda, CA
+                    - time [ref=f374e242]: 2 weeks ago
+            - listitem [ref=f374e243]:
+              - generic [ref=f374e244]:
+                - link [ref=f374e245] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/early-career-software-engineer-%E2%80%93-applied-ai-at-wonderschool-4406127370?refId=NJ0RxFGlHfJgOhugOvZ%2FvA%3D%3D&trackingId=CQipk6r3MEIXsWLEYsCphg%3D%3D
+                  - generic [ref=f374e246]: Early Career Software Engineer – Applied AI
+                - generic [ref=f374e247]:
+                  - heading [level=3] [ref=f374e248]: Early Career Software Engineer – Applied AI
+                  - heading [level=4] [ref=f374e249]:
+                    - link [ref=f374e250] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/wonderschool?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Wonderschool
+                  - generic [ref=f374e251]:
+                    - generic [ref=f374e252]: San Francisco, CA
+                    - time [ref=f374e253]: 4 months ago
+            - listitem [ref=f374e254]:
+              - generic [ref=f374e255]:
+                - link [ref=f374e256] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/software-engineer-i-generative-ai-applications-at-robert-half-4448637784?refId=NJ0RxFGlHfJgOhugOvZ%2FvA%3D%3D&trackingId=Yljp8g7x6JuWEMNn56Eshg%3D%3D
+                  - generic [ref=f374e257]: Software Engineer I, Generative AI Applications
+                - generic [ref=f374e258]:
+                  - heading [level=3] [ref=f374e259]: Software Engineer I, Generative AI Applications
+                  - heading [level=4] [ref=f374e260]:
+                    - link [ref=f374e261] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/robert-half-international?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Robert Half
+                  - generic [ref=f374e262]:
+                    - generic [ref=f374e263]: San Ramon, CA
+                    - time [ref=f374e264]: 9 hours ago
+            - listitem [ref=f374e265]:
+              - generic [ref=f374e266]:
+                - link [ref=f374e267] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/junior-software-engineer-at-abridge-4440084829?refId=NJ0RxFGlHfJgOhugOvZ%2FvA%3D%3D&trackingId=1iW30J5tD1vxxZq8xfo3NA%3D%3D
+                  - generic [ref=f374e268]: Junior Software Engineer
+                - generic [ref=f374e269]:
+                  - heading [level=3] [ref=f374e270]: Junior Software Engineer
+                  - heading [level=4] [ref=f374e271]:
+                    - link [ref=f374e272] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/abridgehq?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Abridge
+                  - generic [ref=f374e273]:
+                    - generic [ref=f374e274]: San Francisco, CA
+                    - generic [ref=f374e275]: $167,000 - $184,000
+                    - time [ref=f374e276]: 2 weeks ago
+            - listitem [ref=f374e277]:
+              - generic [ref=f374e278]:
+                - link [ref=f374e279] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/software-engineer-at-zoom-4466079096?refId=NJ0RxFGlHfJgOhugOvZ%2FvA%3D%3D&trackingId=FBfVfUnwczhYigAFLfEb2Q%3D%3D
+                  - generic [ref=f374e280]: Software Engineer
+                - generic [ref=f374e281]:
+                  - heading [level=3] [ref=f374e282]: Software Engineer
+                  - heading [level=4] [ref=f374e283]:
+                    - link [ref=f374e284] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/zoom?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Zoom
+                  - generic [ref=f374e285]:
+                    - generic [ref=f374e286]: San Jose, CA
+                    - time [ref=f374e287]: 4 days ago
+            - listitem [ref=f374e288]:
+              - generic [ref=f374e289]:
+                - link [ref=f374e290] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/agentic-ai-engineer-ii-at-echostar-corporation-4465159250?refId=NJ0RxFGlHfJgOhugOvZ%2FvA%3D%3D&trackingId=Uwfpm5kxcmMPSRp7cPCNYw%3D%3D
+                  - generic [ref=f374e291]: Agentic AI Engineer II
+                - generic [ref=f374e292]:
+                  - heading [level=3] [ref=f374e293]: Agentic AI Engineer II
+                  - heading [level=4] [ref=f374e294]:
+                    - link [ref=f374e295] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/echostar-corporation?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: EchoStar Corporation
+                  - generic [ref=f374e296]:
+                    - generic [ref=f374e297]: San Mateo, CA
+                    - time [ref=f374e298]: 4 days ago
+          - button [ref=f374e299] [cursor=pointer]: Show more jobs like this
+    - generic [ref=f374e301]:
+      - generic [ref=f374e302]:
+        - heading [level=2] [ref=f374e303]: People also viewed
+        - list [ref=f374e305]:
+          - listitem [ref=f374e306]:
+            - generic [ref=f374e307]:
+              - link [ref=f374e308] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/python-engineer-at-umatr-4459949472?refId=NJ0RxFGlHfJgOhugOvZ%2FvA%3D%3D&trackingId=usUeBcPzpiDaI%2FgghYOf6Q%3D%3D
+                - generic [ref=f374e309]: Python Engineer
+              - generic [ref=f374e310]:
+                - heading [level=3] [ref=f374e311]: Python Engineer
+                - paragraph [ref=f374e312]:
+                  - link [ref=f374e313] [cursor=pointer]:
+                    - /url: https://ae.linkedin.com/company/umatr?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: UMATR
+                - generic [ref=f374e314]:
+                  - generic [ref=f374e315]: San Francisco Bay Area
+                  - generic [ref=f374e316]: $200,000 - $250,000
+                  - time [ref=f374e317]: 1 week ago
+          - listitem [ref=f374e318]:
+            - generic [ref=f374e319]:
+              - link [ref=f374e320] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/ai-agent-engineer-%E2%80%94-early-career-at-caelumenai-4448584100?refId=NJ0RxFGlHfJgOhugOvZ%2FvA%3D%3D&trackingId=jubBykRSigEh2w25h2Mk%2Bw%3D%3D
+                - generic [ref=f374e321]: AI Agent Engineer — Early Career
+              - generic [ref=f374e322]:
+                - heading [level=3] [ref=f374e323]: AI Agent Engineer — Early Career
+                - paragraph [ref=f374e324]:
+                  - link [ref=f374e325] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/caelumenai?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: CaelumenAI
+                - generic [ref=f374e326]:
+                  - generic [ref=f374e327]: San Francisco Bay Area
+                  - time [ref=f374e328]: 1 month ago
+          - listitem [ref=f374e329]:
+            - generic [ref=f374e330]:
+              - link [ref=f374e331] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-retell-4445880572?refId=NJ0RxFGlHfJgOhugOvZ%2FvA%3D%3D&trackingId=0TQ1NzUBOO6EkLdc2SK7ug%3D%3D
+                - generic [ref=f374e332]: Software Engineer (New Grad)
+              - generic [ref=f374e333]:
+                - heading [level=3] [ref=f374e334]: Software Engineer (New Grad)
+                - paragraph [ref=f374e335]:
+                  - link [ref=f374e336] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/retellai?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Retell
+                - generic [ref=f374e337]:
+                  - generic [ref=f374e338]: San Francisco Bay Area
+                  - time [ref=f374e339]: 1 month ago
+          - listitem [ref=f374e340]:
+            - generic [ref=f374e341]:
+              - link [ref=f374e342] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/agentic-ai-developer-at-thundersoft-4457645895?refId=NJ0RxFGlHfJgOhugOvZ%2FvA%3D%3D&trackingId=AMR7MVXuKdt036jAlGtRkg%3D%3D
+                - generic [ref=f374e343]: Agentic AI Developer
+              - generic [ref=f374e344]:
+                - heading [level=3] [ref=f374e345]: Agentic AI Developer
+                - paragraph [ref=f374e346]:
+                  - link [ref=f374e347] [cursor=pointer]:
+                    - /url: https://cn.linkedin.com/company/thundersoft?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: ThunderSoft
+                - generic [ref=f374e348]:
+                  - generic [ref=f374e349]: Santa Clara County, CA
+                  - generic [ref=f374e350]: $140,000 - $160,000
+                  - time [ref=f374e351]: 3 weeks ago
+          - listitem [ref=f374e352]:
+            - generic [ref=f374e353]:
+              - link [ref=f374e354] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-early-career-2027-at-commure-4466405139?refId=NJ0RxFGlHfJgOhugOvZ%2FvA%3D%3D&trackingId=za%2FqjeJej1GgJjtMEgl7bQ%3D%3D
+                - generic [ref=f374e355]: Software Engineer, Early Career 2027
+              - generic [ref=f374e356]:
+                - heading [level=3] [ref=f374e357]: Software Engineer, Early Career 2027
+                - paragraph [ref=f374e358]:
+                  - link [ref=f374e359] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/commure?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Commure
+                - generic [ref=f374e360]:
+                  - generic [ref=f374e361]: Mountain View, CA
+                  - generic [ref=f374e362]: $130,000 - $150,000
+                  - time [ref=f374e363]: 4 days ago
+          - listitem [ref=f374e364]:
+            - generic [ref=f374e365]:
+              - link [ref=f374e366] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/fullstack-ai-engineer-new-grads-at-stealth-startup-4463035159?refId=NJ0RxFGlHfJgOhugOvZ%2FvA%3D%3D&trackingId=IWF9PIcD4kIpM3ommsiikg%3D%3D
+                - generic [ref=f374e367]: Fullstack / AI Engineer (New Grads)
+              - generic [ref=f374e368]:
+                - heading [level=3] [ref=f374e369]: Fullstack / AI Engineer (New Grads)
+                - paragraph [ref=f374e370]:
+                  - link [ref=f374e371] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/stealth-startup-community?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Stealth Startup
+                - generic [ref=f374e372]:
+                  - generic [ref=f374e373]: San Francisco, CA
+                  - time [ref=f374e374]: 6 days ago
+          - listitem [ref=f374e375]:
+            - generic [ref=f374e376]:
+              - link [ref=f374e377] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-at-google-4460041987?refId=NJ0RxFGlHfJgOhugOvZ%2FvA%3D%3D&trackingId=L6ZgXx3GXkbmfhz%2BP2Nrqg%3D%3D
+                - generic [ref=f374e378]: Software Engineer
+              - generic [ref=f374e379]:
+                - heading [level=3] [ref=f374e380]: Software Engineer
+                - paragraph [ref=f374e381]:
+                  - link [ref=f374e382] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/google?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Google
+                - generic [ref=f374e383]:
+                  - generic [ref=f374e384]: Mountain View, CA
+                  - time [ref=f374e385]: 2 weeks ago
+          - listitem [ref=f374e386]:
+            - generic [ref=f374e387]:
+              - link [ref=f374e388] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-early-careers-focused-on-ai-and-ui-at-roku-4466327251?refId=NJ0RxFGlHfJgOhugOvZ%2FvA%3D%3D&trackingId=7AJPWz5Xk7dCjeoF65qZug%3D%3D
+                - generic [ref=f374e389]: Software Engineer, Early Careers focused on AI and UI
+              - generic [ref=f374e390]:
+                - heading [level=3] [ref=f374e391]: Software Engineer, Early Careers focused on AI and UI
+                - paragraph [ref=f374e392]:
+                  - link [ref=f374e393] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/roku?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Roku
+                - generic [ref=f374e394]:
+                  - generic [ref=f374e395]: San Jose, CA
+                  - time [ref=f374e396]: 4 days ago
+          - listitem [ref=f374e397]:
+            - generic [ref=f374e398]:
+              - link [ref=f374e399] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-apps-at-wd-4449855029?refId=NJ0RxFGlHfJgOhugOvZ%2FvA%3D%3D&trackingId=ysJUGCrG67WvhvYLPEWWfQ%3D%3D
+                - generic [ref=f374e400]: Software Engineer (Apps)
+              - generic [ref=f374e401]:
+                - heading [level=3] [ref=f374e402]: Software Engineer (Apps)
+                - paragraph [ref=f374e403]:
+                  - link [ref=f374e404] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/western-digital?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: WD
+                - generic [ref=f374e405]:
+                  - generic [ref=f374e406]: San Jose, CA
+                  - generic [ref=f374e407]: $98,600 - $131,400
+                  - time [ref=f374e408]: 1 week ago
+          - listitem [ref=f374e409]:
+            - generic [ref=f374e410]:
+              - link [ref=f374e411] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-founders-initiatives-at-retell-4445868633?refId=NJ0RxFGlHfJgOhugOvZ%2FvA%3D%3D&trackingId=1TvNpjED1FiMXwlfUpdwmQ%3D%3D
+                - generic [ref=f374e412]: Software Engineer, Founders Initiatives
+              - generic [ref=f374e413]:
+                - heading [level=3] [ref=f374e414]: Software Engineer, Founders Initiatives
+                - paragraph [ref=f374e415]:
+                  - link [ref=f374e416] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/retellai?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Retell
+                - generic [ref=f374e417]:
+                  - generic [ref=f374e418]: San Francisco Bay Area
+                  - time [ref=f374e419]: 1 month ago
+      - generic [ref=f374e420]:
+        - heading [level=2] [ref=f374e421]: Similar Searches
+        - generic [ref=f374e423]:
+          - list [ref=f374e424]:
+            - listitem [ref=f374e425]:
+              - link [ref=f374e426] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/machine-learning-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f374e427]:
+                  - heading [level=3] [ref=f374e428]: Machine Learning Engineer jobs
+                  - generic [ref=f374e429]: 148,937 open jobs
+            - listitem [ref=f374e430]:
+              - link [ref=f374e431] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/software-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f374e432]:
+                  - heading [level=3] [ref=f374e433]: Software Engineer jobs
+                  - generic [ref=f374e434]: 300,699 open jobs
+            - listitem [ref=f374e435]:
+              - link [ref=f374e436] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f374e437]:
+                  - heading [level=3] [ref=f374e438]: Engineer jobs
+                  - generic [ref=f374e439]: 555,845 open jobs
+            - listitem [ref=f374e440]:
+              - link [ref=f374e441] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f374e442]:
+                  - heading [level=3] [ref=f374e443]: Developer jobs
+                  - generic [ref=f374e444]: 258,935 open jobs
+            - listitem [ref=f374e445]:
+              - link [ref=f374e446] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/j2ee-developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f374e447]:
+                  - heading [level=3] [ref=f374e448]: J2Ee Developer jobs
+                  - generic [ref=f374e449]: 13,921 open jobs
+            - listitem [ref=f374e450]:
+              - link [ref=f374e451] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/software-engineer-intern-jobs?trk=public_jobs_full-click
+                - generic [ref=f374e452]:
+                  - heading [level=3] [ref=f374e453]: Software Engineer Intern jobs
+                  - generic [ref=f374e454]: 1,941 open jobs
+            - listitem [ref=f374e455]:
+              - link [ref=f374e456] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/computer-software-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f374e457]:
+                  - heading [level=3] [ref=f374e458]: Computer Software Engineer jobs
+                  - generic [ref=f374e459]: 224,521 open jobs
+            - listitem [ref=f374e460]:
+              - link [ref=f374e461] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/web-development-specialist-jobs?trk=public_jobs_full-click
+                - generic [ref=f374e462]:
+                  - heading [level=3] [ref=f374e463]: Web Development Specialist jobs
+                  - generic [ref=f374e464]: 227,596 open jobs
+            - listitem [ref=f374e465]:
+              - link [ref=f374e466] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/software-intern-jobs?trk=public_jobs_full-click
+                - generic [ref=f374e467]:
+                  - heading [level=3] [ref=f374e468]: Software Intern jobs
+                  - generic [ref=f374e469]: 3,845 open jobs
+            - listitem [ref=f374e470]:
+              - link [ref=f374e471] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/web-programmer-jobs?trk=public_jobs_full-click
+                - generic [ref=f374e472]:
+                  - heading [level=3] [ref=f374e473]: Web Programmer jobs
+                  - generic [ref=f374e474]: 4,657 open jobs
+            - listitem [ref=f374e475]:
+              - link [ref=f374e476] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/back-end-developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f374e477]:
+                  - heading [level=3] [ref=f374e478]: Back End Developer jobs
+                  - generic [ref=f374e479]: 51,032 open jobs
+            - listitem [ref=f374e480]:
+              - link [ref=f374e481] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/junior-software-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f374e482]:
+                  - heading [level=3] [ref=f374e483]: Junior Software Engineer jobs
+                  - generic [ref=f374e484]: 233,545 open jobs
+          - button [ref=f374e485] [cursor=pointer]: Show more
+      - generic [ref=f374e489]:
+        - heading [level=2] [ref=f374e491]: Explore top content on LinkedIn
+        - paragraph [ref=f374e492]: Find curated posts and insights for relevant topics all in one place.
+        - link [ref=f374e493] [cursor=pointer]:
+          - /url: https://www.linkedin.com/top-content/
+          - text: View top content
+  - button [ref=f374e498] [cursor=pointer]: More searches
+  - contentinfo [aria-hidden] [ref=f374e500]:
+    - list [ref=f374e501]:
+      - generic [ref=f374e502]: LinkedIn
+      - generic [ref=f374e504]: © 2026
+      - listitem [ref=f374e505]:
+        - link [ref=f374e506] [cursor=pointer]:
+          - /url: https://about.linkedin.com?trk=d_jobs_guest_details_footer-about
+          - text: About
+      - listitem [ref=f374e507]:
+        - link [ref=f374e508] [cursor=pointer]:
+          - /url: https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility
+          - text: Accessibility
+      - listitem [ref=f374e509]:
+        - link [ref=f374e510] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/user-agreement?trk=d_jobs_guest_details_footer-user-agreement
+          - text: User Agreement
+      - listitem [ref=f374e511]:
+        - link [ref=f374e512] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/privacy-policy?trk=d_jobs_guest_details_footer-privacy-policy
+          - text: Privacy Policy
+      - listitem [ref=f374e513]:
+        - link [ref=f374e514] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/california-privacy-disclosure?trk=d_jobs_guest_details_footer-california-privacy-rights-act
+          - text: Your California Privacy Choices
+      - listitem [ref=f374e515]:
+        - link [ref=f374e516] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/cookie-policy?trk=d_jobs_guest_details_footer-cookie-policy
+          - text: Cookie Policy
+      - listitem [ref=f374e517]:
+        - link [ref=f374e518] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/copyright-policy?trk=d_jobs_guest_details_footer-copyright-policy
+          - text: Copyright Policy
+      - listitem [ref=f374e519]:
+        - link [ref=f374e520] [cursor=pointer]:
+          - /url: https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy
+          - text: Brand Policy
+      - listitem [ref=f374e521]:
+        - link [ref=f374e522] [cursor=pointer]:
+          - /url: https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls
+          - text: Guest Controls
+      - listitem [ref=f374e523]:
+        - link [ref=f374e524] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/professional-community-policies?trk=d_jobs_guest_details_footer-community-guide
+          - text: Community Guidelines
+      - listitem [ref=f374e525]:
+        - button [ref=f374e527]: Language
+  - dialog [active] [ref=f374e530]:
+    - button "Dismiss" [ref=f374e531] [cursor=pointer]
+    - generic [ref=f374e533]:
+      - heading "Sign in to see who you already know at Observe.AI" [level=2] [ref=f374e535]
+      - generic [ref=f374e536]:
+        - generic:
+          - generic:
+            - button "Continue with google"
+        - button "Sign in with Email" [ref=f374e537] [cursor=pointer]
+        - paragraph [ref=f374e541]: or
+        - generic:
+          - generic:
+            - button "Continue with google"
+        - paragraph [ref=f374e542]:
+          - text: New to LinkedIn?
+          - link "Join now" [ref=f374e543] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&trk=public_jobs_contextual-sign-in-modal_join-link
+        - paragraph [ref=f374e544]:
+          - text: By clicking Continue to join or sign in, you agree to LinkedIn’s
+          - link "User Agreement" [ref=f374e545] [cursor=pointer]:
+            - /url: /legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement
+          - text: ","
+          - link "Privacy Policy" [ref=f374e546] [cursor=pointer]:
+            - /url: /legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy
+          - text: ", and"
+          - link "Cookie Policy" [ref=f374e547] [cursor=pointer]:
+            - /url: /legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy
+          - text: .

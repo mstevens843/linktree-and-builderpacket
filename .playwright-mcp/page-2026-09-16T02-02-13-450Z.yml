@@ -1,0 +1,123 @@
+- generic [ref=f52e2]:
+  - list [ref=f52e4]:
+    - listitem [ref=f52e5]:
+      - link [ref=f52e6] [cursor=pointer]:
+        - /url: https://ellipsislabs.xyz/
+        - img "Ellipsis Labs" [ref=f52e7]
+    - listitem
+    - listitem
+  - generic [ref=f52e8]:
+    - generic [ref=f52e9]:
+      - generic [ref=f52e10]:
+        - paragraph [ref=f52e11]: Ellipsis Labs is a profitable, venture-backed New York-based startup building sustainable and efficient DeFi protocols on high-throughput decentralized infrastructure. Our long-term goal is to build a better financial system.
+        - paragraph [ref=f52e12]: Our flagship product, Phoenix Perpetuals, brings professional-grade perpetual futures to Solana. Building on our experience developing efficient markets, Ellipsis Labs also operates SolFi, a proprietary automated market maker that provides efficient liquidity for key trading pairs. Our foundational product, Phoenix Legacy, is a limit order book on the Solana blockchain that established our expertise in operating high-performance markets. Combined, these products have facilitated over $285B in trading volume across Solana markets.
+      - status [ref=f52e13]:
+        - text: Open Positions
+        - generic [ref=f52e14]: (13)
+    - generic [ref=f52e16]:
+      - heading "Engineering" [level=2] [ref=f52e17]
+      - generic [ref=f52e19]:
+        - link [ref=f52e20] [cursor=pointer]:
+          - /url: /ellipsislabs/0664c1db-ef07-44fc-947e-fda5a2948ee9
+          - generic [ref=f52e21]:
+            - heading "Quantitative Developer - Risk" [level=3] [ref=f52e22]
+            - generic [ref=f52e23]:
+              - paragraph [ref=f52e24]: Engineering • New York, New York • Full time
+              - paragraph [ref=f52e25]: $180K – $250K • Offers Equity
+        - link [ref=f52e26] [cursor=pointer]:
+          - /url: /ellipsislabs/a6322c32-9142-4146-9429-bcf5cb52b3b7
+          - generic [ref=f52e27]:
+            - heading "Senior Backend Engineer" [level=3] [ref=f52e28]
+            - generic [ref=f52e29]:
+              - paragraph [ref=f52e30]: Engineering • New York, New York • Full time
+              - paragraph [ref=f52e31]: $170K – $250K • Offers Equity
+        - link [ref=f52e32] [cursor=pointer]:
+          - /url: /ellipsislabs/1a9808b7-7630-4433-afb8-78ab4570d9a7
+          - generic [ref=f52e33]:
+            - heading "Senior Performance Engineer" [level=3] [ref=f52e34]
+            - generic [ref=f52e35]:
+              - paragraph [ref=f52e36]: Engineering • New York, New York • Full time
+              - paragraph [ref=f52e37]: $170K – $250K • Offers Equity
+        - link [ref=f52e38] [cursor=pointer]:
+          - /url: /ellipsislabs/65fbf6df-c55c-43fc-9381-9cfb43ff85f6
+          - generic [ref=f52e39]:
+            - heading "Senior Product Engineer" [level=3] [ref=f52e40]
+            - generic [ref=f52e41]:
+              - paragraph [ref=f52e42]: Engineering • New York, New York • Full time
+              - paragraph [ref=f52e43]: $170K – $250K • Offers Equity
+        - link [ref=f52e44] [cursor=pointer]:
+          - /url: /ellipsislabs/f5200c58-cada-4e8b-b398-67175ec4bd6b
+          - generic [ref=f52e45]:
+            - heading "Senior Smart Contract Engineer (EVM)" [level=3] [ref=f52e46]
+            - generic [ref=f52e47]:
+              - paragraph [ref=f52e48]: Engineering • New York, New York • Full time
+              - paragraph [ref=f52e49]: $170K – $250K • Offers Equity
+        - link [ref=f52e50] [cursor=pointer]:
+          - /url: /ellipsislabs/35aad59f-fa9d-4624-9efd-71c6a4f3fd15
+          - generic [ref=f52e51]:
+            - heading "Senior Smart Contract Engineer (SVM)" [level=3] [ref=f52e52]
+            - generic [ref=f52e53]:
+              - paragraph [ref=f52e54]: Engineering • New York, New York • Full time
+              - paragraph [ref=f52e55]: $170K – $250K • Offers Equity
+        - link [ref=f52e56] [cursor=pointer]:
+          - /url: /ellipsislabs/f37f17f9-004b-4582-b397-d437c522aa59
+          - generic [ref=f52e57]:
+            - heading "Senior Software Engineer" [level=3] [ref=f52e58]
+            - generic [ref=f52e59]:
+              - paragraph [ref=f52e60]: Engineering • New York, New York • Full time
+              - paragraph [ref=f52e61]: $170K – $250K • Offers Equity
+        - link [ref=f52e62] [cursor=pointer]:
+          - /url: /ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849
+          - generic [ref=f52e63]:
+            - heading "Software Engineer - 2027 Interns" [level=3] [ref=f52e64]
+            - generic [ref=f52e65]:
+              - paragraph [ref=f52e66]: Engineering • New York, New York • Intern • Hybrid
+              - paragraph [ref=f52e67]: $10K per month
+        - link [ref=f52e68] [cursor=pointer]:
+          - /url: /ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d
+          - generic [ref=f52e69]:
+            - heading "Software Engineer - 2027 New Grads" [level=3] [ref=f52e70]
+            - generic [ref=f52e71]:
+              - paragraph [ref=f52e72]: Engineering • New York, New York • Full time • Hybrid
+              - paragraph [ref=f52e73]: $150K – $200K • Offers Equity
+        - link [ref=f52e74] [cursor=pointer]:
+          - /url: /ellipsislabs/53f2b34d-2c98-4a88-9da1-aa1230746377
+          - generic [ref=f52e75]:
+            - heading "Staff Infrastructure Engineer" [level=3] [ref=f52e76]
+            - generic [ref=f52e77]:
+              - paragraph [ref=f52e78]: Engineering • New York, New York • Full time
+              - paragraph [ref=f52e79]: $200K – $250K • Offers Equity
+      - heading "Growth" [level=2] [ref=f52e80]
+      - link [ref=f52e83] [cursor=pointer]:
+        - /url: /ellipsislabs/ad7d62ed-7587-4ec5-b236-d4df64b223bc
+        - generic [ref=f52e84]:
+          - heading "Growth Manager - Asia" [level=3] [ref=f52e85]
+          - paragraph [ref=f52e87]: Growth • Asia • Full time
+      - heading "Operations" [level=2] [ref=f52e88]
+      - link [ref=f52e91] [cursor=pointer]:
+        - /url: /ellipsislabs/242047ee-4a79-44cd-b66c-37a693faa6fe
+        - generic [ref=f52e92]:
+          - heading "Office Manager" [level=3] [ref=f52e93]
+          - generic [ref=f52e94]:
+            - paragraph [ref=f52e95]: Operations • New York, New York • Contract
+            - paragraph [ref=f52e96]: $50 – $75 per hour
+      - heading "Product and Design" [level=2] [ref=f52e97]
+      - link [ref=f52e100] [cursor=pointer]:
+        - /url: /ellipsislabs/d099bdee-5f4f-4d36-89b0-15e31311d9bf
+        - generic [ref=f52e101]:
+          - heading "Senior Visual Designer" [level=3] [ref=f52e102]
+          - generic [ref=f52e103]:
+            - paragraph [ref=f52e104]: Product and Design • New York, New York • Full time • Hybrid
+            - paragraph [ref=f52e105]: $170K – $225K • Offers Equity
+  - contentinfo [ref=f52e106]:
+    - link "Learn more about Ashby" [ref=f52e107] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=f52e108]: Powered by
+      - img "Ashby" [ref=f52e109]
+    - paragraph [ref=f52e115]:
+      - link "Privacy Policy" [ref=f52e116] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=f52e117] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=f52e118] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

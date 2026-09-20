@@ -1,0 +1,541 @@
+- generic [ref=f167e1]:
+  - link [aria-hidden] [ref=f167e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - text: Skip to main content
+  - banner [aria-hidden] [ref=f167e3]:
+    - navigation [ref=f167e4]:
+      - link [ref=f167e5] [cursor=pointer]:
+        - /url: /?trk=public_jobs_nav-header-logo
+        - generic [ref=f167e6]: LinkedIn
+      - generic [ref=f167e19]:
+        - button [ref=f167e21] [cursor=pointer]:
+          - generic [ref=f167e22]: Jobs
+        - tabpanel [ref=f167e23]:
+          - search [ref=f167e24]:
+            - generic [ref=f167e25]:
+              - combobox [ref=f167e26]: AI Product Engineer - Nexus
+              - button [ref=f167e27] [cursor=pointer]:
+                - generic [ref=f167e28]: Clear text
+            - generic [ref=f167e34]:
+              - combobox [ref=f167e35]: San Pablo, CA
+              - button [ref=f167e36] [cursor=pointer]:
+                - generic [ref=f167e37]: Clear text
+            - button [ref=f167e43] [cursor=pointer]
+        - status [ref=f167e47]
+      - generic [ref=f167e48]:
+        - link [ref=f167e49] [cursor=pointer]:
+          - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&fromSignIn=true&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fai-product-engineer-nexus-at-fireworks-ai-4456413140&trk=public_jobs_nav-header-signin
+          - text: Sign in
+        - link [ref=f167e50] [cursor=pointer]:
+          - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fai-product-engineer-nexus-at-fireworks-ai-4456413140&trk=public_jobs_nav-header-join
+          - text: Join now
+  - main [aria-hidden] [ref=f167e51]:
+    - generic [ref=f167e53]:
+      - generic [ref=f167e55]:
+        - link [ref=f167e56] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/fireworks-ai?trk=public_jobs_topcard_logo
+        - generic [ref=f167e59]:
+          - heading [level=1] [ref=f167e60]: AI Product Engineer - Nexus
+          - heading [level=4] [ref=f167e61]:
+            - generic [ref=f167e62]:
+              - link [ref=f167e64] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/fireworks-ai?trk=public_jobs_topcard-org-name
+                - text: Fireworks AI
+              - text: · San Mateo, CA
+            - generic [ref=f167e65]: 5 days ago · 109 applicants
+            - link [ref=f167e66] [cursor=pointer]:
+              - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D91174981%26title%3DProduct%2BEngineer&emailAddress=&fromSignIn=&trk=public_jobs_see-who-was-hired_people-search-link_face-pile-cta
+              - paragraph [ref=f167e69]: See who Fireworks AI has hired for this role
+          - generic [ref=f167e70]:
+            - button [ref=f167e71] [cursor=pointer]: Apply
+            - button [ref=f167e75] [cursor=pointer]: Save
+        - button [ref=f167e78] [cursor=pointer]
+        - generic [ref=f167e83]:
+          - heading [level=3] [ref=f167e84]: Use AI to assess how you fit
+          - paragraph [ref=f167e85]: Get AI-powered advice on this job and more exclusive features.
+          - generic [ref=f167e86]:
+            - button [ref=f167e87] [cursor=pointer]
+            - button [ref=f167e89] [cursor=pointer]:
+              - generic [ref=f167e91]: Am I a good fit for this job?
+            - button [ref=f167e92] [cursor=pointer]:
+              - generic [ref=f167e94]: Tailor my resume
+      - generic [ref=f167e95]:
+        - generic [ref=f167e97]:
+          - generic [ref=f167e99]:
+            - generic [ref=f167e100]:
+              - strong [ref=f167e101]: About Us
+              - text: Fireworks is the platform for specialized intelligence, enabling companies to build, train, and serve AI models tailored to their own data, workflows, and products. Founded by the team behind PyTorch and backed by AMD, Atreides, Benchmark Capital, Index Ventures, Lightspeed, NVIDIA, Sequoia Capital, and TCV, Fireworks powers production AI with hundreds of state-of-the-art open models across text, image, embedding, audio, and multimodal workloads. Today, Fireworks is a Series D company valued at $17.5 billion, bringing together an ambitious, collaborative team that's building the future of enterprise AI.
+              - strong [ref=f167e102]: About The Role
+              - text: We just shipped
+              - strong [ref=f167e103]: Fireworks Nexus
+              - text: ": a drop-in platform that lets engineering organizations route their AI workloads off expensive proprietary models and onto high-performing open models like Kimi-K3 and GLM-5.2, without changing how a single developer works. The early numbers are the kind that change how an industry buys intelligence:"
+              - strong [ref=f167e104]: 3–5x lower AI spend, roughly a third off the cost of every merged PR, and a blended token rate about a quarter of the closed labs
+              - text: ", all while matching or beating frontier models on real engineering work from real customer repositories. The context is simple. AI spend at serious engineering orgs is exploding, one company burned its entire annual AI budget in four months, and most of that money goes to running routine work at frontier prices. Open models just crossed the intelligence-cost curve. Nexus is how teams capture that, and we're building it in the open: FireConnect ships under Apache 2.0, installs in one line, and plugs straight into Claude Code, Codex, and OpenCode. We're looking for a product-minded engineer to join as a Member of Technical Staff and own the surfaces that make this real: the intelligent router that scores and directs every request, the cost-observability and enterprise-control layers that give an org visibility over its entire AI footprint, the FireConnect integrations that make adoption a single command, and the core platform underneath; inference APIs, the developer console, and fine-tuning workflows. This is a high-autonomy IC role on a small team building something that ships to production the day you write it, at a scale almost nowhere else can offer. You'll own features end to end — from understanding the problem, to designing the solution, to shipping it, to watching how developers actually use it. If you're the kind of engineer who ships things other people think are impossible, on timelines other people think are impossible, this is a place where that has enormous leverage and nothing standing between you and impact."
+              - strong [ref=f167e105]: What You'll Do
+              - list [ref=f167e106]:
+                - listitem [ref=f167e107]: Own product features end-to-end across Nexus and the broader Fireworks platform, the intelligent router, FireConnect harness integrations, cost observability, enterprise controls and policy, the developer console, API surfaces, the model playground, fine-tuning workflows, and billing, scoping the problem, building it, shipping it, instrumenting it, and iterating on real usage.
+                - listitem [ref=f167e108]: Build the routing and migration layer that scores request difficulty in real time and sends routine work to open models while passing hard tasks through to a customer's existing provider, the system that delivers 3–5x cost reductions without sacrificing quality.
+                - listitem [ref=f167e109]: "Make adoption frictionless: extend FireConnect and our Anthropic- and OpenAI-compatible APIs so a team can drop Nexus into their existing tools with just a base URL and a model ID, and improve the caching and infra paths that turn that into material cost savings."
+                - listitem [ref=f167e110]: Work across the full stack, frontend (React/TypeScript), backend services (Python, Go), APIs, and data layers, to ship polished, production-quality product surfaces for deeply technical users.
+                - listitem [ref=f167e111]: "Build for products evolving week to week: new models, new serving paths, new consumption models, new enterprise controls, and new multi-agent harness tooling."
+                - listitem [ref=f167e112]: Partner closely with Infrastructure, Applied Research, Growth, Data, and Design to turn raw platform capability into products developers love.
+                - listitem [ref=f167e113]: Instrument everything you build and let the data tell you where the friction is — then remove it.
+              - strong [ref=f167e114]: Minimum Qualifications
+              - list [ref=f167e115]:
+                - listitem [ref=f167e116]: 3+ years as a software engineer, with meaningful time spent building and shipping user-facing products.
+                - listitem [ref=f167e117]: Strong full-stack skills, comfortable across frontend (React/TypeScript), backend (Python, Go, or similar), APIs, and databases.
+                - listitem [ref=f167e118]: "A track record of shipping developer-facing products: APIs, dashboards, consoles, CLIs, or developer tools."
+                - listitem [ref=f167e119]: Genuine end-to-end ownership, you're as comfortable scoping an ambiguous problem as you are deploying the fix at 2am.
+                - listitem [ref=f167e120]: "Strong product instincts: you optimize for the developer experience, not just the diff."
+                - listitem [ref=f167e121]: "The ability to operate at high velocity with extreme ownership: you ship fast, make pragmatic trade-offs, and don't wait to be told what to build."
+              - strong [ref=f167e122]: Preferred Qualifications
+              - list [ref=f167e123]:
+                - listitem [ref=f167e124]: Experience building products on top of complex infrastructure, inference platforms, cloud services, data platforms, or ML tooling.
+                - listitem [ref=f167e125]: Experience building for deeply technical users, where the product surface is an API as much as a UI.
+                - listitem [ref=f167e126]: Comfort in a fast-moving, founder-led environment where the product changes week to week and you're drawing the map as you walk it.
+                - listitem [ref=f167e127]: You build with AI tools every day, and you have sharp intuition for what a great AI developer experience feels like from the inside.
+              - strong [ref=f167e128]: Why Fireworks?
+              - list [ref=f167e129]:
+                - listitem [ref=f167e130]: "Solve Hard Problems: Tackle challenges at the forefront of AI infrastructure, from low-latency inference to scalable model serving."
+                - listitem [ref=f167e131]: "Build What’s Next: Work with bleeding-edge technology that impacts how businesses and developers harness AI globally."
+                - listitem [ref=f167e132]: "Ownership & Impact: Join a fast-growing, passionate team where your work directly shapes the future of AI—no bureaucracy, just results."
+                - listitem [ref=f167e133]: "Learn from the Best: Collaborate with world-class engineers and AI researchers who thrive on curiosity and innovation."
+              - emphasis [ref=f167e134]: Fireworks AI is an equal-opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all innovators.
+            - button [ref=f167e135] [cursor=pointer]: Show more
+          - list [ref=f167e137]:
+            - listitem [ref=f167e138]:
+              - heading [level=3] [ref=f167e139]: Seniority level
+              - text: Mid-Senior level
+            - listitem [ref=f167e140]:
+              - heading [level=3] [ref=f167e141]: Employment type
+              - text: Full-time
+            - listitem [ref=f167e142]:
+              - heading [level=3] [ref=f167e143]: Job function
+              - text: Engineering and Information Technology
+            - listitem [ref=f167e144]:
+              - heading [level=3] [ref=f167e145]: Industries
+              - text: Software Development
+        - generic [ref=f167e150]:
+          - paragraph [ref=f167e151]: Referrals increase your chances of interviewing at Fireworks AI by 2x
+          - link [ref=f167e152] [cursor=pointer]:
+            - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D91174981&emailAddress=&fromSignIn=&trk=public_jobs_find-a-referral-cta
+            - text: See who you know
+      - generic [ref=f167e155]:
+        - paragraph [ref=f167e156]:
+          - text: Get notified about new Product Engineer jobs in
+          - strong [ref=f167e157]: San Mateo, CA
+          - text: .
+        - link [ref=f167e158] [cursor=pointer]:
+          - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fai-product-engineer-nexus-at-fireworks-ai-4456413140&trk=public_jobs_job-alert-guest-redirect-cta
+          - text: Sign in to create job alert
+      - navigation [ref=f167e159]:
+        - list [ref=f167e160]:
+          - listitem [ref=f167e161]:
+            - link [ref=f167e162] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/
+              - text: Jobs
+            - text: /
+          - listitem [ref=f167e163]:
+            - link [ref=f167e164] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/national-human-resources-manager-jobs
+              - text: National Human Resources Manager jobs
+            - text: /
+          - listitem [ref=f167e165]:
+            - generic [ref=f167e166]: AI Product Engineer - Nexus
+      - generic [ref=f167e167]:
+        - heading [level=2] [ref=f167e168]: Similar jobs
+        - generic [ref=f167e170]:
+          - list [ref=f167e171]:
+            - listitem [ref=f167e172]:
+              - generic [ref=f167e173]:
+                - link [ref=f167e174] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/product-engineer-at-asendia-ai-4430838833?refId=hezttmKgxaPCpm5EOl3%2Bww%3D%3D&trackingId=nT3Q37tpNxlaD11GocQABw%3D%3D
+                  - generic [ref=f167e175]: Product Engineer
+                - generic [ref=f167e176]:
+                  - heading [level=3] [ref=f167e177]: Product Engineer
+                  - heading [level=4] [ref=f167e178]:
+                    - link [ref=f167e179] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/asendia-ai?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Asendia AI
+                  - generic [ref=f167e180]:
+                    - generic [ref=f167e181]: San Francisco, CA
+                    - generic [ref=f167e182]: $150,000 - $225,000
+                    - time [ref=f167e183]: 2 months ago
+            - listitem [ref=f167e184]:
+              - generic [ref=f167e185]:
+                - link [ref=f167e186] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/enterprise-ai-product-engineer-at-ringcentral-4426020352?refId=hezttmKgxaPCpm5EOl3%2Bww%3D%3D&trackingId=gBNoeA0wIAfjIRZR67FaWg%3D%3D
+                  - generic [ref=f167e187]: Enterprise AI Product Engineer
+                - generic [ref=f167e188]:
+                  - heading [level=3] [ref=f167e189]: Enterprise AI Product Engineer
+                  - heading [level=4] [ref=f167e190]:
+                    - link [ref=f167e191] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/ringcentral?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: RingCentral
+                  - generic [ref=f167e192]:
+                    - generic [ref=f167e193]: Belmont, CA
+                    - time [ref=f167e194]: 1 week ago
+            - listitem [ref=f167e195]:
+              - generic [ref=f167e196]:
+                - link [ref=f167e197] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/ai-engineer-product-at-brex-4432881494?refId=hezttmKgxaPCpm5EOl3%2Bww%3D%3D&trackingId=Y26mHzCKnL92unt00jXB%2Bg%3D%3D
+                  - generic [ref=f167e198]: AI Engineer, Product
+                - generic [ref=f167e199]:
+                  - heading [level=3] [ref=f167e200]: AI Engineer, Product
+                  - heading [level=4] [ref=f167e201]:
+                    - link [ref=f167e202] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/brexhq?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Brex
+                  - generic [ref=f167e203]:
+                    - generic [ref=f167e204]: San Francisco, CA
+                    - time [ref=f167e205]: 2 weeks ago
+            - listitem [ref=f167e206]:
+              - generic [ref=f167e207]:
+                - link [ref=f167e208] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/product-engineer-ai-at-alma-4433060810?refId=hezttmKgxaPCpm5EOl3%2Bww%3D%3D&trackingId=KgY6agIA7Nbob7%2F6LxkQpA%3D%3D
+                  - generic [ref=f167e209]: Product Engineer - AI
+                - generic [ref=f167e210]:
+                  - heading [level=3] [ref=f167e211]: Product Engineer - AI
+                  - heading [level=4] [ref=f167e212]:
+                    - link [ref=f167e213] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/tryalma?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Alma
+                  - generic [ref=f167e214]:
+                    - generic [ref=f167e215]: San Francisco Bay Area
+                    - generic [ref=f167e216]: $150,000 - $300,000
+                    - time [ref=f167e217]: 2 months ago
+            - listitem [ref=f167e218]:
+              - generic [ref=f167e219]:
+                - link [ref=f167e220] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/software-engineer-ai-workflows-at-notion-4398965812?refId=hezttmKgxaPCpm5EOl3%2Bww%3D%3D&trackingId=l7lx%2Ba%2BcLQS2Bc4hdP0X7A%3D%3D
+                  - generic [ref=f167e221]: Software Engineer, AI Workflows
+                - generic [ref=f167e222]:
+                  - heading [level=3] [ref=f167e223]: Software Engineer, AI Workflows
+                  - heading [level=4] [ref=f167e224]:
+                    - link [ref=f167e225] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/notionhq?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Notion
+                  - generic [ref=f167e226]:
+                    - generic [ref=f167e227]: San Francisco, CA
+                    - time [ref=f167e228]: 6 days ago
+            - listitem [ref=f167e229]:
+              - generic [ref=f167e230]:
+                - link [ref=f167e231] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-habitat-health-4455326778?refId=hezttmKgxaPCpm5EOl3%2Bww%3D%3D&trackingId=Z7%2FTuI9cwLO3x7nYj7hIDA%3D%3D
+                  - generic [ref=f167e232]: Forward-Deployed Engineer
+                - generic [ref=f167e233]:
+                  - heading [level=3] [ref=f167e234]: Forward-Deployed Engineer
+                  - heading [level=4] [ref=f167e235]:
+                    - link [ref=f167e236] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/habitat-health?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Habitat Health
+                  - generic [ref=f167e237]:
+                    - generic [ref=f167e238]: San Francisco, CA
+                    - time [ref=f167e239]: 1 week ago
+          - button [ref=f167e240] [cursor=pointer]: Show more jobs like this
+    - generic [ref=f167e242]:
+      - generic [ref=f167e243]:
+        - heading [level=2] [ref=f167e244]: People also viewed
+        - list [ref=f167e246]:
+          - listitem [ref=f167e247]:
+            - generic [ref=f167e248]:
+              - link [ref=f167e249] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/ai-product-engineer-at-harnham-4462034218?refId=hezttmKgxaPCpm5EOl3%2Bww%3D%3D&trackingId=eA7rRhzEI7sDLxLRx6gVUg%3D%3D
+                - generic [ref=f167e250]: AI Product Engineer
+              - generic [ref=f167e251]:
+                - heading [level=3] [ref=f167e252]: AI Product Engineer
+                - paragraph [ref=f167e253]:
+                  - link [ref=f167e254] [cursor=pointer]:
+                    - /url: https://uk.linkedin.com/company/harnham?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Harnham
+                - generic [ref=f167e255]:
+                  - generic [ref=f167e256]: San Francisco Bay Area
+                  - generic [ref=f167e257]: $165,000 - $240,000
+                  - time [ref=f167e258]: 2 weeks ago
+          - listitem [ref=f167e259]:
+            - generic [ref=f167e260]:
+              - link [ref=f167e261] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/ai-product-engineer-at-jerry-4459923508?refId=hezttmKgxaPCpm5EOl3%2Bww%3D%3D&trackingId=v74%2BrjGbEUzIkFqjLCMdgA%3D%3D
+                - generic [ref=f167e262]: AI Product Engineer
+              - generic [ref=f167e263]:
+                - heading [level=3] [ref=f167e264]: AI Product Engineer
+                - paragraph [ref=f167e265]:
+                  - link [ref=f167e266] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/jerryinc?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Jerry
+                - generic [ref=f167e267]:
+                  - generic [ref=f167e268]: San Francisco Bay Area
+                  - time [ref=f167e269]: 1 week ago
+          - listitem [ref=f167e270]:
+            - generic [ref=f167e271]:
+              - link [ref=f167e272] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/ai-engineer-at-p-1-ai-4431981620?refId=hezttmKgxaPCpm5EOl3%2Bww%3D%3D&trackingId=Nk6RMta7ewLJtP67A6dD4w%3D%3D
+                - generic [ref=f167e273]: AI Engineer
+              - generic [ref=f167e274]:
+                - heading [level=3] [ref=f167e275]: AI Engineer
+                - paragraph [ref=f167e276]:
+                  - link [ref=f167e277] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/p-1-ai?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: P-1 AI
+                - generic [ref=f167e278]:
+                  - generic [ref=f167e279]: San Francisco Bay Area
+                  - time [ref=f167e280]: 1 week ago
+          - listitem [ref=f167e281]:
+            - generic [ref=f167e282]:
+              - link [ref=f167e283] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/ai-applications-engineer-at-notion-4334772124?refId=hezttmKgxaPCpm5EOl3%2Bww%3D%3D&trackingId=j%2FEC0O1d%2BvXmjiG72xYEqg%3D%3D
+                - generic [ref=f167e284]: AI Applications Engineer
+              - generic [ref=f167e285]:
+                - heading [level=3] [ref=f167e286]: AI Applications Engineer
+                - paragraph [ref=f167e287]:
+                  - link [ref=f167e288] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/notionhq?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Notion
+                - generic [ref=f167e289]:
+                  - generic [ref=f167e290]: San Francisco, CA
+                  - time [ref=f167e291]: 5 days ago
+          - listitem [ref=f167e292]:
+            - generic [ref=f167e293]:
+              - link [ref=f167e294] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/applied-ai-engineer-at-mintlify-4455565496?refId=hezttmKgxaPCpm5EOl3%2Bww%3D%3D&trackingId=GkyQVxcGizzVjg0SWyAwCQ%3D%3D
+                - generic [ref=f167e295]: Applied AI Engineer
+              - generic [ref=f167e296]:
+                - heading [level=3] [ref=f167e297]: Applied AI Engineer
+                - paragraph [ref=f167e298]:
+                  - link [ref=f167e299] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/mintlify?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Mintlify
+                - generic [ref=f167e300]:
+                  - generic [ref=f167e301]: San Francisco, CA
+                  - generic [ref=f167e302]: $130,000 - $200,000
+                  - time [ref=f167e303]: 4 weeks ago
+          - listitem [ref=f167e304]:
+            - generic [ref=f167e305]:
+              - link [ref=f167e306] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/ai-engineer-at-goodfin-4368084037?refId=hezttmKgxaPCpm5EOl3%2Bww%3D%3D&trackingId=XTw4HrydAjC9VtGR61Mfig%3D%3D
+                - generic [ref=f167e307]: AI Engineer
+              - generic [ref=f167e308]:
+                - heading [level=3] [ref=f167e309]: AI Engineer
+                - paragraph [ref=f167e310]:
+                  - link [ref=f167e311] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/getgoodfin?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Goodfin
+                - generic [ref=f167e312]:
+                  - generic [ref=f167e313]: San Francisco, CA
+                  - generic [ref=f167e314]: $130,000 - $180,000
+                  - time [ref=f167e315]: 7 months ago
+          - listitem [ref=f167e316]:
+            - generic [ref=f167e317]:
+              - link [ref=f167e318] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/ai-engineer-agent-platform-at-newsbreak-4458490049?refId=hezttmKgxaPCpm5EOl3%2Bww%3D%3D&trackingId=EX2fNlL%2BQcOg0VTg3WRqVQ%3D%3D
+                - generic [ref=f167e319]: AI Engineer, Agent Platform
+              - generic [ref=f167e320]:
+                - heading [level=3] [ref=f167e321]: AI Engineer, Agent Platform
+                - paragraph [ref=f167e322]:
+                  - link [ref=f167e323] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/newsbreak?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: NewsBreak
+                - generic [ref=f167e324]:
+                  - generic [ref=f167e325]: Mountain View, CA
+                  - time [ref=f167e326]: 4 days ago
+          - listitem [ref=f167e327]:
+            - generic [ref=f167e328]:
+              - link [ref=f167e329] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/gtm-engineer-at-langchain-4392169398?refId=hezttmKgxaPCpm5EOl3%2Bww%3D%3D&trackingId=O5UvxdROFxcFe3gl6KdfHg%3D%3D
+                - generic [ref=f167e330]: GTM Engineer
+              - generic [ref=f167e331]:
+                - heading [level=3] [ref=f167e332]: GTM Engineer
+                - paragraph [ref=f167e333]:
+                  - link [ref=f167e334] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/langchain?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: LangChain
+                - generic [ref=f167e335]:
+                  - generic [ref=f167e336]: San Francisco Bay Area
+                  - time [ref=f167e337]: 2 weeks ago
+          - listitem [ref=f167e338]:
+            - generic [ref=f167e339]:
+              - link [ref=f167e340] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/product-builder-at-ai-fund-4370627192?refId=hezttmKgxaPCpm5EOl3%2Bww%3D%3D&trackingId=LFs5UY4bzEbDN40sOuX6ag%3D%3D
+                - generic [ref=f167e341]: Product Builder
+              - generic [ref=f167e342]:
+                - heading [level=3] [ref=f167e343]: Product Builder
+                - paragraph [ref=f167e344]:
+                  - link [ref=f167e345] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/aifund?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: AI Fund
+                - generic [ref=f167e346]:
+                  - generic [ref=f167e347]: Mountain View, CA
+                  - generic [ref=f167e348]: $160,000 - $200,000
+                  - time [ref=f167e349]: 1 week ago
+          - listitem [ref=f167e350]:
+            - generic [ref=f167e351]:
+              - link [ref=f167e352] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/engineer-in-residence-at-ai-fund-4370620893?refId=hezttmKgxaPCpm5EOl3%2Bww%3D%3D&trackingId=9NV6aPdiUCbmaDUF7hP4BA%3D%3D
+                - generic [ref=f167e353]: Engineer-in-Residence
+              - generic [ref=f167e354]:
+                - heading [level=3] [ref=f167e355]: Engineer-in-Residence
+                - paragraph [ref=f167e356]:
+                  - link [ref=f167e357] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/aifund?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: AI Fund
+                - generic [ref=f167e358]:
+                  - generic [ref=f167e359]: Mountain View, CA
+                  - time [ref=f167e360]: 1 week ago
+      - generic [ref=f167e361]:
+        - heading [level=2] [ref=f167e362]: Similar Searches
+        - generic [ref=f167e364]:
+          - list [ref=f167e365]:
+            - listitem [ref=f167e366]:
+              - link [ref=f167e367] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/national-human-resources-manager-jobs?trk=public_jobs_full-click
+                - generic [ref=f167e368]:
+                  - heading [level=3] [ref=f167e369]: National Human Resources Manager jobs
+                  - generic [ref=f167e370]: 6,388 open jobs
+            - listitem [ref=f167e371]:
+              - link [ref=f167e372] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/chief-design-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f167e373]:
+                  - heading [level=3] [ref=f167e374]: Chief Design Engineer jobs
+                  - generic [ref=f167e375]: 309 open jobs
+            - listitem [ref=f167e376]:
+              - link [ref=f167e377] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/principal-product-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f167e378]:
+                  - heading [level=3] [ref=f167e379]: Principal Product Engineer jobs
+                  - generic [ref=f167e380]: 40,556 open jobs
+            - listitem [ref=f167e381]:
+              - link [ref=f167e382] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/product-development-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f167e383]:
+                  - heading [level=3] [ref=f167e384]: Product Development Engineer jobs
+                  - generic [ref=f167e385]: 45,237 open jobs
+            - listitem [ref=f167e386]:
+              - link [ref=f167e387] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/electronic-development-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f167e388]:
+                  - heading [level=3] [ref=f167e389]: Electronic Development Engineer jobs
+                  - generic [ref=f167e390]: 8,017 open jobs
+            - listitem [ref=f167e391]:
+              - link [ref=f167e392] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/new-product-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f167e393]:
+                  - heading [level=3] [ref=f167e394]: New Product Engineer jobs
+                  - generic [ref=f167e395]: 20,853 open jobs
+            - listitem [ref=f167e396]:
+              - link [ref=f167e397] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/staff-product-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f167e398]:
+                  - heading [level=3] [ref=f167e399]: Staff Product Engineer jobs
+                  - generic [ref=f167e400]: 2,934 open jobs
+            - listitem [ref=f167e401]:
+              - link [ref=f167e402] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/application-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f167e403]:
+                  - heading [level=3] [ref=f167e404]: Application Engineer jobs
+                  - generic [ref=f167e405]: 280,202 open jobs
+            - listitem [ref=f167e406]:
+              - link [ref=f167e407] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/lead-product-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f167e408]:
+                  - heading [level=3] [ref=f167e409]: Lead Product Engineer jobs
+                  - generic [ref=f167e410]: 7,318 open jobs
+            - listitem [ref=f167e411]:
+              - link [ref=f167e412] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/product-design-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f167e413]:
+                  - heading [level=3] [ref=f167e414]: Product Design Engineer jobs
+                  - generic [ref=f167e415]: 41,548 open jobs
+            - listitem [ref=f167e416]:
+              - link [ref=f167e417] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/senior-security-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f167e418]:
+                  - heading [level=3] [ref=f167e419]: Senior Security Engineer jobs
+                  - generic [ref=f167e420]: 30,665 open jobs
+            - listitem [ref=f167e421]:
+              - link [ref=f167e422] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/staff-application-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f167e423]:
+                  - heading [level=3] [ref=f167e424]: Staff Application Engineer jobs
+                  - generic [ref=f167e425]: 2,429 open jobs
+          - button [ref=f167e426] [cursor=pointer]: Show more
+      - generic [ref=f167e430]:
+        - heading [level=2] [ref=f167e432]: Explore top content on LinkedIn
+        - paragraph [ref=f167e433]: Find curated posts and insights for relevant topics all in one place.
+        - link [ref=f167e434] [cursor=pointer]:
+          - /url: https://www.linkedin.com/top-content/
+          - text: View top content
+  - button [ref=f167e439] [cursor=pointer]: More searches
+  - contentinfo [aria-hidden] [ref=f167e441]:
+    - list [ref=f167e442]:
+      - generic [ref=f167e443]: LinkedIn
+      - generic [ref=f167e445]: © 2026
+      - listitem [ref=f167e446]:
+        - link [ref=f167e447] [cursor=pointer]:
+          - /url: https://about.linkedin.com?trk=d_jobs_guest_details_footer-about
+          - text: About
+      - listitem [ref=f167e448]:
+        - link [ref=f167e449] [cursor=pointer]:
+          - /url: https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility
+          - text: Accessibility
+      - listitem [ref=f167e450]:
+        - link [ref=f167e451] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/user-agreement?trk=d_jobs_guest_details_footer-user-agreement
+          - text: User Agreement
+      - listitem [ref=f167e452]:
+        - link [ref=f167e453] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/privacy-policy?trk=d_jobs_guest_details_footer-privacy-policy
+          - text: Privacy Policy
+      - listitem [ref=f167e454]:
+        - link [ref=f167e455] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/california-privacy-disclosure?trk=d_jobs_guest_details_footer-california-privacy-rights-act
+          - text: Your California Privacy Choices
+      - listitem [ref=f167e456]:
+        - link [ref=f167e457] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/cookie-policy?trk=d_jobs_guest_details_footer-cookie-policy
+          - text: Cookie Policy
+      - listitem [ref=f167e458]:
+        - link [ref=f167e459] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/copyright-policy?trk=d_jobs_guest_details_footer-copyright-policy
+          - text: Copyright Policy
+      - listitem [ref=f167e460]:
+        - link [ref=f167e461] [cursor=pointer]:
+          - /url: https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy
+          - text: Brand Policy
+      - listitem [ref=f167e462]:
+        - link [ref=f167e463] [cursor=pointer]:
+          - /url: https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls
+          - text: Guest Controls
+      - listitem [ref=f167e464]:
+        - link [ref=f167e465] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/professional-community-policies?trk=d_jobs_guest_details_footer-community-guide
+          - text: Community Guidelines
+      - listitem [ref=f167e466]:
+        - button [ref=f167e468]: Language
+  - dialog [active] [ref=f167e471]:
+    - button "Dismiss" [ref=f167e472] [cursor=pointer]
+    - generic [ref=f167e474]:
+      - heading "Sign in to see who you already know at Fireworks AI" [level=2] [ref=f167e476]
+      - generic [ref=f167e477]:
+        - generic:
+          - generic:
+            - button "Continue with google"
+        - button "Sign in with Email" [ref=f167e478] [cursor=pointer]
+        - paragraph [ref=f167e482]: or
+        - generic:
+          - generic:
+            - button "Continue with google"
+        - paragraph [ref=f167e483]:
+          - text: New to LinkedIn?
+          - link "Join now" [ref=f167e484] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&trk=public_jobs_contextual-sign-in-modal_join-link
+        - paragraph [ref=f167e485]:
+          - text: By clicking Continue to join or sign in, you agree to LinkedIn’s
+          - link "User Agreement" [ref=f167e486] [cursor=pointer]:
+            - /url: /legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement
+          - text: ","
+          - link "Privacy Policy" [ref=f167e487] [cursor=pointer]:
+            - /url: /legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy
+          - text: ", and"
+          - link "Cookie Policy" [ref=f167e488] [cursor=pointer]:
+            - /url: /legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy
+          - text: .

@@ -1,0 +1,1010 @@
+- generic [ref=f344e1]:
+  - generic [aria-hidden] [ref=f344e2]:
+    - link [ref=f344e3] [cursor=pointer]:
+      - /url: "#main-content"
+      - text: Skip to main content
+    - banner [ref=f344e4]:
+      - navigation [ref=f344e5]:
+        - link [ref=f344e6] [cursor=pointer]:
+          - /url: /?trk=public_jobs_nav-header-logo
+          - generic [ref=f344e7]: LinkedIn
+        - generic [ref=f344e20]:
+          - button [ref=f344e22] [cursor=pointer]:
+            - generic [ref=f344e23]: Jobs
+          - tabpanel [ref=f344e24]:
+            - search [ref=f344e25]:
+              - generic [ref=f344e26]:
+                - combobox [ref=f344e27]: "\"software Engineer I\""
+                - button [ref=f344e28] [cursor=pointer]:
+                  - generic [ref=f344e29]: Clear text
+              - generic [ref=f344e35]:
+                - combobox [ref=f344e36]: San Francisco Bay Area
+                - button [ref=f344e37] [cursor=pointer]:
+                  - generic [ref=f344e38]: Clear text
+              - button [ref=f344e44] [cursor=pointer]
+          - status [ref=f344e48]
+        - generic [ref=f344e49]:
+          - link [ref=f344e50] [cursor=pointer]:
+            - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&fromSignIn=true&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fsearch-results%3Fkeywords%3D%2522software%2Bengineer%2Bi%2522%26f_TPR%3Dr2592000&trk=public_jobs_nav-header-signin
+            - text: Sign in
+          - link [ref=f344e51] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fsearch-results%3Fkeywords%3D%2522software%2Bengineer%2Bi%2522%26f_TPR%3Dr2592000&trk=public_jobs_nav-header-join
+            - text: Join now
+    - generic [ref=f344e54]:
+      - list [ref=f344e58]:
+        - listitem [ref=f344e59]:
+          - button [ref=f344e62] [cursor=pointer]: Past month
+        - listitem [ref=f344e66]:
+          - button [ref=f344e69] [cursor=pointer]: Company
+        - listitem [ref=f344e73]:
+          - link [ref=f344e74] [cursor=pointer]:
+            - /url: https://www.linkedin.com/jobs/search/?keywords=%22software+engineer+i%22&location=San+Francisco+Bay+Area&f_WT=2%2C3&f_TPR=r2592000&sortBy=DD&f_AL=true&trk=public_jobs_filters_f_AL
+            - text: Easy Apply
+      - button [ref=f344e76] [cursor=pointer]: Where are the filters?
+    - main [ref=f344e81]:
+      - generic [ref=f344e88]:
+        - paragraph [ref=f344e89]:
+          - text: Get notified about new "software Engineer I" jobs in
+          - strong [ref=f344e90]: San Francisco Bay Area
+          - text: .
+        - link [ref=f344e91] [cursor=pointer]:
+          - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fsearch-results%3Fkeywords%3D%2522software%2Bengineer%2Bi%2522%26f_TPR%3Dr2592000&trk=public_jobs_job-alert-guest-redirect-cta
+          - text: Sign in to create job alert
+      - heading [level=1] [ref=f344e93]: 2,000+ "software Engineer I" Jobs in San Francisco Bay Area
+      - list [ref=f344e95]:
+        - listitem [ref=f344e96]:
+          - generic [ref=f344e97]:
+            - link [ref=f344e98] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/entry-level-software-developer-different-locations-at-ibm-4456531064?position=1&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=6%2FwbbvNMWrS5o9PwzdVHWQ%3D%3D
+              - generic [ref=f344e99]: Entry Level Software Developer-Different locations
+            - generic [ref=f344e101]:
+              - heading [level=3] [ref=f344e102]: Entry Level Software Developer-Different locations
+              - heading [level=4] [ref=f344e103]:
+                - link [ref=f344e104] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/ibm?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: IBM
+              - generic [ref=f344e105]:
+                - generic [ref=f344e106]: San Jose, CA
+                - generic [ref=f344e107]: Actively Hiring
+                - time [ref=f344e110]: 14 hours ago
+        - listitem [ref=f344e111]:
+          - generic [ref=f344e112]:
+            - link [ref=f344e113] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/entry-level-backend-developer-san-jose-ca-2027-at-ibm-4460752391?position=2&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=W9Qu1b%2BWIRCCINzb31hLSg%3D%3D
+              - generic [ref=f344e114]: Entry level Backend Developer - San Jose, CA - 2027
+            - generic [ref=f344e116]:
+              - heading [level=3] [ref=f344e117]: Entry level Backend Developer - San Jose, CA - 2027
+              - heading [level=4] [ref=f344e118]:
+                - link [ref=f344e119] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/ibm?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: IBM
+              - generic [ref=f344e120]:
+                - generic [ref=f344e121]: San Jose, CA
+                - generic [ref=f344e122]: Actively Hiring
+                - time [ref=f344e125]: 1 week ago
+        - listitem [ref=f344e126]:
+          - generic [ref=f344e127]:
+            - link [ref=f344e128] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-graduate-at-hewlett-packard-enterprise-4460529371?position=3&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=9KRmWSRO5oMZHsyCGksDQg%3D%3D
+              - generic [ref=f344e129]: Software Engineer Graduate
+            - generic [ref=f344e131]:
+              - heading [level=3] [ref=f344e132]: Software Engineer Graduate
+              - heading [level=4] [ref=f344e133]:
+                - link [ref=f344e134] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/hewlett-packard-enterprise?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Hewlett Packard Enterprise
+              - generic [ref=f344e135]:
+                - generic [ref=f344e136]: Sunnyvale, CA
+                - generic [ref=f344e137]: Actively Hiring
+                - time [ref=f344e140]: 2 weeks ago
+        - listitem [ref=f344e141]:
+          - generic [ref=f344e142]:
+            - link [ref=f344e143] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/associate-software-engineer-2027-start-dates-at-veeva-systems-4454704486?position=4&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=8UTN58%2FQa%2FvkMRtSi4oEQA%3D%3D
+              - generic [ref=f344e144]: Associate Software Engineer - 2027 Start Dates
+            - generic [ref=f344e146]:
+              - heading [level=3] [ref=f344e147]: Associate Software Engineer - 2027 Start Dates
+              - heading [level=4] [ref=f344e148]:
+                - link [ref=f344e149] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/veeva-systems?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Veeva Systems
+              - generic [ref=f344e150]:
+                - generic [ref=f344e151]: Pleasanton, CA
+                - generic [ref=f344e152]: Actively Hiring
+                - time [ref=f344e155]: 1 week ago
+        - listitem [ref=f344e156]:
+          - generic [ref=f344e157]:
+            - link [ref=f344e158] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-graduate-at-hewlett-packard-enterprise-4460537281?position=5&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=mBVlE7%2Bl6vg1KzZAbAJ6Pg%3D%3D
+              - generic [ref=f344e159]: Software Engineer Graduate
+            - generic [ref=f344e161]:
+              - heading [level=3] [ref=f344e162]: Software Engineer Graduate
+              - heading [level=4] [ref=f344e163]:
+                - link [ref=f344e164] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/hewlett-packard-enterprise?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Hewlett Packard Enterprise
+              - generic [ref=f344e165]:
+                - generic [ref=f344e166]: San Jose, CA
+                - generic [ref=f344e167]: Actively Hiring
+                - time [ref=f344e170]: 2 weeks ago
+        - listitem [ref=f344e171]:
+          - generic [ref=f344e172]:
+            - link [ref=f344e173] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-miter-4467265839?position=6&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=tSq8IoC6lti5lzUppglQ0A%3D%3D
+              - generic [ref=f344e174]: Software Engineer (New Grad)
+            - generic [ref=f344e176]:
+              - heading [level=3] [ref=f344e177]: Software Engineer (New Grad)
+              - heading [level=4] [ref=f344e178]:
+                - link [ref=f344e179] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/miterhr?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Miter
+              - generic [ref=f344e180]:
+                - generic [ref=f344e181]: San Francisco, CA
+                - time [ref=f344e182]: 1 day ago
+        - listitem [ref=f344e183]:
+          - generic [ref=f344e184]:
+            - link [ref=f344e185] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-at-paypal-4467943431?position=7&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=DWeIyQFWZ%2FB9oS3dBHTywQ%3D%3D
+              - generic [ref=f344e186]: Software Engineer
+            - generic [ref=f344e188]:
+              - heading [level=3] [ref=f344e189]: Software Engineer
+              - heading [level=4] [ref=f344e190]:
+                - link [ref=f344e191] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/paypal?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: PayPal
+              - generic [ref=f344e192]:
+                - generic [ref=f344e193]: San Jose, CA
+                - generic [ref=f344e194]: Actively Hiring
+                - time [ref=f344e197]: 27 minutes ago
+        - listitem [ref=f344e198]:
+          - generic [ref=f344e199]:
+            - link [ref=f344e200] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-datacenter-at-intel-4466147741?position=8&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=%2B0LN3myp7uST6pVLuIxhEQ%3D%3D
+              - generic [ref=f344e201]: Software Engineer – Datacenter
+            - generic [ref=f344e203]:
+              - heading [level=3] [ref=f344e204]: Software Engineer – Datacenter
+              - heading [level=4] [ref=f344e205]:
+                - link [ref=f344e206] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/intel-corporation?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Intel
+              - generic [ref=f344e207]:
+                - generic [ref=f344e208]: Santa Clara, CA
+                - generic [ref=f344e209]: Actively Hiring
+                - time [ref=f344e212]: 1 day ago
+        - listitem [ref=f344e213]:
+          - generic [ref=f344e214]:
+            - link [ref=f344e215] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-i-entry-level-graduation-date-fall-2026-summer-2027-us-at-doordash-4461176162?position=9&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=tYyyY5ja1AziRyRCzCdTmg%3D%3D
+              - generic [ref=f344e216]: "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US"
+            - generic [ref=f344e218]:
+              - heading [level=3] [ref=f344e219]: "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US"
+              - heading [level=4] [ref=f344e220]:
+                - link [ref=f344e221] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/doordash?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: DoorDash
+              - generic [ref=f344e222]:
+                - generic [ref=f344e223]: Sunnyvale, CA
+                - generic [ref=f344e224]: Actively Hiring
+                - time [ref=f344e227]: 1 week ago
+        - listitem [ref=f344e228]:
+          - generic [ref=f344e229]:
+            - link [ref=f344e230] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-i-entry-level-graduation-date-fall-2026-summer-2027-us-at-doordash-4461173217?position=10&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=PhxqcWqIbPaN7vplQxqBOw%3D%3D
+              - generic [ref=f344e231]: "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US"
+            - generic [ref=f344e233]:
+              - heading [level=3] [ref=f344e234]: "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US"
+              - heading [level=4] [ref=f344e235]:
+                - link [ref=f344e236] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/doordash?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: DoorDash
+              - generic [ref=f344e237]:
+                - generic [ref=f344e238]: San Francisco, CA
+                - generic [ref=f344e239]: Actively Hiring
+                - time [ref=f344e242]: 1 week ago
+        - listitem [ref=f344e243]:
+          - generic [ref=f344e244]:
+            - link [ref=f344e245] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-i-ai-agents-at-observe-ai-4467776863?position=11&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=aEQQzoFhKdrdWz%2FvgpLIBw%3D%3D
+              - generic [ref=f344e246]: Software Engineer I - AI Agents
+            - generic [ref=f344e248]:
+              - heading [level=3] [ref=f344e249]: Software Engineer I - AI Agents
+              - heading [level=4] [ref=f344e250]:
+                - link [ref=f344e251] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/observeai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Observe.AI
+              - generic [ref=f344e252]:
+                - generic [ref=f344e253]: Redwood City, CA
+                - generic [ref=f344e254]: Actively Hiring
+                - time [ref=f344e257]: 7 hours ago
+        - listitem [ref=f344e258]:
+          - generic [ref=f344e259]:
+            - link [ref=f344e260] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-entry-level-at-muon-space-4456719137?position=12&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=10DxJDaULGKkNMGekr0ffw%3D%3D
+              - generic [ref=f344e261]: Software Engineer, Entry-Level
+            - generic [ref=f344e263]:
+              - heading [level=3] [ref=f344e264]: Software Engineer, Entry-Level
+              - heading [level=4] [ref=f344e265]:
+                - link [ref=f344e266] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/muon-space?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Muon Space
+              - generic [ref=f344e267]:
+                - generic [ref=f344e268]: San Jose, CA
+                - time [ref=f344e269]: 3 weeks ago
+        - listitem [ref=f344e270]:
+          - generic [ref=f344e271]:
+            - link [ref=f344e272] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/assoc%C2%A0applications%C2%A0dev-engineer-at-servicenow-4457036821?position=13&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=UAyZO5k5ufX7drevkAX3Ng%3D%3D
+              - generic [ref=f344e273]: Assoc Applications Dev Engineer
+            - generic [ref=f344e275]:
+              - heading [level=3] [ref=f344e276]: Assoc Applications Dev Engineer
+              - heading [level=4] [ref=f344e277]:
+                - link [ref=f344e278] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/servicenow?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: ServiceNow
+              - generic [ref=f344e279]:
+                - generic [ref=f344e280]: Santa Clara, CA
+                - generic [ref=f344e281]: Actively Hiring
+                - time [ref=f344e284]: 3 weeks ago
+        - listitem [ref=f344e285]:
+          - generic [ref=f344e286]:
+            - link [ref=f344e287] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-1-at-intuit-4401741037?position=14&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=XgeuDVJZyh9aF32f6CSqTg%3D%3D
+              - generic [ref=f344e288]: Software Engineer 1
+            - generic [ref=f344e290]:
+              - heading [level=3] [ref=f344e291]: Software Engineer 1
+              - heading [level=4] [ref=f344e292]:
+                - link [ref=f344e293] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/intuit?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Intuit
+              - generic [ref=f344e294]:
+                - generic [ref=f344e295]: Mountain View, CA
+                - generic [ref=f344e296]: Actively Hiring
+                - time [ref=f344e299]: 5 days ago
+        - listitem [ref=f344e300]:
+          - generic [ref=f344e301]:
+            - link [ref=f344e302] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-graduate-tech-and-product-usds-2027-start-at-tiktok-usds-joint-venture-4446630171?position=15&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=UDns7SVLyAHz9SZZbDLxgw%3D%3D
+              - generic [ref=f344e303]: Software Engineer Graduate (Tech and Product, USDS) - 2027 Start
+            - generic [ref=f344e305]:
+              - heading [level=3] [ref=f344e306]: Software Engineer Graduate (Tech and Product, USDS) - 2027 Start
+              - heading [level=4] [ref=f344e307]:
+                - link [ref=f344e308] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/tiktokusdsjv?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: TikTok USDS Joint Venture
+              - generic [ref=f344e309]:
+                - generic [ref=f344e310]: San Jose, CA
+                - time [ref=f344e311]: 3 weeks ago
+        - listitem [ref=f344e312]:
+          - generic [ref=f344e313]:
+            - link [ref=f344e314] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-development-engineer-%E2%80%93-embedded-systems-2026-us-at-amazon-4455921582?position=16&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=OG0E10jj63tOG0Gu4IaaJA%3D%3D
+              - generic [ref=f344e315]: Software Development Engineer – Embedded Systems 2026 (US)
+            - generic [ref=f344e317]:
+              - heading [level=3] [ref=f344e318]: Software Development Engineer – Embedded Systems 2026 (US)
+              - heading [level=4] [ref=f344e319]:
+                - link [ref=f344e320] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/amazon?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Amazon
+              - generic [ref=f344e321]:
+                - generic [ref=f344e322]: Cupertino, CA
+                - generic [ref=f344e323]: Actively Hiring
+                - time [ref=f344e326]: 6 days ago
+        - listitem [ref=f344e327]:
+          - generic [ref=f344e328]:
+            - link [ref=f344e329] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/2027-software-engineer-early-career-at-roblox-4449138344?position=17&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=cpSEZR0OU%2FTfgWVGah1gGg%3D%3D
+              - generic [ref=f344e330]: "[2027] Software Engineer, Early Career"
+            - generic [ref=f344e332]:
+              - heading [level=3] [ref=f344e333]: "[2027] Software Engineer, Early Career"
+              - heading [level=4] [ref=f344e334]:
+                - link [ref=f344e335] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/roblox?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Roblox
+              - generic [ref=f344e336]:
+                - generic [ref=f344e337]: San Mateo, CA
+                - generic [ref=f344e338]: Actively Hiring
+                - time [ref=f344e341]: 2 weeks ago
+        - listitem [ref=f344e342]:
+          - generic [ref=f344e343]:
+            - link [ref=f344e344] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-development-engineer-%E2%80%93-embedded-systems-2026-us-at-amazon-4455919606?position=18&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=Udurvgt%2FOuyJjkcuwB0%2Bww%3D%3D
+              - generic [ref=f344e345]: Software Development Engineer – Embedded Systems 2026 (US)
+            - generic [ref=f344e347]:
+              - heading [level=3] [ref=f344e348]: Software Development Engineer – Embedded Systems 2026 (US)
+              - heading [level=4] [ref=f344e349]:
+                - link [ref=f344e350] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/amazon?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Amazon
+              - generic [ref=f344e351]:
+                - generic [ref=f344e352]: Sunnyvale, CA
+                - generic [ref=f344e353]: Actively Hiring
+                - time [ref=f344e356]: 6 days ago
+        - listitem [ref=f344e357]:
+          - generic [ref=f344e358]:
+            - link [ref=f344e359] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-graduate-foundation-platform-2027-start-at-tiktok-4452901177?position=19&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=%2Bydh%2Bm2t%2F66hUjLKaJG7TA%3D%3D
+              - generic [ref=f344e360]: Software Engineer Graduate (Foundation Platform) - 2027 Start
+            - generic [ref=f344e362]:
+              - heading [level=3] [ref=f344e363]: Software Engineer Graduate (Foundation Platform) - 2027 Start
+              - heading [level=4] [ref=f344e364]:
+                - link [ref=f344e365] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/tiktok?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: TikTok
+              - generic [ref=f344e366]:
+                - generic [ref=f344e367]: San Jose, CA
+                - generic [ref=f344e368]: Actively Hiring
+                - time [ref=f344e371]: 1 week ago
+        - listitem [ref=f344e372]:
+          - generic [ref=f344e373]:
+            - link [ref=f344e374] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-early-career-campus-at-google-4448752966?position=20&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=mgbbO9DPa2rLOsUV0%2FKJ0Q%3D%3D
+              - generic [ref=f344e375]: Software Engineer, Early Career, Campus
+            - generic [ref=f344e377]:
+              - heading [level=3] [ref=f344e378]: Software Engineer, Early Career, Campus
+              - heading [level=4] [ref=f344e379]:
+                - link [ref=f344e380] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/google?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Google
+              - generic [ref=f344e381]:
+                - generic [ref=f344e382]: San Bruno, CA
+                - generic [ref=f344e383]: Actively Hiring
+                - time [ref=f344e386]: 2 weeks ago
+        - listitem [ref=f344e387]:
+          - generic [ref=f344e388]:
+            - link [ref=f344e389] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-early-career-campus-at-google-4448757704?position=21&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=svwKXCqSNfllTaPtWAmyHg%3D%3D
+              - generic [ref=f344e390]: Software Engineer, Early Career, Campus
+            - generic [ref=f344e392]:
+              - heading [level=3] [ref=f344e393]: Software Engineer, Early Career, Campus
+              - heading [level=4] [ref=f344e394]:
+                - link [ref=f344e395] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/google?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Google
+              - generic [ref=f344e396]:
+                - generic [ref=f344e397]: Mountain View, CA
+                - generic [ref=f344e398]: Actively Hiring
+                - time [ref=f344e401]: 2 weeks ago
+        - listitem [ref=f344e402]:
+          - generic [ref=f344e403]:
+            - link [ref=f344e404] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/entry-level-software-engineer-anf-azure-netapp-files-at-netapp-4463705523?position=22&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=Wfc88ftpj3Z5MHRweDpr%2Fg%3D%3D
+              - generic [ref=f344e405]: Entry Level Software Engineer - ANF (Azure NetApp Files)
+            - generic [ref=f344e407]:
+              - heading [level=3] [ref=f344e408]: Entry Level Software Engineer - ANF (Azure NetApp Files)
+              - heading [level=4] [ref=f344e409]:
+                - link [ref=f344e410] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/netapp?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: NetApp
+              - generic [ref=f344e411]:
+                - generic [ref=f344e412]: San Jose, CA
+                - generic [ref=f344e413]: Actively Hiring
+                - time [ref=f344e416]: 1 week ago
+        - listitem [ref=f344e417]:
+          - generic [ref=f344e418]:
+            - link [ref=f344e419] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-stripe-4462058112?position=23&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=V%2FTN1ReEuxIwJkTK24J9Fg%3D%3D
+              - generic [ref=f344e420]: Software Engineer, New Grad
+            - generic [ref=f344e422]:
+              - heading [level=3] [ref=f344e423]: Software Engineer, New Grad
+              - heading [level=4] [ref=f344e424]:
+                - link [ref=f344e425] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/stripe?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Stripe
+              - generic [ref=f344e426]:
+                - generic [ref=f344e427]: San Francisco, CA
+                - generic [ref=f344e428]: Actively Hiring
+                - time [ref=f344e431]: 2 weeks ago
+        - listitem [ref=f344e432]:
+          - generic [ref=f344e433]:
+            - link [ref=f344e434] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-graduate-media-engine-2027-start-at-tiktok-4452798180?position=24&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=XdAmerI5NVFtSaz9dpnWlQ%3D%3D
+              - generic [ref=f344e435]: Software Engineer Graduate (Media Engine) - 2027 Start
+            - generic [ref=f344e437]:
+              - heading [level=3] [ref=f344e438]: Software Engineer Graduate (Media Engine) - 2027 Start
+              - heading [level=4] [ref=f344e439]:
+                - link [ref=f344e440] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/tiktok?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: TikTok
+              - generic [ref=f344e441]:
+                - generic [ref=f344e442]: San Jose, CA
+                - generic [ref=f344e443]: Be an early applicant
+                - time [ref=f344e446]: 1 week ago
+        - listitem [ref=f344e447]:
+          - generic [ref=f344e448]:
+            - link [ref=f344e449] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-ixl-learning-4460090449?position=25&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=qHFHiACCbLwSLavE11j6LA%3D%3D
+              - generic [ref=f344e450]: Software Engineer, New Grad
+            - generic [ref=f344e452]:
+              - heading [level=3] [ref=f344e453]: Software Engineer, New Grad
+              - heading [level=4] [ref=f344e454]:
+                - link [ref=f344e455] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/ixl-learning?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: IXL Learning
+              - generic [ref=f344e456]:
+                - generic [ref=f344e457]: San Mateo, CA
+                - generic [ref=f344e458]: Actively Hiring
+                - time [ref=f344e461]: 2 weeks ago
+        - listitem [ref=f344e462]:
+          - generic [ref=f344e463]:
+            - link [ref=f344e464] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-early-career-2027-at-commure-4466405139?position=26&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=VQrGqrhfqs5GoSp7uVgMZg%3D%3D
+              - generic [ref=f344e465]: Software Engineer, Early Career 2027
+            - generic [ref=f344e467]:
+              - heading [level=3] [ref=f344e468]: Software Engineer, Early Career 2027
+              - heading [level=4] [ref=f344e469]:
+                - link [ref=f344e470] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/commure?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Commure
+              - generic [ref=f344e471]:
+                - generic [ref=f344e472]: Mountain View, CA
+                - time [ref=f344e473]: 4 days ago
+        - listitem [ref=f344e474]:
+          - generic [ref=f344e475]:
+            - link [ref=f344e476] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/new-graduate-engineer-software-26-27-starlink-at-spacex-4454584413?position=27&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=FOYZ1g4NSjpklHxiTtbmZw%3D%3D
+              - generic [ref=f344e477]: New Graduate Engineer, Software - '26/'27 (Starlink)
+            - generic [ref=f344e479]:
+              - heading [level=3] [ref=f344e480]: New Graduate Engineer, Software - '26/'27 (Starlink)
+              - heading [level=4] [ref=f344e481]:
+                - link [ref=f344e482] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/spacex?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: SpaceX
+              - generic [ref=f344e483]:
+                - generic [ref=f344e484]: Palo Alto, CA
+                - time [ref=f344e485]: 1 week ago
+        - listitem [ref=f344e486]:
+          - generic [ref=f344e487]:
+            - link [ref=f344e488] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-platform-application-at-boson-ai-4444216120?position=28&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=LiSpzyhNwXzGLLilC%2FNvCw%3D%3D
+              - generic [ref=f344e489]: Software Engineer - Platform & Application
+            - generic [ref=f344e491]:
+              - heading [level=3] [ref=f344e492]: Software Engineer - Platform & Application
+              - heading [level=4] [ref=f344e493]:
+                - link [ref=f344e494] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/boson-ai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Boson AI
+              - generic [ref=f344e495]:
+                - generic [ref=f344e496]: Santa Clara, CA
+                - time [ref=f344e497]: 1 week ago
+        - listitem [ref=f344e498]:
+          - generic [ref=f344e499]:
+            - link [ref=f344e500] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/associate-engineer-ai-and-agentic-at-exelixis-4453650478?position=29&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=6%2F3tcCxG77RAJj4yNPg3ag%3D%3D
+              - generic [ref=f344e501]: Associate Engineer - AI and Agentic
+            - generic [ref=f344e503]:
+              - heading [level=3] [ref=f344e504]: Associate Engineer - AI and Agentic
+              - heading [level=4] [ref=f344e505]:
+                - link [ref=f344e506] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/exelixis?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Exelixis
+              - generic [ref=f344e507]:
+                - generic [ref=f344e508]: Alameda, CA
+                - generic [ref=f344e509]: Actively Hiring
+                - time [ref=f344e512]: 1 week ago
+        - listitem [ref=f344e513]:
+          - generic [ref=f344e514]:
+            - link [ref=f344e515] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-at-wd-4440197019?position=30&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=J58nUfeWfo1XKdykKSe0cw%3D%3D
+              - generic [ref=f344e516]: Software Engineer
+            - generic [ref=f344e518]:
+              - heading [level=3] [ref=f344e519]: Software Engineer
+              - heading [level=4] [ref=f344e520]:
+                - link [ref=f344e521] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/western-digital?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: WD
+              - generic [ref=f344e522]:
+                - generic [ref=f344e523]: San Jose, CA
+                - generic [ref=f344e524]: Actively Hiring
+                - time [ref=f344e527]: 2 weeks ago
+        - listitem [ref=f344e528]:
+          - generic [ref=f344e529]:
+            - link [ref=f344e530] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-new-grad-infrastructure-at-palantir-technologies-4434149314?position=31&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=BLyOksWVHSRDwsM9ZDVaQQ%3D%3D
+              - generic [ref=f344e531]: Software Engineer, New Grad - Infrastructure
+            - generic [ref=f344e533]:
+              - heading [level=3] [ref=f344e534]: Software Engineer, New Grad - Infrastructure
+              - heading [level=4] [ref=f344e535]:
+                - link [ref=f344e536] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/palantir-technologies?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Palantir Technologies
+              - generic [ref=f344e537]:
+                - generic [ref=f344e538]: Palo Alto, CA
+                - generic [ref=f344e539]: Actively Hiring
+                - time [ref=f344e542]: 5 days ago
+        - listitem [ref=f344e543]:
+          - generic [ref=f344e544]:
+            - link [ref=f344e545] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-i-payments-at-twitch-4453791036?position=32&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=AoNNsfgamdOMa4rxs5zaYQ%3D%3D
+              - generic [ref=f344e546]: Software Engineer I, Payments
+            - generic [ref=f344e548]:
+              - heading [level=3] [ref=f344e549]: Software Engineer I, Payments
+              - heading [level=4] [ref=f344e550]:
+                - link [ref=f344e551] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/twitch-tv?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twitch
+              - generic [ref=f344e552]:
+                - generic [ref=f344e553]: San Francisco, CA
+                - time [ref=f344e554]: 1 week ago
+        - listitem [ref=f344e555]:
+          - generic [ref=f344e556]:
+            - link [ref=f344e557] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-zettabyte-4399493417?position=33&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=ekb7EVrazPRYTNc4UsRNqg%3D%3D
+              - generic [ref=f344e558]: Software Engineer (New Grad)
+            - generic [ref=f344e560]:
+              - heading [level=3] [ref=f344e561]: Software Engineer (New Grad)
+              - heading [level=4] [ref=f344e562]:
+                - link [ref=f344e563] [cursor=pointer]:
+                  - /url: https://tw.linkedin.com/company/zettabyte-inc?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Zettabyte
+              - generic [ref=f344e564]:
+                - generic [ref=f344e565]: Palo Alto, CA
+                - time [ref=f344e566]: 1 week ago
+        - listitem [ref=f344e567]:
+          - generic [ref=f344e568]:
+            - link [ref=f344e569] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-new-grad-dec-2026-at-notion-4454805111?position=34&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=lzgDjRd4uj83owy0rOgSAg%3D%3D
+              - generic [ref=f344e570]: Software Engineer, New Grad (Dec 2026)
+            - generic [ref=f344e572]:
+              - heading [level=3] [ref=f344e573]: Software Engineer, New Grad (Dec 2026)
+              - heading [level=4] [ref=f344e574]:
+                - link [ref=f344e575] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/notionhq?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Notion
+              - generic [ref=f344e576]:
+                - generic [ref=f344e577]: San Francisco, CA
+                - generic [ref=f344e578]: Actively Hiring
+                - time [ref=f344e581]: 1 week ago
+        - listitem [ref=f344e582]:
+          - generic [ref=f344e583]:
+            - link [ref=f344e584] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-apps-at-wd-4449855029?position=35&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=Nl5ZTLOcPaRp9eqY%2FcBAXQ%3D%3D
+              - generic [ref=f344e585]: Software Engineer (Apps)
+            - generic [ref=f344e587]:
+              - heading [level=3] [ref=f344e588]: Software Engineer (Apps)
+              - heading [level=4] [ref=f344e589]:
+                - link [ref=f344e590] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/western-digital?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: WD
+              - generic [ref=f344e591]:
+                - generic [ref=f344e592]: San Jose, CA
+                - generic [ref=f344e593]: Be an early applicant
+                - time [ref=f344e596]: 1 week ago
+        - listitem [ref=f344e597]:
+          - generic [ref=f344e598]:
+            - link [ref=f344e599] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-av-frameworks-%E2%80%93-early-career-at-general-motors-4465390987?position=36&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=cDDfMTVK5ubs72VEZ4%2F4EQ%3D%3D
+              - generic [ref=f344e600]: Software Engineer, AV Frameworks – Early Career
+            - generic [ref=f344e602]:
+              - heading [level=3] [ref=f344e603]: Software Engineer, AV Frameworks – Early Career
+              - heading [level=4] [ref=f344e604]:
+                - link [ref=f344e605] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/general-motors?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: General Motors
+              - generic [ref=f344e606]:
+                - generic [ref=f344e607]: Sunnyvale, CA
+                - generic [ref=f344e608]: Actively Hiring
+                - time [ref=f344e611]: 6 days ago
+        - listitem [ref=f344e612]:
+          - generic [ref=f344e613]:
+            - link [ref=f344e614] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-early-career-at-superhuman-4465272175?position=37&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=Dbnk7FR7oY8RVbcKqWV5HQ%3D%3D
+              - generic [ref=f344e615]: Software Engineer, Early Career
+            - generic [ref=f344e617]:
+              - heading [level=3] [ref=f344e618]: Software Engineer, Early Career
+              - heading [level=4] [ref=f344e619]:
+                - link [ref=f344e620] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/superhumanhq?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Superhuman
+              - generic [ref=f344e621]:
+                - generic [ref=f344e622]: San Francisco, CA
+                - time [ref=f344e623]: 1 day ago
+        - listitem [ref=f344e624]:
+          - generic [ref=f344e625]:
+            - link [ref=f344e626] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/engineer-i-software-at-microchip-technology-inc-4459047872?position=38&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=bdOh8U0305LTfM6v6HzRJw%3D%3D
+              - generic [ref=f344e627]: Engineer I - Software
+            - generic [ref=f344e629]:
+              - heading [level=3] [ref=f344e630]: Engineer I - Software
+              - heading [level=4] [ref=f344e631]:
+                - link [ref=f344e632] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/microchip-technology?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Microchip Technology Inc.
+              - generic [ref=f344e633]:
+                - generic [ref=f344e634]: Santa Rosa, CA
+                - generic [ref=f344e635]: Actively Hiring
+                - time [ref=f344e638]: 3 weeks ago
+        - listitem [ref=f344e639]:
+          - generic [ref=f344e640]:
+            - link [ref=f344e641] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-early-careers-focused-on-ai-and-ui-at-roku-4466327251?position=39&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=wVWEqGowyDX%2Fatce0f%2FFkA%3D%3D
+              - generic [ref=f344e642]: Software Engineer, Early Careers focused on AI and UI
+            - generic [ref=f344e644]:
+              - heading [level=3] [ref=f344e645]: Software Engineer, Early Careers focused on AI and UI
+              - heading [level=4] [ref=f344e646]:
+                - link [ref=f344e647] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/roku?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Roku
+              - generic [ref=f344e648]:
+                - generic [ref=f344e649]: San Jose, CA
+                - generic [ref=f344e650]: Actively Hiring
+                - time [ref=f344e653]: 4 days ago
+        - listitem [ref=f344e654]:
+          - generic [ref=f344e655]:
+            - link [ref=f344e656] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineering-amts-college-grad-at-salesforce-4450623260?position=40&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=bsqfbLckfpsY99BrN%2BWxcQ%3D%3D
+              - generic [ref=f344e657]: Software Engineering AMTS (College Grad)
+            - generic [ref=f344e659]:
+              - heading [level=3] [ref=f344e660]: Software Engineering AMTS (College Grad)
+              - heading [level=4] [ref=f344e661]:
+                - link [ref=f344e662] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/salesforce?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Salesforce
+              - generic [ref=f344e663]:
+                - generic [ref=f344e664]: San Francisco, CA
+                - generic [ref=f344e665]: Actively Hiring
+                - time [ref=f344e668]: 2 weeks ago
+        - listitem [ref=f344e669]:
+          - generic [ref=f344e670]:
+            - link [ref=f344e671] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-i-at-everlaw-4461280081?position=41&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=bxmeF01PoumRrHiyQXRbxg%3D%3D
+              - generic [ref=f344e672]: Software Engineer I
+            - generic [ref=f344e674]:
+              - heading [level=3] [ref=f344e675]: Software Engineer I
+              - heading [level=4] [ref=f344e676]:
+                - link [ref=f344e677] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/everlaw?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Everlaw
+              - generic [ref=f344e678]:
+                - generic [ref=f344e679]: Oakland, CA
+                - time [ref=f344e680]: 2 weeks ago
+        - listitem [ref=f344e681]:
+          - generic [ref=f344e682]:
+            - link [ref=f344e683] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineering-amts-college-grad-at-salesforce-4450611741?position=42&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=Tis8QlAf6sLL2SUGfUCnHg%3D%3D
+              - generic [ref=f344e684]: Software Engineering AMTS (College Grad)
+            - generic [ref=f344e686]:
+              - heading [level=3] [ref=f344e687]: Software Engineering AMTS (College Grad)
+              - heading [level=4] [ref=f344e688]:
+                - link [ref=f344e689] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/salesforce?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Salesforce
+              - generic [ref=f344e690]:
+                - generic [ref=f344e691]: Palo Alto, CA
+                - generic [ref=f344e692]: Actively Hiring
+                - time [ref=f344e695]: 2 weeks ago
+        - listitem [ref=f344e696]:
+          - generic [ref=f344e697]:
+            - link [ref=f344e698] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/ai-and-agentic-engineer-associate-at-exelixis-4459604865?position=43&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=WeC9lQwzkhwfCCxhCAGVUQ%3D%3D
+              - generic [ref=f344e699]: AI and Agentic Engineer Associate
+            - generic [ref=f344e701]:
+              - heading [level=3] [ref=f344e702]: AI and Agentic Engineer Associate
+              - heading [level=4] [ref=f344e703]:
+                - link [ref=f344e704] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/exelixis?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Exelixis
+              - generic [ref=f344e705]:
+                - generic [ref=f344e706]: Alameda, CA
+                - generic [ref=f344e707]: Actively Hiring
+                - time [ref=f344e710]: 2 weeks ago
+        - listitem [ref=f344e711]:
+          - generic [ref=f344e712]:
+            - link [ref=f344e713] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-i-memberships-at-twitch-4457986953?position=44&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=9AKdE85vU%2FIUA9s%2FLtaP8A%3D%3D
+              - generic [ref=f344e714]: Software Engineer I, Memberships
+            - generic [ref=f344e716]:
+              - heading [level=3] [ref=f344e717]: Software Engineer I, Memberships
+              - heading [level=4] [ref=f344e718]:
+                - link [ref=f344e719] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/twitch-tv?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twitch
+              - generic [ref=f344e720]:
+                - generic [ref=f344e721]: San Francisco, CA
+                - time [ref=f344e722]: 2 weeks ago
+        - listitem [ref=f344e723]:
+          - generic [ref=f344e724]:
+            - link [ref=f344e725] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/backend-development-engineer-graduate-infrastructure-platform-delivery-2027-start-at-bytedance-4449987997?position=45&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=%2Fn8TbiGzgXx%2BK9YuZ%2F5qdg%3D%3D
+              - generic [ref=f344e726]: Backend Development Engineer Graduate (Infrastructure Platform Delivery) - 2027 Start
+            - generic [ref=f344e728]:
+              - heading [level=3] [ref=f344e729]: Backend Development Engineer Graduate (Infrastructure Platform Delivery) - 2027 Start
+              - heading [level=4] [ref=f344e730]:
+                - link [ref=f344e731] [cursor=pointer]:
+                  - /url: https://cn.linkedin.com/company/bytedance?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: ByteDance
+              - generic [ref=f344e732]:
+                - generic [ref=f344e733]: San Jose, CA
+                - generic [ref=f344e734]: Actively Hiring
+                - time [ref=f344e737]: 1 week ago
+        - listitem [ref=f344e738]:
+          - generic [ref=f344e739]:
+            - link [ref=f344e740] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/r-d-software-engineer-recent-graduate-at-keysight-technologies-4458030471?position=46&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=%2Fo9VvxBG86P%2FGMA6ZreTJw%3D%3D
+              - generic [ref=f344e741]: R&D Software Engineer, Recent Graduate
+            - generic [ref=f344e743]:
+              - heading [level=3] [ref=f344e744]: R&D Software Engineer, Recent Graduate
+              - heading [level=4] [ref=f344e745]:
+                - link [ref=f344e746] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/keysight-technologies?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Keysight Technologies
+              - generic [ref=f344e747]:
+                - generic [ref=f344e748]: Santa Rosa, CA
+                - generic [ref=f344e749]: Actively Hiring
+                - time [ref=f344e752]: 2 weeks ago
+        - listitem [ref=f344e753]:
+          - generic [ref=f344e754]:
+            - link [ref=f344e755] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-2027-new-grad-at-whatnot-4460087902?position=47&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=PND5TTF89UdtBJCE94JdVg%3D%3D
+              - generic [ref=f344e756]: Software Engineer, 2027 New Grad
+            - generic [ref=f344e758]:
+              - heading [level=3] [ref=f344e759]: Software Engineer, 2027 New Grad
+              - heading [level=4] [ref=f344e760]:
+                - link [ref=f344e761] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/whatnot-inc?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Whatnot
+              - generic [ref=f344e762]:
+                - generic [ref=f344e763]: San Francisco, CA
+                - time [ref=f344e764]: 2 weeks ago
+        - listitem [ref=f344e765]:
+          - generic [ref=f344e766]:
+            - link [ref=f344e767] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-graduate-search-2027-start-at-tiktok-usds-joint-venture-4449548361?position=48&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=v2W2ie5%2FF9xhNrNwRHuwIg%3D%3D
+              - generic [ref=f344e768]: Software Engineer Graduate (Search) - 2027 Start
+            - generic [ref=f344e770]:
+              - heading [level=3] [ref=f344e771]: Software Engineer Graduate (Search) - 2027 Start
+              - heading [level=4] [ref=f344e772]:
+                - link [ref=f344e773] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/tiktokusdsjv?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: TikTok USDS Joint Venture
+              - generic [ref=f344e774]:
+                - generic [ref=f344e775]: San Jose, CA
+                - time [ref=f344e776]: 2 weeks ago
+        - listitem [ref=f344e777]:
+          - generic [ref=f344e778]:
+            - link [ref=f344e779] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-new-grad-defense-at-palantir-technologies-4434142462?position=49&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=tLSXzAlY5w700CcKRmg4Fw%3D%3D
+              - generic [ref=f344e780]: Software Engineer, New Grad - Defense
+            - generic [ref=f344e782]:
+              - heading [level=3] [ref=f344e783]: Software Engineer, New Grad - Defense
+              - heading [level=4] [ref=f344e784]:
+                - link [ref=f344e785] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/palantir-technologies?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Palantir Technologies
+              - generic [ref=f344e786]:
+                - generic [ref=f344e787]: Palo Alto, CA
+                - generic [ref=f344e788]: Actively Hiring
+                - time [ref=f344e791]: 6 days ago
+        - listitem [ref=f344e792]:
+          - generic [ref=f344e793]:
+            - link [ref=f344e794] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-at-analytical-mechanics-associates-4463151152?position=50&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=Xci5d0guAvCdvO%2F2j2lIXQ%3D%3D
+              - generic [ref=f344e795]: Software Engineer
+            - generic [ref=f344e797]:
+              - heading [level=3] [ref=f344e798]: Software Engineer
+              - heading [level=4] [ref=f344e799]:
+                - link [ref=f344e800] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/analytical-mechanics-associates-inc-?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Analytical Mechanics Associates
+              - generic [ref=f344e801]:
+                - generic [ref=f344e802]: Mountain View, CA
+                - time [ref=f344e803]: 1 week ago
+        - listitem [ref=f344e804]:
+          - generic [ref=f344e805]:
+            - link [ref=f344e806] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/junior-software-engineer-at-abridge-4440084829?position=51&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=ZYXqX6GZEExu2UcrkYhEnA%3D%3D
+              - generic [ref=f344e807]: Junior Software Engineer
+            - generic [ref=f344e809]:
+              - heading [level=3] [ref=f344e810]: Junior Software Engineer
+              - heading [level=4] [ref=f344e811]:
+                - link [ref=f344e812] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/abridgehq?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Abridge
+              - generic [ref=f344e813]:
+                - generic [ref=f344e814]: San Francisco, CA
+                - generic [ref=f344e815]: Actively Hiring
+                - time [ref=f344e818]: 2 weeks ago
+        - listitem [ref=f344e819]:
+          - generic [ref=f344e820]:
+            - link [ref=f344e821] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-development-engineer-i-ml-infra-services-annapurna-labs-at-amazon-web-services-aws-4455921115?position=52&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=Iml7q5HC%2FGRx1cWY1%2F5cpA%3D%3D
+              - generic [ref=f344e822]: Software Development Engineer I, ML Infra Services, Annapurna Labs
+            - generic [ref=f344e824]:
+              - heading [level=3] [ref=f344e825]: Software Development Engineer I, ML Infra Services, Annapurna Labs
+              - heading [level=4] [ref=f344e826]:
+                - link [ref=f344e827] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/amazon-web-services?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Amazon Web Services (AWS)
+              - generic [ref=f344e828]:
+                - generic [ref=f344e829]: Cupertino, CA
+                - generic [ref=f344e830]: Actively Hiring
+                - time [ref=f344e833]: 6 days ago
+        - listitem [ref=f344e834]:
+          - generic [ref=f344e835]:
+            - link [ref=f344e836] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-university-hire-2027-at-the-voleon-group-4459034091?position=53&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=nCkI%2FaJn6YLzTCGPR9RKlA%3D%3D
+              - generic [ref=f344e837]: Software Engineer - University Hire 2027
+            - generic [ref=f344e839]:
+              - heading [level=3] [ref=f344e840]: Software Engineer - University Hire 2027
+              - heading [level=4] [ref=f344e841]:
+                - link [ref=f344e842] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/voleon-capital-management?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: The Voleon Group
+              - generic [ref=f344e843]:
+                - generic [ref=f344e844]: Berkeley, CA
+                - generic [ref=f344e845]: Actively Hiring
+                - time [ref=f344e848]: 3 weeks ago
+        - listitem [ref=f344e849]:
+          - generic [ref=f344e850]:
+            - link [ref=f344e851] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-early-careers-at-instabase-4465316811?position=54&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=V5seS7iY1Wk4yBwZNKP7%2Bg%3D%3D
+              - generic [ref=f344e852]: Software Engineer - Early Careers
+            - generic [ref=f344e854]:
+              - heading [level=3] [ref=f344e855]: Software Engineer - Early Careers
+              - heading [level=4] [ref=f344e856]:
+                - link [ref=f344e857] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/instabase?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Instabase
+              - generic [ref=f344e858]:
+                - generic [ref=f344e859]: San Francisco, CA
+                - generic [ref=f344e860]: Actively Hiring
+                - time [ref=f344e863]: 6 days ago
+        - listitem [ref=f344e864]:
+          - generic [ref=f344e865]:
+            - link [ref=f344e866] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/entry-level-software-engineer-at-pariveda-4446265806?position=55&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=lOvEh%2Bx9DoBxsmGo2KBj%2FQ%3D%3D
+              - generic [ref=f344e867]: Entry-Level Software Engineer
+            - generic [ref=f344e869]:
+              - heading [level=3] [ref=f344e870]: Entry-Level Software Engineer
+              - heading [level=4] [ref=f344e871]:
+                - link [ref=f344e872] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/pariveda-solutions?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Pariveda
+              - generic [ref=f344e873]:
+                - generic [ref=f344e874]: San Francisco, CA
+                - time [ref=f344e875]: 3 weeks ago
+        - listitem [ref=f344e876]:
+          - generic [ref=f344e877]:
+            - link [ref=f344e878] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-agent-platform-new-grad-2026-2027-at-netic-4438446984?position=56&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=iB5%2F6%2Fecbhx0GpxcHo%2B%2BpA%3D%3D
+              - generic [ref=f344e879]: Software Engineer (Agent Platform) - New Grad - 2026-2027
+            - generic [ref=f344e881]:
+              - heading [level=3] [ref=f344e882]: Software Engineer (Agent Platform) - New Grad - 2026-2027
+              - heading [level=4] [ref=f344e883]:
+                - link [ref=f344e884] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/netic-ai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Netic
+              - generic [ref=f344e885]:
+                - generic [ref=f344e886]: San Francisco, CA
+                - generic [ref=f344e887]: Medical insurance +3 benefits
+                - time [ref=f344e890]: 2 weeks ago
+        - listitem [ref=f344e891]:
+          - generic [ref=f344e892]:
+            - link [ref=f344e893] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-new-grad-data-products-at-evenup-4458324591?position=57&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=jqIeErcd6pePSrZ10ovPlA%3D%3D
+              - generic [ref=f344e894]: Software Engineer (New Grad), Data Products
+            - generic [ref=f344e896]:
+              - heading [level=3] [ref=f344e897]: Software Engineer (New Grad), Data Products
+              - heading [level=4] [ref=f344e898]:
+                - link [ref=f344e899] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/evenup?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: EvenUp
+              - generic [ref=f344e900]:
+                - generic [ref=f344e901]: San Francisco, CA
+                - time [ref=f344e902]: 2 weeks ago
+        - listitem [ref=f344e903]:
+          - generic [ref=f344e904]:
+            - link [ref=f344e905] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/service-delivery-center-full-stack-developer-financial-services-analyst-raleigh-dallas-san-antonio-at-ey-4439448629?position=58&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=DchNMPOcJdqeUVk1yGkmAQ%3D%3D
+              - generic [ref=f344e906]: "Service Delivery Center-Full Stack Developer: Financial Services-Analyst-Raleigh,Dallas, San Antonio"
+            - generic [ref=f344e908]:
+              - heading [level=3] [ref=f344e909]: "Service Delivery Center-Full Stack Developer: Financial Services-Analyst-Raleigh,Dallas, San Antonio"
+              - heading [level=4] [ref=f344e910]:
+                - link [ref=f344e911] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/ernstandyoung?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: EY
+              - generic [ref=f344e912]:
+                - generic [ref=f344e913]: San Francisco, CA
+                - generic [ref=f344e914]: Actively Hiring
+                - time [ref=f344e917]: 3 weeks ago
+        - listitem [ref=f344e918]:
+          - generic [ref=f344e919]:
+            - link [ref=f344e920] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-prophet-security-4459058143?position=59&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=ZSrgPanMnc%2F6fPGNyckhAg%3D%3D
+              - generic [ref=f344e921]: Software Engineer New Grad
+            - generic [ref=f344e923]:
+              - heading [level=3] [ref=f344e924]: Software Engineer New Grad
+              - heading [level=4] [ref=f344e925]:
+                - link [ref=f344e926] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/prophetsecurity?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Prophet Security
+              - generic [ref=f344e927]:
+                - generic [ref=f344e928]: Palo Alto, CA
+                - time [ref=f344e929]: 3 weeks ago
+        - listitem [ref=f344e930]:
+          - generic [ref=f344e931]:
+            - link [ref=f344e932] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-valon-4460676285?position=60&pageNum=0&refId=K7%2FolHoMoEYYYB3OHIk2kA%3D%3D&trackingId=QI3NF38kD1QFTBDGfD8r9A%3D%3D
+              - generic [ref=f344e933]: Software Engineer New Grad
+            - generic [ref=f344e935]:
+              - heading [level=3] [ref=f344e936]: Software Engineer New Grad
+              - heading [level=4] [ref=f344e937]:
+                - link [ref=f344e938] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/valon-technologies?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Valon
+              - generic [ref=f344e939]:
+                - generic [ref=f344e940]: San Francisco, CA
+                - time [ref=f344e941]: 2 weeks ago
+    - contentinfo [ref=f344e944]:
+      - list [ref=f344e945]:
+        - generic [ref=f344e946]: LinkedIn
+        - generic [ref=f344e948]: © 2026
+        - listitem [ref=f344e949]:
+          - link [ref=f344e950] [cursor=pointer]:
+            - /url: https://about.linkedin.com?trk=public_jobs_footer-about
+            - text: About
+        - listitem [ref=f344e951]:
+          - link [ref=f344e952] [cursor=pointer]:
+            - /url: https://www.linkedin.com/accessibility?trk=public_jobs_footer-accessibility
+            - text: Accessibility
+        - listitem [ref=f344e953]:
+          - link [ref=f344e954] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/user-agreement?trk=public_jobs_footer-user-agreement
+            - text: User Agreement
+        - listitem [ref=f344e955]:
+          - link [ref=f344e956] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/privacy-policy?trk=public_jobs_footer-privacy-policy
+            - text: Privacy Policy
+        - listitem [ref=f344e957]:
+          - link [ref=f344e958] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/california-privacy-disclosure?trk=public_jobs_footer-california-privacy-rights-act
+            - text: Your California Privacy Choices
+        - listitem [ref=f344e959]:
+          - link [ref=f344e960] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/cookie-policy?trk=public_jobs_footer-cookie-policy
+            - text: Cookie Policy
+        - listitem [ref=f344e961]:
+          - link [ref=f344e962] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/copyright-policy?trk=public_jobs_footer-copyright-policy
+            - text: Copyright Policy
+        - listitem [ref=f344e963]:
+          - link [ref=f344e964] [cursor=pointer]:
+            - /url: https://brand.linkedin.com/policies?trk=public_jobs_footer-brand-policy
+            - text: Brand Policy
+        - listitem [ref=f344e965]:
+          - link [ref=f344e966] [cursor=pointer]:
+            - /url: https://www.linkedin.com/psettings/guest-controls?trk=public_jobs_footer-guest-controls
+            - text: Guest Controls
+        - listitem [ref=f344e967]:
+          - link [ref=f344e968] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/professional-community-policies?trk=public_jobs_footer-community-guide
+            - text: Community Guidelines
+        - listitem [ref=f344e969]:
+          - button [ref=f344e971]: Language
+  - dialog [active] [ref=f344e974]:
+    - button "Dismiss" [ref=f344e975] [cursor=pointer]
+    - generic [ref=f344e980]:
+      - heading "Sign in to view more jobs" [level=2] [ref=f344e982]
+      - generic [ref=f344e983]:
+        - generic:
+          - generic:
+            - button "Continue with google"
+        - button "Sign in with Email" [ref=f344e984] [cursor=pointer]
+        - paragraph [ref=f344e990]: or
+        - generic:
+          - generic:
+            - button "Continue with google"
+        - paragraph [ref=f344e991]:
+          - text: New to LinkedIn?
+          - link "Join now" [ref=f344e992] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&trk=public_jobs_contextual-sign-in-modal_join-link
+        - paragraph [ref=f344e993]:
+          - text: By clicking Continue to join or sign in, you agree to LinkedIn’s
+          - link "User Agreement" [ref=f344e994] [cursor=pointer]:
+            - /url: /legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement
+          - text: ","
+          - link "Privacy Policy" [ref=f344e995] [cursor=pointer]:
+            - /url: /legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy
+          - text: ", and"
+          - link "Cookie Policy" [ref=f344e996] [cursor=pointer]:
+            - /url: /legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy
+          - text: .

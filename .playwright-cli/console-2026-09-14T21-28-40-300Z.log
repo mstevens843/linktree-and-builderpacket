@@ -1,0 +1,3 @@
+[    1828ms] ReferenceError: gtag is not defined
+    at https://www.freshpaint.io/careers?_live_review=1789421320310:2797:3
+[    2821ms] [WARNING] Datadog Browser SDK: No storage available for session. We will not send any data. @ https://cdn.ashbyprd.com/frontend_non_user/0e5f94371328e3180bf6b4d8df5d5bca60019d21/assets/index-CN-LuVbD.js:31

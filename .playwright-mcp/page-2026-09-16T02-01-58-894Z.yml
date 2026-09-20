@@ -1,0 +1,128 @@
+- generic [ref=f24e2]:
+  - list [ref=f24e4]:
+    - listitem [ref=f24e5]:
+      - link [ref=f24e6] [cursor=pointer]:
+        - /url: https://dourolabs.xyz/
+        - img "Douro Labs" [ref=f24e7]
+    - listitem
+    - listitem
+  - generic [ref=f24e8]:
+    - generic [ref=f24e9]:
+      - generic [ref=f24e10]:
+        - paragraph [ref=f24e11]:
+          - text: At
+          - strong [ref=f24e12]: Douro Labs
+          - text: ", we're building the next generation of decentralized infrastructure, and"
+          - strong [ref=f24e13]: Fogo Chain
+          - text: is where that ambition meets execution.
+        - paragraph [ref=f24e14]
+        - paragraph [ref=f24e15]:
+          - text: From low-latency oracle integration with
+          - strong [ref=f24e16]: Pyth Network
+          - text: to cutting-edge app development, our world-class team is dedicated to delivering products that drive results.
+        - paragraph [ref=f24e17]
+        - paragraph [ref=f24e18]:
+          - text: As a powerhouse of crypto-native development,
+          - strong [ref=f24e19]: Douro Labs
+          - text: combines deep protocol expertise with startup-level speed, delivering scalable, battle-tested products for some of the most important networks in the space.
+        - paragraph [ref=f24e20]
+        - paragraph [ref=f24e21]:
+          - text: →
+          - link "Learn more about the Pyth Network" [ref=f24e22] [cursor=pointer]:
+            - /url: https://pyth.network/blog/what-is-the-pyth-network
+          - text: →
+          - link "Learn more about Fogo" [ref=f24e23] [cursor=pointer]:
+            - /url: https://www.fogo.io
+        - paragraph [ref=f24e24]
+        - paragraph [ref=f24e25]:
+          - text: At
+          - strong [ref=f24e26]: Douro Labs
+          - text: ", we offer a chance to shape the future. Be a part of something extraordinary."
+        - paragraph [ref=f24e27]
+      - status [ref=f24e28]:
+        - text: Open Positions
+        - generic [ref=f24e29]: (2)
+    - generic [ref=f24e30]:
+      - generic [ref=f24e31]:
+        - generic [ref=f24e32]:
+          - generic [ref=f24e33]: "Filters:"
+          - button "Reset filters" [disabled]
+        - generic [ref=f24e34]:
+          - combobox "Department" [ref=f24e36]:
+            - option "All Departments"
+            - option "⚙️ Operations (1)"
+            - option "👋 Spontaneous Application! (1)"
+          - combobox "Employment" [ref=f24e38]:
+            - option "All Employment Types"
+            - option "Full time (2)"
+          - combobox "Location" [ref=f24e40]:
+            - option "All Locations"
+            - option "Europe - Remote (1)"
+            - option "North America - Remote (1)"
+            - option "Porto - Office (1)"
+            - option "South America - Remote (1)"
+            - option "Worldwide - Remote (2)"
+          - combobox "Location Type" [ref=f24e42]:
+            - option "All Location Types"
+            - option "Remote (2)"
+        - status [ref=f24e43]: No filters applied
+      - generic [ref=f24e44]:
+        - heading "⚙️ Operations" [level=2] [ref=f24e45]
+        - link [ref=f24e48] [cursor=pointer]:
+          - /url: /dourolabs.xyz/20f3e7d8-6fd4-4d05-8eab-e0b69d04ead4
+          - generic [ref=f24e49]:
+            - heading "Compliance Officer" [level=3] [ref=f24e50]
+            - paragraph [ref=f24e52]: ⚙️ Operations • North America - Remote; Europe - Remote; Porto - Office; South America - Remote; Worldwide - Remote • Full time • Remote
+        - heading "👋 Spontaneous Application!" [level=2] [ref=f24e53]
+        - link [ref=f24e56] [cursor=pointer]:
+          - /url: /dourolabs.xyz/2fb41cbd-cec9-4e81-9b2f-d7bcc01abe9e
+          - generic [ref=f24e57]:
+            - heading "The WildCard" [level=3] [ref=f24e58]
+            - paragraph [ref=f24e60]: 👋 Spontaneous Application! • Worldwide - Remote • Full time • Remote
+      - generic [ref=f24e61]:
+        - heading [level=2] [ref=f24e62]:
+          - strong [ref=f24e63]: What’s it like to work at Douro Labs?
+        - paragraph [ref=f24e64]
+        - paragraph [ref=f24e65]:
+          - text: At Douro Labs, we thrive on
+          - strong [ref=f24e66]: autonomy, execution, pragmatism, and clear communication
+          - text: ". We move fast: figure things out, and deliver. If you need detailed procedures, frequent meetings, and step-by-step plans before acting, this might not be the right place for you — and that’s okay."
+        - paragraph [ref=f24e67]
+        - paragraph [ref=f24e68]:
+          - text: We’re built for people who are
+          - emphasis [ref=f24e69]:
+            - strong [ref=f24e70]: self-driven
+          - text: ","
+          - emphasis [ref=f24e71]:
+            - strong [ref=f24e72]: adaptable
+          - text: ", and excited to"
+          - emphasis [ref=f24e73]:
+            - strong [ref=f24e74]: make things happen
+          - text: .
+        - paragraph [ref=f24e75]
+        - paragraph [ref=f24e76]:
+          - text: 🚀
+          - strong [ref=f24e77]: Team comes first
+          - text: — we’re collaborators, friends, and mentors. We look out for each other, knowing that when our people thrive, so does our company.
+        - paragraph [ref=f24e78]
+        - paragraph [ref=f24e79]:
+          - text: 🌱
+          - strong [ref=f24e80]: Competitive pay and benefits
+          - text: that show real appreciation for your work and commitment. You’ll be part of a dynamic environment that supports your growth and empowers you to make an impact.
+        - paragraph [ref=f24e81]
+        - paragraph [ref=f24e82]:
+          - text: 🧑‍💻 You'll be building the
+          - strong [ref=f24e83]: next generation of decentralized infrastructure and finance
+          - text: — removing barriers, empowering developers, traders, and every user to shape a more open, transparent, and accessible financial system.
+  - contentinfo [ref=f24e84]:
+    - link "Learn more about Ashby" [ref=f24e85] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=f24e86]: Powered by
+      - img "Ashby" [ref=f24e87]
+    - paragraph [ref=f24e93]:
+      - link "Privacy Policy" [ref=f24e94] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=f24e95] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=f24e96] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

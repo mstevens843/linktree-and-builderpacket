@@ -1,0 +1,94 @@
+- generic [ref=f2e2]:
+  - list [ref=f2e4]:
+    - listitem [ref=f2e5]:
+      - link [ref=f2e6] [cursor=pointer]:
+        - /url: https://magiceden.io/
+        - img "Magic Eden" [ref=f2e7]
+    - listitem
+    - listitem
+  - generic [ref=f2e8]:
+    - status [ref=f2e10]:
+      - text: Open Positions
+      - generic [ref=f2e11]: (6)
+    - generic [ref=f2e12]:
+      - generic [ref=f2e13]:
+        - generic [ref=f2e14]:
+          - generic [ref=f2e15]: "Filters:"
+          - button "Reset filters" [disabled]
+        - generic [ref=f2e16]:
+          - combobox "Department" [ref=f2e18]:
+            - option "All Departments"
+            - option "Central Functions (2)"
+            - option "Finance (1)"
+            - option "Legal (1)"
+            - option "Operations (1)"
+            - option "Product (3)"
+            - option "Design (2)"
+          - combobox "Employment" [ref=f2e20]:
+            - option "All Employment Types"
+            - option "Full time (6)"
+          - combobox "Location" [ref=f2e22]:
+            - option "All Locations"
+            - option "Melbourne, Australia (1)"
+            - option "Remote (2)"
+            - option "Remote, Australia (1)"
+            - option "United States (2)"
+          - combobox "Location Type" [ref=f2e24]:
+            - option "All Location Types"
+            - option "Remote (5)"
+        - status [ref=f2e25]: No filters applied
+      - generic [ref=f2e26]:
+        - heading "Central Functions › Finance" [level=2] [ref=f2e27]:
+          - generic [ref=f2e28]: Central Functions ›
+          - generic [ref=f2e29]: Finance
+        - link [ref=f2e31] [cursor=pointer]:
+          - /url: /magiceden/27ea06ac-89bf-4e59-a6bd-9ec4a607c9ce
+          - generic [ref=f2e32]:
+            - heading "International Tax & Compliance Lead" [level=3] [ref=f2e33]
+            - paragraph [ref=f2e35]: Finance • United States • Full time • Remote
+        - heading "Central Functions › Legal" [level=2] [ref=f2e36]:
+          - generic [ref=f2e37]: Central Functions ›
+          - generic [ref=f2e38]: Legal
+        - link [ref=f2e40] [cursor=pointer]:
+          - /url: /magiceden/94dc960c-fb7b-40dc-a573-941cb61f80aa
+          - generic [ref=f2e41]:
+            - heading "Senior Counsel, iGaming & Sportsbook" [level=3] [ref=f2e42]
+            - paragraph [ref=f2e44]: Legal • Remote • Full time • Remote
+        - heading "Operations" [level=2] [ref=f2e45]
+        - link [ref=f2e48] [cursor=pointer]:
+          - /url: /magiceden/d0ffdca1-262a-4006-834f-b71ebe1bf152
+          - generic [ref=f2e49]:
+            - heading "Senior Risk & Trading Analyst, Sportsbook" [level=3] [ref=f2e50]
+            - paragraph [ref=f2e52]: Operations • Melbourne, Australia • Full time • Remote
+        - heading "Product" [level=2] [ref=f2e53]
+        - link [ref=f2e56] [cursor=pointer]:
+          - /url: /magiceden/1bde0a10-11c5-4b21-8cef-983e77eb3722
+          - generic [ref=f2e57]:
+            - heading "Senior Growth Product Manager, AI-Native" [level=3] [ref=f2e58]
+            - paragraph [ref=f2e60]: Product • Remote • Full time • Remote
+        - heading "Product › Design" [level=2] [ref=f2e61]:
+          - generic [ref=f2e62]: Product ›
+          - generic [ref=f2e63]: Design
+        - generic [ref=f2e64]:
+          - link [ref=f2e65] [cursor=pointer]:
+            - /url: /magiceden/ae3d6863-aa22-4f06-8067-6b509e0b3513
+            - generic [ref=f2e66]:
+              - heading "Lead Product Designer, Growth" [level=3] [ref=f2e67]
+              - paragraph [ref=f2e69]: Design • Remote, Australia • Full time
+          - link [ref=f2e70] [cursor=pointer]:
+            - /url: /magiceden/32fff02e-df64-43c2-a087-01292aa4cf5d
+            - generic [ref=f2e71]:
+              - heading "Senior Product Designer, Sportsbook" [level=3] [ref=f2e72]
+              - paragraph [ref=f2e74]: Design • United States • Full time • Remote
+  - contentinfo [ref=f2e75]:
+    - link "Learn more about Ashby" [ref=f2e76] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=f2e77]: Powered by
+      - img "Ashby" [ref=f2e78]
+    - paragraph [ref=f2e84]:
+      - link "Privacy Policy" [ref=f2e85] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=f2e86] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=f2e87] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

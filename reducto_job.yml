@@ -1,0 +1,548 @@
+- generic [ref=f187e1]:
+  - link [aria-hidden] [ref=f187e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - text: Skip to main content
+  - banner [aria-hidden] [ref=f187e3]:
+    - navigation [ref=f187e4]:
+      - link [ref=f187e5] [cursor=pointer]:
+        - /url: /?trk=public_jobs_nav-header-logo
+        - generic [ref=f187e6]: LinkedIn
+      - generic [ref=f187e19]:
+        - button [ref=f187e21] [cursor=pointer]:
+          - generic [ref=f187e22]: Jobs
+        - tabpanel [ref=f187e23]:
+          - search [ref=f187e24]:
+            - generic [ref=f187e25]:
+              - combobox [ref=f187e26]: Product Engineer
+              - button [ref=f187e27] [cursor=pointer]:
+                - generic [ref=f187e28]: Clear text
+            - generic [ref=f187e34]:
+              - combobox [ref=f187e35]: San Pablo, CA
+              - button [ref=f187e36] [cursor=pointer]:
+                - generic [ref=f187e37]: Clear text
+            - button [ref=f187e43] [cursor=pointer]
+        - status [ref=f187e47]
+      - generic [ref=f187e48]:
+        - link [ref=f187e49] [cursor=pointer]:
+          - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&fromSignIn=true&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fproduct-engineer-at-reducto-4339004693&trk=public_jobs_nav-header-signin
+          - text: Sign in
+        - link [ref=f187e50] [cursor=pointer]:
+          - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fproduct-engineer-at-reducto-4339004693&trk=public_jobs_nav-header-join
+          - text: Join now
+  - main [aria-hidden] [ref=f187e51]:
+    - generic [ref=f187e53]:
+      - generic [ref=f187e55]:
+        - link [ref=f187e56] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/reducto-ai?trk=public_jobs_topcard_logo
+        - generic [ref=f187e59]:
+          - heading [level=1] [ref=f187e60]: Product Engineer
+          - heading [level=4] [ref=f187e61]:
+            - generic [ref=f187e62]:
+              - link [ref=f187e64] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/reducto-ai?trk=public_jobs_topcard-org-name
+                - text: Reducto
+              - text: · San Francisco, CA
+            - generic [ref=f187e65]:
+              - text: 3 days ago
+              - figure [ref=f187e66]: · Over 200 applicants
+            - link [ref=f187e68] [cursor=pointer]:
+              - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D100163306%26title%3DProduct%2BEngineer&emailAddress=&fromSignIn=&trk=public_jobs_see-who-was-hired_people-search-link_face-pile-cta
+              - paragraph [ref=f187e71]: See who Reducto has hired for this role
+          - generic [ref=f187e72]:
+            - button [ref=f187e73] [cursor=pointer]: Apply
+            - button [ref=f187e77] [cursor=pointer]: Save
+        - button [ref=f187e80] [cursor=pointer]
+        - generic [ref=f187e85]:
+          - heading [level=3] [ref=f187e91]: Use AI to assess how you fit
+          - paragraph [ref=f187e92]: Get AI-powered advice on this job and more exclusive features.
+          - generic [ref=f187e93]:
+            - button [ref=f187e94] [cursor=pointer]
+            - button [ref=f187e98] [cursor=pointer]:
+              - generic [ref=f187e102]: Am I a good fit for this job?
+            - button [ref=f187e103] [cursor=pointer]:
+              - generic [ref=f187e107]: Tailor my resume
+      - generic [ref=f187e108]:
+        - generic [ref=f187e110]:
+          - generic [ref=f187e112]:
+            - generic [ref=f187e113]:
+              - strong [ref=f187e114]: About Reducto
+              - text: Reducto is the agentic document platform for leading AI teams who demand enterprise performance at scale. We provide a comprehensive toolkit for working with documents the way a human would, combining custom in-house and leading frontier models to power efficient and accurate document workflows. We’ve grown rapidly, increasing revenue 8x year over year and partnering with hundreds of companies, from leading AI teams like Harvey, Vanta, and Scale, to enterprise customers across FAANG and top trading firms. Reducto has raised over $100M from world-class investors including a16z, Benchmark, and First Round Capital. The Role As a Product Engineer, you'll work on the features used by our customers to design, build, test, and evaluate their business critical document workflows. Our goal is to make document data accessible to anyone, technical or not. We aim to build a end-to-end product suite that starts from where your documents are stored all the way to exporting the parsed and extracted data to where you want to use it. You'll work on everything from interactive document viewers to data extraction workflows, building delightful experiences that make complex AI capabilities feel simple.
+              - strong [ref=f187e115]: "We Would Love To Meet You If You:"
+              - list [ref=f187e116]:
+                - listitem [ref=f187e117]: "Philosophy: You are your own worst critic. You have a high bar for quality and don't rest until the job is done right—no settling for 90%. We want someone who ships fast, with high agency, and who doesn't just voice problems but actively jumps in to fix them."
+                - listitem [ref=f187e118]: "Product Intuition: You have a sharp eye for what good product looks like and how it's built. You care about the details that matter and think with first principles."
+                - listitem [ref=f187e119]: "Experience: You have 2+ years of experience building applications with modern frameworks."
+                - listitem [ref=f187e120]: "Language/Skills: You're exceptional at TypeScript and React, with strong design sensibility. You understand both the technical and visual aspects of great product experiences."
+                - listitem [ref=f187e121]: "Tools: Build your own tools as needed—like a quick prototype to test a new interaction pattern or a component library to speed up development."
+                - listitem [ref=f187e122]: "Approach: A quantitative approach to building products. Ability to debug, experiment, and iterate fast. You should be comfortable getting hands-on with the full development lifecycle, from ideation to shipping to users."
+              - strong [ref=f187e123]: "The Core Work Will Include:"
+              - list [ref=f187e124]:
+                - listitem [ref=f187e125]: Building and refining Reducto Studio's core features—document viewers, extraction workflows, data visualization, and editing interfaces
+                - listitem [ref=f187e126]: Creating delightful, intuitive UIs that elegantly decomposes complex document workflows
+                - listitem [ref=f187e127]: Ideating, prototyping and iteratively delivering new features like form filling, translations, document editing and document classification
+                - listitem [ref=f187e128]: Implementing real-time collaboration features and responsive interfaces that work seamlessly across devices
+                - listitem [ref=f187e129]: Working within our design system and stack (Next.js, Tailwind, Convex) to ship fast while maintaining high quality
+                - listitem [ref=f187e130]: Experimenting with new interaction patterns to make AI-powered document processing feel magical
+                - listitem [ref=f187e131]: Working directly with the founders and customers to shape the product direction based on user feedback
+              - strong [ref=f187e132]: "Bonus Points If You:"
+              - list [ref=f187e133]:
+                - listitem [ref=f187e134]: Have prior experience founding a company or building products at early stages
+                - listitem [ref=f187e135]: Have experience with document viewers, PDF rendering, or complex data visualization
+                - listitem [ref=f187e136]: Are ambitious and driven, and care a lot about doing great work with great people
+                - listitem [ref=f187e137]: Keep up with the latest developments in frontend engineering and design systems
+              - text: This is an in person role at our office in SF. We're an early stage company which means that the role requires working hard and moving quickly. Please only apply if that excites you.
+              - strong [ref=f187e138]: About Reducto
+              - emphasis [ref=f187e139]: Nearly 80% of enterprise data is in unstructured formats like PDFs
+              - text: PDFs are the status quo for enterprise knowledge in nearly every industry. Insurance claims, financial statements, invoices, and health records are all stored in a structure that’s simply impractical for use in digital workflows. This isn’t an inconvenience—it’s a critical bottleneck that leads to dozens of wasted hours every week.
+              - emphasis [ref=f187e140]: Traditional approaches fail at reliably extracting information in complex PDFs
+              - text: "OCR and even more sophisticated ML approaches work for simple text documents but are unreliable for anything more complex. Text from different columns are jumbled together, figures are ignored, and tables are a nightmare to get right. Overcoming this usually requires a large engineering effort dedicated to building specialized pipelines for every document type you work with. Reducto Breaks Document Layouts Into Subsections And Then Contextually Parses Each Depending On The Type Of Content. This Is Made Possible By a Combination Of Vision Models, LLMs, And a Suite Of Heuristics We Built Over Time. Put Simply, We Can Help You:"
+              - list [ref=f187e141]:
+                - listitem [ref=f187e142]: Accurately extract text and tables even with nonstandard layouts
+                - listitem [ref=f187e143]: Automatically convert graphs to tabular data and summarize images in documents
+                - listitem [ref=f187e144]: Extract important fields from complex forms with simple, natural language instructions
+                - listitem [ref=f187e145]: Build powerful retrieval pipelines using Reducto’s document metadata
+                - listitem [ref=f187e146]: Intelligently chunk information using the document’s layout data
+              - text: Benefits at Reducto
+              - emphasis [ref=f187e147]: "At Reducto, we’re invested in the well-being and growth of our team. Here’s what we currently offer:"
+              - list [ref=f187e148]:
+                - listitem [ref=f187e149]: "Unlimited PTO: We believe great work requires recharging."
+                - listitem [ref=f187e150]: "Lunch: Receive a free lunch to eat with your teammates daily at the office"
+                - listitem [ref=f187e151]: "Reimbursed Transportation: Provide us with your receipts and we’ll take care of the costs"
+                - listitem [ref=f187e152]: "Insurance: Generous health insurance covering medical, dental, and vision."
+                - listitem [ref=f187e153]: "Health and Wellness Budget: We provide up to $150/mo reimbursement for health and wellness spending, such as gym memberships, fitness classes, or similar."
+                - listitem [ref=f187e154]: "Parental Leave: Work with us to build a leave schedule that works for you and your family"
+              - text: Reducto is an Equal Opportunity Employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex, race, color, age, national origin, religion, physical and mental disability, genetic information, marital status, sexual orientation, gender identity/assignment, citizenship, pregnancy or maternity, protected veteran status, or any other status prohibited by applicable national, federal, state or local law.
+            - button [ref=f187e155] [cursor=pointer]: Show more
+          - list [ref=f187e157]:
+            - listitem [ref=f187e158]:
+              - heading [level=3] [ref=f187e159]: Seniority level
+              - text: Entry level
+            - listitem [ref=f187e160]:
+              - heading [level=3] [ref=f187e161]: Employment type
+              - text: Full-time
+            - listitem [ref=f187e162]:
+              - heading [level=3] [ref=f187e163]: Job function
+              - text: Engineering and Information Technology
+            - listitem [ref=f187e164]:
+              - heading [level=3] [ref=f187e165]: Industries
+              - text: Software Development
+        - generic [ref=f187e170]:
+          - paragraph [ref=f187e171]: Referrals increase your chances of interviewing at Reducto by 2x
+          - link [ref=f187e172] [cursor=pointer]:
+            - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D100163306&emailAddress=&fromSignIn=&trk=public_jobs_find-a-referral-cta
+            - text: See who you know
+      - generic [ref=f187e175]:
+        - paragraph [ref=f187e176]:
+          - text: Get notified about new Product Engineer jobs in
+          - strong [ref=f187e177]: San Francisco, CA
+          - text: .
+        - link [ref=f187e178] [cursor=pointer]:
+          - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fproduct-engineer-at-reducto-4339004693&trk=public_jobs_job-alert-guest-redirect-cta
+          - text: Sign in to create job alert
+      - navigation [ref=f187e179]:
+        - list [ref=f187e180]:
+          - listitem [ref=f187e181]:
+            - link [ref=f187e182] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/
+              - text: Jobs
+            - text: /
+          - listitem [ref=f187e183]:
+            - link [ref=f187e184] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/national-human-resources-manager-jobs
+              - text: National Human Resources Manager jobs
+            - text: /
+          - listitem [ref=f187e185]:
+            - generic [ref=f187e186]: Product Engineer
+      - generic [ref=f187e187]:
+        - heading [level=2] [ref=f187e188]: Similar jobs
+        - generic [ref=f187e190]:
+          - list [ref=f187e191]:
+            - listitem [ref=f187e192]:
+              - generic [ref=f187e193]:
+                - link [ref=f187e194] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/product-engineer-3-at-lam-research-4460957702?refId=ZOdpkdjOVFe3o%2BvvUVrQfg%3D%3D&trackingId=wIs9%2BfD53CHX61KSeww%2FGQ%3D%3D
+                  - generic [ref=f187e195]: Product Engineer 3
+                - generic [ref=f187e196]:
+                  - heading [level=3] [ref=f187e197]: Product Engineer 3
+                  - heading [level=4] [ref=f187e198]:
+                    - link [ref=f187e199] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/lam-research?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Lam Research
+                  - generic [ref=f187e200]:
+                    - generic [ref=f187e201]: Fremont, CA
+                    - time [ref=f187e202]: 1 week ago
+            - listitem [ref=f187e203]:
+              - generic [ref=f187e204]:
+                - link [ref=f187e205] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/product-engineer-5-at-lam-research-4407952751?refId=ZOdpkdjOVFe3o%2BvvUVrQfg%3D%3D&trackingId=k55vC7fi%2BlGqrVsUuhMkiA%3D%3D
+                  - generic [ref=f187e206]: Product Engineer 5
+                - generic [ref=f187e207]:
+                  - heading [level=3] [ref=f187e208]: Product Engineer 5
+                  - heading [level=4] [ref=f187e209]:
+                    - link [ref=f187e210] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/lam-research?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Lam Research
+                  - generic [ref=f187e211]:
+                    - generic [ref=f187e212]: Fremont, CA
+                    - time [ref=f187e213]: 1 week ago
+            - listitem [ref=f187e214]:
+              - generic [ref=f187e215]:
+                - link [ref=f187e216] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/product-development-engineer-at-nvidia-4449324486?refId=ZOdpkdjOVFe3o%2BvvUVrQfg%3D%3D&trackingId=gmLlFN1nIjq7BBtnh3Bg4Q%3D%3D
+                  - generic [ref=f187e217]: Product Development Engineer
+                - generic [ref=f187e218]:
+                  - heading [level=3] [ref=f187e219]: Product Development Engineer
+                  - heading [level=4] [ref=f187e220]:
+                    - link [ref=f187e221] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/nvidia?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: NVIDIA
+                  - generic [ref=f187e222]:
+                    - generic [ref=f187e223]: Santa Clara, CA
+                    - time [ref=f187e224]: 2 weeks ago
+            - listitem [ref=f187e225]:
+              - generic [ref=f187e226]:
+                - link [ref=f187e227] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/product-engineer-at-upcore-solutions-4466818173?refId=ZOdpkdjOVFe3o%2BvvUVrQfg%3D%3D&trackingId=Frr%2BO3DWxrTSYFDVy7AnNQ%3D%3D
+                  - generic [ref=f187e228]: Product Engineer
+                - generic [ref=f187e229]:
+                  - heading [level=3] [ref=f187e230]: Product Engineer
+                  - heading [level=4] [ref=f187e231]:
+                    - link [ref=f187e232] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/up-coresolutions?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: UpCore Solutions
+                  - generic [ref=f187e233]:
+                    - generic [ref=f187e234]: San Francisco, CA
+                    - time [ref=f187e235]: 1 hour ago
+            - listitem [ref=f187e236]:
+              - generic [ref=f187e237]:
+                - link [ref=f187e238] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/product-engineer-at-omnivision-4375785368?refId=ZOdpkdjOVFe3o%2BvvUVrQfg%3D%3D&trackingId=qUX0UjPJjgCtkzQDz7yB8g%3D%3D
+                  - generic [ref=f187e239]: Product Engineer
+                - generic [ref=f187e240]:
+                  - heading [level=3] [ref=f187e241]: Product Engineer
+                  - heading [level=4] [ref=f187e242]:
+                    - link [ref=f187e243] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/omnivision?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: OMNIVISION
+                  - generic [ref=f187e244]:
+                    - generic [ref=f187e245]: Santa Clara, CA
+                    - time [ref=f187e246]: 1 week ago
+            - listitem [ref=f187e247]:
+              - generic [ref=f187e248]:
+                - link [ref=f187e249] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/hardware-product-engineer-at-penguin-solutions-4447734739?refId=ZOdpkdjOVFe3o%2BvvUVrQfg%3D%3D&trackingId=MbqfqYbbEMvyCkb6PIOD6w%3D%3D
+                  - generic [ref=f187e250]: Hardware Product Engineer
+                - generic [ref=f187e251]:
+                  - heading [level=3] [ref=f187e252]: Hardware Product Engineer
+                  - heading [level=4] [ref=f187e253]:
+                    - link [ref=f187e254] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/penguinsolutions?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Penguin Solutions
+                  - generic [ref=f187e255]:
+                    - generic [ref=f187e256]: Newark, CA
+                    - time [ref=f187e257]: 3 days ago
+          - button [ref=f187e258] [cursor=pointer]: Show more jobs like this
+    - generic [ref=f187e260]:
+      - generic [ref=f187e261]:
+        - heading [level=2] [ref=f187e262]: People also viewed
+        - list [ref=f187e264]:
+          - listitem [ref=f187e265]:
+            - generic [ref=f187e266]:
+              - link [ref=f187e267] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/product-engineer-npi-manufacturing-operations-at-foxconn-industrial-internet-fii-4445439081?refId=ZOdpkdjOVFe3o%2BvvUVrQfg%3D%3D&trackingId=3i8NH4iVHX%2FORzmw1FBW8Q%3D%3D
+                - generic [ref=f187e268]: Product Engineer (NPI / Manufacturing Operations)
+              - generic [ref=f187e269]:
+                - heading [level=3] [ref=f187e270]: Product Engineer (NPI / Manufacturing Operations)
+                - paragraph [ref=f187e271]:
+                  - link [ref=f187e272] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/foxconn-industrial-internet-fii?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Foxconn Industrial Internet - FII
+                - generic [ref=f187e273]:
+                  - generic [ref=f187e274]: San Jose, CA
+                  - time [ref=f187e275]: 1 month ago
+          - listitem [ref=f187e276]:
+            - generic [ref=f187e277]:
+              - link [ref=f187e278] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/product-engineer-at-super-micro-computer-spain-s-l-4459252658?refId=ZOdpkdjOVFe3o%2BvvUVrQfg%3D%3D&trackingId=MbuZZa39reWF7M9ubyQUKg%3D%3D
+                - generic [ref=f187e279]: Product Engineer
+              - generic [ref=f187e280]:
+                - heading [level=3] [ref=f187e281]: Product Engineer
+                - paragraph [ref=f187e282]:
+                  - link [ref=f187e283] [cursor=pointer]:
+                    - /url: https://es.linkedin.com/company/super-micro-computer-spain-s-l-?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Super Micro Computer Spain, S.L.
+                - generic [ref=f187e284]:
+                  - generic [ref=f187e285]: San Jose, CA
+                  - time [ref=f187e286]: 2 weeks ago
+          - listitem [ref=f187e287]:
+            - generic [ref=f187e288]:
+              - link [ref=f187e289] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/product-engineer-4-at-lam-research-4398189221?refId=ZOdpkdjOVFe3o%2BvvUVrQfg%3D%3D&trackingId=jLWQOD834N9R%2FMHiG3tALg%3D%3D
+                - generic [ref=f187e290]: Product Engineer 4
+              - generic [ref=f187e291]:
+                - heading [level=3] [ref=f187e292]: Product Engineer 4
+                - paragraph [ref=f187e293]:
+                  - link [ref=f187e294] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/lam-research?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Lam Research
+                - generic [ref=f187e295]:
+                  - generic [ref=f187e296]: Fremont, CA
+                  - time [ref=f187e297]: 2 weeks ago
+          - listitem [ref=f187e298]:
+            - generic [ref=f187e299]:
+              - link [ref=f187e300] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/product-engineer-4-at-lam-research-4463830320?refId=ZOdpkdjOVFe3o%2BvvUVrQfg%3D%3D&trackingId=m7NI0x8NJF%2BGGpjucN2q8Q%3D%3D
+                - generic [ref=f187e301]: Product Engineer 4
+              - generic [ref=f187e302]:
+                - heading [level=3] [ref=f187e303]: Product Engineer 4
+                - paragraph [ref=f187e304]:
+                  - link [ref=f187e305] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/lam-research?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Lam Research
+                - generic [ref=f187e306]:
+                  - generic [ref=f187e307]: Fremont, CA
+                  - time [ref=f187e308]: 6 days ago
+          - listitem [ref=f187e309]:
+            - generic [ref=f187e310]:
+              - link [ref=f187e311] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/board-product-development-engineer-at-nvidia-4450001911?refId=ZOdpkdjOVFe3o%2BvvUVrQfg%3D%3D&trackingId=oIOZHbUT8jWrFkchiwDGWQ%3D%3D
+                - generic [ref=f187e312]: Board Product Development Engineer
+              - generic [ref=f187e313]:
+                - heading [level=3] [ref=f187e314]: Board Product Development Engineer
+                - paragraph [ref=f187e315]:
+                  - link [ref=f187e316] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/nvidia?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: NVIDIA
+                - generic [ref=f187e317]:
+                  - generic [ref=f187e318]: Santa Clara, CA
+                  - time [ref=f187e319]: 2 weeks ago
+          - listitem [ref=f187e320]:
+            - generic [ref=f187e321]:
+              - link [ref=f187e322] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/product-engineer-6-at-lam-research-4427748998?refId=ZOdpkdjOVFe3o%2BvvUVrQfg%3D%3D&trackingId=7N45OkDEIZUSKLOrdffm5g%3D%3D
+                - generic [ref=f187e323]: Product Engineer 6
+              - generic [ref=f187e324]:
+                - heading [level=3] [ref=f187e325]: Product Engineer 6
+                - paragraph [ref=f187e326]:
+                  - link [ref=f187e327] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/lam-research?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Lam Research
+                - generic [ref=f187e328]:
+                  - generic [ref=f187e329]: Fremont, CA
+                  - time [ref=f187e330]: 1 week ago
+          - listitem [ref=f187e331]:
+            - generic [ref=f187e332]:
+              - link [ref=f187e333] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/product-engineer-4-gas-delivery-at-lam-research-4450348345?refId=ZOdpkdjOVFe3o%2BvvUVrQfg%3D%3D&trackingId=9CUbXT8vP12Znm0SDdLsrQ%3D%3D
+                - generic [ref=f187e334]: Product Engineer 4 - Gas Delivery
+              - generic [ref=f187e335]:
+                - heading [level=3] [ref=f187e336]: Product Engineer 4 - Gas Delivery
+                - paragraph [ref=f187e337]:
+                  - link [ref=f187e338] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/lam-research?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Lam Research
+                - generic [ref=f187e339]:
+                  - generic [ref=f187e340]: Fremont, CA
+                  - time [ref=f187e341]: 2 weeks ago
+          - listitem [ref=f187e342]:
+            - generic [ref=f187e343]:
+              - link [ref=f187e344] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/characterization-product-development-engineer-at-nvidia-4459714103?refId=ZOdpkdjOVFe3o%2BvvUVrQfg%3D%3D&trackingId=%2BaN1d2Pbc7pifugnkQ8O8g%3D%3D
+                - generic [ref=f187e345]: Characterization Product Development Engineer
+              - generic [ref=f187e346]:
+                - heading [level=3] [ref=f187e347]: Characterization Product Development Engineer
+                - paragraph [ref=f187e348]:
+                  - link [ref=f187e349] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/nvidia?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: NVIDIA
+                - generic [ref=f187e350]:
+                  - generic [ref=f187e351]: Santa Clara, CA
+                  - time [ref=f187e352]: 2 weeks ago
+          - listitem [ref=f187e353]:
+            - generic [ref=f187e354]:
+              - link [ref=f187e355] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/product-engineer-4-etch-esc-product-development-at-lam-research-4443422202?refId=ZOdpkdjOVFe3o%2BvvUVrQfg%3D%3D&trackingId=8dmfd5qgrivm%2B5a9KKB8mA%3D%3D
+                - generic [ref=f187e356]: Product Engineer 4 - Etch ESC product development
+              - generic [ref=f187e357]:
+                - heading [level=3] [ref=f187e358]: Product Engineer 4 - Etch ESC product development
+                - paragraph [ref=f187e359]:
+                  - link [ref=f187e360] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/lam-research?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Lam Research
+                - generic [ref=f187e361]:
+                  - generic [ref=f187e362]: Fremont, CA
+                  - time [ref=f187e363]: 1 week ago
+          - listitem [ref=f187e364]:
+            - generic [ref=f187e365]:
+              - link [ref=f187e366] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/npi-product-engineer-at-kla-4413651399?refId=ZOdpkdjOVFe3o%2BvvUVrQfg%3D%3D&trackingId=umJfdoet7jWzJfnMZW3Ugg%3D%3D
+                - generic [ref=f187e367]: NPI Product Engineer
+              - generic [ref=f187e368]:
+                - heading [level=3] [ref=f187e369]: NPI Product Engineer
+                - paragraph [ref=f187e370]:
+                  - link [ref=f187e371] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/klacorp?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: KLA
+                - generic [ref=f187e372]:
+                  - generic [ref=f187e373]: Milpitas, CA
+                  - time [ref=f187e374]: 1 week ago
+      - generic [ref=f187e375]:
+        - heading [level=2] [ref=f187e376]: Similar Searches
+        - generic [ref=f187e378]:
+          - list [ref=f187e379]:
+            - listitem [ref=f187e380]:
+              - link [ref=f187e381] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/national-human-resources-manager-jobs?trk=public_jobs_full-click
+                - generic [ref=f187e382]:
+                  - heading [level=3] [ref=f187e383]: National Human Resources Manager jobs
+                  - generic [ref=f187e384]: 6,388 open jobs
+            - listitem [ref=f187e385]:
+              - link [ref=f187e386] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/chief-design-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f187e387]:
+                  - heading [level=3] [ref=f187e388]: Chief Design Engineer jobs
+                  - generic [ref=f187e389]: 309 open jobs
+            - listitem [ref=f187e390]:
+              - link [ref=f187e391] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/principal-product-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f187e392]:
+                  - heading [level=3] [ref=f187e393]: Principal Product Engineer jobs
+                  - generic [ref=f187e394]: 40,556 open jobs
+            - listitem [ref=f187e395]:
+              - link [ref=f187e396] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/product-development-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f187e397]:
+                  - heading [level=3] [ref=f187e398]: Product Development Engineer jobs
+                  - generic [ref=f187e399]: 45,237 open jobs
+            - listitem [ref=f187e400]:
+              - link [ref=f187e401] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/electronic-development-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f187e402]:
+                  - heading [level=3] [ref=f187e403]: Electronic Development Engineer jobs
+                  - generic [ref=f187e404]: 8,017 open jobs
+            - listitem [ref=f187e405]:
+              - link [ref=f187e406] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/new-product-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f187e407]:
+                  - heading [level=3] [ref=f187e408]: New Product Engineer jobs
+                  - generic [ref=f187e409]: 20,853 open jobs
+            - listitem [ref=f187e410]:
+              - link [ref=f187e411] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/staff-product-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f187e412]:
+                  - heading [level=3] [ref=f187e413]: Staff Product Engineer jobs
+                  - generic [ref=f187e414]: 2,934 open jobs
+            - listitem [ref=f187e415]:
+              - link [ref=f187e416] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/application-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f187e417]:
+                  - heading [level=3] [ref=f187e418]: Application Engineer jobs
+                  - generic [ref=f187e419]: 280,202 open jobs
+            - listitem [ref=f187e420]:
+              - link [ref=f187e421] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/lead-product-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f187e422]:
+                  - heading [level=3] [ref=f187e423]: Lead Product Engineer jobs
+                  - generic [ref=f187e424]: 7,318 open jobs
+            - listitem [ref=f187e425]:
+              - link [ref=f187e426] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/product-design-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f187e427]:
+                  - heading [level=3] [ref=f187e428]: Product Design Engineer jobs
+                  - generic [ref=f187e429]: 41,548 open jobs
+            - listitem [ref=f187e430]:
+              - link [ref=f187e431] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/senior-security-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f187e432]:
+                  - heading [level=3] [ref=f187e433]: Senior Security Engineer jobs
+                  - generic [ref=f187e434]: 30,665 open jobs
+            - listitem [ref=f187e435]:
+              - link [ref=f187e436] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/staff-application-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f187e437]:
+                  - heading [level=3] [ref=f187e438]: Staff Application Engineer jobs
+                  - generic [ref=f187e439]: 2,429 open jobs
+          - button [ref=f187e440] [cursor=pointer]: Show more
+      - generic [ref=f187e444]:
+        - heading [level=2] [ref=f187e446]: Explore top content on LinkedIn
+        - paragraph [ref=f187e447]: Find curated posts and insights for relevant topics all in one place.
+        - link [ref=f187e448] [cursor=pointer]:
+          - /url: https://www.linkedin.com/top-content/
+          - text: View top content
+  - button [ref=f187e453] [cursor=pointer]: More searches
+  - contentinfo [aria-hidden] [ref=f187e455]:
+    - list [ref=f187e456]:
+      - generic [ref=f187e457]: LinkedIn
+      - generic [ref=f187e459]: © 2026
+      - listitem [ref=f187e460]:
+        - link [ref=f187e461] [cursor=pointer]:
+          - /url: https://about.linkedin.com?trk=d_jobs_guest_details_footer-about
+          - text: About
+      - listitem [ref=f187e462]:
+        - link [ref=f187e463] [cursor=pointer]:
+          - /url: https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility
+          - text: Accessibility
+      - listitem [ref=f187e464]:
+        - link [ref=f187e465] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/user-agreement?trk=d_jobs_guest_details_footer-user-agreement
+          - text: User Agreement
+      - listitem [ref=f187e466]:
+        - link [ref=f187e467] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/privacy-policy?trk=d_jobs_guest_details_footer-privacy-policy
+          - text: Privacy Policy
+      - listitem [ref=f187e468]:
+        - link [ref=f187e469] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/california-privacy-disclosure?trk=d_jobs_guest_details_footer-california-privacy-rights-act
+          - text: Your California Privacy Choices
+      - listitem [ref=f187e470]:
+        - link [ref=f187e471] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/cookie-policy?trk=d_jobs_guest_details_footer-cookie-policy
+          - text: Cookie Policy
+      - listitem [ref=f187e472]:
+        - link [ref=f187e473] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/copyright-policy?trk=d_jobs_guest_details_footer-copyright-policy
+          - text: Copyright Policy
+      - listitem [ref=f187e474]:
+        - link [ref=f187e475] [cursor=pointer]:
+          - /url: https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy
+          - text: Brand Policy
+      - listitem [ref=f187e476]:
+        - link [ref=f187e477] [cursor=pointer]:
+          - /url: https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls
+          - text: Guest Controls
+      - listitem [ref=f187e478]:
+        - link [ref=f187e479] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/professional-community-policies?trk=d_jobs_guest_details_footer-community-guide
+          - text: Community Guidelines
+      - listitem [ref=f187e480]:
+        - button [ref=f187e482]: Language
+  - dialog [active] [ref=f187e485]:
+    - button "Dismiss" [ref=f187e486] [cursor=pointer]
+    - generic [ref=f187e491]:
+      - heading "Sign in to see who you already know at Reducto" [level=2] [ref=f187e493]
+      - generic [ref=f187e494]:
+        - button "Continue with google" [ref=f187e510]:
+          - iframe [ref=f187e512]:
+            - button "Continue with Google. Opens in new tab" [ref=f202e3] [cursor=pointer]:
+              - generic [ref=f202e5]: Continue with Google
+        - button "Sign in with Email" [ref=f187e495] [cursor=pointer]
+        - paragraph [ref=f187e501]: or
+        - button "Continue with google" [ref=f187e514]:
+          - iframe [ref=f187e516]:
+            - button "Continue with Google. Opens in new tab" [ref=f203e3] [cursor=pointer]:
+              - generic [ref=f203e5]: Continue with Google
+        - paragraph [ref=f187e502]:
+          - text: New to LinkedIn?
+          - link "Join now" [ref=f187e503] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&trk=public_jobs_contextual-sign-in-modal_join-link
+        - paragraph [ref=f187e504]:
+          - text: By clicking Continue to join or sign in, you agree to LinkedIn’s
+          - link "User Agreement" [ref=f187e505] [cursor=pointer]:
+            - /url: /legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement
+          - text: ","
+          - link "Privacy Policy" [ref=f187e506] [cursor=pointer]:
+            - /url: /legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy
+          - text: ", and"
+          - link "Cookie Policy" [ref=f187e507] [cursor=pointer]:
+            - /url: /legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy
+          - text: .

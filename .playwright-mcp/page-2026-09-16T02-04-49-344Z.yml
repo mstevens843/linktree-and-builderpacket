@@ -1,0 +1,85 @@
+- generic [ref=f14e2]:
+  - list [ref=f14e4]:
+    - listitem [ref=f14e5]:
+      - link [ref=f14e6] [cursor=pointer]:
+        - /url: https://www.orca.so/
+        - img "Orca" [ref=f14e7]
+    - listitem [ref=f14e8]:
+      - link "Back to Orca’s Job Listings" [ref=f14e9] [cursor=pointer]:
+        - /url: /orca
+    - listitem
+  - generic [ref=f14e12]:
+    - heading "Open Application" [level=1] [ref=f14e14]
+    - generic [ref=f14e15]:
+      - generic [ref=f14e16]:
+        - generic [ref=f14e17]:
+          - heading "Location" [level=2] [ref=f14e18]
+          - paragraph [ref=f14e19]: Remote
+        - generic [ref=f14e20]:
+          - heading "Employment Type" [level=2] [ref=f14e21]
+          - paragraph [ref=f14e22]: Full time
+        - generic [ref=f14e23]:
+          - heading "Department" [level=2] [ref=f14e24]
+          - paragraph [ref=f14e25]:
+            - generic [ref=f14e26]: General
+      - generic [ref=f14e27]:
+        - tablist [ref=f14e28]:
+          - tab "Overview" [selected] [ref=f14e29] [cursor=pointer]
+          - tab "Application" [ref=f14e30] [cursor=pointer]
+        - tabpanel "Overview" [ref=f14e32]:
+          - generic [ref=f14e33]:
+            - paragraph [ref=f14e34]: "Location: Remote"
+            - paragraph [ref=f14e35]: Orca is expanding into new product verticals, bringing a new class of regulated assets on-chain with the compliance infrastructure and liquidity primitives to make them actually work. Our ambition reaches beyond becoming the leading provider of financial primitives in crypto—we aim to reshape the foundation of finance itself. If you are someone who is tired of just working another job and wants to build something meaningful, then we invite you to join our team.
+            - paragraph [ref=f14e36]: We’re always looking for talented individuals to join our growing team. If you think your skills can contribute to Orca's mission, but don’t see a specific role that matches your expertise in our current open positions, we’d love to hear from you. By submitting your resume here, you’ll be considered for future opportunities that align with your background and interests.If there’s a potential fit for an existing or upcoming opportunity, our team will get in touch. While we’d love to respond to everyone, we’re unfortunately unable to provide individual updates on all open applications.
+            - paragraph [ref=f14e37]:
+              - strong [ref=f14e38]: What Orca offers
+            - list [ref=f14e39]:
+              - listitem [ref=f14e40]:
+                - paragraph [ref=f14e41]: Competitive Salary.
+              - listitem [ref=f14e42]:
+                - paragraph [ref=f14e43]: Bonus AND Token allocation.
+              - listitem [ref=f14e44]:
+                - paragraph [ref=f14e45]: Flexible work schedule.
+              - listitem [ref=f14e46]:
+                - paragraph [ref=f14e47]: Home office stipend.
+              - listitem [ref=f14e48]:
+                - paragraph [ref=f14e49]: Wellness stipend.
+              - listitem [ref=f14e50]:
+                - paragraph [ref=f14e51]: Opportunity to co-work with the team multiple times a year from at different locations around the world, fully covered by Orca.
+              - listitem [ref=f14e52]:
+                - paragraph [ref=f14e53]: Option to work remotely or from Orca’s office in New York City.
+              - listitem [ref=f14e54]:
+                - paragraph [ref=f14e55]: Paid subscriptions to GitHub Copilot, ChatGPT, or other tools that make you more productive.
+            - paragraph [ref=f14e56]:
+              - strong [ref=f14e57]: "About:"
+              - link "https://orca.so" [ref=f14e58] [cursor=pointer]:
+                - /url: https://orca.so
+            - paragraph [ref=f14e59]:
+              - strong [ref=f14e60]: "Twitter:"
+              - link "https://x.com/orca_so" [ref=f14e61] [cursor=pointer]:
+                - /url: https://x.com/orca_so
+            - paragraph [ref=f14e62]:
+              - strong [ref=f14e63]: "Discord:"
+              - link "https://discord.orca.so" [ref=f14e64] [cursor=pointer]:
+                - /url: https://discord.orca.so
+            - paragraph [ref=f14e65]:
+              - strong [ref=f14e66]: "Podcast:"
+              - link "https://orcapod.orca.so" [ref=f14e67] [cursor=pointer]:
+                - /url: https://orcapod.orca.so
+            - paragraph [ref=f14e68]:
+              - emphasis [ref=f14e69]: Orca is an equal opportunity employer.
+          - link [ref=f14e70] [cursor=pointer]:
+            - /url: /orca/67824dda-de40-448e-ba76-87ed4e06d05f/application
+            - button "Apply for this Job" [ref=f14e71]
+  - contentinfo [ref=f14e72]:
+    - link "Learn more about Ashby" [ref=f14e73] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=f14e74]: Powered by
+      - img "Ashby" [ref=f14e75]
+    - paragraph [ref=f14e81]:
+      - link "Privacy Policy" [ref=f14e82] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=f14e83] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=f14e84] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

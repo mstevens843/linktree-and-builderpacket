@@ -1,0 +1,574 @@
+- generic [ref=f141e1]:
+  - link [aria-hidden] [ref=f141e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - text: Skip to main content
+  - banner [aria-hidden] [ref=f141e3]:
+    - navigation [ref=f141e4]:
+      - link [ref=f141e5] [cursor=pointer]:
+        - /url: /?trk=public_jobs_nav-header-logo
+        - generic [ref=f141e6]: LinkedIn
+      - generic [ref=f141e19]:
+        - button [ref=f141e21] [cursor=pointer]:
+          - generic [ref=f141e22]: Jobs
+        - tabpanel [ref=f141e23]:
+          - search [ref=f141e24]:
+            - generic [ref=f141e25]:
+              - combobox [ref=f141e26]: Software Engineer - Full Stack, Product Engineering
+              - button [ref=f141e27] [cursor=pointer]:
+                - generic [ref=f141e28]: Clear text
+            - generic [ref=f141e34]:
+              - combobox [ref=f141e35]: San Pablo, CA
+              - button [ref=f141e36] [cursor=pointer]:
+                - generic [ref=f141e37]: Clear text
+            - button [ref=f141e43] [cursor=pointer]
+        - status [ref=f141e47]
+      - generic [ref=f141e48]:
+        - link [ref=f141e49] [cursor=pointer]:
+          - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&fromSignIn=true&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fsoftware-engineer-full-stack-product-engineering-at-baton-4465092585&trk=public_jobs_nav-header-signin
+          - text: Sign in
+        - link [ref=f141e50] [cursor=pointer]:
+          - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fsoftware-engineer-full-stack-product-engineering-at-baton-4465092585&trk=public_jobs_nav-header-join
+          - text: Join now
+  - main [aria-hidden] [ref=f141e51]:
+    - generic [ref=f141e53]:
+      - generic [ref=f141e55]:
+        - link [ref=f141e56] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/baton-trucking?trk=public_jobs_topcard_logo
+        - generic [ref=f141e59]:
+          - heading [level=1] [ref=f141e60]: Software Engineer - Full Stack, Product Engineering
+          - heading [level=4] [ref=f141e61]:
+            - generic [ref=f141e62]:
+              - link [ref=f141e64] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/baton-trucking?trk=public_jobs_topcard-org-name
+                - text: Baton
+              - text: · San Francisco, CA
+            - generic [ref=f141e65]: 6 days ago · 28 applicants
+            - link [ref=f141e66] [cursor=pointer]:
+              - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D28861934%26title%3DSoftware%2BEngineer&emailAddress=&fromSignIn=&trk=public_jobs_see-who-was-hired_people-search-link_face-pile-cta
+              - paragraph [ref=f141e69]: See who Baton has hired for this role
+          - generic [ref=f141e70]:
+            - button [ref=f141e71] [cursor=pointer]: Apply
+            - button [ref=f141e72] [cursor=pointer]: Save
+        - button [ref=f141e75] [cursor=pointer]
+        - generic [ref=f141e77]:
+          - heading [level=3] [ref=f141e78]: Use AI to assess how you fit
+          - paragraph [ref=f141e79]: Get AI-powered advice on this job and more exclusive features.
+          - generic [ref=f141e80]:
+            - button [ref=f141e81] [cursor=pointer]
+            - button [ref=f141e83] [cursor=pointer]:
+              - generic [ref=f141e85]: Am I a good fit for this job?
+            - button [ref=f141e86] [cursor=pointer]:
+              - generic [ref=f141e88]: Tailor my resume
+      - generic [ref=f141e89]:
+        - generic [ref=f141e91]:
+          - generic [ref=f141e93]:
+            - generic [ref=f141e94]:
+              - strong [ref=f141e95]: Who We Are
+              - strong [ref=f141e96]: Baton
+              - text: is
+              - strong [ref=f141e97]: Ryder
+              - text: ’s in-house product development group focused on harnessing emerging technologies to redefine transportation and logistics. With $10B in freight under management, our technology reaches every part of the U.S. economy. We design and ship category-defining software that enables Ryder and its 50,000+ customers—including some of the world’s most well-known brands—to plan and execute freight intelligently, efficiently, and cost-effectively. Our work includes everything from customer-facing software to the data platform that will power the next era of innovation at Ryder.
+              - strong [ref=f141e98]: Baton’s mission
+              - text: ": enable supply chain on autopilot. Ryder acquired Baton in 2022 to power its next wave of digital products. We operate at startup speed, with Fortune 500 reach. If you have a passion for solving complex problems and creating impact for the engine of the American economy, you’ll love it here."
+              - strong [ref=f141e99]: "Role:"
+              - text: Software Engineer - Full Stack
+              - strong [ref=f141e100]: "Location:"
+              - text: Hayes Valley, San Francisco, CA
+              - strong [ref=f141e101]: Basic Job Details
+              - strong [ref=f141e102]: "Job Type:"
+              - text: Full Time
+              - strong [ref=f141e103]: "Work Model:"
+              - text: Hybrid
+              - strong [ref=f141e104]: "Remote Days:"
+              - text: Monday & Friday
+              - strong [ref=f141e105]: "Office Days:"
+              - text: Tuesday, Wednesday, Thursday
+              - strong [ref=f141e106]: Job Description
+              - text: We are looking for a Full-Stack Software Engineer who excels in dynamic environments and is driven to develop applications that connect with users. The ideal candidate will play a crucial role in designing and implementing both the front-end and back-end components of our applications, utilizing a diverse technology stack that includes Typescript, React, Python, GraphQL, etc. Candidates should be proactive, adept problem solvers with solid programming expertise in modern front-end and full-stack languages, and a deep enthusiasm for technology.
+              - strong [ref=f141e107]: Responsibilities
+              - list [ref=f141e108]:
+                - listitem [ref=f141e109]: Plan and execute project milestones, identifying and mitigating risks and swiftly resolving issues as they arise to deliver high-quality work
+                - listitem [ref=f141e110]: Develop and enhance the architecture of web applications to ensure scalability, maintainability, and performance. Collaborate with senior engineers and architects to define system structure and core components.
+                - listitem [ref=f141e111]: Develop backend application layers and data models, ensuring robust functionality, security, and scalability. Our current tech stack includes Python 3, GraphQL, and FastAPI
+                - listitem [ref=f141e112]: Build and maintain frontend interfaces using React and TypeScript, ensuring an exceptional user experience and high performance across all platforms
+                - listitem [ref=f141e113]: Collaborate with cross-functional teams to understand end-user requirements, create effective project plans, and deliver effective technical solutions
+                - listitem [ref=f141e114]: Continually stay up-to-date with industry trends and technologies to ensure our technology stack remains current and competitive
+              - strong [ref=f141e115]: Minimum Qualifications
+              - list [ref=f141e116]:
+                - listitem [ref=f141e117]: 3+ years of full-stack software development experience with web application architecture and design patterns for complex enterprise applications
+                - listitem [ref=f141e118]: Familiarity with web development best practices, and demonstrated ability to discuss engineering and product tradeoffs
+                - listitem [ref=f141e119]: Proficiency in Python with a track record of building intuitive, responsive, and fast web interfaces
+                - listitem [ref=f141e120]: Proficiency with frontend languages and technologies such as Typescript and React
+              - strong [ref=f141e121]: Preferred Qualifications
+              - list [ref=f141e122]:
+                - listitem [ref=f141e123]: Bachelor’s or Master’s Degree in Computer Science, Engineering, or a related technical field
+                - listitem [ref=f141e124]: Strong foundation in first principles thinking to drive problem-solving and innovation
+                - listitem [ref=f141e125]: Experience working with AWS or similar cloud-based services
+              - strong [ref=f141e126]: The Perks
+              - list [ref=f141e127]:
+                - listitem [ref=f141e128]: Competitive Base Salary + Cash Bonus Structure
+                - listitem [ref=f141e129]: Annual Company Bonus + Long Term Incentive Plan
+                - listitem [ref=f141e130]: 401k with Matching
+                - listitem [ref=f141e131]: Hybrid Work Schedule
+                - listitem [ref=f141e132]: Hyper-Stable, publicly traded Enterprise
+                - listitem [ref=f141e133]: Medical, Dental, and Vision Health Coverage
+                - listitem [ref=f141e134]: Employee Stock Purchase Program (15% discount to market value)
+                - listitem [ref=f141e135]: Collaborative, Fun, and Tech Forward office in Hayes Valley, San Francisco, CA
+              - strong [ref=f141e136]: "Compensation Range:"
+              - text: The annual base salary range for this position is $150,000 - $200,000*. Compensation will vary based on factors including skill level, transferable knowledge, and experience. Note that the above is not the representation of total compensation, which includes our LTI Package as well. In addition to base salary, Baton's full-time employees are eligible for an annual company performance bonuses.
+              - strong [ref=f141e137]: Why You Should Join
+              - list [ref=f141e138]:
+                - listitem [ref=f141e139]:
+                  - strong [ref=f141e140]: "Have an immediate impact:"
+                - list [ref=f141e141]:
+                  - listitem [ref=f141e142]: With Ryder’s existing customer base of 50,000+ companies and an internal headcount of 43,000, the scale and impact of our products will be large and far-reaching, from day one.
+                - listitem [ref=f141e143]:
+                  - strong [ref=f141e144]: "Opportunity to grow and lead in a Fortune 500 company:"
+                - list [ref=f141e145]:
+                  - listitem [ref=f141e146]: You’ll get to work in a rapidly growing, startup-like environment while having the stability and backing of Ryder and its full executive team.
+                - listitem [ref=f141e147]:
+                  - strong [ref=f141e148]: "Creative, fast-paced environment to solve impactful problems in Supply Chain:"
+                - list [ref=f141e149]:
+                  - listitem [ref=f141e150]: We’re going to design completely new tools for an industry that hasn’t been rethought in decades. And to do this, we need people who think differently.
+            - button [ref=f141e151] [cursor=pointer]: Show more
+          - list [ref=f141e153]:
+            - listitem [ref=f141e154]:
+              - heading [level=3] [ref=f141e155]: Seniority level
+              - text: Mid-Senior level
+            - listitem [ref=f141e156]:
+              - heading [level=3] [ref=f141e157]: Employment type
+              - text: Full-time
+            - listitem [ref=f141e158]:
+              - heading [level=3] [ref=f141e159]: Job function
+              - text: Engineering
+            - listitem [ref=f141e160]:
+              - heading [level=3] [ref=f141e161]: Industries
+              - text: Software Development
+        - generic [ref=f141e166]:
+          - paragraph [ref=f141e167]: Referrals increase your chances of interviewing at Baton by 2x
+          - link [ref=f141e168] [cursor=pointer]:
+            - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D28861934&emailAddress=&fromSignIn=&trk=public_jobs_find-a-referral-cta
+            - text: See who you know
+      - generic [ref=f141e171]:
+        - paragraph [ref=f141e172]:
+          - text: Get notified about new Software Engineer jobs in
+          - strong [ref=f141e173]: San Francisco, CA
+          - text: .
+        - link [ref=f141e174] [cursor=pointer]:
+          - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fsoftware-engineer-full-stack-product-engineering-at-baton-4465092585&trk=public_jobs_job-alert-guest-redirect-cta
+          - text: Sign in to create job alert
+      - navigation [ref=f141e175]:
+        - list [ref=f141e176]:
+          - listitem [ref=f141e177]:
+            - link [ref=f141e178] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/
+              - text: Jobs
+            - text: /
+          - listitem [ref=f141e179]:
+            - link [ref=f141e180] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/software-engineer-jobs
+              - text: Software Engineer jobs
+            - text: /
+          - listitem [ref=f141e181]:
+            - generic [ref=f141e182]: Software Engineer - Full Stack, Product Engineering
+      - generic [ref=f141e183]:
+        - heading [level=2] [ref=f141e184]: Similar jobs
+        - generic [ref=f141e186]:
+          - list [ref=f141e187]:
+            - listitem [ref=f141e188]:
+              - generic [ref=f141e189]:
+                - link [ref=f141e190] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-replo-4200374843?refId=%2FHqHQmReWrLvDMvnseUQ8g%3D%3D&trackingId=SJbq4PM3lkIXmhbtqEZhtw%3D%3D
+                  - generic [ref=f141e191]: Software Engineer (Full-Stack)
+                - generic [ref=f141e192]:
+                  - heading [level=3] [ref=f141e193]: Software Engineer (Full-Stack)
+                  - heading [level=4] [ref=f141e194]:
+                    - link [ref=f141e195] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/replohq?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Replo
+                  - generic [ref=f141e196]:
+                    - generic [ref=f141e197]: San Francisco, CA
+                    - time [ref=f141e198]: 1 year ago
+            - listitem [ref=f141e199]:
+              - generic [ref=f141e200]:
+                - link [ref=f141e201] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/software-engineer-at-circleback-4440374428?refId=%2FHqHQmReWrLvDMvnseUQ8g%3D%3D&trackingId=O0OyvSkPuAo9OVQJ06WGZA%3D%3D
+                  - generic [ref=f141e202]: Software Engineer
+                - generic [ref=f141e203]:
+                  - heading [level=3] [ref=f141e204]: Software Engineer
+                  - heading [level=4] [ref=f141e205]:
+                    - link [ref=f141e206] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/circlebackai?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Circleback
+                  - generic [ref=f141e207]:
+                    - generic [ref=f141e208]: San Francisco, CA
+                    - generic [ref=f141e209]: $145,000 - $240,000
+                    - time [ref=f141e210]: 2 months ago
+            - listitem [ref=f141e211]:
+              - generic [ref=f141e212]:
+                - link [ref=f141e213] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/product-engineer-at-artie-4461656344?refId=%2FHqHQmReWrLvDMvnseUQ8g%3D%3D&trackingId=mlTIm6j4JI%2BbUDbhG38cZQ%3D%3D
+                  - generic [ref=f141e214]: Product Engineer
+                - generic [ref=f141e215]:
+                  - heading [level=3] [ref=f141e216]: Product Engineer
+                  - heading [level=4] [ref=f141e217]:
+                    - link [ref=f141e218] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/artie-labs?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Artie
+                  - generic [ref=f141e219]:
+                    - generic [ref=f141e220]: San Francisco, CA
+                    - generic [ref=f141e221]: $150,000 - $250,000
+                    - time [ref=f141e222]: 1 week ago
+            - listitem [ref=f141e223]:
+              - generic [ref=f141e224]:
+                - link [ref=f141e225] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/fullstack-engineer-at-circleback-4439355246?refId=%2FHqHQmReWrLvDMvnseUQ8g%3D%3D&trackingId=Ie%2F3Trw3R5MlXyFYKd16zg%3D%3D
+                  - generic [ref=f141e226]: Fullstack Engineer
+                - generic [ref=f141e227]:
+                  - heading [level=3] [ref=f141e228]: Fullstack Engineer
+                  - heading [level=4] [ref=f141e229]:
+                    - link [ref=f141e230] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/circlebackai?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Circleback
+                  - generic [ref=f141e231]:
+                    - generic [ref=f141e232]: San Francisco, CA
+                    - generic [ref=f141e233]: $145,000 - $240,000
+                    - time [ref=f141e234]: 2 months ago
+            - listitem [ref=f141e235]:
+              - generic [ref=f141e236]:
+                - link [ref=f141e237] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/product-engineer-at-stable-4368847143?refId=%2FHqHQmReWrLvDMvnseUQ8g%3D%3D&trackingId=ISWwGvKoXDxnBmo%2FndYZSw%3D%3D
+                  - generic [ref=f141e238]: Product Engineer
+                - generic [ref=f141e239]:
+                  - heading [level=3] [ref=f141e240]: Product Engineer
+                  - heading [level=4] [ref=f141e241]:
+                    - link [ref=f141e242] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/usestable?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Stable
+                  - generic [ref=f141e243]:
+                    - generic [ref=f141e244]: San Francisco, CA
+                    - generic [ref=f141e245]: $160,000 - $240,000
+                    - time [ref=f141e246]: 7 months ago
+            - listitem [ref=f141e247]:
+              - generic [ref=f141e248]:
+                - link [ref=f141e249] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/full-stack-engineer-at-hotplate-4363450638?refId=%2FHqHQmReWrLvDMvnseUQ8g%3D%3D&trackingId=SHNbAxgpd7X95tZRRGmeiw%3D%3D
+                  - generic [ref=f141e250]: Full Stack Engineer
+                - generic [ref=f141e251]:
+                  - heading [level=3] [ref=f141e252]: Full Stack Engineer
+                  - heading [level=4] [ref=f141e253]:
+                    - link [ref=f141e254] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/hotplates?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Hotplate
+                  - generic [ref=f141e255]:
+                    - generic [ref=f141e256]: San Francisco, CA
+                    - generic [ref=f141e257]: $165,000 - $185,000
+                    - time [ref=f141e258]: 7 months ago
+          - button [ref=f141e259] [cursor=pointer]: Show more jobs like this
+    - generic [ref=f141e261]:
+      - generic [ref=f141e262]:
+        - heading [level=2] [ref=f141e263]: People also viewed
+        - list [ref=f141e265]:
+          - listitem [ref=f141e266]:
+            - generic [ref=f141e267]:
+              - link [ref=f141e268] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/fullstack-engineer-at-dispatch-4369005527?refId=%2FHqHQmReWrLvDMvnseUQ8g%3D%3D&trackingId=CogpnE73vGza%2Fn1fZyIenQ%3D%3D
+                - generic [ref=f141e269]: Fullstack Engineer
+              - generic [ref=f141e270]:
+                - heading [level=3] [ref=f141e271]: Fullstack Engineer
+                - paragraph [ref=f141e272]:
+                  - link [ref=f141e273] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/dispatch-io?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Dispatch
+                - generic [ref=f141e274]:
+                  - generic [ref=f141e275]: San Francisco, CA
+                  - time [ref=f141e276]: 7 months ago
+          - listitem [ref=f141e277]:
+            - generic [ref=f141e278]:
+              - link [ref=f141e279] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-product-at-lassie-4422692673?refId=%2FHqHQmReWrLvDMvnseUQ8g%3D%3D&trackingId=I93iq0neeSHCX%2FdVmGcJvw%3D%3D
+                - generic [ref=f141e280]: Software Engineer, Product
+              - generic [ref=f141e281]:
+                - heading [level=3] [ref=f141e282]: Software Engineer, Product
+                - paragraph [ref=f141e283]:
+                  - link [ref=f141e284] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/lassie?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Lassie
+                - generic [ref=f141e285]:
+                  - generic [ref=f141e286]: San Francisco, CA
+                  - time [ref=f141e287]: 3 months ago
+          - listitem [ref=f141e288]:
+            - generic [ref=f141e289]:
+              - link [ref=f141e290] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/fullstack-software-engineer-at-collective-4411299806?refId=%2FHqHQmReWrLvDMvnseUQ8g%3D%3D&trackingId=rEO1G1dXw1FLQiT2RuGYPg%3D%3D
+                - generic [ref=f141e291]: Fullstack Software Engineer
+              - generic [ref=f141e292]:
+                - heading [level=3] [ref=f141e293]: Fullstack Software Engineer
+                - paragraph [ref=f141e294]:
+                  - link [ref=f141e295] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/collective?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Collective
+                - generic [ref=f141e296]:
+                  - generic [ref=f141e297]: San Francisco, CA
+                  - time [ref=f141e298]: 2 days ago
+          - listitem [ref=f141e299]:
+            - generic [ref=f141e300]:
+              - link [ref=f141e301] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/product-engineer-at-govly-4269495256?refId=%2FHqHQmReWrLvDMvnseUQ8g%3D%3D&trackingId=zuYUU9tiCGbB4NT5XpwWyA%3D%3D
+                - generic [ref=f141e302]: Product Engineer
+              - generic [ref=f141e303]:
+                - heading [level=3] [ref=f141e304]: Product Engineer
+                - paragraph [ref=f141e305]:
+                  - link [ref=f141e306] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/govly?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Govly
+                - generic [ref=f141e307]:
+                  - generic [ref=f141e308]: San Francisco, CA
+                  - generic [ref=f141e309]: $150 - $240
+                  - time [ref=f141e310]: 1 year ago
+          - listitem [ref=f141e311]:
+            - generic [ref=f141e312]:
+              - link [ref=f141e313] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-at-sydecar-4463917479?refId=%2FHqHQmReWrLvDMvnseUQ8g%3D%3D&trackingId=6Eq3XG%2BvT3y4B3qjeWmkOw%3D%3D
+                - generic [ref=f141e314]: Software Engineer
+              - generic [ref=f141e315]:
+                - heading [level=3] [ref=f141e316]: Software Engineer
+                - paragraph [ref=f141e317]:
+                  - link [ref=f141e318] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/sydecario?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Sydecar
+                - generic [ref=f141e319]:
+                  - generic [ref=f141e320]: San Francisco, CA
+                  - generic [ref=f141e321]: $150,000 - $170,000
+                  - time [ref=f141e322]: 5 days ago
+          - listitem [ref=f141e323]:
+            - generic [ref=f141e324]:
+              - link [ref=f141e325] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/member-of-technical-staff-at-magic-patterns-4319425996?refId=%2FHqHQmReWrLvDMvnseUQ8g%3D%3D&trackingId=kwWj%2BGOYcEflMiQ3eh29Xw%3D%3D
+                - generic [ref=f141e326]: Member of Technical Staff
+              - generic [ref=f141e327]:
+                - heading [level=3] [ref=f141e328]: Member of Technical Staff
+                - paragraph [ref=f141e329]:
+                  - link [ref=f141e330] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/magicpatterns?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Magic Patterns
+                - generic [ref=f141e331]:
+                  - generic [ref=f141e332]: San Francisco, CA
+                  - time [ref=f141e333]: 10 months ago
+          - listitem [ref=f141e334]:
+            - generic [ref=f141e335]:
+              - link [ref=f141e336] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/product-engineer-at-stealth-startup-4459949584?refId=%2FHqHQmReWrLvDMvnseUQ8g%3D%3D&trackingId=wMiXkf%2FitpjItOrwxH5IMw%3D%3D
+                - generic [ref=f141e337]: Product Engineer
+              - generic [ref=f141e338]:
+                - heading [level=3] [ref=f141e339]: Product Engineer
+                - paragraph [ref=f141e340]:
+                  - link [ref=f141e341] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/stealth-startup-community?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Stealth Startup
+                - generic [ref=f141e342]:
+                  - generic [ref=f141e343]: San Francisco, CA
+                  - time [ref=f141e344]: 1 week ago
+          - listitem [ref=f141e345]:
+            - generic [ref=f141e346]:
+              - link [ref=f141e347] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/product-engineer-at-sieve-4428439111?refId=%2FHqHQmReWrLvDMvnseUQ8g%3D%3D&trackingId=dKwUGDx%2BFwrap%2BA3CUmfzQ%3D%3D
+                - generic [ref=f141e348]: Product Engineer
+              - generic [ref=f141e349]:
+                - heading [level=3] [ref=f141e350]: Product Engineer
+                - paragraph [ref=f141e351]:
+                  - link [ref=f141e352] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/sievedata?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Sieve
+                - generic [ref=f141e353]:
+                  - generic [ref=f141e354]: San Francisco, CA
+                  - generic [ref=f141e355]: $150,000 - $300,000
+                  - time [ref=f141e356]: 3 months ago
+          - listitem [ref=f141e357]:
+            - generic [ref=f141e358]:
+              - link [ref=f141e359] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/full-stack-engineer-at-matic-robots-4409483529?refId=%2FHqHQmReWrLvDMvnseUQ8g%3D%3D&trackingId=Mmx45JgofqsOhmizw%2FHtLg%3D%3D
+                - generic [ref=f141e360]: Full Stack Engineer
+              - generic [ref=f141e361]:
+                - heading [level=3] [ref=f141e362]: Full Stack Engineer
+                - paragraph [ref=f141e363]:
+                  - link [ref=f141e364] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/maticrobots?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Matic Robots
+                - generic [ref=f141e365]:
+                  - generic [ref=f141e366]: Menlo Park, CA
+                  - time [ref=f141e367]: 4 months ago
+          - listitem [ref=f141e368]:
+            - generic [ref=f141e369]:
+              - link [ref=f141e370] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-at-gem-4378347944?refId=%2FHqHQmReWrLvDMvnseUQ8g%3D%3D&trackingId=LNYkzscxm30H7zBM%2BYm5wA%3D%3D
+                - generic [ref=f141e371]: Software Engineer
+              - generic [ref=f141e372]:
+                - heading [level=3] [ref=f141e373]: Software Engineer
+                - paragraph [ref=f141e374]:
+                  - link [ref=f141e375] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/gem-recruiting-software?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Gem
+                - generic [ref=f141e376]:
+                  - generic [ref=f141e377]: San Francisco, CA
+                  - time [ref=f141e378]: 3 days ago
+      - generic [ref=f141e379]:
+        - heading [level=2] [ref=f141e380]: Similar Searches
+        - generic [ref=f141e382]:
+          - list [ref=f141e383]:
+            - listitem [ref=f141e384]:
+              - link [ref=f141e385] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/software-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f141e386]:
+                  - heading [level=3] [ref=f141e387]: Software Engineer jobs
+                  - generic [ref=f141e388]: 300,699 open jobs
+            - listitem [ref=f141e389]:
+              - link [ref=f141e390] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/j2ee-developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f141e391]:
+                  - heading [level=3] [ref=f141e392]: J2Ee Developer jobs
+                  - generic [ref=f141e393]: 13,921 open jobs
+            - listitem [ref=f141e394]:
+              - link [ref=f141e395] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/software-engineer-intern-jobs?trk=public_jobs_full-click
+                - generic [ref=f141e396]:
+                  - heading [level=3] [ref=f141e397]: Software Engineer Intern jobs
+                  - generic [ref=f141e398]: 1,941 open jobs
+            - listitem [ref=f141e399]:
+              - link [ref=f141e400] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/computer-software-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f141e401]:
+                  - heading [level=3] [ref=f141e402]: Computer Software Engineer jobs
+                  - generic [ref=f141e403]: 224,521 open jobs
+            - listitem [ref=f141e404]:
+              - link [ref=f141e405] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/web-development-specialist-jobs?trk=public_jobs_full-click
+                - generic [ref=f141e406]:
+                  - heading [level=3] [ref=f141e407]: Web Development Specialist jobs
+                  - generic [ref=f141e408]: 227,596 open jobs
+            - listitem [ref=f141e409]:
+              - link [ref=f141e410] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/software-intern-jobs?trk=public_jobs_full-click
+                - generic [ref=f141e411]:
+                  - heading [level=3] [ref=f141e412]: Software Intern jobs
+                  - generic [ref=f141e413]: 3,845 open jobs
+            - listitem [ref=f141e414]:
+              - link [ref=f141e415] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/web-programmer-jobs?trk=public_jobs_full-click
+                - generic [ref=f141e416]:
+                  - heading [level=3] [ref=f141e417]: Web Programmer jobs
+                  - generic [ref=f141e418]: 4,657 open jobs
+            - listitem [ref=f141e419]:
+              - link [ref=f141e420] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/back-end-developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f141e421]:
+                  - heading [level=3] [ref=f141e422]: Back End Developer jobs
+                  - generic [ref=f141e423]: 51,032 open jobs
+            - listitem [ref=f141e424]:
+              - link [ref=f141e425] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/junior-software-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f141e426]:
+                  - heading [level=3] [ref=f141e427]: Junior Software Engineer jobs
+                  - generic [ref=f141e428]: 233,545 open jobs
+            - listitem [ref=f141e429]:
+              - link [ref=f141e430] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/graduate-software-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f141e431]:
+                  - heading [level=3] [ref=f141e432]: Graduate Software Engineer jobs
+                  - generic [ref=f141e433]: 221,089 open jobs
+            - listitem [ref=f141e434]:
+              - link [ref=f141e435] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/game-programmer-jobs?trk=public_jobs_full-click
+                - generic [ref=f141e436]:
+                  - heading [level=3] [ref=f141e437]: Game Programmer jobs
+                  - generic [ref=f141e438]: 958 open jobs
+            - listitem [ref=f141e439]:
+              - link [ref=f141e440] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/student-software-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f141e441]:
+                  - heading [level=3] [ref=f141e442]: Student Software Engineer jobs
+                  - generic [ref=f141e443]: 5,569 open jobs
+          - button [ref=f141e444] [cursor=pointer]: Show more
+      - generic [ref=f141e448]:
+        - heading [level=2] [ref=f141e450]: Explore top content on LinkedIn
+        - paragraph [ref=f141e451]: Find curated posts and insights for relevant topics all in one place.
+        - link [ref=f141e452] [cursor=pointer]:
+          - /url: https://www.linkedin.com/top-content/
+          - text: View top content
+  - button [ref=f141e457] [cursor=pointer]: More searches
+  - contentinfo [aria-hidden] [ref=f141e459]:
+    - list [ref=f141e460]:
+      - generic [ref=f141e461]: LinkedIn
+      - generic [ref=f141e463]: © 2026
+      - listitem [ref=f141e464]:
+        - link [ref=f141e465] [cursor=pointer]:
+          - /url: https://about.linkedin.com?trk=d_jobs_guest_details_footer-about
+          - text: About
+      - listitem [ref=f141e466]:
+        - link [ref=f141e467] [cursor=pointer]:
+          - /url: https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility
+          - text: Accessibility
+      - listitem [ref=f141e468]:
+        - link [ref=f141e469] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/user-agreement?trk=d_jobs_guest_details_footer-user-agreement
+          - text: User Agreement
+      - listitem [ref=f141e470]:
+        - link [ref=f141e471] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/privacy-policy?trk=d_jobs_guest_details_footer-privacy-policy
+          - text: Privacy Policy
+      - listitem [ref=f141e472]:
+        - link [ref=f141e473] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/california-privacy-disclosure?trk=d_jobs_guest_details_footer-california-privacy-rights-act
+          - text: Your California Privacy Choices
+      - listitem [ref=f141e474]:
+        - link [ref=f141e475] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/cookie-policy?trk=d_jobs_guest_details_footer-cookie-policy
+          - text: Cookie Policy
+      - listitem [ref=f141e476]:
+        - link [ref=f141e477] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/copyright-policy?trk=d_jobs_guest_details_footer-copyright-policy
+          - text: Copyright Policy
+      - listitem [ref=f141e478]:
+        - link [ref=f141e479] [cursor=pointer]:
+          - /url: https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy
+          - text: Brand Policy
+      - listitem [ref=f141e480]:
+        - link [ref=f141e481] [cursor=pointer]:
+          - /url: https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls
+          - text: Guest Controls
+      - listitem [ref=f141e482]:
+        - link [ref=f141e483] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/professional-community-policies?trk=d_jobs_guest_details_footer-community-guide
+          - text: Community Guidelines
+      - listitem [ref=f141e484]:
+        - button [ref=f141e486]: Language
+  - dialog [active] [ref=f141e489]:
+    - button "Dismiss" [ref=f141e490] [cursor=pointer]
+    - generic [ref=f141e492]:
+      - heading "Sign in to see who you already know at Baton" [level=2] [ref=f141e494]
+      - generic [ref=f141e495]:
+        - button "Continue with google" [ref=f141e526]:
+          - iframe [ref=f141e528]:
+            - button "Continue with Google. Opens in new tab" [ref=f152e3] [cursor=pointer]:
+              - generic [ref=f152e5]: Continue with Google
+        - button "Sign in with Email" [ref=f141e496] [cursor=pointer]
+        - paragraph [ref=f141e500]: or
+        - button "Continue with google" [ref=f141e532]:
+          - iframe [ref=f141e534]:
+            - button "Continue with Google. Opens in new tab" [ref=f153e3] [cursor=pointer]:
+              - generic [ref=f153e5]: Continue with Google
+        - paragraph [ref=f141e501]:
+          - text: New to LinkedIn?
+          - link "Join now" [ref=f141e502] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&trk=public_jobs_contextual-sign-in-modal_join-link
+        - paragraph [ref=f141e503]:
+          - text: By clicking Continue to join or sign in, you agree to LinkedIn’s
+          - link "User Agreement" [ref=f141e504] [cursor=pointer]:
+            - /url: /legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement
+          - text: ","
+          - link "Privacy Policy" [ref=f141e505] [cursor=pointer]:
+            - /url: /legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy
+          - text: ", and"
+          - link "Cookie Policy" [ref=f141e506] [cursor=pointer]:
+            - /url: /legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy
+          - text: .

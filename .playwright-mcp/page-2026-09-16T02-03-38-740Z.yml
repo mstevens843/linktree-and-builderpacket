@@ -1,0 +1,103 @@
+- generic [active] [ref=f8e1]:
+  - generic [ref=f8e4]:
+    - generic [ref=f8e6]:
+      - link "Skip to content" [ref=f8e8] [cursor=pointer]:
+        - /url: "#main"
+      - generic [ref=f8e12]:
+        - banner [ref=f8e13]:
+          - generic [ref=f8e15]:
+            - generic [ref=f8e16]:
+              - link "Drift Career Opportunities" [ref=f8e18] [cursor=pointer]:
+                - /url: /Drift-Career-Opportunities-45de6a825f264388b13cd866b707d157?pvs=18
+              - generic [aria-hidden] [ref=f8e22]: /
+              - button "Drift Labs - Backend Engineer - JD" [disabled] [ref=f8e23]
+            - generic [ref=f8e28]:
+              - button "Close panel" [ref=f8e30] [cursor=pointer]
+              - generic [ref=f8e34]:
+                - button [ref=f8e35] [cursor=pointer]
+                - button "Share site to socials" [ref=f8e40] [cursor=pointer]
+                - button "More actions" [ref=f8e45] [cursor=pointer]
+                - button "Get Notion free" [ref=f8e48] [cursor=pointer]
+        - main [ref=f8e49]:
+          - generic [ref=f8e54]:
+            - generic [ref=f8e72]:
+              - img "Page icon" [ref=f8e77]
+              - heading "Drift Labs - Backend Engineer - JD" [level=1] [ref=f8e82]
+            - generic [ref=f8e84]:
+              - generic [ref=f8e85]: "Title: Backend Engineer"
+              - generic [ref=f8e91]: "Location: Remote (USA)"
+              - generic [ref=f8e97]: "Reports to: Engineering Lead"
+              - generic [ref=f8e103]: "Type: Full-time"
+              - heading "About Drift" [level=4] [ref=f8e119]
+              - generic [ref=f8e120]: Drift is one of the leading decentralized derivatives exchanges on Solana, built for serious traders. We offer lightning-fast, capital-efficient perpetual trading and innovative earning products like Strategy Vaults and Amplify. We’re backed by top crypto-native funds and building for the next generation of DeFi traders.
+              - heading "About the Role" [level=4] [ref=f8e130]
+              - generic [ref=f8e131]: We’re looking for a Backend Engineer to own the developer experience around Drift’s SDKs, integrations, and backend tooling. You’ll be building and improving our Rust and Python SDKs, empowering developers, market makers, and integrators to build on top of Drift seamlessly.
+              - generic [ref=f8e137]: "You’ll work closely with our engineering team to scope backend/devex projects, take on some integration and infra-light initiatives, and ensure our SDKs are reliable, well-documented, and production-ready. This is a high-leverage role: your work will directly expand Drift’s ecosystem, reduce bottlenecks for internal and external teams, and help scale adoption of the protocol."
+              - heading "Responsibilities" [level=4] [ref=f8e153]
+              - generic [ref=f8e157]:
+                - generic [ref=f8e158]: •
+                - generic [ref=f8e160]: Own the development, maintenance, and support of Drift’s Rust and Python SDKs (driftpy and related libraries)
+              - generic [ref=f8e166]:
+                - generic [ref=f8e167]: •
+                - generic [ref=f8e169]: Collaborate with product and engineering teams to prioritize backend/devex projects and integrations
+              - generic [ref=f8e175]:
+                - generic [ref=f8e176]: •
+                - generic [ref=f8e178]: Build developer tooling, examples, and documentation to make integration seamless for traders and partners
+              - generic [ref=f8e184]:
+                - generic [ref=f8e185]: •
+                - generic [ref=f8e187]: Ensure SDKs are kept in sync with on-chain program changes and protocol upgrades
+              - generic [ref=f8e193]:
+                - generic [ref=f8e194]: •
+                - generic [ref=f8e196]: Debug and resolve issues from external users (traders, MM, ecosystem partners) and internal developers
+              - generic [ref=f8e202]:
+                - generic [ref=f8e203]: •
+                - generic [ref=f8e205]: Contribute to CI/CD processes, testing, and release workflows for SDKs
+              - heading "Requirements" [level=4] [ref=f8e218]
+              - generic [ref=f8e222]:
+                - generic [ref=f8e223]: •
+                - generic [ref=f8e225]: "MUST HAVE: strong Rust and/or Python coding experience, with a focus on SDK or API development and design"
+              - generic [ref=f8e231]:
+                - generic [ref=f8e232]: •
+                - generic [ref=f8e234]: Experience building developer-facing tools, SDKs, or backend libraries
+              - generic [ref=f8e240]:
+                - generic [ref=f8e241]: •
+                - generic [ref=f8e243]: Familiarity with blockchain or fintech systems; bonus if you’ve worked with Solana or DeFi protocols
+              - generic [ref=f8e249]:
+                - generic [ref=f8e250]: •
+                - generic [ref=f8e252]: Comfortable communicating and supporting other engineers and external developers with SDK usage, debugging, and integration
+              - generic [ref=f8e258]:
+                - generic [ref=f8e259]: •
+                - generic [ref=f8e261]: Understanding of integrations, CI/CD workflows, and how to build for reliability at scale
+              - generic [ref=f8e267]:
+                - generic [ref=f8e268]: •
+                - generic [ref=f8e270]: Self-driven, detail-oriented, and excited about developer experience
+              - heading "How You’ll Be Measured" [level=4] [ref=f8e283]
+              - generic [ref=f8e287]:
+                - generic [ref=f8e288]: •
+                - generic [ref=f8e290]: Quality, stability, and usability of Rust/Python SDKs
+              - generic [ref=f8e296]:
+                - generic [ref=f8e297]: •
+                - generic [ref=f8e299]: Speed in addressing SDK bugs and integration blockers
+              - generic [ref=f8e305]:
+                - generic [ref=f8e306]: •
+                - generic [ref=f8e308]: Ecosystem adoption and ease of building on Drift via SDKs
+              - generic [ref=f8e314]:
+                - generic [ref=f8e315]: •
+                - generic [ref=f8e317]: Ability to unblock and empower other engineers by taking ownership of SDK workstreamss
+              - heading "What You’ll Get" [level=4] [ref=f8e330]
+              - generic [ref=f8e334]:
+                - generic [ref=f8e335]: •
+                - generic [ref=f8e337]: Work directly with the Product and Engineering to help shape one of the top trading protocols in DeFi
+              - generic [ref=f8e343]:
+                - generic [ref=f8e344]: •
+                - generic [ref=f8e346]: Own high-leverage projects that touch both backend and ecosystem growth
+              - generic [ref=f8e352]:
+                - generic [ref=f8e353]: •
+                - generic [ref=f8e355]: Competitive crypto-native compensation (base + token upside)
+              - generic [ref=f8e361]:
+                - generic [ref=f8e362]: •
+                - generic [ref=f8e364]: Fast-paced, remote-first team with deep ownership
+        - region [aria-hidden] [ref=f8e369]
+    - status [ref=f8e370]
+    - alert [ref=f8e371]
+  - iframe [aria-hidden] [ref=f8e372]

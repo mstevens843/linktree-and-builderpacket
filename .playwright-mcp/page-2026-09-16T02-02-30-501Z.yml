@@ -1,0 +1,1127 @@
+- generic [ref=f103e1]:
+  - generic [aria-hidden] [ref=f103e2]:
+    - link [ref=f103e3] [cursor=pointer]:
+      - /url: "#main-content"
+      - text: Skip to main content
+    - banner [ref=f103e4]:
+      - navigation [ref=f103e5]:
+        - link [ref=f103e6] [cursor=pointer]:
+          - /url: /?trk=public_jobs_nav-header-logo
+          - generic [ref=f103e7]: LinkedIn
+        - generic [ref=f103e9]:
+          - button [ref=f103e11] [cursor=pointer]:
+            - generic [ref=f103e12]: Jobs
+          - tabpanel [ref=f103e13]:
+            - search [ref=f103e14]:
+              - generic [ref=f103e15]:
+                - combobox [ref=f103e16]: Kamino Finance Engineer
+                - button [ref=f103e17] [cursor=pointer]:
+                  - generic [ref=f103e18]: Clear text
+              - generic [ref=f103e19]:
+                - combobox [ref=f103e20]: United States
+                - button [ref=f103e21] [cursor=pointer]:
+                  - generic [ref=f103e22]: Clear text
+              - button [ref=f103e23] [cursor=pointer]
+          - status [ref=f103e24]
+        - generic [ref=f103e25]:
+          - link [ref=f103e26] [cursor=pointer]:
+            - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&fromSignIn=true&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fsearch-results%3Fkeywords%3DKamino%2BFinance%2Bengineer&trk=public_jobs_nav-header-signin
+            - text: Sign in
+          - link [ref=f103e27] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fsearch-results%3Fkeywords%3DKamino%2BFinance%2Bengineer&trk=public_jobs_nav-header-join
+            - text: Join now
+    - generic [ref=f103e30]:
+      - list [ref=f103e34]:
+        - listitem [ref=f103e35]:
+          - button [ref=f103e38] [cursor=pointer]: Date posted
+        - listitem [ref=f103e40]:
+          - button [ref=f103e43] [cursor=pointer]: Company
+        - listitem [ref=f103e45]:
+          - link [ref=f103e46] [cursor=pointer]:
+            - /url: https://www.linkedin.com/jobs/search/?keywords=Kamino+Finance+engineer&f_AL=true&trk=public_jobs_filters_f_AL
+            - text: Easy Apply
+        - listitem [ref=f103e47]:
+          - link [ref=f103e48] [cursor=pointer]:
+            - /url: https://www.linkedin.com/jobs/search/?keywords=Kamino+Finance+engineer&f_EA=true&trk=public_jobs_filters_f_EA
+            - text: Under 10 applicants
+      - button [ref=f103e50] [cursor=pointer]: Where are the filters?
+    - generic [ref=f103e52]:
+      - main [ref=f103e53]:
+        - generic [ref=f103e57]:
+          - paragraph [ref=f103e58]:
+            - text: Get notified about new Kamino Finance Engineer jobs in
+            - strong [ref=f103e59]: United States
+            - text: .
+          - link [ref=f103e60] [cursor=pointer]:
+            - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fsearch-results%3Fkeywords%3DKamino%2BFinance%2Bengineer&trk=public_jobs_job-alert-guest-redirect-cta
+            - text: Sign in to create job alert
+        - heading [level=1] [ref=f103e62]: 5,000+ Kamino Finance Engineer Jobs in United States
+        - list [ref=f103e64]:
+          - listitem [ref=f103e65]:
+            - generic [ref=f103e66]:
+              - link [ref=f103e67] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/front-office-software-engineer-fixed-income-at-harnham-4458604583?position=1&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=xpAqAYdYknMWSXdC29VtHQ%3D%3D
+                - generic [ref=f103e68]: Front Office Software Engineer - Fixed Income
+              - generic [ref=f103e70]:
+                - heading [level=3] [ref=f103e71]: Front Office Software Engineer - Fixed Income
+                - heading [level=4] [ref=f103e72]:
+                  - link [ref=f103e73] [cursor=pointer]:
+                    - /url: https://uk.linkedin.com/company/harnham?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Harnham
+                - generic [ref=f103e74]:
+                  - generic [ref=f103e75]: New York, NY
+                  - generic [ref=f103e76]: Be an early applicant
+                  - time [ref=f103e79]: 2 weeks ago
+          - listitem [ref=f103e80]:
+            - generic [ref=f103e81]:
+              - link [ref=f103e82] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-forward-deployed-engineer-at-reliance-financial-4465477719?position=2&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=CqYa45b80PyuspHZr4wF6Q%3D%3D
+                - generic [ref=f103e83]: Senior Forward-Deployed Engineer
+              - generic [ref=f103e85]:
+                - heading [level=3] [ref=f103e86]: Senior Forward-Deployed Engineer
+                - heading [level=4] [ref=f103e87]:
+                  - link [ref=f103e88] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/reliance-financial?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Reliance Financial
+                - generic [ref=f103e89]:
+                  - generic [ref=f103e90]: Toms River, NJ
+                  - time [ref=f103e91]: 2 days ago
+          - listitem [ref=f103e92]:
+            - generic [ref=f103e93]:
+              - link [ref=f103e94] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/forward-deployed-engineer-modernizing-public-services-at-eql-tech-frontier-talent-4440068164?position=3&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=97We3L1E5t%2FNY4raV3vRbQ%3D%3D
+                - generic [ref=f103e95]: Forward Deployed Engineer - Modernizing Public Services
+              - generic [ref=f103e97]:
+                - heading [level=3] [ref=f103e98]: Forward Deployed Engineer - Modernizing Public Services
+                - heading [level=4] [ref=f103e99]:
+                  - link [ref=f103e100] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/eqltech-ai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: EQL Tech (frontier talent)
+                - generic [ref=f103e101]:
+                  - generic [ref=f103e102]: San Francisco, CA
+                  - generic [ref=f103e103]: Be an early applicant
+                  - time [ref=f103e106]: 2 months ago
+          - listitem [ref=f103e107]:
+            - generic [ref=f103e108]:
+              - link [ref=f103e109] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-settlement-trading-operations-engineer-at-zerohash-4449532876?position=4&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=ZUjs4uCVQ5NO3G87Bmc0zg%3D%3D
+                - generic [ref=f103e110]: Senior Settlement & Trading Operations Engineer
+              - generic [ref=f103e112]:
+                - heading [level=3] [ref=f103e113]: Senior Settlement & Trading Operations Engineer
+                - heading [level=4] [ref=f103e114]:
+                  - link [ref=f103e115] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/zerohash?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: zerohash
+                - generic [ref=f103e116]:
+                  - generic [ref=f103e117]: Albany, New York Metropolitan Area
+                  - generic [ref=f103e118]: Be an early applicant
+                  - time [ref=f103e121]: 1 month ago
+          - listitem [ref=f103e122]:
+            - generic [ref=f103e123]:
+              - link [ref=f103e124] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/front-office-software-engineer-fixed-income-at-capstone-investment-advisors-4454931021?position=5&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=s0iNHCWZ6%2FXtngEVvuWYow%3D%3D
+                - generic [ref=f103e125]: Front Office Software Engineer - Fixed Income
+              - generic [ref=f103e127]:
+                - heading [level=3] [ref=f103e128]: Front Office Software Engineer - Fixed Income
+                - heading [level=4] [ref=f103e129]:
+                  - link [ref=f103e130] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/capstone-investment-advisors?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Capstone Investment Advisors
+                - generic [ref=f103e131]:
+                  - generic [ref=f103e132]: New York, NY
+                  - time [ref=f103e133]: 6 days ago
+          - listitem [ref=f103e134]:
+            - generic [ref=f103e135]:
+              - link [ref=f103e136] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/quantitative-engineer-at-bright-vision-technologies-4467785336?position=6&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=FoPczSXvVn3ekYZZnTiHwA%3D%3D
+                - generic [ref=f103e137]: Quantitative Engineer
+              - generic [ref=f103e139]:
+                - heading [level=3] [ref=f103e140]: Quantitative Engineer
+                - heading [level=4] [ref=f103e141]:
+                  - link [ref=f103e142] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/in-bvteck?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Bright Vision Technologies
+                - generic [ref=f103e143]:
+                  - generic [ref=f103e144]: Austin, TX
+                  - generic [ref=f103e145]: Be an early applicant
+                  - time [ref=f103e148]: 6 hours ago
+          - listitem [ref=f103e149]:
+            - generic [ref=f103e150]:
+              - link [ref=f103e151] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/payments-engineer-series-a-fintech-at-eql-tech-frontier-talent-4440570164?position=7&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=mFmw%2B7zwUhSqWtkyZOv4VA%3D%3D
+                - generic [ref=f103e152]: Payments Engineer - Series A fintech
+              - generic [ref=f103e154]:
+                - heading [level=3] [ref=f103e155]: Payments Engineer - Series A fintech
+                - heading [level=4] [ref=f103e156]:
+                  - link [ref=f103e157] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/eqltech-ai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: EQL Tech (frontier talent)
+                - generic [ref=f103e158]:
+                  - generic [ref=f103e159]: San Francisco, CA
+                  - generic [ref=f103e160]: Be an early applicant
+                  - time [ref=f103e163]: 2 months ago
+          - listitem [ref=f103e164]:
+            - generic [ref=f103e165]:
+              - link [ref=f103e166] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/decision-platforms-engineer-at-republic-finance-4467210557?position=8&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=z5%2BGrG%2BYsKrjJZ%2FxveubRA%3D%3D
+                - generic [ref=f103e167]: Decision Platforms Engineer
+              - generic [ref=f103e169]:
+                - heading [level=3] [ref=f103e170]: Decision Platforms Engineer
+                - heading [level=4] [ref=f103e171]:
+                  - link [ref=f103e172] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/republic-finance?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Republic Finance
+                - generic [ref=f103e173]:
+                  - generic [ref=f103e174]: Plano, TX
+                  - time [ref=f103e175]: 1 day ago
+          - listitem [ref=f103e176]:
+            - generic [ref=f103e177]:
+              - link [ref=f103e178] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/algorithmic-trading-developer-at-bright-vision-technologies-4467785341?position=9&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=lY43BTcDrA5TxuOAXH1%2BTg%3D%3D
+                - generic [ref=f103e179]: Algorithmic Trading Developer
+              - generic [ref=f103e181]:
+                - heading [level=3] [ref=f103e182]: Algorithmic Trading Developer
+                - heading [level=4] [ref=f103e183]:
+                  - link [ref=f103e184] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/in-bvteck?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Bright Vision Technologies
+                - generic [ref=f103e185]:
+                  - generic [ref=f103e186]: New Albany, OH
+                  - generic [ref=f103e187]: Be an early applicant
+                  - time [ref=f103e190]: 6 hours ago
+          - listitem [ref=f103e191]:
+            - generic [ref=f103e192]:
+              - link [ref=f103e193] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-kadence-4467203117?position=10&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=Q7VkWScRUn2kYm2ATaN1zQ%3D%3D
+                - generic [ref=f103e194]: Forward Deployed Engineer
+              - generic [ref=f103e196]:
+                - heading [level=3] [ref=f103e197]: Forward Deployed Engineer
+                - heading [level=4] [ref=f103e198]:
+                  - link [ref=f103e199] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/kadencetalent?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: kadence
+                - generic [ref=f103e200]:
+                  - generic [ref=f103e201]: New York City Metropolitan Area
+                  - time [ref=f103e202]: 1 day ago
+          - listitem [ref=f103e203]:
+            - generic [ref=f103e204]:
+              - link [ref=f103e205] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/derivatives-analytics-ai-solutions-engineer-at-mizuho-4430854302?position=11&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=LvA39mM%2BitcoU84fNxHwBQ%3D%3D
+                - generic [ref=f103e206]: Derivatives Analytics & AI Solutions Engineer
+              - generic [ref=f103e208]:
+                - heading [level=3] [ref=f103e209]: Derivatives Analytics & AI Solutions Engineer
+                - heading [level=4] [ref=f103e210]:
+                  - link [ref=f103e211] [cursor=pointer]:
+                    - /url: https://jp.linkedin.com/company/mizuho?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Mizuho
+                - generic [ref=f103e212]:
+                  - generic [ref=f103e213]: New York, NY
+                  - time [ref=f103e214]: 2 weeks ago
+          - listitem [ref=f103e215]:
+            - generic [ref=f103e216]:
+              - link [ref=f103e217] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/solution-engineering-lead-engineer-at-fico-4465637570?position=12&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=RryxJ1rDH9wbVJc%2Bpq2Rzw%3D%3D
+                - generic [ref=f103e218]: Solution Engineering - Lead Engineer
+              - generic [ref=f103e220]:
+                - heading [level=3] [ref=f103e221]: Solution Engineering - Lead Engineer
+                - heading [level=4] [ref=f103e222]:
+                  - link [ref=f103e223] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/fico?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: FICO
+                - generic [ref=f103e224]:
+                  - generic [ref=f103e225]: Bozeman, MT
+                  - generic [ref=f103e226]: Be an early applicant
+                  - time [ref=f103e229]: 5 days ago
+          - listitem [ref=f103e230]:
+            - generic [ref=f103e231]:
+              - link [ref=f103e232] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/staff-software-engineer-investment-performance-and-analytics-at-ridgeline-4461405171?position=13&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=KyhzJiMNmjAKM4iQeyTg1g%3D%3D
+                - generic [ref=f103e233]: Staff Software Engineer, Investment Performance and Analytics
+              - generic [ref=f103e235]:
+                - heading [level=3] [ref=f103e236]: Staff Software Engineer, Investment Performance and Analytics
+                - heading [level=4] [ref=f103e237]:
+                  - link [ref=f103e238] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/ridgelineai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Ridgeline
+                - generic [ref=f103e239]:
+                  - generic [ref=f103e240]: Reno, NV
+                  - generic [ref=f103e241]: Be an early applicant
+                  - time [ref=f103e244]: 1 week ago
+          - listitem [ref=f103e245]:
+            - generic [ref=f103e246]:
+              - link [ref=f103e247] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/functional-erp-engineer-at-achieve-4465165219?position=14&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=BQDpLkrKd%2BzZxVerOwu39A%3D%3D
+                - generic [ref=f103e248]: Functional ERP Engineer
+              - generic [ref=f103e250]:
+                - heading [level=3] [ref=f103e251]: Functional ERP Engineer
+                - heading [level=4] [ref=f103e252]:
+                  - link [ref=f103e253] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/achieve?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Achieve
+                - generic [ref=f103e254]:
+                  - generic [ref=f103e255]: Tempe, AZ
+                  - generic [ref=f103e256]: Be an early applicant
+                  - time [ref=f103e259]: 4 days ago
+          - listitem [ref=f103e260]:
+            - generic [ref=f103e261]:
+              - link [ref=f103e262] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/analytics-engineer-finance-modeling-at-in-tandem-4461341859?position=15&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=QRgO0cQ5Z9ohhcAa7ZpUjA%3D%3D
+                - generic [ref=f103e263]: Analytics Engineer, Finance & Modeling
+              - generic [ref=f103e265]:
+                - heading [level=3] [ref=f103e266]: Analytics Engineer, Finance & Modeling
+                - heading [level=4] [ref=f103e267]:
+                  - link [ref=f103e268] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/in-tandem-families?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: In Tandem
+                - generic [ref=f103e269]:
+                  - generic [ref=f103e270]: Greater Chicago Area
+                  - time [ref=f103e271]: 3 days ago
+          - listitem [ref=f103e272]:
+            - generic [ref=f103e273]:
+              - link [ref=f103e274] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-wealth-com-4463565536?position=16&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=F1HrLxz2GK%2BgX%2B8k622teQ%3D%3D
+                - generic [ref=f103e275]: Forward Deployed Engineer
+              - generic [ref=f103e277]:
+                - heading [level=3] [ref=f103e278]: Forward Deployed Engineer
+                - heading [level=4] [ref=f103e279]:
+                  - link [ref=f103e280] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/wearewealth?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Wealth.com
+                - generic [ref=f103e281]:
+                  - generic [ref=f103e282]: New York, NY
+                  - time [ref=f103e283]: 1 week ago
+          - listitem [ref=f103e284]:
+            - generic [ref=f103e285]:
+              - link [ref=f103e286] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/solution-engineer-aeron-and-capital-markets-at-adaptive-4345881379?position=17&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=Pba6tGQqIlknz9zdpfTWyw%3D%3D
+                - generic [ref=f103e287]: Solution Engineer (Aeron and Capital Markets)
+              - generic [ref=f103e289]:
+                - heading [level=3] [ref=f103e290]: Solution Engineer (Aeron and Capital Markets)
+                - heading [level=4] [ref=f103e291]:
+                  - link [ref=f103e292] [cursor=pointer]:
+                    - /url: https://uk.linkedin.com/company/adaptive-ltd?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Adaptive
+                - generic [ref=f103e293]:
+                  - generic [ref=f103e294]: New York, NY
+                  - time [ref=f103e295]: 8 months ago
+          - listitem [ref=f103e296]:
+            - generic [ref=f103e297]:
+              - link [ref=f103e298] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/staff-finance-systems-engineer-order-to-cash-san-francisco-and-bay-area-only-at-canva-4447234870?position=18&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=c9Qo%2FsDphmiLuhZkCD43Xw%3D%3D
+                - generic [ref=f103e299]: Staff Finance Systems Engineer - Order to Cash (San Francisco and Bay Area only)
+              - generic [ref=f103e301]:
+                - heading [level=3] [ref=f103e302]: Staff Finance Systems Engineer - Order to Cash (San Francisco and Bay Area only)
+                - heading [level=4] [ref=f103e303]:
+                  - link [ref=f103e304] [cursor=pointer]:
+                    - /url: https://au.linkedin.com/company/canva?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Canva
+                - generic [ref=f103e305]:
+                  - generic [ref=f103e306]: San Francisco, CA
+                  - time [ref=f103e307]: 4 days ago
+          - listitem [ref=f103e308]:
+            - generic [ref=f103e309]:
+              - link [ref=f103e310] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-staff-engineer-remote-eligible-at-capital-one-4462141728?position=19&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=%2FusvvNm74l05MJSXv8RiDQ%3D%3D
+                - generic [ref=f103e311]: Senior Staff Engineer (Remote-Eligible)
+              - generic [ref=f103e313]:
+                - heading [level=3] [ref=f103e314]: Senior Staff Engineer (Remote-Eligible)
+                - heading [level=4] [ref=f103e315]:
+                  - link [ref=f103e316] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/capital-one?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Capital One
+                - generic [ref=f103e317]:
+                  - generic [ref=f103e318]: McLean, VA
+                  - time [ref=f103e319]: 1 week ago
+          - listitem [ref=f103e320]:
+            - generic [ref=f103e321]:
+              - link [ref=f103e322] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/product-engineer-multiplieros-pod-at-multiplier-holdings-4465019732?position=20&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=UMMbeVul7hK9oLrO8JZvCg%3D%3D
+                - generic [ref=f103e323]: Product Engineer - MultiplierOS Pod
+              - generic [ref=f103e325]:
+                - heading [level=3] [ref=f103e326]: Product Engineer - MultiplierOS Pod
+                - heading [level=4] [ref=f103e327]:
+                  - link [ref=f103e328] [cursor=pointer]:
+                    - /url: https://sg.linkedin.com/company/multiplier-holdings?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Multiplier Holdings
+                - generic [ref=f103e329]:
+                  - generic [ref=f103e330]: San Francisco Bay Area
+                  - generic [ref=f103e331]: Be an early applicant
+                  - time [ref=f103e334]: 6 days ago
+          - listitem [ref=f103e335]:
+            - generic [ref=f103e336]:
+              - link [ref=f103e337] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-rapidfolio-yc-s26-4453693063?position=21&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=vdBMELCVbh1JnmDcipSVWg%3D%3D
+                - generic [ref=f103e338]: Forward Deployed Engineer
+              - generic [ref=f103e340]:
+                - heading [level=3] [ref=f103e341]: Forward Deployed Engineer
+                - heading [level=4] [ref=f103e342]:
+                  - link [ref=f103e343] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/rapid-folio?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Rapidfolio (YC S26)
+                - generic [ref=f103e344]:
+                  - generic [ref=f103e345]: California, United States
+                  - time [ref=f103e346]: 1 month ago
+          - listitem [ref=f103e347]:
+            - generic [ref=f103e348]:
+              - link [ref=f103e349] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/staff-frontend-engineer-portfolio-management-order-generation-at-ridgeline-4465278104?position=22&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=c96qEFEdmDgOC4g8nnOQMA%3D%3D
+                - generic [ref=f103e350]: Staff Frontend Engineer - Portfolio Management (Order Generation)
+              - generic [ref=f103e352]:
+                - heading [level=3] [ref=f103e353]: Staff Frontend Engineer - Portfolio Management (Order Generation)
+                - heading [level=4] [ref=f103e354]:
+                  - link [ref=f103e355] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/ridgelineai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Ridgeline
+                - generic [ref=f103e356]:
+                  - generic [ref=f103e357]: Reno, NV
+                  - generic [ref=f103e358]: Be an early applicant
+                  - time [ref=f103e361]: 1 day ago
+          - listitem [ref=f103e362]:
+            - generic [ref=f103e363]:
+              - link [ref=f103e364] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-engineer-business-costing-at-yanfeng-4462512857?position=23&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=HcMpqzupnrYRBHpfVPLa3w%3D%3D
+                - generic [ref=f103e365]: Senior Engineer, Business Costing
+              - generic [ref=f103e367]:
+                - heading [level=3] [ref=f103e368]: Senior Engineer, Business Costing
+                - heading [level=4] [ref=f103e369]:
+                  - link [ref=f103e370] [cursor=pointer]:
+                    - /url: https://cn.linkedin.com/company/yanfeng-global?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Yanfeng
+                - generic [ref=f103e371]:
+                  - generic [ref=f103e372]: Novi, MI
+                  - generic [ref=f103e373]: Be an early applicant
+                  - time [ref=f103e376]: 1 week ago
+          - listitem [ref=f103e377]:
+            - generic [ref=f103e378]:
+              - link [ref=f103e379] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/financial-quantitative-engineer-at-futurize-4447765803?position=24&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=Lr3uu72Gb6KBO63AJk0FHQ%3D%3D
+                - generic [ref=f103e380]: Financial Quantitative Engineer
+              - generic [ref=f103e382]:
+                - heading [level=3] [ref=f103e383]: Financial Quantitative Engineer
+                - heading [level=4] [ref=f103e384]:
+                  - link [ref=f103e385] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/futurize-us?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Futurize
+                - generic [ref=f103e386]:
+                  - generic [ref=f103e387]: Virginia, United States
+                  - generic [ref=f103e388]: Be an early applicant
+                  - time [ref=f103e391]: 1 month ago
+          - listitem [ref=f103e392]:
+            - generic [ref=f103e393]:
+              - link [ref=f103e394] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/financial-engineer-at-amerihome-mortgage-company-llc-4448531561?position=25&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=yFnKWeMpYOWHF3HPVt62bg%3D%3D
+                - generic [ref=f103e395]: Financial Engineer
+              - generic [ref=f103e397]:
+                - heading [level=3] [ref=f103e398]: Financial Engineer
+                - heading [level=4] [ref=f103e399]:
+                  - link [ref=f103e400] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/amerihome-mortgage-company-llc?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: AmeriHome Mortgage Company, LLC
+                - generic [ref=f103e401]:
+                  - generic [ref=f103e402]: Westlake Village, CA
+                  - time [ref=f103e403]: 1 month ago
+          - listitem [ref=f103e404]:
+            - generic [ref=f103e405]:
+              - link [ref=f103e406] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/originations-systems-engineer-i-at-stellantis-financial-services-us-4451438719?position=26&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=ailJEQOVacTzGE70vOXsbw%3D%3D
+                - generic [ref=f103e407]: Originations Systems Engineer I
+              - generic [ref=f103e409]:
+                - heading [level=3] [ref=f103e410]: Originations Systems Engineer I
+                - heading [level=4] [ref=f103e411]:
+                  - link [ref=f103e412] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/stellantis-financial-services-us?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Stellantis Financial Services US
+                - generic [ref=f103e413]:
+                  - generic [ref=f103e414]: Houston, TX
+                  - generic [ref=f103e415]: Be an early applicant
+                  - time [ref=f103e418]: 18 hours ago
+          - listitem [ref=f103e419]:
+            - generic [ref=f103e420]:
+              - link [ref=f103e421] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/financial-engineer-at-ice-4451010042?position=27&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=zD%2Flq5dzdY7U2OwtnkUu4Q%3D%3D
+                - generic [ref=f103e422]: Financial Engineer
+              - generic [ref=f103e424]:
+                - heading [level=3] [ref=f103e425]: Financial Engineer
+                - heading [level=4] [ref=f103e426]:
+                  - link [ref=f103e427] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/icemarkets?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: ICE
+                - generic [ref=f103e428]:
+                  - generic [ref=f103e429]: Atlanta, GA
+                  - time [ref=f103e430]: 2 weeks ago
+          - listitem [ref=f103e431]:
+            - generic [ref=f103e432]:
+              - link [ref=f103e433] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/forward-developed-engineer-at-dingoblu-financial-inc-4466008778?position=28&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=IT2ZWZonqeqEWcTPvTT4Uw%3D%3D
+                - generic [ref=f103e434]: Forward Developed Engineer
+              - generic [ref=f103e436]:
+                - heading [level=3] [ref=f103e437]: Forward Developed Engineer
+                - heading [level=4] [ref=f103e438]:
+                  - link [ref=f103e439] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/dingoblu-financial-inc?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: DingoBlu Financial, Inc.
+                - generic [ref=f103e440]:
+                  - generic [ref=f103e441]: Charlotte, NC
+                  - time [ref=f103e442]: 5 days ago
+          - listitem [ref=f103e443]:
+            - generic [ref=f103e444]:
+              - link [ref=f103e445] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-modernfi-4318508197?position=29&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=y%2FXbqIGk0eXywX3tfokdrQ%3D%3D
+                - generic [ref=f103e446]: Forward Deployed Engineer
+              - generic [ref=f103e448]:
+                - heading [level=3] [ref=f103e449]: Forward Deployed Engineer
+                - heading [level=4] [ref=f103e450]:
+                  - link [ref=f103e451] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/modernfi?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: ModernFi
+                - generic [ref=f103e452]:
+                  - generic [ref=f103e453]: New York, NY
+                  - time [ref=f103e454]: 10 months ago
+          - listitem [ref=f103e455]:
+            - generic [ref=f103e456]:
+              - link [ref=f103e457] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-staff-quantitative-engineer-at-seeds-4466356209?position=30&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=ZOtOs8Prye5Q2gPY4dUQKQ%3D%3D
+                - generic [ref=f103e458]: Senior/Staff Quantitative Engineer
+              - generic [ref=f103e460]:
+                - heading [level=3] [ref=f103e461]: Senior/Staff Quantitative Engineer
+                - heading [level=4] [ref=f103e462]:
+                  - link [ref=f103e463] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/seeds-investor?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Seeds
+                - generic [ref=f103e464]:
+                  - generic [ref=f103e465]: Greater Philadelphia
+                  - time [ref=f103e466]: 4 days ago
+          - listitem [ref=f103e467]:
+            - generic [ref=f103e468]:
+              - link [ref=f103e469] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/onestream-developer-analytics-and-insights-engineer-ii-at-deloitte-4456425561?position=31&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=i3vBgspwbrT2sQXpy6%2FfCg%3D%3D
+                - generic [ref=f103e470]: Onestream Developer Analytics and Insights Engineer II
+              - generic [ref=f103e472]:
+                - heading [level=3] [ref=f103e473]: Onestream Developer Analytics and Insights Engineer II
+                - heading [level=4] [ref=f103e474]:
+                  - link [ref=f103e475] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/deloitte?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Deloitte
+                - generic [ref=f103e476]:
+                  - generic [ref=f103e477]: Louisville, KY
+                  - generic [ref=f103e478]: Be an early applicant
+                  - time [ref=f103e481]: 5 days ago
+          - listitem [ref=f103e482]:
+            - generic [ref=f103e483]:
+              - link [ref=f103e484] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/fircosoft-engineer-at-capgemini-4465353301?position=32&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=%2FWKdoQLHLp691Z0kLhbKQQ%3D%3D
+                - generic [ref=f103e485]: Fircosoft Engineer
+              - generic [ref=f103e487]:
+                - heading [level=3] [ref=f103e488]: Fircosoft Engineer
+                - heading [level=4] [ref=f103e489]:
+                  - link [ref=f103e490] [cursor=pointer]:
+                    - /url: https://fr.linkedin.com/company/capgemini?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Capgemini
+                - generic [ref=f103e491]:
+                  - generic [ref=f103e492]: New York, NY
+                  - generic [ref=f103e493]: Be an early applicant
+                  - time [ref=f103e496]: 6 days ago
+          - listitem [ref=f103e497]:
+            - generic [ref=f103e498]:
+              - link [ref=f103e499] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/quant-developer-%E2%80%94-full-time-at-anthelion-capital-4444771850?position=33&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=AYt9D8CkNGUKjWsPyv8rFw%3D%3D
+                - generic [ref=f103e500]: Quant Developer — Full-time
+              - generic [ref=f103e502]:
+                - heading [level=3] [ref=f103e503]: Quant Developer — Full-time
+                - heading [level=4] [ref=f103e504]:
+                  - link [ref=f103e505] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/anthelion-capital?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Anthelion Capital
+                - generic [ref=f103e506]:
+                  - generic [ref=f103e507]: New York, NY
+                  - time [ref=f103e508]: 1 month ago
+          - listitem [ref=f103e509]:
+            - generic [ref=f103e510]:
+              - link [ref=f103e511] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-joseph-anthony-group-4459953378?position=34&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=dQHkdMbcWJMnxdCbwyFPlw%3D%3D
+                - generic [ref=f103e512]: Forward-Deployed Engineer
+              - generic [ref=f103e514]:
+                - heading [level=3] [ref=f103e515]: Forward-Deployed Engineer
+                - heading [level=4] [ref=f103e516]:
+                  - link [ref=f103e517] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/joseph-anthony-group?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Joseph Anthony Group
+                - generic [ref=f103e518]:
+                  - generic [ref=f103e519]: New York, NY
+                  - time [ref=f103e520]: 1 week ago
+          - listitem [ref=f103e521]:
+            - generic [ref=f103e522]:
+              - link [ref=f103e523] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/application-engineer-at-makino-4458297673?position=35&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=6S6835DthbNUlri4%2FB8bfA%3D%3D
+                - generic [ref=f103e524]: Application Engineer
+              - generic [ref=f103e526]:
+                - heading [level=3] [ref=f103e527]: Application Engineer
+                - heading [level=4] [ref=f103e528]:
+                  - link [ref=f103e529] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/makino?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Makino
+                - generic [ref=f103e530]:
+                  - generic [ref=f103e531]: Wichita, KS
+                  - generic [ref=f103e532]: Be an early applicant
+                  - time [ref=f103e535]: 3 weeks ago
+          - listitem [ref=f103e536]:
+            - generic [ref=f103e537]:
+              - link [ref=f103e538] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/consulting-manager-senior-financial-engineer-at-cognizant-4464552085?position=36&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=ZiEWSBf8dAropM4%2BKzDyNA%3D%3D
+                - generic [ref=f103e539]: Consulting Manager - Senior Financial Engineer
+              - generic [ref=f103e541]:
+                - heading [level=3] [ref=f103e542]: Consulting Manager - Senior Financial Engineer
+                - heading [level=4] [ref=f103e543]:
+                  - link [ref=f103e544] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/cognizant?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Cognizant
+                - generic [ref=f103e545]:
+                  - generic [ref=f103e546]: New York, NY
+                  - generic [ref=f103e547]: Be an early applicant
+                  - time [ref=f103e550]: 5 days ago
+          - listitem [ref=f103e551]:
+            - generic [ref=f103e552]:
+              - link [ref=f103e553] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/finance-engineer-at-juniper-square-4455484527?position=37&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=gRa2Ql%2FUg83hsjLfgBkHhQ%3D%3D
+                - generic [ref=f103e554]: Finance Engineer
+              - generic [ref=f103e556]:
+                - heading [level=3] [ref=f103e557]: Finance Engineer
+                - heading [level=4] [ref=f103e558]:
+                  - link [ref=f103e559] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/juniper-square?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Juniper Square
+                - generic [ref=f103e560]:
+                  - generic [ref=f103e561]: United States
+                  - time [ref=f103e562]: 5 days ago
+          - listitem [ref=f103e563]:
+            - generic [ref=f103e564]:
+              - link [ref=f103e565] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/forward-deploy-engineer-equities-investment-technology-at-neuberger-4407624181?position=38&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=tEWCpLjWNq0T8PYv7nW0JQ%3D%3D
+                - generic [ref=f103e566]: Forward Deploy Engineer- Equities Investment Technology
+              - generic [ref=f103e568]:
+                - heading [level=3] [ref=f103e569]: Forward Deploy Engineer- Equities Investment Technology
+                - heading [level=4] [ref=f103e570]:
+                  - link [ref=f103e571] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/neuberger?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Neuberger
+                - generic [ref=f103e572]:
+                  - generic [ref=f103e573]: New York, NY
+                  - time [ref=f103e574]: 1 week ago
+          - listitem [ref=f103e575]:
+            - generic [ref=f103e576]:
+              - link [ref=f103e577] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/fircosoft-engineer-at-capgemini-4465363188?position=39&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=Ax7BhWRtGkLdwFU6DnJALg%3D%3D
+                - generic [ref=f103e578]: Fircosoft Engineer
+              - generic [ref=f103e580]:
+                - heading [level=3] [ref=f103e581]: Fircosoft Engineer
+                - heading [level=4] [ref=f103e582]:
+                  - link [ref=f103e583] [cursor=pointer]:
+                    - /url: https://fr.linkedin.com/company/capgemini?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Capgemini
+                - generic [ref=f103e584]:
+                  - generic [ref=f103e585]: New York, United States
+                  - generic [ref=f103e586]: Be an early applicant
+                  - time [ref=f103e589]: 5 days ago
+          - listitem [ref=f103e590]:
+            - generic [ref=f103e591]:
+              - link [ref=f103e592] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-software-developer-stablecoin-at-wealthsimple-4447214164?position=40&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=uDS6bLnhWuAe3yU%2BT2wJ3A%3D%3D
+                - generic [ref=f103e593]: Senior Software Developer, Stablecoin
+              - generic [ref=f103e595]:
+                - heading [level=3] [ref=f103e596]: Senior Software Developer, Stablecoin
+                - heading [level=4] [ref=f103e597]:
+                  - link [ref=f103e598] [cursor=pointer]:
+                    - /url: https://ca.linkedin.com/company/wealthsimple?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Wealthsimple
+                - generic [ref=f103e599]:
+                  - generic [ref=f103e600]: New York, NY
+                  - time [ref=f103e601]: 3 days ago
+          - listitem [ref=f103e602]:
+            - generic [ref=f103e603]:
+              - link [ref=f103e604] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/engineer-treasury-cash-management-at-the-carlyle-group-4446801199?position=41&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=nRpj6t%2B6i6XcznP5L4mjzw%3D%3D
+                - generic [ref=f103e605]: Engineer, Treasury & Cash Management
+              - generic [ref=f103e607]:
+                - heading [level=3] [ref=f103e608]: Engineer, Treasury & Cash Management
+                - heading [level=4] [ref=f103e609]:
+                  - link [ref=f103e610] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/the-carlyle-group?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: The Carlyle Group
+                - generic [ref=f103e611]:
+                  - generic [ref=f103e612]: Washington, DC
+                  - generic [ref=f103e613]: Be an early applicant
+                  - time [ref=f103e616]: 1 month ago
+          - listitem [ref=f103e617]:
+            - generic [ref=f103e618]:
+              - link [ref=f103e619] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/lead-engineer-pricing-decision-systems-at-one-park-financial-4460394073?position=42&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=v7wnWw6RjkjaWEhc69ciGw%3D%3D
+                - generic [ref=f103e620]: Lead Engineer, Pricing & Decision Systems
+              - generic [ref=f103e622]:
+                - heading [level=3] [ref=f103e623]: Lead Engineer, Pricing & Decision Systems
+                - heading [level=4] [ref=f103e624]:
+                  - link [ref=f103e625] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/one-park-financial?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: One Park Financial
+                - generic [ref=f103e626]:
+                  - generic [ref=f103e627]: Miami, FL
+                  - generic [ref=f103e628]: Be an early applicant
+                  - time [ref=f103e631]: 2 weeks ago
+          - listitem [ref=f103e632]:
+            - generic [ref=f103e633]:
+              - link [ref=f103e634] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/member-of-technical-staff-forward-deployed-at-krew-4343693119?position=43&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=0h%2FrFAQjq%2F6LnLZyoqzEJQ%3D%3D
+                - generic [ref=f103e635]: Member of Technical Staff (Forward Deployed)
+              - generic [ref=f103e637]:
+                - heading [level=3] [ref=f103e638]: Member of Technical Staff (Forward Deployed)
+                - heading [level=4] [ref=f103e639]:
+                  - link [ref=f103e640] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/withkrew?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Krew
+                - generic [ref=f103e641]:
+                  - generic [ref=f103e642]: San Francisco, CA
+                  - time [ref=f103e643]: 9 months ago
+          - listitem [ref=f103e644]:
+            - generic [ref=f103e645]:
+              - link [ref=f103e646] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-l2-finance-accounting-platform-at-curative-4444721397?position=44&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=G0KfHIr%2B%2B%2FLoDva8CYaC6A%3D%3D
+                - generic [ref=f103e647]: Software Engineer L2 - Finance & Accounting Platform
+              - generic [ref=f103e649]:
+                - heading [level=3] [ref=f103e650]: Software Engineer L2 - Finance & Accounting Platform
+                - heading [level=4] [ref=f103e651]:
+                  - link [ref=f103e652] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/curativeinc?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Curative
+                - generic [ref=f103e653]:
+                  - generic [ref=f103e654]: Austin, TX
+                  - time [ref=f103e655]: 1 month ago
+          - listitem [ref=f103e656]:
+            - generic [ref=f103e657]:
+              - link [ref=f103e658] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-calculations-and-allocations-at-maybern-4400299856?position=45&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=18tXkb4hxLq1t9RhIrd0Dg%3D%3D
+                - generic [ref=f103e659]: Senior Software Engineer, Calculations and Allocations
+              - generic [ref=f103e661]:
+                - heading [level=3] [ref=f103e662]: Senior Software Engineer, Calculations and Allocations
+                - heading [level=4] [ref=f103e663]:
+                  - link [ref=f103e664] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/maybern?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Maybern
+                - generic [ref=f103e665]:
+                  - generic [ref=f103e666]: New York, NY
+                  - time [ref=f103e667]: 3 months ago
+          - listitem [ref=f103e668]:
+            - generic [ref=f103e669]:
+              - link [ref=f103e670] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-consultant-cpm-forward-deployed-engineer-at-accordion-4448249389?position=46&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=jpLbphZV6zVVDTkrgkzOng%3D%3D
+                - generic [ref=f103e671]: Senior Consultant CPM (Forward Deployed Engineer)
+              - generic [ref=f103e673]:
+                - heading [level=3] [ref=f103e674]: Senior Consultant CPM (Forward Deployed Engineer)
+                - heading [level=4] [ref=f103e675]:
+                  - link [ref=f103e676] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/accordion-partners?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Accordion
+                - generic [ref=f103e677]:
+                  - generic [ref=f103e678]: Atlanta, NY
+                  - time [ref=f103e679]: 12 hours ago
+          - listitem [ref=f103e680]:
+            - generic [ref=f103e681]:
+              - link [ref=f103e682] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/finance-prompt-engineer-at-equiforte-4446720397?position=47&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=xr4RiE6sMcJRdQ23FE3YVw%3D%3D
+                - generic [ref=f103e683]: Finance Prompt Engineer
+              - generic [ref=f103e685]:
+                - heading [level=3] [ref=f103e686]: Finance Prompt Engineer
+                - heading [level=4] [ref=f103e687]:
+                  - link [ref=f103e688] [cursor=pointer]:
+                    - /url: https://ca.linkedin.com/company/equiforte?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Equiforte
+                - generic [ref=f103e689]:
+                  - generic [ref=f103e690]: Buffalo-Niagara Falls Area
+                  - generic [ref=f103e691]: Be an early applicant
+                  - time [ref=f103e694]: 1 month ago
+          - listitem [ref=f103e695]:
+            - generic [ref=f103e696]:
+              - link [ref=f103e697] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/deployment-associate-fast-forward-program-accounting-finance-background-required-at-moder-4467766959?position=48&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=rXCCM643QNLjEIY7qn%2B63Q%3D%3D
+                - generic [ref=f103e698]: Deployment Associate, Fast Forward Program (Accounting/Finance Background Required)
+              - generic [ref=f103e700]:
+                - heading [level=3] [ref=f103e701]: Deployment Associate, Fast Forward Program (Accounting/Finance Background Required)
+                - heading [level=4] [ref=f103e702]:
+                  - link [ref=f103e703] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/gomoder?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Moder
+                - generic [ref=f103e704]:
+                  - generic [ref=f103e705]: Conshohocken, PA
+                  - generic [ref=f103e706]: Be an early applicant
+                  - time [ref=f103e709]: 5 hours ago
+          - listitem [ref=f103e710]:
+            - generic [ref=f103e711]:
+              - link [ref=f103e712] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/onestream-developer-analytics-and-insights-engineer-ii-at-deloitte-4456428510?position=49&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=IVKGDRTgz0h1JeImhUlZKA%3D%3D
+                - generic [ref=f103e713]: Onestream Developer Analytics and Insights Engineer II
+              - generic [ref=f103e715]:
+                - heading [level=3] [ref=f103e716]: Onestream Developer Analytics and Insights Engineer II
+                - heading [level=4] [ref=f103e717]:
+                  - link [ref=f103e718] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/deloitte?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Deloitte
+                - generic [ref=f103e719]:
+                  - generic [ref=f103e720]: Wichita, KS
+                  - generic [ref=f103e721]: Be an early applicant
+                  - time [ref=f103e724]: 5 days ago
+          - listitem [ref=f103e725]:
+            - generic [ref=f103e726]:
+              - link [ref=f103e727] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/analytics-engineer-finance-modeling-at-talenthop-4465593233?position=50&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=G86zNb0jLsKQ9TuJyY%2B8eg%3D%3D
+                - generic [ref=f103e728]: Analytics Engineer, Finance & Modeling
+              - generic [ref=f103e730]:
+                - heading [level=3] [ref=f103e731]: Analytics Engineer, Finance & Modeling
+                - heading [level=4] [ref=f103e732]:
+                  - link [ref=f103e733] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/talenthopllc?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: TalentHop
+                - generic [ref=f103e734]:
+                  - generic [ref=f103e735]: United States
+                  - generic [ref=f103e736]: Be an early applicant
+                  - time [ref=f103e739]: 9 hours ago
+          - listitem [ref=f103e740]:
+            - generic [ref=f103e741]:
+              - link [ref=f103e742] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/trading-systems-engineer-options-market-making-at-maven-securities-4424684331?position=51&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=6wLeP1%2FhGCIKlJm0PkGw2A%3D%3D
+                - generic [ref=f103e743]: Trading Systems Engineer - Options Market Making
+              - generic [ref=f103e745]:
+                - heading [level=3] [ref=f103e746]: Trading Systems Engineer - Options Market Making
+                - heading [level=4] [ref=f103e747]:
+                  - link [ref=f103e748] [cursor=pointer]:
+                    - /url: https://uk.linkedin.com/company/maven-securities?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Maven Securities
+                - generic [ref=f103e749]:
+                  - generic [ref=f103e750]: Chicago, IL
+                  - time [ref=f103e751]: 4 months ago
+          - listitem [ref=f103e752]:
+            - generic [ref=f103e753]:
+              - link [ref=f103e754] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/application-engineer-at-navy-federal-credit-union-4462119378?position=52&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=EMrYkP2Tcma%2BeQk66o80zw%3D%3D
+                - generic [ref=f103e755]: Application Engineer
+              - generic [ref=f103e757]:
+                - heading [level=3] [ref=f103e758]: Application Engineer
+                - heading [level=4] [ref=f103e759]:
+                  - link [ref=f103e760] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/navy-federal-credit-union?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Navy Federal Credit Union
+                - generic [ref=f103e761]:
+                  - generic [ref=f103e762]: Winchester, VA
+                  - generic [ref=f103e763]: Be an early applicant
+                  - time [ref=f103e766]: 2 weeks ago
+          - listitem [ref=f103e767]:
+            - generic [ref=f103e768]:
+              - link [ref=f103e769] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-professional-financial-engineering-at-freddie-mac-4466127764?position=53&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=AB1EDnqtjktYVNQp7uqMRQ%3D%3D
+                - generic [ref=f103e770]: Software Engineer Professional, Financial Engineering
+              - generic [ref=f103e772]:
+                - heading [level=3] [ref=f103e773]: Software Engineer Professional, Financial Engineering
+                - heading [level=4] [ref=f103e774]:
+                  - link [ref=f103e775] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/freddie-mac?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Freddie Mac
+                - generic [ref=f103e776]:
+                  - generic [ref=f103e777]: McLean, VA
+                  - time [ref=f103e778]: 1 day ago
+          - listitem [ref=f103e779]:
+            - generic [ref=f103e780]:
+              - link [ref=f103e781] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-money-at-gemini-4454405379?position=54&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=bxRgGT8GNYEZ03U3sJQBvw%3D%3D
+                - generic [ref=f103e782]: Senior Software Engineer, Money
+              - generic [ref=f103e784]:
+                - heading [level=3] [ref=f103e785]: Senior Software Engineer, Money
+                - heading [level=4] [ref=f103e786]:
+                  - link [ref=f103e787] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/geminitrust?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Gemini
+                - generic [ref=f103e788]:
+                  - generic [ref=f103e789]: Miami, FL
+                  - time [ref=f103e790]: 1 week ago
+          - listitem [ref=f103e791]:
+            - generic [ref=f103e792]:
+              - link [ref=f103e793] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-consultant-financial-systems-engineering-at-fi-consulting-4435308901?position=55&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=%2B2fO774n8rrTjElhByvrSg%3D%3D
+                - generic [ref=f103e794]: Senior Consultant, Financial Systems Engineering
+              - generic [ref=f103e796]:
+                - heading [level=3] [ref=f103e797]: Senior Consultant, Financial Systems Engineering
+                - heading [level=4] [ref=f103e798]:
+                  - link [ref=f103e799] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/fi-consulting?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: FI Consulting
+                - generic [ref=f103e800]:
+                  - generic [ref=f103e801]: Arlington, VA
+                  - generic [ref=f103e802]: Be an early applicant
+                  - time [ref=f103e805]: 2 months ago
+          - listitem [ref=f103e806]:
+            - generic [ref=f103e807]:
+              - link [ref=f103e808] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/finance-systems-integration-engineer-at-selby-jennings-4459372477?position=56&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=lNT7ydw%2Fg0HQg%2FEc2jq6HQ%3D%3D
+                - generic [ref=f103e809]: Finance Systems Integration Engineer
+              - generic [ref=f103e811]:
+                - heading [level=3] [ref=f103e812]: Finance Systems Integration Engineer
+                - heading [level=4] [ref=f103e813]:
+                  - link [ref=f103e814] [cursor=pointer]:
+                    - /url: https://uk.linkedin.com/company/selby-jennings?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Selby Jennings
+                - generic [ref=f103e815]:
+                  - generic [ref=f103e816]: Tampa, KS
+                  - generic [ref=f103e817]: Be an early applicant
+                  - time [ref=f103e820]: 2 weeks ago
+          - listitem [ref=f103e821]:
+            - generic [ref=f103e822]:
+              - link [ref=f103e823] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/finance-systems-engineer-tax-at-anthropic-4450358921?position=57&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=D6XwruqhEE1Hh0XtiqrTaA%3D%3D
+                - generic [ref=f103e824]: Finance Systems Engineer, Tax
+              - generic [ref=f103e826]:
+                - heading [level=3] [ref=f103e827]: Finance Systems Engineer, Tax
+                - heading [level=4] [ref=f103e828]:
+                  - link [ref=f103e829] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/anthropicresearch?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Anthropic
+                - generic [ref=f103e830]:
+                  - generic [ref=f103e831]: Seattle, WA
+                  - time [ref=f103e832]: 2 weeks ago
+          - listitem [ref=f103e833]:
+            - generic [ref=f103e834]:
+              - link [ref=f103e835] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-engineer-at-pico-4430634783?position=58&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=w4qHViSWlG1fkuyrP7brmw%3D%3D
+                - generic [ref=f103e836]: Senior Engineer
+              - generic [ref=f103e838]:
+                - heading [level=3] [ref=f103e839]: Senior Engineer
+                - heading [level=4] [ref=f103e840]:
+                  - link [ref=f103e841] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/picotrading?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Pico
+                - generic [ref=f103e842]:
+                  - generic [ref=f103e843]: New York, NY
+                  - generic [ref=f103e844]: Be an early applicant
+                  - time [ref=f103e847]: 2 months ago
+          - listitem [ref=f103e848]:
+            - generic [ref=f103e849]:
+              - link [ref=f103e850] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-high-frequency-trading-at-fionics-4465473845?position=59&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=VfTKq20rAy58KBPFHr1nlw%3D%3D
+                - generic [ref=f103e851]: Software Engineer | High-Frequency Trading
+              - generic [ref=f103e853]:
+                - heading [level=3] [ref=f103e854]: Software Engineer | High-Frequency Trading
+                - heading [level=4] [ref=f103e855]:
+                  - link [ref=f103e856] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/fionics?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Fionics
+                - generic [ref=f103e857]:
+                  - generic [ref=f103e858]: Chicago, IL
+                  - time [ref=f103e859]: 2 days ago
+          - listitem [ref=f103e860]:
+            - generic [ref=f103e861]:
+              - link [ref=f103e862] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-high-frequency-trading-at-fionics-4465479000?position=60&pageNum=0&refId=1MmLHl2iUdZsjaSIs0heNA%3D%3D&trackingId=WHKKJnX5Hbzulf1yoAM9tw%3D%3D
+                - generic [ref=f103e863]: Software Engineer | High-Frequency Trading
+              - generic [ref=f103e865]:
+                - heading [level=3] [ref=f103e866]: Software Engineer | High-Frequency Trading
+                - heading [level=4] [ref=f103e867]:
+                  - link [ref=f103e868] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/fionics?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Fionics
+                - generic [ref=f103e869]:
+                  - generic [ref=f103e870]: New York City Metropolitan Area
+                  - time [ref=f103e871]: 2 days ago
+      - generic [ref=f103e963]:
+        - generic [ref=f103e965]:
+          - link [ref=f103e966] [cursor=pointer]:
+            - /url: https://uk.linkedin.com/company/harnham?trk=public_jobs_topcard_logo
+          - generic [ref=f103e969]:
+            - link [ref=f103e970] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/front-office-software-engineer-fixed-income-at-harnham-4458604583?trk=public_jobs_topcard-title
+              - heading [level=2] [ref=f103e971]: Front Office Software Engineer - Fixed Income
+            - heading [level=4] [ref=f103e972]:
+              - generic [ref=f103e973]:
+                - link [ref=f103e975] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/harnham?trk=public_jobs_topcard-org-name
+                  - text: Harnham
+                - text: · New York, NY
+              - generic [ref=f103e976]:
+                - text: 2 weeks ago
+                - figure [ref=f103e977]: · Be among the first 25 applicants
+              - link [ref=f103e979] [cursor=pointer]:
+                - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D280603&emailAddress=&fromSignIn=&trk=public_jobs_see-who-was-hired_people-search-link_face-pile-cta
+                - paragraph [ref=f103e982]: See who Harnham has hired for this role
+            - generic [ref=f103e983]:
+              - button [ref=f103e984] [cursor=pointer]: Apply
+              - button [ref=f103e985] [cursor=pointer]: Save
+          - button [ref=f103e988] [cursor=pointer]
+          - generic [ref=f103e993]:
+            - heading [level=3] [ref=f103e999]: Use AI to assess how you fit
+            - paragraph [ref=f103e1000]: Get AI-powered advice on this job and more exclusive features.
+            - generic [ref=f103e1001]:
+              - button [ref=f103e1002] [cursor=pointer]
+              - button [ref=f103e1006] [cursor=pointer]:
+                - generic [ref=f103e1010]: Am I a good fit for this job?
+              - button [ref=f103e1011] [cursor=pointer]:
+                - generic [ref=f103e1015]: Tailor my resume
+        - generic [ref=f103e1016]:
+          - generic [ref=f103e1017]:
+            - heading [level=2] [ref=f103e1018]: Harnham provided pay range
+            - generic [ref=f103e1019]:
+              - paragraph [ref=f103e1020]: This range is provided by Harnham. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+              - generic [ref=f103e1021]:
+                - heading [level=3] [ref=f103e1022]: Base pay range
+                - generic [ref=f103e1023]: $160,000.00/yr - $200,000.00/yr
+          - generic [ref=f103e1025]:
+            - generic [ref=f103e1026]:
+              - paragraph [ref=f103e1027]: Direct message the job poster from Harnham
+              - generic [ref=f103e1028]:
+                - link [ref=f103e1029] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/lewis-jolly-5a73a0289
+                  - generic [ref=f103e1030]: Lewis Jolly
+                - generic [ref=f103e1032]:
+                  - heading [level=3] [ref=f103e1033]: Lewis Jolly
+                  - heading [level=4] [ref=f103e1034]: Building Data and Software Engineering teams in the US | The Talent Driving The Data and AI Revolution
+                - link [ref=f103e1036] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flewis-jolly-5a73a0289&trk=public_jobs_message-the-recruiter-cta
+            - generic [ref=f103e1041]:
+              - generic [ref=f103e1042]:
+                - paragraph [ref=f103e1043]:
+                  - strong [ref=f103e1044]: Front Office Software Engineer - Fixed Income
+                - paragraph [ref=f103e1045]:
+                  - strong [ref=f103e1046]: "Location: New York FiDi (4 Days Onsite)"
+                - paragraph [ref=f103e1047]:
+                  - strong [ref=f103e1048]: "Salary: $160,000 to $200,000 + Bonus + Benefits"
+                - paragraph [ref=f103e1049]: This is an exciting opportunity for a Front Office Software Engineer to join a high-performing investment management business where technology sits at the heart of the investment process. You will work directly with investment professionals, helping to build mission-critical systems that support trading, pricing, and risk management across complex financial markets.
+                - paragraph [ref=f103e1050]:
+                  - strong [ref=f103e1051]: The Company
+                - paragraph [ref=f103e1052]: They are a global investment management firm with a strong focus on technology, quantitative research, and innovation. Their collaborative culture brings together engineers, researchers, and investment professionals to solve complex challenges and deliver sophisticated investment solutions. Technology is viewed as a strategic differentiator, giving engineers direct exposure to business-critical initiatives and senior stakeholders.
+                - paragraph [ref=f103e1053]:
+                  - strong [ref=f103e1054]: The Role
+                - paragraph [ref=f103e1055]: "As a Front Office Software Engineer, you will:"
+                - list [ref=f103e1056]:
+                  - listitem [ref=f103e1057]: Partner with portfolio managers, quantitative researchers, and risk teams to develop innovative technology solutions
+                  - listitem [ref=f103e1058]: Design, build, and enhance scalable pricing platforms used across the investment business
+                  - listitem [ref=f103e1059]: Develop high-performance risk management applications that support investment decision-making
+                  - listitem [ref=f103e1060]: Contribute to the architecture and delivery of front office systems focused on reliability, scalability, and performance
+                  - listitem [ref=f103e1061]: Collaborate with software engineers across the wider technology function to build integrated enterprise platforms
+                  - listitem [ref=f103e1062]: Support the continuous evolution of trading, pricing, and risk infrastructure in a fast-paced environment
+                - paragraph [ref=f103e1063]:
+                  - strong [ref=f103e1064]: Your Skills & Experience
+                - list [ref=f103e1065]:
+                  - listitem [ref=f103e1066]: Strong commercial experience developing production-grade applications using Java or C#
+                  - listitem [ref=f103e1067]: Experience working with fixed income derivatives and financial markets
+                  - listitem [ref=f103e1068]: Background building software within buy-side or sell-side financial environments
+                  - listitem [ref=f103e1069]: Strong analytical thinking and problem-solving capabilities
+                  - listitem [ref=f103e1070]: Excellent communication skills with the ability to work closely with both technical and non-technical stakeholders
+                  - listitem [ref=f103e1071]: Experience designing and supporting robust, scalable enterprise systems
+                - paragraph [ref=f103e1072]: "Desirable experience:"
+                - list [ref=f103e1073]:
+                  - listitem [ref=f103e1074]: Development experience in Python or C++
+                  - listitem [ref=f103e1075]: Exposure to market data platforms, pricing systems, risk systems, or electronic trading platforms
+                  - listitem [ref=f103e1076]: Knowledge of equities or equity derivatives
+                  - listitem [ref=f103e1077]: Experience using AI-assisted development tools within a production environment
+                - paragraph [ref=f103e1078]:
+                  - strong [ref=f103e1079]: What They Offer
+                - list [ref=f103e1080]:
+                  - listitem [ref=f103e1081]: Base salary of $160,000 to $200,000
+                  - listitem [ref=f103e1082]: Performance-related bonus opportunity
+                  - listitem [ref=f103e1083]: Comprehensive health and wellbeing support
+                  - listitem [ref=f103e1084]: Competitive pension and retirement benefits
+                  - listitem [ref=f103e1085]: Flexible time-off and commuter benefits
+                  - listitem [ref=f103e1086]: Gym reimbursement and employee discounts
+                  - listitem [ref=f103e1087]: Ongoing professional development and training opportunities
+                  - listitem [ref=f103e1088]: The chance to work alongside experienced investment and technology professionals on business-critical projects
+                - paragraph [ref=f103e1089]:
+                  - strong [ref=f103e1090]: How to Apply
+                - paragraph [ref=f103e1091]: If you are interested in this Front Office Software Engineer opportunity, please apply with your CV to discuss the role in more detail.
+              - button [ref=f103e1092] [cursor=pointer]: Show more
+            - list [ref=f103e1096]:
+              - listitem [ref=f103e1097]:
+                - heading [level=3] [ref=f103e1098]: Seniority level
+                - text: Not Applicable
+              - listitem [ref=f103e1099]:
+                - heading [level=3] [ref=f103e1100]: Employment type
+                - text: Full-time
+              - listitem [ref=f103e1101]:
+                - heading [level=3] [ref=f103e1102]: Job function
+                - text: Information Technology
+              - listitem [ref=f103e1103]:
+                - heading [level=3] [ref=f103e1104]: Industries
+                - text: Technology, Information and Media
+          - generic [ref=f103e1109]:
+            - paragraph [ref=f103e1110]: Referrals increase your chances of interviewing at Harnham by 2x
+            - link [ref=f103e1111] [cursor=pointer]:
+              - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D280603&emailAddress=&fromSignIn=&trk=public_jobs_find-a-referral-cta
+              - text: See who you know
+    - contentinfo [ref=f103e874]:
+      - list [ref=f103e875]:
+        - generic [ref=f103e876]: LinkedIn
+        - generic [ref=f103e878]: © 2026
+        - listitem [ref=f103e879]:
+          - link [ref=f103e880] [cursor=pointer]:
+            - /url: https://about.linkedin.com?trk=public_jobs_footer-about
+            - text: About
+        - listitem [ref=f103e881]:
+          - link [ref=f103e882] [cursor=pointer]:
+            - /url: https://www.linkedin.com/accessibility?trk=public_jobs_footer-accessibility
+            - text: Accessibility
+        - listitem [ref=f103e883]:
+          - link [ref=f103e884] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/user-agreement?trk=public_jobs_footer-user-agreement
+            - text: User Agreement
+        - listitem [ref=f103e885]:
+          - link [ref=f103e886] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/privacy-policy?trk=public_jobs_footer-privacy-policy
+            - text: Privacy Policy
+        - listitem [ref=f103e887]:
+          - link [ref=f103e888] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/california-privacy-disclosure?trk=public_jobs_footer-california-privacy-rights-act
+            - text: Your California Privacy Choices
+        - listitem [ref=f103e889]:
+          - link [ref=f103e890] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/cookie-policy?trk=public_jobs_footer-cookie-policy
+            - text: Cookie Policy
+        - listitem [ref=f103e891]:
+          - link [ref=f103e892] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/copyright-policy?trk=public_jobs_footer-copyright-policy
+            - text: Copyright Policy
+        - listitem [ref=f103e893]:
+          - link [ref=f103e894] [cursor=pointer]:
+            - /url: https://brand.linkedin.com/policies?trk=public_jobs_footer-brand-policy
+            - text: Brand Policy
+        - listitem [ref=f103e895]:
+          - link [ref=f103e896] [cursor=pointer]:
+            - /url: https://www.linkedin.com/psettings/guest-controls?trk=public_jobs_footer-guest-controls
+            - text: Guest Controls
+        - listitem [ref=f103e897]:
+          - link [ref=f103e898] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/professional-community-policies?trk=public_jobs_footer-community-guide
+            - text: Community Guidelines
+        - listitem [ref=f103e899]:
+          - button [ref=f103e901]: Language
+  - dialog [active] [ref=f103e904]:
+    - button "Dismiss" [ref=f103e905] [cursor=pointer]
+    - generic [ref=f103e907]:
+      - heading "Sign in to view more jobs" [level=2] [ref=f103e909]
+      - generic [ref=f103e910]:
+        - button "Continue with google" [ref=f103e1117]:
+          - iframe [ref=f103e1119]:
+            - button "Continue with Google. Opens in new tab" [ref=f105e3] [cursor=pointer]:
+              - generic [ref=f105e5]: Continue with Google
+        - button "Sign in with Email" [ref=f103e911] [cursor=pointer]
+        - paragraph [ref=f103e915]: or
+        - button "Continue with google" [ref=f103e1123]:
+          - iframe [ref=f103e1125]:
+            - button "Continue with Google. Opens in new tab" [ref=f106e3] [cursor=pointer]:
+              - generic [ref=f106e5]: Continue with Google
+        - paragraph [ref=f103e916]:
+          - text: New to LinkedIn?
+          - link "Join now" [ref=f103e917] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&trk=public_jobs_contextual-sign-in-modal_join-link
+        - paragraph [ref=f103e918]:
+          - text: By clicking Continue to join or sign in, you agree to LinkedIn’s
+          - link "User Agreement" [ref=f103e919] [cursor=pointer]:
+            - /url: /legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement
+          - text: ","
+          - link "Privacy Policy" [ref=f103e920] [cursor=pointer]:
+            - /url: /legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy
+          - text: ", and"
+          - link "Cookie Policy" [ref=f103e921] [cursor=pointer]:
+            - /url: /legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy
+          - text: .

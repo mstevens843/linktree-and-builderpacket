@@ -1,0 +1,130 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - link [ref=e5] [cursor=pointer]:
+        - /url: /
+      - navigation [ref=e15]:
+        - list [ref=e16]:
+          - listitem [ref=e17]:
+            - button "Products" [ref=e18]
+          - listitem [ref=e21]:
+            - button "Ecosystem" [ref=e22]
+          - listitem [ref=e25]:
+            - button "Developers" [ref=e26]
+          - listitem [ref=e29]:
+            - button "Protocol" [ref=e30]
+        - generic [ref=e33]:
+          - link "Transfer tokens" [ref=e34] [cursor=pointer]:
+            - /url: https://portalbridge.com/
+          - link "W Dashboard" [ref=e36] [cursor=pointer]:
+            - /url: https://w.wormhole.com/
+  - main [ref=e39]:
+    - generic [ref=e41]:
+      - heading "404" [level=1] [ref=e42]
+      - heading "This page could not be found." [level=2] [ref=e44]
+  - generic [ref=e47]:
+    - heading "Stay connected. Build what's next." [level=2] [ref=e49]
+    - generic [ref=e50]:
+      - link "X" [ref=e51] [cursor=pointer]:
+        - /url: https://x.com/wormhole
+      - link "Discord" [ref=e56] [cursor=pointer]:
+        - /url: https://discord.gg/PYzevkdt
+      - link "Telegram" [ref=e61] [cursor=pointer]:
+        - /url: https://t.me/wormhole_eco
+      - link "Github" [ref=e66] [cursor=pointer]:
+        - /url: https://github.com/wormhole-foundation
+      - link "Docs" [ref=e71] [cursor=pointer]:
+        - /url: https://docs.wormhole.com
+      - link "Youtube" [ref=e76] [cursor=pointer]:
+        - /url: https://www.youtube.com/@wormholecrypto
+  - generic [ref=e82]:
+    - heading "Tools for builders. Open to all." [level=5] [ref=e83]
+    - generic [ref=e87]:
+      - textbox "Email" [ref=e88]
+      - button "Subscribe" [disabled] [ref=e89]
+  - contentinfo [ref=e90]:
+    - generic [ref=e91]:
+      - generic [ref=e92]:
+        - link [ref=e94] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e104]:
+          - generic [ref=e105]:
+            - heading "Products" [level=6] [ref=e106]
+            - list [ref=e107]:
+              - listitem [ref=e108]:
+                - link "Connect" [ref=e109] [cursor=pointer]:
+                  - /url: /products/connect
+              - listitem [ref=e110]:
+                - link "Messaging" [ref=e111] [cursor=pointer]:
+                  - /url: /products/messaging
+              - listitem [ref=e112]:
+                - link "Native Token Transfers" [ref=e113] [cursor=pointer]:
+                  - /url: /products/native-token-transfers
+              - listitem [ref=e114]:
+                - link "Queries" [ref=e115] [cursor=pointer]:
+                  - /url: /products/queries
+              - listitem [ref=e116]:
+                - link "Settlement" [ref=e117] [cursor=pointer]:
+                  - /url: /products/settlement
+          - generic [ref=e118]:
+            - heading "Ecosystem" [level=6] [ref=e119]
+            - list [ref=e120]:
+              - listitem [ref=e121]:
+                - link "Blog" [ref=e122] [cursor=pointer]:
+                  - /url: /blog
+              - listitem [ref=e123]:
+                - link "Brand & Press" [ref=e124] [cursor=pointer]:
+                  - /url: /brand-and-press
+              - listitem [ref=e125]:
+                - link "Case studies" [ref=e126] [cursor=pointer]:
+                  - /url: /case-studies
+              - listitem [ref=e127]:
+                - link "Forum" [ref=e128] [cursor=pointer]:
+                  - /url: https://forum.wormhole.com/
+          - generic [ref=e132]:
+            - heading "Developers" [level=6] [ref=e133]
+            - list [ref=e134]:
+              - listitem [ref=e135]:
+                - link "Documentation" [ref=e136] [cursor=pointer]:
+                  - /url: https://wormhole.com/docs
+              - listitem [ref=e137]:
+                - link "GitHub" [ref=e138] [cursor=pointer]:
+                  - /url: https://github.com/wormhole-foundation
+              - listitem [ref=e142]:
+                - link "Bug bounties" [ref=e143] [cursor=pointer]:
+                  - /url: https://immunefi.com/bug-bounty/wormhole/
+              - listitem [ref=e147]:
+                - link "Wormholescan" [ref=e148] [cursor=pointer]:
+                  - /url: https://wormholescan.io/
+          - generic [ref=e152]:
+            - heading "Protocol" [level=6] [ref=e153]
+            - list [ref=e154]:
+              - listitem [ref=e155]:
+                - link "Blockchains" [ref=e156] [cursor=pointer]:
+                  - /url: /platform/blockchains
+              - listitem [ref=e157]:
+                - link "Security" [ref=e158] [cursor=pointer]:
+                  - /url: /platform/security
+      - generic [ref=e159]:
+        - paragraph [ref=e160]: 2026 Ⓒ Wormhole. All Rights Reserved.
+        - list [ref=e161]:
+          - listitem [ref=e162]:
+            - link "Privacy Policy" [ref=e163] [cursor=pointer]:
+              - /url: /pages/data-protection-and-privacy-policy
+          - listitem [ref=e164]:
+            - link "Terms of Service" [ref=e165] [cursor=pointer]:
+              - /url: /pages/terms-of-use
+        - generic [ref=e166]:
+          - link [ref=e167] [cursor=pointer]:
+            - /url: https://x.com/wormhole
+          - link [ref=e170] [cursor=pointer]:
+            - /url: https://discord.gg/PYzevkdt
+          - link [ref=e173] [cursor=pointer]:
+            - /url: https://t.me/wormhole_eco
+          - link [ref=e176] [cursor=pointer]:
+            - /url: https://github.com/wormhole-foundation
+          - link [ref=e179] [cursor=pointer]:
+            - /url: https://docs.wormhole.com
+          - link [ref=e182] [cursor=pointer]:
+            - /url: https://www.youtube.com/@wormholecrypto
+  - alert [ref=e185]

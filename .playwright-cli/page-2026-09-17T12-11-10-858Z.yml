@@ -1,0 +1,747 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]: LatchBio interview prep
+    - link "Opener" [ref=e4] [cursor=pointer]:
+      - /url: "#p1"
+    - link "Aidan" [ref=e5] [cursor=pointer]:
+      - /url: "#p3"
+    - link "Crashpoint" [ref=e6] [cursor=pointer]:
+      - /url: "#p5"
+    - link "Evals" [ref=e7] [cursor=pointer]:
+      - /url: "#p6"
+    - link "Design" [ref=e8] [cursor=pointer]:
+      - /url: "#p8"
+    - link "Questions" [ref=e9] [cursor=pointer]:
+      - /url: "#p11"
+    - link "Links" [ref=e10] [cursor=pointer]:
+      - /url: "#p12"
+    - button "Print" [ref=e11] [cursor=pointer]
+  - main [ref=e12]:
+    - generic [ref=e13]:
+      - heading "LatchBio - Interview Prep" [level=1] [ref=e14]
+      - generic [ref=e15]: Member of Technical Staff, Infrastructure | Mathew Stevens | Prepared September 17, 2026
+      - table [ref=e16]:
+        - rowgroup [ref=e22]:
+          - row [ref=e23]:
+            - columnheader "INTERVIEW" [ref=e24]
+            - columnheader "WITH" [ref=e25]
+            - columnheader "STAGE" [ref=e26]
+            - columnheader "WORK MODEL" [ref=e27]
+        - rowgroup [ref=e28]:
+          - row [ref=e29]:
+            - 'cell "Friday, Sep 18 Time: check your invite" [ref=e30]': "Friday, Sep 18Time: check your invite"
+            - cell "Aidan Abdulali Founding Engineer" [ref=e31]: Aidan AbdulaliFounding Engineer
+            - cell "Introduction Background + goals" [ref=e32]: IntroductionBackground + goals
+            - cell "In-person, San Francisco Confirm office cadence" [ref=e33]: In-person, San FranciscoConfirm office cadence
+      - generic [ref=e34]: "Your hiring angle: You ship products and investigate whether agent systems actually do what their logs and scores claim. Lead with ownership, failure recovery, and trustworthy evaluation."
+      - heading "01 YOUR OPENING ANSWER" [level=2] [ref=e35]
+      - generic [ref=e36]:
+        - generic [ref=e37]: Tell me about yourself | 60-75 seconds
+        - paragraph [ref=e38]: I'm Mathew, a full-stack engineer based in the Bay Area. Since 2025, I've been building and operating my own products, Agentic and SolPulse, across web and mobile. I've owned the interfaces, backend integrations, debugging, and releases.
+        - paragraph [ref=e39]: Alongside that, I've been building tools to test agent reliability and evaluation quality. With Crashpoint, I reproduce failures around retries and external actions. With Judge-Artifact and Agent Eval Foundry, I examine whether the tests and graders are measuring the right outcome.
+        - paragraph [ref=e40]: LatchBio caught my attention because the role connects that work to useful scientific software. I'd like to bring the ownership I've developed independently to a team, contribute to dependable agent infrastructure, and learn the biology workflows from the people using it.
+      - paragraph [ref=e41]: Then pause. The email asks about your background and career goals. Technical follow-ups are plausible because Aidan is an engineer; their exact questions and call length are not known.
+      - heading "02 QUICK NAVIGATION" [level=2] [ref=e42]
+      - table [ref=e43]:
+        - rowgroup [ref=e49]:
+          - row [ref=e50]:
+            - columnheader "IF THE QUESTION IS ABOUT..." [ref=e51]
+            - columnheader "PAGE" [ref=e52]
+            - columnheader "IF THE QUESTION IS ABOUT..." [ref=e53]
+            - columnheader "PAGE" [ref=e54]
+        - rowgroup [ref=e55]:
+          - row [ref=e56]:
+            - cell "Company / why LatchBio" [ref=e57]
+            - cell "2" [ref=e58]
+            - cell "Evaluation / grader quality" [ref=e59]
+            - cell "6" [ref=e60]
+          - row [ref=e61]:
+            - cell "Aidan / LData article" [ref=e62]
+            - cell "3" [ref=e63]
+            - cell "Open-source / collaboration" [ref=e64]
+            - cell "7" [ref=e65]
+          - row [ref=e66]:
+            - cell "Production work / role fit" [ref=e67]
+            - cell "4" [ref=e68]
+            - cell "Architecture / infrastructure" [ref=e69]
+            - cell "8-9" [ref=e70]
+          - row [ref=e71]:
+            - cell "Crashpoint / retries" [ref=e72]
+            - cell "5" [ref=e73]
+            - cell "Career goals / experience gaps" [ref=e74]
+            - cell "10" [ref=e75]
+          - row [ref=e76]:
+            - cell "Questions / logistics / rehearsal" [ref=e77]
+            - cell "11" [ref=e78]
+            - cell "All source and proof links" [ref=e79]
+            - cell "12" [ref=e80]
+      - generic [ref=e81]:
+        - generic [ref=e82]: Mathew Stevens | Prepared September 17, 2026
+        - generic [ref=e83]: 1 / 12
+    - generic [ref=e84]:
+      - heading "Understand LatchBio and the role" [level=1] [ref=e85]
+      - generic [ref=e86]: Know the business problem, then connect your experience. Facts and suggested answers are kept separate.
+      - heading "03 COMPANY IN PLAIN LANGUAGE" [level=2] [ref=e87]
+      - generic [ref=e88]:
+        - generic [ref=e89]: What does LatchBio do? | 40-50 seconds
+        - paragraph [ref=e90]: My understanding is that LatchBio builds data and compute tools for biological research, and is now researching and deploying AI agents for that work. Scientists need to analyze large datasets and connect results back to the right inputs and methods.
+        - paragraph [ref=e91]: "The public product includes data storage, metadata, workflows, and compute environments. The benchmark work measures whether agents can complete real analysis tasks correctly. I see infrastructure as what makes both sides usable: reliable execution, reproducible environments, and results people can inspect."
+      - paragraph [ref=e92]:
+        - text: "Company facts:"
+        - link "current homepage" [ref=e93] [cursor=pointer]:
+          - /url: https://latch.bio/
+        - text: and
+        - link "product overview" [ref=e94] [cursor=pointer]:
+          - /url: https://latch.bio/product
+        - text: . Avoid quoting old company size, revenue, funding, or customer counts.
+      - heading "04 WHAT THIS OPENING ACTUALLY COVERS" [level=2] [ref=e95]
+      - table [ref=e96]:
+        - rowgroup [ref=e100]:
+          - row [ref=e101]:
+            - columnheader "WORK IN THE POSTING" [ref=e102]
+            - columnheader "WHAT TO PREPARE" [ref=e103]
+        - rowgroup [ref=e104]:
+          - row [ref=e105]:
+            - cell "Agent orchestration and ML infrastructure" [ref=e106]
+            - cell "Execution state, retries, resource control, observability." [ref=e107]
+          - row [ref=e108]:
+            - cell "Model benchmarking at scale" [ref=e109]
+            - cell "Run isolation, artifact retention, grader correctness, comparable results." [ref=e110]
+          - row [ref=e111]:
+            - cell "Containers, sandboxing, cloud, filesystems, databases" [ref=e112]
+            - cell "Explain design tradeoffs; be explicit about your hands-on limits." [ref=e113]
+          - row [ref=e114]:
+            - cell "Full-stack development and developer/user experience" [ref=e115]
+            - cell "Show a shipped flow and how users understand its state." [ref=e116]
+      - paragraph [ref=e117]:
+        - text: The
+        - link "official posting" [ref=e118] [cursor=pointer]:
+          - /url: https://jobs.ashbyhq.com/LatchBio/9e1ee863-c1d7-45af-99be-e92a123c2211
+        - text: does not specify a language stack or minimum tenure. That does not establish junior-level expectations; ask what ownership they need first.
+      - heading "05 WHY LATCHBIO?" [level=2] [ref=e119]
+      - generic [ref=e120]:
+        - generic [ref=e121]: Your motivation | 40-50 seconds
+        - paragraph [ref=e122]: I'm interested in the work between an agent producing an answer and a scientist being able to trust and use it. My projects have pushed me toward questions like whether an action really completed, whether a retry is safe, and whether a grader is rewarding the correct result.
+        - paragraph [ref=e123]: Those questions matter in research, where results depend on the data, environment, and analysis that produced them. I can bring practical product ownership and careful failure analysis, while learning the scientific context from your team.
+      - generic [ref=e124]: "Useful first question: \"For this hire, is the first priority the benchmark execution platform, the customer-facing agent product, or the underlying data and compute systems?\""
+      - generic [ref=e125]:
+        - generic [ref=e126]: Mathew Stevens | Prepared September 17, 2026
+        - generic [ref=e127]: 2 / 12
+    - generic [ref=e128]:
+      - heading "A specific conversation with Aidan" [level=1] [ref=e129]
+      - generic [ref=e130]: Read the linked article before using the opening below. It is a 2024 design description, not proof of today's architecture.
+      - heading "06 THE LDATA CONNECTION" [level=2] [ref=e131]
+      - paragraph [ref=e132]:
+        - text: Aidan co-authored
+        - link "Latch Data, a distributed file system for biotech teams" [ref=e133] [cursor=pointer]:
+          - /url: https://blog.latch.bio/p/latch-data-a-distributed-file-system
+        - text: (May 3, 2024). It describes Postgres metadata, cloud object storage, asynchronous synchronization, provenance, and a FUSE interface. This gives you a concrete technical topic tied to his published work.
+      - generic [ref=e134]:
+        - generic [ref=e135]: A natural way to bring it up | 25-35 seconds
+        - paragraph [ref=e136]: "I read the LData article you co-authored. The part that stood out was how you separate an intended change from confirmation that it happened in the storage backend. That connects with my recovery experiments: a recorded intent, a completed operation, and an observed result can be different things."
+        - paragraph [ref=e137]: How much of that consistency and provenance work carries into the agent infrastructure today?
+      - heading "07 ONE DESIGN DETAIL TO REMEMBER" [level=2] [ref=e138]
+      - paragraph [ref=e139]:
+        - text: The article uses a deletion followed by a new upload at the same key to explain a stale-operation race. It describes version-aware state transitions and waiting for storage confirmation. Its broader lesson is to make synchronization idempotent and preserve enough evidence to reconcile state.
+        - link "Source" [ref=e140] [cursor=pointer]:
+          - /url: https://blog.latch.bio/p/latch-data-a-distributed-file-system
+        - text: .
+      - heading "08 IF HE ASKS HOW YOU WOULD HANDLE THAT CLASS OF BUG" [level=2] [ref=e141]
+      - generic [ref=e142]:
+        - generic [ref=e143]: Your design reasoning, not a claim about their implementation | 45-60 seconds
+        - paragraph [ref=e144]: I'd start by identifying which object version the operation is authorized to change. A queued delete should not apply to a newer upload just because the path matches.
+        - paragraph [ref=e145]: I'd record the intent durably, compare the expected version, and use a version-specific or conditional storage operation where the provider supports it. A read-then-delete sequence alone can still race. I'd make handlers safe under duplicate events and use reconciliation to resolve incomplete or conflicting observations.
+        - paragraph [ref=e146]: The tests would exercise both event orders, duplicate delivery, and a crash after storage changed but before our database recorded the result.
+      - heading "09 VOCABULARY FOR THE DISCUSSION" [level=2] [ref=e147]
+      - table [ref=e148]:
+        - rowgroup [ref=e152]:
+          - row [ref=e153]:
+            - columnheader "TERM" [ref=e154]
+            - columnheader "PLAIN EXPLANATION" [ref=e155]
+        - rowgroup [ref=e156]:
+          - row [ref=e157]:
+            - cell "Provenance" [ref=e158]
+            - cell "A traceable record of the inputs, versions, actions, and actors behind an output." [ref=e159]
+          - row [ref=e160]:
+            - cell "FUSE" [ref=e161]
+            - cell "A way to implement filesystem behavior in user space, so existing programs can use file operations." [ref=e162]
+          - row [ref=e163]:
+            - cell "Reconciliation" [ref=e164]
+            - cell "Compare stored intent/state with authoritative external evidence and resolve disagreement." [ref=e165]
+      - paragraph [ref=e166]:
+        - text: "Provider detail:"
+        - link "AWS documents" [ref=e167] [cursor=pointer]:
+          - /url: https://docs.aws.amazon.com/AmazonS3/latest/userguide/notification-how-to-event-types-and-destinations.html
+        - text: duplicate and out-of-order S3 notifications. Do not assume event delivery order proves object state.
+      - generic [ref=e168]:
+        - generic [ref=e169]: Mathew Stevens | Prepared September 17, 2026
+        - generic [ref=e170]: 3 / 12
+    - generic [ref=e171]:
+      - 'heading "Your fit: shipped products and usable tooling" [level=1] [ref=e172]'
+      - generic [ref=e173]: Start with what you personally owned. Use research to show depth, and production work to show you can deliver.
+      - heading "10 THE EVIDENCE MAP" [level=2] [ref=e174]
+      - table [ref=e175]:
+        - rowgroup [ref=e180]:
+          - row [ref=e181]:
+            - columnheader "YOUR EVIDENCE" [ref=e182]
+            - columnheader "WHY IT IS USEFUL HERE" [ref=e183]
+            - columnheader "SCOPE" [ref=e184]
+        - rowgroup [ref=e185]:
+          - row [ref=e186]:
+            - cell "Agentic + SolPulse" [ref=e187]
+            - cell "End-to-end delivery, integrations, user-visible state, releases." [ref=e188]
+            - cell "Shipped products" [ref=e189]
+          - row [ref=e190]:
+            - cell "Crashpoint" [ref=e191]
+            - cell "Execution boundaries, retry behavior, independent evidence." [ref=e192]
+            - cell "Controlled research" [ref=e193]
+          - row [ref=e194]:
+            - cell "Foundry + Judge-Artifact" [ref=e195]
+            - cell "Task construction, grading defects, reproducible comparisons." [ref=e196]
+            - cell "Evaluation tooling" [ref=e197]
+          - row [ref=e198]:
+            - cell "SDKs + upstream work" [ref=e199]
+            - cell "Debuggable APIs, small reproducible examples, technical collaboration." [ref=e200]
+            - cell "Authored code + investigations" [ref=e201]
+          - row [ref=e202]:
+            - cell "Context Containment + Record Replay" [ref=e203]
+            - cell "Permissions, provenance, controlled automation." [ref=e204]
+            - cell "Prototypes / libraries" [ref=e205]
+      - heading "11 A PRODUCT YOU PERSONALLY BUILT" [level=2] [ref=e206]
+      - generic [ref=e207]:
+        - generic [ref=e208]: Agentic | 55-65 seconds
+        - paragraph [ref=e209]: Agentic lets an AI agent prepare a wallet action while the user retains control of approval and signing. I built the product and the integrations across web and mobile, with SDK and MCP entry points.
+        - paragraph [ref=e210]: A useful architectural decision was a shared WalletBackend contract for submitting signing requests and checking approval status. Different wallets have different capabilities, so the interface needs to expose those differences clearly.
+        - paragraph [ref=e211]: I also separated preparation, approval, signing, submission, and receipt handling. That makes failures easier to investigate and gives the user a more accurate picture of what happened. I owned the release work and integration fixes as well.
+      - paragraph [ref=e212]:
+        - link "Live product" [ref=e213] [cursor=pointer]:
+          - /url: https://agentic-signer.com
+        - text: "|"
+        - link "Code and integrations" [ref=e214] [cursor=pointer]:
+          - /url: https://github.com/mstevens843/solana-agent-wallet-adapter
+        - text: . Explain one concrete flow before discussing protocol names.
+      - heading "12 A SECOND PRODUCT, IF ASKED" [level=2] [ref=e215]
+      - generic [ref=e216]:
+        - generic [ref=e217]: SolPulse | 30-40 seconds
+        - paragraph [ref=e218]: SolPulse is a trading product I built across web and mobile. I owned the React interface, Node backend, PostgreSQL and Redis integration, strategy controls, and releases. It includes scheduled purchases, limit orders, and conditional exits.
+        - paragraph [ref=e219]: "The transferable part is making a complicated execution process understandable: what the user configured, what is pending, and what actually completed."
+      - generic [ref=e220]: "Stack answer: \"My production work is strongest in TypeScript/JavaScript, React, Node, PostgreSQL, and Redis. My Python work is in tools such as Crashpoint, Judge-Artifact, and ConfigPilot. I also have hands-on native and SDK work.\""
+      - generic [ref=e221]:
+        - generic [ref=e222]: Mathew Stevens | Prepared September 17, 2026
+        - generic [ref=e223]: 4 / 12
+    - generic [ref=e224]:
+      - 'heading "Technical story: Crashpoint" [level=1] [ref=e225]'
+      - generic [ref=e226]: A strong answer to "What have you built lately?", "Tell me about a hard bug", or "How do you reason about reliability?"
+      - heading "13 YOUR MAIN RELIABILITY STORY" [level=2] [ref=e227]
+      - generic [ref=e228]:
+        - generic [ref=e229]: Explain the problem, experiment, and result | 60-75 seconds
+        - paragraph [ref=e230]: I built Crashpoint to examine the gap between what a workflow runtime records and what happened outside it. If an external action completes but the worker fails before recording the result, recovery can repeat the action.
+        - paragraph [ref=e231]: The harness measures effects through a separate ledger process. The worker can request an effect, but it cannot read or reset the authoritative count. That gives me evidence independent of the runtime's own success report.
+        - paragraph [ref=e232]: A recent experiment used CrewAI's actual tool retry path. I compared a clean run, an error before the effect, and an error after the effect. The last case produced two effects in each of 30 trials. I published the reproduction upstream, with the version, injection point, and limitations.
+      - table [ref=e233]:
+        - rowgroup [ref=e239]:
+          - row [ref=e240]:
+            - columnheader "CREWAI 1.15.21 CASE" [ref=e241]
+            - columnheader "ATTEMPTS" [ref=e242]
+            - columnheader "EFFECTS" [ref=e243]
+            - columnheader "TRIALS" [ref=e244]
+        - rowgroup [ref=e245]:
+          - row [ref=e246]:
+            - cell "Clean execution" [ref=e247]
+            - cell "1" [ref=e248]
+            - cell "1" [ref=e249]
+            - cell "30" [ref=e250]
+          - row [ref=e251]:
+            - cell "Error before the external effect" [ref=e252]
+            - cell "2" [ref=e253]
+            - cell "1" [ref=e254]
+            - cell "30" [ref=e255]
+          - row [ref=e256]:
+            - cell "Error after effect, before return" [ref=e257]
+            - cell "2" [ref=e258]
+            - cell "2" [ref=e259]
+            - cell "30" [ref=e260]
+      - paragraph [ref=e261]:
+        - text: "Exact scope: 90 controlled trials matched the predictions. Scripted local LLM, harmless ledger writes, same-process synchronous tool retry. No production payments, provider calls, or worker-crash recovery were measured in this arm."
+        - link "Experiment" [ref=e262] [cursor=pointer]:
+          - /url: https://github.com/mstevens843/crashpoint/blob/main/results/11-crewai-retry.md
+        - text: "|"
+        - link "Your upstream report" [ref=e263] [cursor=pointer]:
+          - /url: https://github.com/crewAIInc/crewAI/issues/5802#issuecomment-5657099160
+        - text: .
+      - heading "14 LIKELY FOLLOW-UPS" [level=2] [ref=e264]
+      - table [ref=e265]:
+        - rowgroup [ref=e269]:
+          - row [ref=e270]:
+            - columnheader "QUESTION" [ref=e271]
+            - columnheader "ANSWER" [ref=e272]
+        - rowgroup [ref=e273]:
+          - row [ref=e274]:
+            - cell "Does persistence guarantee exactly once?" [ref=e275]
+            - cell "No. A journaled result and an external effect have different commit boundaries. The receiver or reconciliation protocol must help close the gap." [ref=e276]
+          - row [ref=e277]:
+            - cell "Why not hash the arguments?" [ref=e278]
+            - cell "A retry can produce different arguments, while two legitimate actions can share identical arguments. Assign a logical action ID before execution and preserve it." [ref=e279]
+          - row [ref=e280]:
+            - cell "What if the outcome is unknown?" [ref=e281]
+            - cell "Keep it explicitly unresolved. Check authoritative receipts or provider state before replaying; escalate when the evidence cannot decide." [ref=e282]
+          - row [ref=e283]:
+            - cell "How do you measure improvement?" [ref=e284]
+            - cell "Check both duplicate suppression and eventual completion. Preventing every action would look duplicate-safe but would not solve the workflow." [ref=e285]
+      - generic [ref=e286]: "LatchBio connection: The same reasoning helps distinguish a completed benchmark attempt, an infrastructure failure, and an unresolved run. Present this as a transfer of your method, not evidence you have operated their platform."
+      - generic [ref=e287]:
+        - generic [ref=e288]: Mathew Stevens | Prepared September 17, 2026
+        - generic [ref=e289]: 5 / 12
+    - generic [ref=e290]:
+      - 'heading "Technical story: can we trust the evaluation?" [level=1] [ref=e291]'
+      - generic [ref=e292]: Show that you test the measuring instrument, not only the agent.
+      - heading "15 AGENT EVAL FOUNDRY" [level=2] [ref=e293]
+      - generic [ref=e294]:
+        - generic [ref=e295]: How do you build a useful benchmark? | 50-65 seconds
+        - paragraph [ref=e296]: I built Agent Eval Foundry to create and audit coding-agent tasks. The recorded work includes 25 task packages and 170 physical attempts, with reviewed outcomes kept separate from the raw history.
+        - paragraph [ref=e297]: I start with a clear capability and explicit rules, check that a valid solution can pass, then use invalid implementations and alternative valid solutions to challenge the verifier. When a failure comes from the task or grader, I label it and revisit the result.
+        - paragraph [ref=e298]: For a biology task, I would work with a domain expert on the expected conclusion and evidence. My contribution would be the reproducible environment, runner, artifact trail, and checks that the scoring behaves as intended.
+      - heading "16 A SPECIFIC GRADER DEFECT" [level=2] [ref=e299]
+      - generic [ref=e300]:
+        - generic [ref=e301]: Judge-Artifact | 40-50 seconds
+        - paragraph [ref=e302]: In Judge-Artifact, I reproduced a mismatch in Inspect Evals helpers. With two successful calls to the same function, using different arguments and responses, one helper returned the second call's arguments while another returned the first call's response.
+        - paragraph [ref=e303]: That can create a story about an action that never actually occurred as one call. I built regression cases and checked them against the installed package. It reinforced the need to bind arguments, responses, and outcomes to the same call identity before assigning credit.
+      - paragraph [ref=e304]:
+        - link "Regression evidence" [ref=e305] [cursor=pointer]:
+          - /url: https://github.com/mstevens843/judge-artifact/blob/main/results/09-grader-followup-regressions.md
+        - text: against inspect-evals 0.18.0. This characterizes a released helper behavior; it is not a measurement of how often the bug occurs in production.
+      - heading "17 A CURRENT LATCHBIO RESEARCH CONNECTION" [level=2] [ref=e306]
+      - paragraph [ref=e307]:
+        - text: The June 25, 2026
+        - link "scBench-Long post" [ref=e308] [cursor=pointer]:
+          - /url: https://blog.latch.bio/p/benchmarking-ai-agents-on-long-horizon
+        - text: separates deterministic final-answer grading from trajectory rubrics used for diagnosis. It evaluates model-and-harness combinations. Its leading configuration passed 16 of 63 runs (25.4%) in that study; do not describe this as a current universal model score.
+      - generic [ref=e309]:
+        - generic [ref=e310]: One observation to discuss | 20-30 seconds
+        - paragraph [ref=e311]: I liked the distinction between endpoint correctness and useful intermediate progress in scBench-Long. My grader work has made me careful about treating a trace that looks good as proof of the final result. How do you use trajectory diagnostics to improve the harness while keeping the headline score stable?
+      - generic [ref=e312]: "Comparison discipline: Keep task version, input data, environment, model, harness, tool budget, and grader version identifiable. Report infrastructure errors and missing results explicitly; do not quietly remove them from the denominator."
+      - generic [ref=e313]:
+        - generic [ref=e314]: Mathew Stevens | Prepared September 17, 2026
+        - generic [ref=e315]: 6 / 12
+    - generic [ref=e316]:
+      - heading "Open source, collaboration, and changing your mind" [level=1] [ref=e317]
+      - generic [ref=e318]: These are concrete collaboration stories even though your production work has been independent.
+      - heading "18 A COLLABORATION STORY" [level=2] [ref=e319]
+      - generic [ref=e320]:
+        - generic [ref=e321]: LangGraph report and AgentCI adoption | 60-75 seconds
+        - paragraph [ref=e322]: I opened a LangGraph issue with a reproduction that terminated a process before its first durable checkpoint. The observed result was zero external effects, zero checkpoints, and an error on fresh recovery.
+        - paragraph [ref=e323]: The discussion helped sharpen the claim. Missing runtime state cannot by itself tell you whether an external caller accepted the run. I clarified that the thread ID was only correlation, and that the acceptance question needed an authoritative record outside the runtime.
+        - paragraph [ref=e324]: An AgentCI maintainer then preserved my reproduction as a fixture. I reviewed the interpretation and confirmed that it kept the uncertainty explicit. The maintainer wrote the fixture implementation; I supplied the reproduction and helped define its scope.
+      - heading "19 A TIME YOU CORRECTED YOUR INTERPRETATION" [level=2] [ref=e325]
+      - generic [ref=e326]:
+        - generic [ref=e327]: Be specific about what changed | 35-45 seconds
+        - paragraph [ref=e328]: "That LangGraph investigation is a good example. I initially raised the missing-run behavior as a recovery problem. Later tracing narrowed it: in the synchronous path, the pre-node checkpoints are persisted before user code runs, and my injection interrupted the first write itself."
+        - paragraph [ref=e329]: I updated the discussion to focus on admission and visibility instead of implying a broader duplicate-effect bug. I want the evidence to survive scrutiny, even when that means making the conclusion narrower.
+      - heading "20 KEEP THE CONTRIBUTION TYPES PRECISE" [level=2] [ref=e330]
+      - table [ref=e331]:
+        - rowgroup [ref=e335]:
+          - row [ref=e336]:
+            - columnheader "WORK" [ref=e337]
+            - columnheader "WHAT YOU CAN CLAIM" [ref=e338]
+        - rowgroup [ref=e339]:
+          - row [ref=e340]:
+            - cell [ref=e341]:
+              - 'link "LangGraph #8764" [ref=e342] [cursor=pointer]':
+                - /url: https://github.com/langchain-ai/langgraph/issues/8764
+              - text: /
+              - link "#8039" [ref=e343] [cursor=pointer]:
+                - /url: https://github.com/langchain-ai/langgraph/issues/8039#issuecomment-5455407133
+            - cell "Authored report, controlled reproductions, and follow-up analysis." [ref=e344]
+          - row [ref=e345]:
+            - cell [ref=e346]:
+              - 'link "DBOS PR #838" [ref=e347] [cursor=pointer]':
+                - /url: https://github.com/dbos-inc/dbos-transact-py/pull/838#issuecomment-5481695742
+            - cell "Ran live Postgres crash/recovery experiments supporting another contributor's fix." [ref=e348]
+          - row [ref=e349]:
+            - cell [ref=e350]:
+              - 'link "AgentCI PR #160" [ref=e351] [cursor=pointer]':
+                - /url: https://github.com/jinngimk-lang/agentci/pull/160
+            - cell "Your reproduction was adopted; another maintainer authored the merged fixture." [ref=e352]
+          - row [ref=e353]:
+            - cell [ref=e354]:
+              - 'link "Inspect #2108" [ref=e355] [cursor=pointer]':
+                - /url: https://github.com/UKGovernmentBEIS/inspect_evals/issues/2108#issuecomment-5560855592
+              - text: /
+              - link "#2310" [ref=e356] [cursor=pointer]:
+                - /url: https://github.com/UKGovernmentBEIS/inspect_evals/issues/2310#issuecomment-5494162954
+            - cell "Grader measurements, regression cases, and parser analysis." [ref=e357]
+          - row [ref=e358]:
+            - cell [ref=e359]:
+              - 'link "Godot #449" [ref=e360] [cursor=pointer]':
+                - /url: https://github.com/Virus-Axel/godot-solana-sdk/pull/449
+              - text: ","
+              - link "#453" [ref=e361] [cursor=pointer]:
+                - /url: https://github.com/Virus-Axel/godot-solana-sdk/pull/453
+              - text: ","
+              - link "#454" [ref=e362] [cursor=pointer]:
+                - /url: https://github.com/Virus-Axel/godot-solana-sdk/pull/454
+              - text: ;
+              - 'link "Unity #275" [ref=e363] [cursor=pointer]':
+                - /url: https://github.com/magicblock-labs/Solana.Unity-SDK/pull/275
+            - cell "Merged code changes you authored in wallet SDKs." [ref=e364]
+      - paragraph [ref=e365]: "Useful collaboration habits: publish the smallest reproducible case, separate observation from inference, state limitations, acknowledge other people's work, and respond when evidence changes."
+      - generic [ref=e366]:
+        - generic [ref=e367]: Mathew Stevens | Prepared September 17, 2026
+        - generic [ref=e368]: 7 / 12
+    - generic [ref=e369]:
+      - 'heading "Design exercise: a reliable benchmark runner" [level=1] [ref=e370]'
+      - generic [ref=e371]: Practice scenario, not a prediction of the interview or a description of LatchBio's private architecture.
+      - heading "21 START BY CLARIFYING THE WORKLOAD" [level=2] [ref=e372]
+      - paragraph [ref=e373]: Ask about run volume and duration, CPU/GPU needs, data size, untrusted code, external APIs, budget, and isolation requirements. Clarify what counts as a scientific failure versus an infrastructure failure.
+      - generic [ref=e374]:
+        - generic [ref=e375]: How would you build it? | 55-70 seconds
+        - paragraph [ref=e376]: I'd give each logical run an immutable specification and durable ID, then let a queue dispatch attempts to isolated workers. PostgreSQL could hold run state and ownership; object storage could hold inputs, logs, and outputs.
+        - paragraph [ref=e377]: Each attempt would use pinned code, dependencies, data references, and model/harness settings. The worker would have bounded resources and scoped access. It would upload immutable artifacts before a conditional state transition records completion.
+        - paragraph [ref=e378]: A separate grader would evaluate those artifacts. I'd preserve failed and incomplete attempts, enforce concurrency and cost limits, and make recovery safe under duplicate delivery. Before scaling out, I'd test crashes at each handoff and measure where time and money go.
+      - generic [ref=e379]:
+        - generic [ref=e380]: Run API+ durable spec
+        - generic [ref=e381]: →
+        - generic [ref=e382]: Queue+ claims
+        - generic [ref=e383]: →
+        - generic [ref=e384]: Isolatedworker
+        - generic [ref=e385]: →
+        - generic [ref=e386]: Artifacts+ manifest
+        - generic [ref=e387]: →
+        - generic [ref=e388]: Grader+ results
+      - paragraph [ref=e389]: Separate logical run IDs from attempt IDs. Evidence must remain available after a worker exits.
+      - heading "22 FAILURE CASES TO WALK THROUGH" [level=2] [ref=e390]
+      - table [ref=e391]:
+        - rowgroup [ref=e395]:
+          - row [ref=e396]:
+            - columnheader "FAILURE" [ref=e397]
+            - columnheader "DESIGN RESPONSE" [ref=e398]
+        - rowgroup [ref=e399]:
+          - row [ref=e400]:
+            - cell "Worker dies after uploading output" [ref=e401]
+            - cell "Attempt-specific immutable keys and a complete manifest permit reconciliation before re-running." [ref=e402]
+          - row [ref=e403]:
+            - cell "Two workers claim the same run" [ref=e404]
+            - cell "Atomic claim plus a lease/generation. Reject stale completion writes. Expired leases alone do not stop an old worker." [ref=e405]
+          - row [ref=e406]:
+            - cell "Model provider times out" [ref=e407]
+            - cell "Record the provider request and uncertainty; use bounded retries. Preserve cost and attempt history." [ref=e408]
+          - row [ref=e409]:
+            - cell "Grader or input is broken" [ref=e410]
+            - cell "Infrastructure/invalid-task status stays visible and separate from an agent failing a valid task." [ref=e411]
+          - row [ref=e412]:
+            - cell "A run exceeds time or memory limits" [ref=e413]
+            - cell "Stop it, retain logs, classify the cause, and apply an explicit retry policy." [ref=e414]
+      - heading "23 SCALING WITHOUT LOSING THE EXPERIMENT" [level=2] [ref=e415]
+      - paragraph [ref=e416]: Measure queue delay, worker startup, dataset download, model wait, execution, grading, and upload separately. Add bounded concurrency, per-tenant quotas, and backpressure. Cache immutable inputs by version or digest; keep attempt outputs isolated. A change in resources or time budget may change the benchmark itself.
+      - paragraph [ref=e417]:
+        - text: Kubernetes Jobs can start the same program more than once, even in a nominal single-completion configuration. Application-level duplicate handling still matters.
+        - link "Official Jobs documentation" [ref=e418] [cursor=pointer]:
+          - /url: https://kubernetes.io/docs/concepts/workloads/controllers/job/
+        - text: .
+      - generic [ref=e419]:
+        - generic [ref=e420]: Mathew Stevens | Prepared September 17, 2026
+        - generic [ref=e421]: 8 / 12
+    - generic [ref=e422]:
+      - heading "Infrastructure follow-ups" [level=1] [ref=e423]
+      - generic [ref=e424]: Use these as reasoning drills. Describe proposed designs honestly where you have not operated the technology at scale.
+      - heading "24 SHORT TECHNICAL ANSWERS" [level=2] [ref=e425]
+      - table [ref=e426]:
+        - rowgroup [ref=e430]:
+          - row [ref=e431]:
+            - columnheader "QUESTION" [ref=e432]
+            - columnheader "YOUR ANSWER" [ref=e433]
+        - rowgroup [ref=e434]:
+          - row [ref=e435]:
+            - cell "How would you sandbox agent code?" [ref=e436]
+            - cell "Scope data and credentials, restrict network access, avoid host mounts, and bound CPU, memory, disk, process count, and runtime. Use stronger isolation such as a userspace kernel or microVM when the threat model requires it. A container alone is not a complete security boundary." [ref=e437]
+          - row [ref=e438]:
+            - cell "What needs to be outside the sandbox?" [ref=e439]
+            - cell "The authoritative grader, hidden reference data, artifact acceptance rules, and control-plane credentials. Read-only access still leaks an answer key." [ref=e440]
+          - row [ref=e441]:
+            - cell "Does a database transaction cover an API call?" [ref=e442]
+            - cell "No. It can atomically record intent and local state, but it cannot roll back an arbitrary external effect. Use an outbox, stable identity, receiver semantics, and reconciliation." [ref=e443]
+          - row [ref=e444]:
+            - cell "How do you preserve large-data reproducibility?" [ref=e445]
+            - cell "Record exact object versions or digests, environment/image identity, code revision, parameters, and output lineage. Pin what can be pinned and record what cannot." [ref=e446]
+          - row [ref=e447]:
+            - cell "What makes a cache key safe?" [ref=e448]
+            - 'cell "It must include everything that affects the result: input version, code, configuration, and relevant environment. Separate cached artifacts from authorization to use them." [ref=e449]'
+          - row [ref=e450]:
+            - cell "How do you debug a slow analysis?" [ref=e451]
+            - cell "Trace the stages, identify the bottleneck, and measure one change at a time. Check cold starts, repeated downloads, CPU/memory pressure, model waits, queries, and artifact uploads." [ref=e452]
+      - paragraph [ref=e453]:
+        - text: "Security background:"
+        - link "GKE Sandbox documentation" [ref=e454] [cursor=pointer]:
+          - /url: https://docs.cloud.google.com/kubernetes-engine/docs/concepts/sandbox-pods
+        - text: . It explains added isolation and tradeoffs; this is a design option, not evidence that LatchBio uses GKE or gVisor.
+      - heading "25 SIMPLICITY STORY IF ASKED" [level=2] [ref=e455]
+      - generic [ref=e456]:
+        - generic [ref=e457]: Removing a separate lifecycle in Agentic | 30-40 seconds
+        - paragraph [ref=e458]: I had an iOS workaround that kept the bottom navigation in a separate DOM node and moved it after each render to prevent flicker. That introduced its own state and synchronization code.
+        - paragraph [ref=e459]: I removed it and put the navigation back into the normal workspace. Stable keys let the existing renderer preserve it during updates. That addressed the flicker and removed the separate lifecycle I had been maintaining.
+      - paragraph [ref=e460]:
+        - link "Code change" [ref=e461] [cursor=pointer]:
+          - /url: https://github.com/mstevens843/solana-agent-wallet-adapter/commit/8c7f806af6c9
+        - text: . This is a product-maintenance example, not a claim of large-scale infrastructure experience.
+      - generic [ref=e462]:
+        - generic [ref=e463]: Mathew Stevens | Prepared September 17, 2026
+        - generic [ref=e464]: 9 / 12
+    - generic [ref=e465]:
+      - heading "Background, goals, and experience gaps" [level=1] [ref=e466]
+      - generic [ref=e467]: These are especially relevant because Aidan explicitly asked to learn about your background and career goals.
+      - heading "26 WHY MOVE FROM INDEPENDENT WORK TO A TEAM?" [level=2] [ref=e468]
+      - generic [ref=e469]:
+        - generic [ref=e470]: Your next step | 25-35 seconds
+        - paragraph [ref=e471]: I've learned a lot by owning products from the first implementation through release and maintenance. I'm ready to contribute inside a team, get more technical feedback, and work on a shared problem over time. I'd like to keep hands-on ownership while learning from engineers and scientists whose experience is different from mine.
+      - heading "27 WHAT ARE YOUR CAREER GOALS?" [level=2] [ref=e472]
+      - generic [ref=e473]:
+        - generic [ref=e474]: A focused direction | 25-35 seconds
+        - paragraph [ref=e475]: I want to become stronger at building and operating dependable systems for AI-driven work. In the near term, I'd like to own a useful part of the product or infrastructure, learn the team's standards, and build a track record of making it better. Over time, I want to handle more demanding reliability and data problems.
+      - heading "28 HOW MUCH ENGINEERING EXPERIENCE DO YOU HAVE?" [level=2] [ref=e476]
+      - generic [ref=e477]:
+        - generic [ref=e478]: Keep the chronology clear | 20-30 seconds
+        - paragraph [ref=e479]: My dedicated independent engineering work dates from 2025. Before that, I worked in analytics at Socket Mobile from April 2020 to July 2023. I count those separately. The engineering evidence I'd point to is my shipped products, SDK work, and reproducible investigations.
+      - heading "29 KUBERNETES, DISTRIBUTED FILESYSTEMS, AND BIOLOGY" [level=2] [ref=e480]
+      - generic [ref=e481]:
+        - generic [ref=e482]: Be direct about the learning areas | 35-45 seconds
+        - paragraph [ref=e483]: I haven't operated a large Kubernetes fleet or built a production distributed filesystem. My closest experience is in application and database state, containerized experiments, retries, and reproducible execution. I'd start by understanding your existing architecture and owning a bounded part of it with review.
+        - paragraph [ref=e484]: I also haven't worked professionally in computational biology. I'd rely on the scientists for domain judgments, work through a representative workflow with them, and turn those requirements into inspectable execution and tests.
+      - heading "30 HOW DO YOU USE AI WHILE BUILDING?" [level=2] [ref=e485]
+      - generic [ref=e486]:
+        - generic [ref=e487]: Ownership stays with you | 20-30 seconds
+        - paragraph [ref=e488]: I use coding agents to help with implementation, investigation, and review. I define the intended behavior, inspect the changes, and check them against tests and real outputs. My evaluation work has made me particularly careful about accepting a passing result without checking what the test actually proves.
+      - paragraph [ref=e489]: Use the AI-workflow answer only to the extent it matches your actual process. Be ready to explain a specific file or decision yourself. Do not imply a larger engineering team or paid enterprise customers you did not have.
+      - generic [ref=e490]:
+        - generic [ref=e491]: Mathew Stevens | Prepared September 17, 2026
+        - generic [ref=e492]: 10 / 12
+    - generic [ref=e493]:
+      - heading "Questions, logistics, and tomorrow's rehearsal" [level=1] [ref=e494]
+      - generic [ref=e495]: Prioritize a few useful questions. Leave time for Aidan to describe the work.
+      - heading "31 QUESTIONS TO ASK" [level=2] [ref=e496]
+      - list [ref=e497]:
+        - listitem [ref=e498]: "First ownership: \"What problem would you most want this person to take off your plate in the first month?\""
+        - listitem [ref=e499]: "Engineering bottleneck: \"Where do runs currently lose the most time or reliability: environments, scheduling, data access, model calls, or grading?\""
+        - listitem [ref=e500]: "Scientific collaboration: \"How do engineers and scientists decide whether a failed result is a harness problem, a task problem, or a real capability gap?\""
+        - listitem [ref=e501]: "Team and expectations: \"Who would I work with most closely, and what would strong progress look like by day 90?\""
+        - listitem [ref=e502]: "Next assessment: \"What do you evaluate in the take-home and paid onsite, and what are the time expectations and rules for using AI tools?\""
+      - heading "32 LOGISTICS TO CLARIFY" [level=2] [ref=e503]
+      - table [ref=e504]:
+        - rowgroup [ref=e508]:
+          - row [ref=e509]:
+            - columnheader "TOPIC" [ref=e510]
+            - columnheader "FACT / WORDING" [ref=e511]
+        - rowgroup [ref=e512]:
+          - row [ref=e513]:
+            - cell "Office" [ref=e514]
+            - 'cell "Posting says in-person, China Basin, San Francisco. You live in Pittsburg. Ask: \"What does the weekly office schedule look like?\" Decide whether it works for you; do not promise attendance you cannot sustain." [ref=e515]'
+          - row [ref=e516]:
+            - cell "Compensation" [ref=e517]
+            - 'cell "Published salary: $180,000-$250,000/year plus equity. \"I saw the posted range. I''d like to understand the scope, level, and equity before narrowing expectations.\"" [ref=e518]'
+          - row [ref=e519]:
+            - cell "Process" [ref=e520]
+            - cell "Introduction, take-home coding project, technical round, then a final two-day paid onsite project. Posting says the process is typically within two weeks; confirm timing." [ref=e521]
+          - row [ref=e522]:
+            - cell "Availability" [ref=e523]
+            - cell "Confirm tomorrow's time, timezone, and meeting link in your calendar. Give your actual start-date and work-authorization answers." [ref=e524]
+      - heading "33 CLOSE NATURALLY" [level=2] [ref=e525]
+      - generic [ref=e526]:
+        - generic [ref=e527]: If the conversation confirms your interest | 15-20 seconds
+        - paragraph [ref=e528]: This sounds aligned with the work I want to do next. I'd be excited to contribute, especially around reliable execution and evaluation tooling. Is there anything about my background you'd like me to clarify before the next step?
+      - heading "34 A 60-MINUTE PRACTICE PLAN" [level=2] [ref=e529]
+      - table [ref=e530]:
+        - rowgroup [ref=e534]:
+          - row [ref=e535]:
+            - columnheader "TIME" [ref=e536]
+            - columnheader "DO THIS" [ref=e537]
+        - rowgroup [ref=e538]:
+          - row [ref=e539]:
+            - cell "0-10 min" [ref=e540]
+            - cell "Read pages 1-3 and the LData article. Pick one specific question for Aidan." [ref=e541]
+          - row [ref=e542]:
+            - cell "10-25 min" [ref=e543]
+            - cell "Say the opener, Agentic story, and Crashpoint story aloud. Keep each under 75 seconds." [ref=e544]
+          - row [ref=e545]:
+            - cell "25-40 min" [ref=e546]
+            - cell "Explain the runner on page 8 without reading. Walk through a worker crash and stale completion." [ref=e547]
+          - row [ref=e548]:
+            - cell "40-50 min" [ref=e549]
+            - cell "Rehearse grader quality, the LangGraph correction, and your experience-gap answers." [ref=e550]
+          - row [ref=e551]:
+            - cell "50-60 min" [ref=e552]
+            - cell "Open your three best proof links. Confirm logistics. Choose three questions and stop cramming." [ref=e553]
+      - paragraph [ref=e554]: "If you only have 15 minutes: pages 1, 3, 5, and 11. For the live call, keep page 1 visible and use the others only when relevant."
+      - generic [ref=e555]:
+        - generic [ref=e556]: Mathew Stevens | Prepared September 17, 2026
+        - generic [ref=e557]: 11 / 12
+    - generic [ref=e558]:
+      - heading "Source and proof index" [level=1] [ref=e559]
+      - generic [ref=e560]: Clickable links | Checked September 17, 2026 | Historical experiments retain their original versions and limits.
+      - heading "35 COMPANY AND TECHNICAL SOURCES" [level=2] [ref=e561]
+      - table [ref=e562]:
+        - rowgroup [ref=e566]:
+          - row [ref=e567]:
+            - columnheader "SOURCE" [ref=e568]
+            - columnheader "WHY IT IS HERE" [ref=e569]
+        - rowgroup [ref=e570]:
+          - row [ref=e571]:
+            - cell [ref=e572]:
+              - link "Official infrastructure role" [ref=e573] [cursor=pointer]:
+                - /url: https://jobs.ashbyhq.com/LatchBio/9e1ee863-c1d7-45af-99be-e92a123c2211
+            - cell "Responsibilities, location, salary, hiring stages." [ref=e574]
+          - row [ref=e575]:
+            - cell [ref=e576]:
+              - link "LatchBio homepage" [ref=e577] [cursor=pointer]:
+                - /url: https://latch.bio/
+              - text: /
+              - link "product" [ref=e578] [cursor=pointer]:
+                - /url: https://latch.bio/product
+              - text: /
+              - link "about" [ref=e579] [cursor=pointer]:
+                - /url: https://latch.bio/about
+            - cell "Current company framing and established data/compute product." [ref=e580]
+          - row [ref=e581]:
+            - cell [ref=e582]:
+              - link "LData design article - Aidan co-author" [ref=e583] [cursor=pointer]:
+                - /url: https://blog.latch.bio/p/latch-data-a-distributed-file-system
+            - cell "Historical 2024 engineering context; confirm current design." [ref=e584]
+          - row [ref=e585]:
+            - cell [ref=e586]:
+              - link "scBench-Long post" [ref=e587] [cursor=pointer]:
+                - /url: https://blog.latch.bio/p/benchmarking-ai-agents-on-long-horizon
+              - text: /
+              - link "benchmarks.bio" [ref=e588] [cursor=pointer]:
+                - /url: https://benchmarks.bio/
+            - cell "2026 study; endpoint grading, diagnostics, model/harness comparison." [ref=e589]
+          - row [ref=e590]:
+            - cell [ref=e591]:
+              - link "Public Latch SDK" [ref=e592] [cursor=pointer]:
+                - /url: https://github.com/latchbio/latch
+            - cell "Python/Flyte workflow framework; not the complete private stack." [ref=e593]
+          - row [ref=e594]:
+            - cell [ref=e595]:
+              - link "Kubernetes Jobs" [ref=e596] [cursor=pointer]:
+                - /url: https://kubernetes.io/docs/concepts/workloads/controllers/job/
+              - text: /
+              - link "S3 notifications" [ref=e597] [cursor=pointer]:
+                - /url: https://docs.aws.amazon.com/AmazonS3/latest/userguide/notification-how-to-event-types-and-destinations.html
+              - text: /
+              - link "GKE Sandbox" [ref=e598] [cursor=pointer]:
+                - /url: https://docs.cloud.google.com/kubernetes-engine/docs/concepts/sandbox-pods
+            - cell "Reference material for proposed-design reasoning." [ref=e599]
+      - heading "36 OPEN THESE THREE BEFORE THE CALL" [level=2] [ref=e600]
+      - table [ref=e601]:
+        - rowgroup [ref=e605]:
+          - row [ref=e606]:
+            - columnheader "PROOF" [ref=e607]
+            - columnheader "WHAT YOU CAN SHOW" [ref=e608]
+        - rowgroup [ref=e609]:
+          - row [ref=e610]:
+            - cell [ref=e611]:
+              - link "Agentic code" [ref=e612] [cursor=pointer]:
+                - /url: https://github.com/mstevens843/solana-agent-wallet-adapter
+              - text: /
+              - link "product" [ref=e613] [cursor=pointer]:
+                - /url: https://agentic-signer.com
+            - cell "Shared wallet contract, tools, approval/receipt behavior, shipped surfaces." [ref=e614]
+          - row [ref=e615]:
+            - cell [ref=e616]:
+              - link "Crashpoint CrewAI experiment" [ref=e617] [cursor=pointer]:
+                - /url: https://github.com/mstevens843/crashpoint/blob/main/results/11-crewai-retry.md
+              - text: /
+              - link "upstream report" [ref=e618] [cursor=pointer]:
+                - /url: https://github.com/crewAIInc/crewAI/issues/5802#issuecomment-5657099160
+            - cell "Setup, actual retry path, recorded results, and limitations." [ref=e619]
+          - row [ref=e620]:
+            - cell [ref=e621]:
+              - link "Judge-Artifact regression evidence" [ref=e622] [cursor=pointer]:
+                - /url: https://github.com/mstevens843/judge-artifact/blob/main/results/09-grader-followup-regressions.md
+            - cell "Two-call mismatch, installed-package checks, explicit scope." [ref=e623]
+      - heading "37 ADDITIONAL PROJECTS AND CONTRIBUTIONS" [level=2] [ref=e624]
+      - paragraph [ref=e625]:
+        - link "Portfolio" [ref=e626] [cursor=pointer]:
+          - /url: https://mathewstevens.dev/portfolio/
+        - text: "|"
+        - link "Resume" [ref=e627] [cursor=pointer]:
+          - /url: https://mathewstevens.dev/portfolio/Mathew_Stevens_Resume.pdf
+        - text: "|"
+        - link "GitHub" [ref=e628] [cursor=pointer]:
+          - /url: https://github.com/mstevens843
+        - text: "|"
+        - link "SolPulse" [ref=e629] [cursor=pointer]:
+          - /url: https://solpulse.trade
+      - paragraph [ref=e630]:
+        - link "Agent Eval Foundry" [ref=e631] [cursor=pointer]:
+          - /url: https://github.com/mstevens843/agent-eval-foundry
+        - text: "|"
+        - link "Terminal-Bench Durable Outbox" [ref=e632] [cursor=pointer]:
+          - /url: https://github.com/mstevens843/terminal-bench-durable-outbox
+        - text: "|"
+        - link "Durable Agent Outbox" [ref=e633] [cursor=pointer]:
+          - /url: https://github.com/mstevens843/durable-agent-outbox
+        - text: "|"
+        - link "Capability Record Replay" [ref=e634] [cursor=pointer]:
+          - /url: https://github.com/mstevens843/capability-record-replay
+        - text: "|"
+        - link "ConfigPilot" [ref=e635] [cursor=pointer]:
+          - /url: https://github.com/mstevens843/ConfigPilot
+      - paragraph [ref=e636]:
+        - link "Agent Context Containment" [ref=e637] [cursor=pointer]:
+          - /url: https://github.com/mstevens843/agent-context-containment
+        - text: "|"
+        - link "Model Regression Sentinel" [ref=e638] [cursor=pointer]:
+          - /url: https://github.com/mstevens843/model-regression-sentinel
+        - text: "|"
+        - link "Toolcall Risk Classifier" [ref=e639] [cursor=pointer]:
+          - /url: https://github.com/mstevens843/toolcall-risk-classifier
+        - text: "|"
+        - link "Cheat-Oracle" [ref=e640] [cursor=pointer]:
+          - /url: https://github.com/mstevens843/cheat-oracle
+        - text: "|"
+        - link "Judge-Artifact" [ref=e641] [cursor=pointer]:
+          - /url: https://github.com/mstevens843/judge-artifact
+      - paragraph [ref=e642]:
+        - 'link "LangGraph #8764" [ref=e643] [cursor=pointer]':
+          - /url: https://github.com/langchain-ai/langgraph/issues/8764
+        - text: "|"
+        - 'link "LangGraph #8039" [ref=e644] [cursor=pointer]':
+          - /url: https://github.com/langchain-ai/langgraph/issues/8039#issuecomment-5455407133
+        - text: "|"
+        - link "LangChain docs review" [ref=e645] [cursor=pointer]:
+          - /url: https://github.com/langchain-ai/docs/pull/5899#issuecomment-5575009517
+        - text: "|"
+        - link "DBOS evidence" [ref=e646] [cursor=pointer]:
+          - /url: https://github.com/dbos-inc/dbos-transact-py/pull/838#issuecomment-5481695742
+        - text: "|"
+        - link "AgentCI adoption" [ref=e647] [cursor=pointer]:
+          - /url: https://github.com/jinngimk-lang/agentci/pull/160
+        - text: "|"
+        - 'link "Inspect #2108" [ref=e648] [cursor=pointer]':
+          - /url: https://github.com/UKGovernmentBEIS/inspect_evals/issues/2108#issuecomment-5560855592
+        - text: "|"
+        - 'link "Inspect #2310" [ref=e649] [cursor=pointer]':
+          - /url: https://github.com/UKGovernmentBEIS/inspect_evals/issues/2310#issuecomment-5494162954
+        - text: "|"
+        - 'link "Inspect #4286" [ref=e650] [cursor=pointer]':
+          - /url: https://github.com/UKGovernmentBEIS/inspect_ai/issues/4286#issuecomment-5494142599
+      - paragraph [ref=e651]:
+        - text: "Authored merged PRs:"
+        - 'link "Godot #449" [ref=e652] [cursor=pointer]':
+          - /url: https://github.com/Virus-Axel/godot-solana-sdk/pull/449
+        - text: "|"
+        - link "#453" [ref=e653] [cursor=pointer]:
+          - /url: https://github.com/Virus-Axel/godot-solana-sdk/pull/453
+        - text: "|"
+        - link "#454" [ref=e654] [cursor=pointer]:
+          - /url: https://github.com/Virus-Axel/godot-solana-sdk/pull/454
+        - text: "|"
+        - 'link "Unity #275" [ref=e655] [cursor=pointer]':
+          - /url: https://github.com/magicblock-labs/Solana.Unity-SDK/pull/275
+      - heading "38 ACCURACY NOTES FOR YOUR ANSWERS" [level=2] [ref=e656]
+      - list [ref=e657]:
+        - listitem [ref=e658]: Agentic and SolPulse are shipped products. Other projects have prototype, library, or research scopes.
+        - listitem [ref=e659]: Keep metrics tied to their source, date, and measurement. Trial counts are not model performance.
+        - listitem [ref=e660]: Credit your authored code separately from investigations and other maintainers' implementations.
+      - paragraph [ref=e661]: Invitation details come from your email. Questions and design exercises are preparation, not a known interview script. Earlier guides supplied the format, not the factual claims.
+      - generic [ref=e662]:
+        - generic [ref=e663]: Mathew Stevens | Prepared September 17, 2026
+        - generic [ref=e664]: 12 / 12

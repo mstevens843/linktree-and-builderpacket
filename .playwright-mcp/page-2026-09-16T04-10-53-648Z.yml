@@ -1,0 +1,143 @@
+- generic [ref=f38e2]:
+  - list [ref=f38e4]:
+    - listitem [ref=f38e5]:
+      - link [ref=f38e6] [cursor=pointer]:
+        - /url: https://www.merge.dev/
+        - img "Merge" [ref=f38e7]
+    - listitem
+    - listitem
+  - generic [ref=f38e8]:
+    - status [ref=f38e10]:
+      - text: Open Positions
+      - generic [ref=f38e11]: (17)
+    - generic [ref=f38e12]:
+      - generic [ref=f38e13]:
+        - generic [ref=f38e14]:
+          - generic [ref=f38e15]: "Filters:"
+          - button "Reset filters" [disabled]
+        - generic [ref=f38e16]:
+          - combobox "Department" [ref=f38e18]:
+            - option "All Departments"
+            - option "Engineering (8)"
+            - option "Marketing (1)"
+            - option "Product & Design (1)"
+            - option "Revenue (3)"
+            - option "Solutions & Services (4)"
+          - combobox "Employment" [ref=f38e20]:
+            - option "All Employment Types"
+            - option "Full time (17)"
+          - combobox "Location" [ref=f38e22]:
+            - option "All Locations"
+            - option "New York, NY (6)"
+            - option "New York, NY; San Francisco, CA (5)"
+            - option "San Francisco, CA (6)"
+          - combobox "Location Type" [ref=f38e24]:
+            - option "All Location Types"
+            - option "On-site (13)"
+        - status [ref=f38e25]: No filters applied
+      - generic [ref=f38e26]:
+        - heading "Engineering" [level=2] [ref=f38e27]
+        - generic [ref=f38e29]:
+          - link [ref=f38e30] [cursor=pointer]:
+            - /url: /merge/a2073c73-49cf-44fd-a537-2e6fcb1895ef
+            - generic [ref=f38e31]:
+              - heading "Engineering Manager, Agent Handler" [level=3] [ref=f38e32]
+              - paragraph [ref=f38e34]: Engineering • San Francisco, CA • Full time • On-site
+          - link [ref=f38e35] [cursor=pointer]:
+            - /url: /merge/1b9bb8da-1332-45ae-8d45-346b0ee49800
+            - generic [ref=f38e36]:
+              - heading "Integrations Engineer" [level=3] [ref=f38e37]
+              - paragraph [ref=f38e39]: Engineering • New York, NY • Full time • On-site
+          - link [ref=f38e40] [cursor=pointer]:
+            - /url: /merge/328f6431-aad9-4a63-9614-09ad9a762dd8
+            - generic [ref=f38e41]:
+              - heading "Security Engineer" [level=3] [ref=f38e42]
+              - paragraph [ref=f38e44]: Engineering • New York, NY; San Francisco, CA • Full time
+          - link [ref=f38e45] [cursor=pointer]:
+            - /url: /merge/c4046bcb-524b-4fb1-867b-5237eadf4466
+            - generic [ref=f38e46]:
+              - heading "Senior Engineering Manager" [level=3] [ref=f38e47]
+              - paragraph [ref=f38e49]: Engineering • New York, NY • Full time • On-site
+          - link [ref=f38e50] [cursor=pointer]:
+            - /url: /merge/c923ede7-3320-4b81-ada9-b772c9b4a4b9
+            - generic [ref=f38e51]:
+              - heading "Senior Software Engineer" [level=3] [ref=f38e52]
+              - paragraph [ref=f38e54]: Engineering • San Francisco, CA • Full time • On-site
+          - link [ref=f38e55] [cursor=pointer]:
+            - /url: /merge/7b98a416-65ba-4a92-9941-9d24366b6139
+            - generic [ref=f38e56]:
+              - heading "Senior Software Engineer" [level=3] [ref=f38e57]
+              - paragraph [ref=f38e59]: Engineering • New York, NY • Full time • On-site
+          - link [ref=f38e60] [cursor=pointer]:
+            - /url: /merge/eb29e8b3-5e00-4b00-affc-0823044665f1
+            - generic [ref=f38e61]:
+              - heading "Sr./Staff Engineer, Agent Handler" [level=3] [ref=f38e62]
+              - paragraph [ref=f38e64]: Engineering • San Francisco, CA • Full time • On-site
+          - link [ref=f38e65] [cursor=pointer]:
+            - /url: /merge/18ef9d99-96d3-47ae-9645-803095c9a881
+            - generic [ref=f38e66]:
+              - heading "Staff Software Engineer" [level=3] [ref=f38e67]
+              - paragraph [ref=f38e69]: Engineering • New York, NY; San Francisco, CA • Full time
+        - heading "Marketing" [level=2] [ref=f38e70]
+        - link [ref=f38e73] [cursor=pointer]:
+          - /url: /merge/c102070b-5f95-4f1f-b3f1-8d150f453a3a
+          - generic [ref=f38e74]:
+            - heading "Content Marketer" [level=3] [ref=f38e75]
+            - paragraph [ref=f38e77]: Marketing • New York, NY; San Francisco, CA • Full time • On-site
+        - heading "Product & Design" [level=2] [ref=f38e78]
+        - link [ref=f38e81] [cursor=pointer]:
+          - /url: /merge/d21d3e7c-f090-43a5-9c69-799f517185e7
+          - generic [ref=f38e82]:
+            - heading "Data Analyst" [level=3] [ref=f38e83]
+            - paragraph [ref=f38e85]: Product & Design • San Francisco, CA • Full time • On-site
+        - heading "Revenue" [level=2] [ref=f38e86]
+        - generic [ref=f38e88]:
+          - link [ref=f38e89] [cursor=pointer]:
+            - /url: /merge/633161e8-8f54-4eea-9d04-af504d7717d3
+            - generic [ref=f38e90]:
+              - heading "Commercial Account Executive" [level=3] [ref=f38e91]
+              - paragraph [ref=f38e93]: Revenue • New York, NY; San Francisco, CA • Full time
+          - link [ref=f38e94] [cursor=pointer]:
+            - /url: /merge/004efee5-a044-48ef-8aaa-51a24df9f7c7
+            - generic [ref=f38e95]:
+              - heading "Enterprise Account Executive" [level=3] [ref=f38e96]
+              - paragraph [ref=f38e98]: Revenue • New York, NY; San Francisco, CA • Full time
+          - link [ref=f38e99] [cursor=pointer]:
+            - /url: /merge/a20bd3b9-485c-459d-8bc1-052d80da2f45
+            - generic [ref=f38e100]:
+              - heading "Sales Development Representative" [level=3] [ref=f38e101]
+              - paragraph [ref=f38e103]: Revenue • New York, NY • Full time • On-site
+        - heading "Solutions & Services" [level=2] [ref=f38e104]
+        - generic [ref=f38e106]:
+          - link [ref=f38e107] [cursor=pointer]:
+            - /url: /merge/9eddd34c-d5c0-418c-8ce5-00a63f9e6c3c
+            - generic [ref=f38e108]:
+              - heading "Customer Success Manager, Commercial" [level=3] [ref=f38e109]
+              - paragraph [ref=f38e111]: Solutions & Services • San Francisco, CA • Full time • On-site
+          - link [ref=f38e112] [cursor=pointer]:
+            - /url: /merge/cfa0079d-e401-4f2f-8550-15d1f5ac173e
+            - generic [ref=f38e113]:
+              - heading "Customer Success Manager, Commercial" [level=3] [ref=f38e114]
+              - paragraph [ref=f38e116]: Solutions & Services • New York, NY • Full time • On-site
+          - link [ref=f38e117] [cursor=pointer]:
+            - /url: /merge/831f8a57-4fcf-4df6-911f-111dab16482d
+            - generic [ref=f38e118]:
+              - heading "Deployment Strategist" [level=3] [ref=f38e119]
+              - paragraph [ref=f38e121]: Solutions & Services • San Francisco, CA • Full time • On-site
+          - link [ref=f38e122] [cursor=pointer]:
+            - /url: /merge/13b79b2e-a27e-4dbe-835a-b789e2b601ed
+            - generic [ref=f38e123]:
+              - heading "Solutions Architect" [level=3] [ref=f38e124]
+              - paragraph [ref=f38e126]: Solutions & Services • New York, NY • Full time • On-site
+  - contentinfo [ref=f38e127]:
+    - link "Learn more about Ashby" [ref=f38e128] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=f38e129]: Powered by
+      - img "Ashby" [ref=f38e130]
+    - paragraph [ref=f38e136]:
+      - link "Privacy Policy" [ref=f38e137] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=f38e138] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=f38e139] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

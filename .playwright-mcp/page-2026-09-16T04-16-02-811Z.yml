@@ -1,0 +1,987 @@
+- generic [ref=f257e1]:
+  - generic [aria-hidden] [ref=f257e2]:
+    - link [ref=f257e3] [cursor=pointer]:
+      - /url: "#main-content"
+      - text: Skip to main content
+    - banner [ref=f257e4]:
+      - navigation [ref=f257e5]:
+        - link [ref=f257e6] [cursor=pointer]:
+          - /url: /?trk=public_jobs_nav-header-logo
+          - generic [ref=f257e7]: LinkedIn
+        - generic [ref=f257e20]:
+          - button [ref=f257e22] [cursor=pointer]:
+            - generic [ref=f257e23]: Jobs
+          - tabpanel [ref=f257e24]:
+            - search [ref=f257e25]:
+              - generic [ref=f257e26]:
+                - combobox [ref=f257e27]: Full Stack Engineer
+                - button [ref=f257e28] [cursor=pointer]:
+                  - generic [ref=f257e29]: Clear text
+              - generic [ref=f257e35]:
+                - combobox [ref=f257e36]: United States
+                - button [ref=f257e37] [cursor=pointer]:
+                  - generic [ref=f257e38]: Clear text
+              - button [ref=f257e44] [cursor=pointer]
+          - status [ref=f257e48]
+        - generic [ref=f257e49]:
+          - link [ref=f257e50] [cursor=pointer]:
+            - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&fromSignIn=true&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fsearch-results%3Fkeywords%3Dfull%2Bstack%2Bengineer%26f_TPR%3Dr604800&trk=public_jobs_nav-header-signin
+            - text: Sign in
+          - link [ref=f257e51] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fsearch-results%3Fkeywords%3Dfull%2Bstack%2Bengineer%26f_TPR%3Dr604800&trk=public_jobs_nav-header-join
+            - text: Join now
+    - generic [ref=f257e54]:
+      - list [ref=f257e58]:
+        - listitem [ref=f257e59]:
+          - button [ref=f257e62] [cursor=pointer]: Past week
+        - listitem [ref=f257e66]:
+          - button [ref=f257e69] [cursor=pointer]: Company
+        - listitem [ref=f257e73]:
+          - link [ref=f257e74] [cursor=pointer]:
+            - /url: https://www.linkedin.com/jobs/search/?keywords=full+stack+engineer&location=United+States&f_E=2%2C3&f_WT=2&f_TPR=r604800&sortBy=DD&f_AL=true&trk=public_jobs_filters_f_AL
+            - text: Easy Apply
+        - listitem [ref=f257e75]:
+          - link [ref=f257e76] [cursor=pointer]:
+            - /url: https://www.linkedin.com/jobs/search/?keywords=full+stack+engineer&location=United+States&f_E=2%2C3&f_WT=2&f_TPR=r604800&sortBy=DD&f_EA=true&trk=public_jobs_filters_f_EA
+            - text: Under 10 applicants
+      - button [ref=f257e78] [cursor=pointer]: Where are the filters?
+    - main [ref=f257e83]:
+      - generic [ref=f257e90]:
+        - paragraph [ref=f257e91]:
+          - text: Get notified about new Full Stack Engineer jobs in
+          - strong [ref=f257e92]: United States
+          - text: .
+        - link [ref=f257e93] [cursor=pointer]:
+          - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fsearch-results%3Fkeywords%3Dfull%2Bstack%2Bengineer%26f_TPR%3Dr604800&trk=public_jobs_job-alert-guest-redirect-cta
+          - text: Sign in to create job alert
+      - heading [level=1] [ref=f257e95]: 10,000+ Full Stack Engineer Jobs in United States
+      - list [ref=f257e97]:
+        - listitem [ref=f257e98]:
+          - generic [ref=f257e99]:
+            - link [ref=f257e100] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-full-stack-engineer-ruby-and-react-at-kavaliro-4446511727?position=1&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=Nn3ArRjWaA6XkrGEkd7cMQ%3D%3D
+              - generic [ref=f257e101]: Senior Full Stack Engineer, Ruby and React
+            - generic [ref=f257e103]:
+              - heading [level=3] [ref=f257e104]: Senior Full Stack Engineer, Ruby and React
+              - heading [level=4] [ref=f257e105]:
+                - link [ref=f257e106] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/kavaliro?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Kavaliro
+              - generic [ref=f257e107]:
+                - generic [ref=f257e108]: Salt Lake City, UT
+                - generic [ref=f257e109]: Vision insurance +3 benefits
+                - time [ref=f257e112]: 5 days ago
+        - listitem [ref=f257e113]:
+          - generic [ref=f257e114]:
+            - link [ref=f257e115] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-engineer-at-kavaliro-4446523031?position=2&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=ii5fWYfcrpXZcstcDLPbzQ%3D%3D
+              - generic [ref=f257e116]: Full Stack Engineer
+            - generic [ref=f257e118]:
+              - heading [level=3] [ref=f257e119]: Full Stack Engineer
+              - heading [level=4] [ref=f257e120]:
+                - link [ref=f257e121] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/kavaliro?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Kavaliro
+              - generic [ref=f257e122]:
+                - generic [ref=f257e123]: Salt Lake City, UT
+                - generic [ref=f257e124]: Vision insurance +3 benefits
+                - time [ref=f257e127]: 6 days ago
+        - listitem [ref=f257e128]:
+          - generic [ref=f257e129]:
+            - link [ref=f257e130] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-software-engineer-senior-level-3-at-lockheed-martin-4463477397?position=3&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=LmIXjePPw7xamI1fDyWv3g%3D%3D
+              - generic [ref=f257e131]: Full-Stack Software Engineer Senior - Level 3
+            - generic [ref=f257e133]:
+              - heading [level=3] [ref=f257e134]: Full-Stack Software Engineer Senior - Level 3
+              - heading [level=4] [ref=f257e135]:
+                - link [ref=f257e136] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/lockheed-martin?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Lockheed Martin
+              - generic [ref=f257e137]:
+                - generic [ref=f257e138]: Marietta, GA
+                - time [ref=f257e139]: 5 days ago
+        - listitem [ref=f257e140]:
+          - generic [ref=f257e141]:
+            - link [ref=f257e142] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/junior-full-stack-software-engineer-at-lumion-4466559276?position=4&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=epkqLDhoXGzC5F6f4p%2B4rw%3D%3D
+              - generic [ref=f257e143]: Junior Full Stack Software Engineer
+            - generic [ref=f257e145]:
+              - heading [level=3] [ref=f257e146]: Junior Full Stack Software Engineer
+              - heading [level=4] [ref=f257e147]:
+                - link [ref=f257e148] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/joinlumion?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Lumion
+              - generic [ref=f257e149]:
+                - generic [ref=f257e150]: South Jordan, UT
+                - generic [ref=f257e151]: 401(k) +3 benefits
+                - time [ref=f257e154]: 11 hours ago
+        - listitem [ref=f257e155]:
+          - generic [ref=f257e156]:
+            - link [ref=f257e157] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-full-stack-engineer-at-classdojo-4318543704?position=5&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=bPmJa9IUSwFawOXTTNLEWw%3D%3D
+              - generic [ref=f257e158]: Senior Full-Stack Engineer
+            - generic [ref=f257e160]:
+              - heading [level=3] [ref=f257e161]: Senior Full-Stack Engineer
+              - heading [level=4] [ref=f257e162]:
+                - link [ref=f257e163] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/classdojo?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: ClassDojo
+              - generic [ref=f257e164]:
+                - generic [ref=f257e165]: San Francisco, CA
+                - time [ref=f257e166]: 4 days ago
+        - listitem [ref=f257e167]:
+          - generic [ref=f257e168]:
+            - link [ref=f257e169] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-web-developer-at-farm-family-4465853078?position=6&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=SFaN7DcFqsj%2BLa3gKLg%2BeA%3D%3D
+              - generic [ref=f257e170]: Full-Stack Web Developer
+            - generic [ref=f257e172]:
+              - heading [level=3] [ref=f257e173]: Full-Stack Web Developer
+              - heading [level=4] [ref=f257e174]:
+                - link [ref=f257e175] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/farmfamilyinsurance?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Farm Family
+              - generic [ref=f257e176]:
+                - generic [ref=f257e177]: Omaha, NE
+                - time [ref=f257e178]: 5 days ago
+        - listitem [ref=f257e179]:
+          - generic [ref=f257e180]:
+            - link [ref=f257e181] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-engineer-at-wonderschool-4264052074?position=7&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=n5OHhrEUAVV6Yba1dxSmXw%3D%3D
+              - generic [ref=f257e182]: Full Stack Engineer
+            - generic [ref=f257e184]:
+              - heading [level=3] [ref=f257e185]: Full Stack Engineer
+              - heading [level=4] [ref=f257e186]:
+                - link [ref=f257e187] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/wonderschool?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Wonderschool
+              - generic [ref=f257e188]:
+                - generic [ref=f257e189]: San Francisco, CA
+                - time [ref=f257e190]: 4 days ago
+        - listitem [ref=f257e191]:
+          - generic [ref=f257e192]:
+            - link [ref=f257e193] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-developer-at-t2-systems-4466789240?position=8&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=LF%2FD6RZqnkRBdcBnGoFS8g%3D%3D
+              - generic [ref=f257e194]: Full Stack Developer
+            - generic [ref=f257e196]:
+              - heading [level=3] [ref=f257e197]: Full Stack Developer
+              - heading [level=4] [ref=f257e198]:
+                - link [ref=f257e199] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/t2-systems?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: T2 Systems
+              - generic [ref=f257e200]:
+                - generic [ref=f257e201]: Indianapolis, IN
+                - time [ref=f257e202]: 2 days ago
+        - listitem [ref=f257e203]:
+          - generic [ref=f257e204]:
+            - link [ref=f257e205] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-full-stack-engineer-at-sincere-corporation-4435906784?position=9&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=W8HNK%2B5Fl5PsCXDm8cW6wQ%3D%3D
+              - generic [ref=f257e206]: Senior Full Stack Engineer
+            - generic [ref=f257e208]:
+              - heading [level=3] [ref=f257e209]: Senior Full Stack Engineer
+              - heading [level=4] [ref=f257e210]:
+                - link [ref=f257e211] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/sincerecorporation?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Sincere Corporation
+              - generic [ref=f257e212]:
+                - generic [ref=f257e213]: Greater Boston
+                - generic [ref=f257e214]: Be an early applicant
+                - time [ref=f257e217]: 3 days ago
+        - listitem [ref=f257e218]:
+          - generic [ref=f257e219]:
+            - link [ref=f257e220] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-software-engineer-employee-experience-at-spacex-4455943483?position=10&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=yKQd6kC7Dg%2FxhcZZTxjIeA%3D%3D
+              - generic [ref=f257e221]: Full Stack Software Engineer, Employee Experience
+            - generic [ref=f257e223]:
+              - heading [level=3] [ref=f257e224]: Full Stack Software Engineer, Employee Experience
+              - heading [level=4] [ref=f257e225]:
+                - link [ref=f257e226] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/spacex?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: SpaceX
+              - generic [ref=f257e227]:
+                - generic [ref=f257e228]: Hawthorne, CA
+                - time [ref=f257e229]: 6 days ago
+        - listitem [ref=f257e230]:
+          - generic [ref=f257e231]:
+            - link [ref=f257e232] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-software-engineer-charlotte-nc-at-piedmont-plastics-4465508112?position=11&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=momFcBXAQQGGa%2FbWgsoqJw%3D%3D
+              - generic [ref=f257e233]: Full-Stack Software Engineer - Charlotte, NC
+            - generic [ref=f257e235]:
+              - heading [level=3] [ref=f257e236]: Full-Stack Software Engineer - Charlotte, NC
+              - heading [level=4] [ref=f257e237]:
+                - link [ref=f257e238] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/piedmont-plastics?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Piedmont Plastics
+              - generic [ref=f257e239]:
+                - generic [ref=f257e240]: Charlotte, NC
+                - time [ref=f257e241]: 22 hours ago
+        - listitem [ref=f257e242]:
+          - generic [ref=f257e243]:
+            - link [ref=f257e244] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/sr-full-stack-software-engineer-at-vista-higher-learning-4384550743?position=12&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=HMxcPMPoDHX6Bnba%2FUFzKg%3D%3D
+              - generic [ref=f257e245]: Sr Full stack Software Engineer
+            - generic [ref=f257e247]:
+              - heading [level=3] [ref=f257e248]: Sr Full stack Software Engineer
+              - heading [level=4] [ref=f257e249]:
+                - link [ref=f257e250] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/vista-higher-learning?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Vista Higher Learning
+              - generic [ref=f257e251]:
+                - generic [ref=f257e252]: Boston, MA
+                - time [ref=f257e253]: 6 days ago
+        - listitem [ref=f257e254]:
+          - generic [ref=f257e255]:
+            - link [ref=f257e256] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-application-software-at-spacex-4456453176?position=13&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=EkoPGS%2BErUY3K7NBoWZvVg%3D%3D
+              - generic [ref=f257e257]: Software Engineer (Application Software)
+            - generic [ref=f257e259]:
+              - heading [level=3] [ref=f257e260]: Software Engineer (Application Software)
+              - heading [level=4] [ref=f257e261]:
+                - link [ref=f257e262] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/spacex?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: SpaceX
+              - generic [ref=f257e263]:
+                - generic [ref=f257e264]: Hawthorne, CA
+                - time [ref=f257e265]: 5 days ago
+        - listitem [ref=f257e266]:
+          - generic [ref=f257e267]:
+            - link [ref=f257e268] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-engineer-assistant-vice-president-at-icapital-4419973522?position=14&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=WURdwUO43K%2FjJ1MYZAk7bg%3D%3D
+              - generic [ref=f257e269]: Full Stack Engineer - Assistant Vice President
+            - generic [ref=f257e271]:
+              - heading [level=3] [ref=f257e272]: Full Stack Engineer - Assistant Vice President
+              - heading [level=4] [ref=f257e273]:
+                - link [ref=f257e274] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/icapital-network-inc?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: iCapital
+              - generic [ref=f257e275]:
+                - generic [ref=f257e276]: Salt Lake City, UT
+                - time [ref=f257e277]: 3 days ago
+        - listitem [ref=f257e278]:
+          - generic [ref=f257e279]:
+            - link [ref=f257e280] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-software-engineer-%24190k-%24225k-%2B-equity-at-hyperbound-at-jack-jill-4457404614?position=15&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=oqdqAZV0VFS2Br2PHc7d1A%3D%3D
+              - generic [ref=f257e281]: Full-Stack Software Engineer ($190k-$225k + Equity) at Hyperbound
+            - generic [ref=f257e283]:
+              - heading [level=3] [ref=f257e284]: Full-Stack Software Engineer ($190k-$225k + Equity) at Hyperbound
+              - heading [level=4] [ref=f257e285]:
+                - link [ref=f257e286] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/jackandjillai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Jack & Jill
+              - generic [ref=f257e287]:
+                - generic [ref=f257e288]: San Francisco, CA
+                - generic [ref=f257e289]: Be an early applicant
+                - time [ref=f257e292]: 16 hours ago
+        - listitem [ref=f257e293]:
+          - generic [ref=f257e294]:
+            - link [ref=f257e295] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/sr-full-stack-software-engineer-alpharetta-ga-at-oec-4465081777?position=16&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=LVIRgUOxVese1iwdU85big%3D%3D
+              - generic [ref=f257e296]: Sr Full Stack Software Engineer- Alpharetta, GA
+            - generic [ref=f257e298]:
+              - heading [level=3] [ref=f257e299]: Sr Full Stack Software Engineer- Alpharetta, GA
+              - heading [level=4] [ref=f257e300]:
+                - link [ref=f257e301] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/oec-solutions?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: OEC
+              - generic [ref=f257e302]:
+                - generic [ref=f257e303]: Alpharetta, GA
+                - time [ref=f257e304]: 6 days ago
+        - listitem [ref=f257e305]:
+          - generic [ref=f257e306]:
+            - link [ref=f257e307] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-full-stack-engineer-net-react-at-cla-cliftonlarsonallen-4465796750?position=17&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=WdvFCR7PSJeVmEweYJ%2BDvA%3D%3D
+              - generic [ref=f257e308]: Senior Full Stack Engineer - (.NET / React)
+            - generic [ref=f257e310]:
+              - heading [level=3] [ref=f257e311]: Senior Full Stack Engineer - (.NET / React)
+              - heading [level=4] [ref=f257e312]:
+                - link [ref=f257e313] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/cliftonlarsonallen?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: CLA (CliftonLarsonAllen)
+              - generic [ref=f257e314]:
+                - generic [ref=f257e315]: Milwaukee, WI
+                - time [ref=f257e316]: 1 day ago
+        - listitem [ref=f257e317]:
+          - generic [ref=f257e318]:
+            - link [ref=f257e319] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-engineer-associate-at-icapital-4419964841?position=18&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=DB1RRak6saur4kkQrhyo1A%3D%3D
+              - generic [ref=f257e320]: Full Stack Engineer - Associate
+            - generic [ref=f257e322]:
+              - heading [level=3] [ref=f257e323]: Full Stack Engineer - Associate
+              - heading [level=4] [ref=f257e324]:
+                - link [ref=f257e325] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/icapital-network-inc?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: iCapital
+              - generic [ref=f257e326]:
+                - generic [ref=f257e327]: Salt Lake City, UT
+                - time [ref=f257e328]: 3 days ago
+        - listitem [ref=f257e329]:
+          - generic [ref=f257e330]:
+            - link [ref=f257e331] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-at-navidence-4466582915?position=19&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=gJbloAGggcVsq0JCGVxRig%3D%3D
+              - generic [ref=f257e332]: Senior Software Engineer
+            - generic [ref=f257e334]:
+              - heading [level=3] [ref=f257e335]: Senior Software Engineer
+              - heading [level=4] [ref=f257e336]:
+                - link [ref=f257e337] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/navidence?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Navidence
+              - generic [ref=f257e338]:
+                - generic [ref=f257e339]: Salt Lake City, UT
+                - time [ref=f257e340]: 5 hours ago
+        - listitem [ref=f257e341]:
+          - generic [ref=f257e342]:
+            - link [ref=f257e343] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-full-stack-product-engineering-at-baton-4465092585?position=20&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=NPrZv80T7zrRXCMCFwuXJg%3D%3D
+              - generic [ref=f257e344]: Software Engineer - Full Stack, Product Engineering
+            - generic [ref=f257e346]:
+              - heading [level=3] [ref=f257e347]: Software Engineer - Full Stack, Product Engineering
+              - heading [level=4] [ref=f257e348]:
+                - link [ref=f257e349] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/baton-trucking?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Baton
+              - generic [ref=f257e350]:
+                - generic [ref=f257e351]: San Francisco, CA
+                - time [ref=f257e352]: 6 days ago
+        - listitem [ref=f257e353]:
+          - generic [ref=f257e354]:
+            - link [ref=f257e355] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-developer-729-at-freedom-technology-solutions-group-llc-4448602478?position=21&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=DGAUG3TMqZtmuLnculFi0g%3D%3D
+              - generic [ref=f257e356]: Full Stack Developer 729
+            - generic [ref=f257e358]:
+              - heading [level=3] [ref=f257e359]: Full Stack Developer 729
+              - heading [level=4] [ref=f257e360]:
+                - link [ref=f257e361] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/goftsg?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Freedom Technology Solutions Group, LLC
+              - generic [ref=f257e362]:
+                - generic [ref=f257e363]: Herndon, VA
+                - generic [ref=f257e364]: Be an early applicant
+                - time [ref=f257e367]: 11 hours ago
+        - listitem [ref=f257e368]:
+          - generic [ref=f257e369]:
+            - link [ref=f257e370] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-full-stack-developer-net-at-revolutional-4464127964?position=22&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=MNcJSc9w48C92SgfaP4HRg%3D%3D
+              - generic [ref=f257e371]: Senior Full-Stack Developer (.NET)
+            - generic [ref=f257e373]:
+              - heading [level=3] [ref=f257e374]: Senior Full-Stack Developer (.NET)
+              - heading [level=4] [ref=f257e375]:
+                - link [ref=f257e376] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/wearerevolutional?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Revolutional
+              - generic [ref=f257e377]:
+                - generic [ref=f257e378]: McLean, VA
+                - time [ref=f257e379]: 6 days ago
+        - listitem [ref=f257e380]:
+          - generic [ref=f257e381]:
+            - link [ref=f257e382] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/avp-senior-full-stack-software-engineer-ai-cloud-platforms-at-lpl-financial-4429182308?position=23&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=F9JZ8lUv%2BiP56hMjzK3LBQ%3D%3D
+              - generic [ref=f257e383]: AVP, Senior Full Stack Software Engineer (AI & Cloud Platforms)
+            - generic [ref=f257e385]:
+              - heading [level=3] [ref=f257e386]: AVP, Senior Full Stack Software Engineer (AI & Cloud Platforms)
+              - heading [level=4] [ref=f257e387]:
+                - link [ref=f257e388] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/lpl-financial?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: LPL Financial
+              - generic [ref=f257e389]:
+                - generic [ref=f257e390]: Fort Mill, SC
+                - time [ref=f257e391]: 6 days ago
+        - listitem [ref=f257e392]:
+          - generic [ref=f257e393]:
+            - link [ref=f257e394] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-full-stack-engineer-at-plenful-4443621839?position=24&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=GXUn913ShKqPwTEc8YKj2g%3D%3D
+              - generic [ref=f257e395]: Senior Full-Stack Engineer
+            - generic [ref=f257e397]:
+              - heading [level=3] [ref=f257e398]: Senior Full-Stack Engineer
+              - heading [level=4] [ref=f257e399]:
+                - link [ref=f257e400] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/plenful?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Plenful
+              - generic [ref=f257e401]:
+                - generic [ref=f257e402]: Chicago, IL
+                - time [ref=f257e403]: 5 days ago
+        - listitem [ref=f257e404]:
+          - generic [ref=f257e405]:
+            - link [ref=f257e406] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-software-engineer-%E2%80%93-net-at-bright-vision-technologies-4467770455?position=25&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=wVkMTxZ1iYxYqHo4lZ5r1g%3D%3D
+              - generic [ref=f257e407]: Full Stack Software Engineer – .NET
+            - generic [ref=f257e409]:
+              - heading [level=3] [ref=f257e410]: Full Stack Software Engineer – .NET
+              - heading [level=4] [ref=f257e411]:
+                - link [ref=f257e412] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/in-bvteck?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Bright Vision Technologies
+              - generic [ref=f257e413]:
+                - generic [ref=f257e414]: New Albany, OH
+                - time [ref=f257e415]: 8 hours ago
+        - listitem [ref=f257e416]:
+          - generic [ref=f257e417]:
+            - link [ref=f257e418] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/net-fullstack-developer-at-tata-consultancy-services-4466124882?position=26&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=xyc3JKXGdT5g0%2BtMrRZA%2BA%3D%3D
+              - generic [ref=f257e419]: . Net FullStack Developer
+            - generic [ref=f257e421]:
+              - heading [level=3] [ref=f257e422]: . Net FullStack Developer
+              - heading [level=4] [ref=f257e423]:
+                - link [ref=f257e424] [cursor=pointer]:
+                  - /url: https://in.linkedin.com/company/tata-consultancy-services?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Tata Consultancy Services
+              - generic [ref=f257e425]:
+                - generic [ref=f257e426]: Grand Rapids, MI
+                - time [ref=f257e427]: 1 day ago
+        - listitem [ref=f257e428]:
+          - generic [ref=f257e429]:
+            - link [ref=f257e430] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-engineer-it-specialist-iii-ncs-mayor-s-office-of-performance-and-innovation-at-city-of-baltimore-4467217729?position=27&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=nFW5i8ZXjpMUcFG%2Fgard%2Fg%3D%3D
+              - generic [ref=f257e431]: Full Stack Engineer, IT Specialist III (NCS) - Mayor's Office of Performance and Innovation
+            - generic [ref=f257e433]:
+              - heading [level=3] [ref=f257e434]: Full Stack Engineer, IT Specialist III (NCS) - Mayor's Office of Performance and Innovation
+              - heading [level=4] [ref=f257e435]:
+                - link [ref=f257e436] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/city-of-baltimore?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: City of Baltimore
+              - generic [ref=f257e437]:
+                - generic [ref=f257e438]: Baltimore, MD
+                - time [ref=f257e439]: 1 day ago
+        - listitem [ref=f257e440]:
+          - generic [ref=f257e441]:
+            - link [ref=f257e442] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-engineer-at-auto-hauler-exchange-4465085936?position=28&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=XdclOo%2Be8Y%2B6%2F70qab9Iig%3D%3D
+              - generic [ref=f257e443]: Full Stack Engineer
+            - generic [ref=f257e445]:
+              - heading [level=3] [ref=f257e446]: Full Stack Engineer
+              - heading [level=4] [ref=f257e447]:
+                - link [ref=f257e448] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/auto-hauler-exchange?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Auto Hauler Exchange
+              - generic [ref=f257e449]:
+                - generic [ref=f257e450]: Rochester, MI
+                - time [ref=f257e451]: 6 days ago
+        - listitem [ref=f257e452]:
+          - generic [ref=f257e453]:
+            - link [ref=f257e454] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-engineer-at-atlas-search-4452592693?position=29&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=YIYscWvqFyzmvePTjjpVEg%3D%3D
+              - generic [ref=f257e455]: Full Stack Engineer
+            - generic [ref=f257e457]:
+              - heading [level=3] [ref=f257e458]: Full Stack Engineer
+              - heading [level=4] [ref=f257e459]:
+                - link [ref=f257e460] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/atlas-search?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Atlas Search
+              - generic [ref=f257e461]:
+                - generic [ref=f257e462]: Salt Lake City Metropolitan Area
+                - generic [ref=f257e463]: Medical insurance +3 benefits
+                - time [ref=f257e466]: 13 hours ago
+        - listitem [ref=f257e467]:
+          - generic [ref=f257e468]:
+            - link [ref=f257e469] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-full-stack-engineer-angular-node-js-at-heartcentrix-solutions-4450843293?position=30&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=Ewsj%2Bsuql%2FHxNZztn5o6Vg%3D%3D
+              - generic [ref=f257e470]: Senior Full Stack Engineer (Angular / Node.js)
+            - generic [ref=f257e472]:
+              - heading [level=3] [ref=f257e473]: Senior Full Stack Engineer (Angular / Node.js)
+              - heading [level=4] [ref=f257e474]:
+                - link [ref=f257e475] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/heartcentrix?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: HeartCentrix Solutions
+              - generic [ref=f257e476]:
+                - generic [ref=f257e477]: Phoenix, AZ
+                - time [ref=f257e478]: 5 days ago
+        - listitem [ref=f257e479]:
+          - generic [ref=f257e480]:
+            - link [ref=f257e481] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-teladoc-health-4466094663?position=31&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=bfbVqLIaNPO9s6YRHO%2FlwQ%3D%3D
+              - generic [ref=f257e482]: Full-Stack Software Engineer
+            - generic [ref=f257e484]:
+              - heading [level=3] [ref=f257e485]: Full-Stack Software Engineer
+              - heading [level=4] [ref=f257e486]:
+                - link [ref=f257e487] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/teladoc-health?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Teladoc Health
+              - generic [ref=f257e488]:
+                - generic [ref=f257e489]: New York, NY
+                - time [ref=f257e490]: 4 days ago
+        - listitem [ref=f257e491]:
+          - generic [ref=f257e492]:
+            - link [ref=f257e493] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-full-stack-developer-net-at-revolutional-4466555351?position=32&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=aG1EgB5xv0W3Ss%2FZyBcq1g%3D%3D
+              - generic [ref=f257e494]: Senior Full Stack Developer (.NET)
+            - generic [ref=f257e496]:
+              - heading [level=3] [ref=f257e497]: Senior Full Stack Developer (.NET)
+              - heading [level=4] [ref=f257e498]:
+                - link [ref=f257e499] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/wearerevolutional?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Revolutional
+              - generic [ref=f257e500]:
+                - generic [ref=f257e501]: McLean, VA
+                - generic [ref=f257e502]: Be an early applicant
+                - time [ref=f257e505]: 11 hours ago
+        - listitem [ref=f257e506]:
+          - generic [ref=f257e507]:
+            - link [ref=f257e508] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-full-stack-engineer-at-xp-health-4466741361?position=33&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=Lj83Im4jgpXK1c%2B0BzP6KA%3D%3D
+              - generic [ref=f257e509]: Senior Full Stack Engineer
+            - generic [ref=f257e511]:
+              - heading [level=3] [ref=f257e512]: Senior Full Stack Engineer
+              - heading [level=4] [ref=f257e513]:
+                - link [ref=f257e514] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/xphealth?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: XP Health
+              - generic [ref=f257e515]:
+                - generic [ref=f257e516]: San Carlos, CA
+                - time [ref=f257e517]: 3 days ago
+        - listitem [ref=f257e518]:
+          - generic [ref=f257e519]:
+            - link [ref=f257e520] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/sr-full-stack-engineer-uspacom-at-culmen-international-4466830295?position=34&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=3xz97J9C5m2IJZLL0v68LA%3D%3D
+              - generic [ref=f257e521]: Sr. Full-Stack Engineer (USPACOM)
+            - generic [ref=f257e523]:
+              - heading [level=3] [ref=f257e524]: Sr. Full-Stack Engineer (USPACOM)
+              - heading [level=4] [ref=f257e525]:
+                - link [ref=f257e526] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/culmen-international?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Culmen International
+              - generic [ref=f257e527]:
+                - generic [ref=f257e528]: Honolulu, HI
+                - generic [ref=f257e529]: Be an early applicant
+                - time [ref=f257e532]: 35 minutes ago
+        - listitem [ref=f257e533]:
+          - generic [ref=f257e534]:
+            - link [ref=f257e535] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-full-stack-engineer-net-react-at-cla-cliftonlarsonallen-4465792780?position=35&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=kSoz7OwBlUccoUSBvWtepQ%3D%3D
+              - generic [ref=f257e536]: Senior Full Stack Engineer - (.NET / React)
+            - generic [ref=f257e538]:
+              - heading [level=3] [ref=f257e539]: Senior Full Stack Engineer - (.NET / React)
+              - heading [level=4] [ref=f257e540]:
+                - link [ref=f257e541] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/cliftonlarsonallen?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: CLA (CliftonLarsonAllen)
+              - generic [ref=f257e542]:
+                - generic [ref=f257e543]: Madison, WI
+                - time [ref=f257e544]: 1 day ago
+        - listitem [ref=f257e545]:
+          - generic [ref=f257e546]:
+            - link [ref=f257e547] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-full-stack-at-confluence-4437036109?position=36&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=QPRZryjUs4U1dJvBe5LVBA%3D%3D
+              - generic [ref=f257e548]: Senior Software Engineer (Full Stack)
+            - generic [ref=f257e550]:
+              - heading [level=3] [ref=f257e551]: Senior Software Engineer (Full Stack)
+              - heading [level=4] [ref=f257e552]:
+                - link [ref=f257e553] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/confluence-technologies?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Confluence
+              - generic [ref=f257e554]:
+                - generic [ref=f257e555]: Pittsburgh, PA
+                - time [ref=f257e556]: 5 days ago
+        - listitem [ref=f257e557]:
+          - generic [ref=f257e558]:
+            - link [ref=f257e559] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-gtm-at-podium-4464246520?position=37&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=nmBbj3lMcz8pmvas09woJQ%3D%3D
+              - generic [ref=f257e560]: Software Engineer - GTM
+            - generic [ref=f257e562]:
+              - heading [level=3] [ref=f257e563]: Software Engineer - GTM
+              - heading [level=4] [ref=f257e564]:
+                - link [ref=f257e565] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/podium?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Podium
+              - generic [ref=f257e566]:
+                - generic [ref=f257e567]: Lehi, UT
+                - time [ref=f257e568]: 4 days ago
+        - listitem [ref=f257e569]:
+          - generic [ref=f257e570]:
+            - link [ref=f257e571] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-full-stack-software-engineer-at-synergy-ecp-4467263082?position=38&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=Tk5rHYooLBnppYMkMUfBCA%3D%3D
+              - generic [ref=f257e572]: Senior Full Stack Software Engineer
+            - generic [ref=f257e574]:
+              - heading [level=3] [ref=f257e575]: Senior Full Stack Software Engineer
+              - heading [level=4] [ref=f257e576]:
+                - link [ref=f257e577] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/synergyecp?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Synergy ECP
+              - generic [ref=f257e578]:
+                - generic [ref=f257e579]: Washington, DC
+                - generic [ref=f257e580]: Be an early applicant
+                - time [ref=f257e583]: 1 day ago
+        - listitem [ref=f257e584]:
+          - generic [ref=f257e585]:
+            - link [ref=f257e586] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-software-engineer-ii-at-divergent-4464236733?position=39&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=kq1QkBRqInDEyCVhn7K4Lw%3D%3D
+              - generic [ref=f257e587]: Full Stack Software Engineer II
+            - generic [ref=f257e589]:
+              - heading [level=3] [ref=f257e590]: Full Stack Software Engineer II
+              - heading [level=4] [ref=f257e591]:
+                - link [ref=f257e592] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/divergenttechnologies?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Divergent
+              - generic [ref=f257e593]:
+                - generic [ref=f257e594]: Torrance, CA
+                - time [ref=f257e595]: 1 day ago
+        - listitem [ref=f257e596]:
+          - generic [ref=f257e597]:
+            - link [ref=f257e598] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/avp-senior-full-stack-software-engineer-ai-cloud-platforms-at-lpl-financial-4429197109?position=40&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=Pnsn59m1x5kKv7CyvH1uDA%3D%3D
+              - generic [ref=f257e599]: AVP, Senior Full Stack Software Engineer (AI & Cloud Platforms)
+            - generic [ref=f257e601]:
+              - heading [level=3] [ref=f257e602]: AVP, Senior Full Stack Software Engineer (AI & Cloud Platforms)
+              - heading [level=4] [ref=f257e603]:
+                - link [ref=f257e604] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/lpl-financial?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: LPL Financial
+              - generic [ref=f257e605]:
+                - generic [ref=f257e606]: Austin, TX
+                - time [ref=f257e607]: 6 days ago
+        - listitem [ref=f257e608]:
+          - generic [ref=f257e609]:
+            - link [ref=f257e610] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-developer-729-at-freedom-technology-solutions-group-llc-4448392703?position=41&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=zyPCmi8OkSId%2Fqb1XySKIw%3D%3D
+              - generic [ref=f257e611]: Full Stack Developer 729
+            - generic [ref=f257e613]:
+              - heading [level=3] [ref=f257e614]: Full Stack Developer 729
+              - heading [level=4] [ref=f257e615]:
+                - link [ref=f257e616] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/goftsg?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Freedom Technology Solutions Group, LLC
+              - generic [ref=f257e617]:
+                - generic [ref=f257e618]: Springfield, VA
+                - generic [ref=f257e619]: Be an early applicant
+                - time [ref=f257e622]: 10 hours ago
+        - listitem [ref=f257e623]:
+          - generic [ref=f257e624]:
+            - link [ref=f257e625] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-software-engineer-model-development-platform-at-wayve-4456518595?position=42&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=7H7aP%2Bxg%2FSzzcdD%2FStr0xQ%3D%3D
+              - generic [ref=f257e626]: Full-Stack Software Engineer, Model Development Platform
+            - generic [ref=f257e628]:
+              - heading [level=3] [ref=f257e629]: Full-Stack Software Engineer, Model Development Platform
+              - heading [level=4] [ref=f257e630]:
+                - link [ref=f257e631] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/wayve-technologies?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Wayve
+              - generic [ref=f257e632]:
+                - generic [ref=f257e633]: Sunnyvale, CA
+                - time [ref=f257e634]: 11 hours ago
+        - listitem [ref=f257e635]:
+          - generic [ref=f257e636]:
+            - link [ref=f257e637] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-full-stack-software-engineer-at-talently-4455341444?position=43&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=Gwnn6aVzYyWM0G4P1me2tA%3D%3D
+              - generic [ref=f257e638]: Senior Full Stack Software Engineer
+            - generic [ref=f257e640]:
+              - heading [level=3] [ref=f257e641]: Senior Full Stack Software Engineer
+              - heading [level=4] [ref=f257e642]:
+                - link [ref=f257e643] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/talently-recruiting?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Talently
+              - generic [ref=f257e644]:
+                - generic [ref=f257e645]: Dallas, TX
+                - time [ref=f257e646]: 2 days ago
+        - listitem [ref=f257e647]:
+          - generic [ref=f257e648]:
+            - link [ref=f257e649] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-developer-software-engineer-iii-top-secret-clearance-at-deloitte-4465616625?position=44&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=hJ3tp0aw4o2FRZCZtSqbDA%3D%3D
+              - generic [ref=f257e650]: Full Stack Developer - Software Engineer III - Top Secret clearance
+            - generic [ref=f257e652]:
+              - heading [level=3] [ref=f257e653]: Full Stack Developer - Software Engineer III - Top Secret clearance
+              - heading [level=4] [ref=f257e654]:
+                - link [ref=f257e655] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/deloitte?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Deloitte
+              - generic [ref=f257e656]:
+                - generic [ref=f257e657]: Arlington, VA
+                - generic [ref=f257e658]: Be an early applicant
+                - time [ref=f257e661]: 5 days ago
+        - listitem [ref=f257e662]:
+          - generic [ref=f257e663]:
+            - link [ref=f257e664] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/fullstack-software-engineer-at-collective-4411299806?position=45&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=lN%2F0tmfcrTgUaU8dLEQWvA%3D%3D
+              - generic [ref=f257e665]: Fullstack Software Engineer
+            - generic [ref=f257e667]:
+              - heading [level=3] [ref=f257e668]: Fullstack Software Engineer
+              - heading [level=4] [ref=f257e669]:
+                - link [ref=f257e670] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/collective?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Collective
+              - generic [ref=f257e671]:
+                - generic [ref=f257e672]: San Francisco, CA
+                - time [ref=f257e673]: 2 days ago
+        - listitem [ref=f257e674]:
+          - generic [ref=f257e675]:
+            - link [ref=f257e676] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-full-stack-engineer-at-haus-4465791936?position=46&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=oux6qjeqkw4SMbhRJq4K7g%3D%3D
+              - generic [ref=f257e677]: Senior Full Stack Engineer
+            - generic [ref=f257e679]:
+              - heading [level=3] [ref=f257e680]: Senior Full Stack Engineer
+              - heading [level=4] [ref=f257e681]:
+                - link [ref=f257e682] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/haus-analytics?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Haus
+              - generic [ref=f257e683]:
+                - generic [ref=f257e684]: Seattle, WA
+                - time [ref=f257e685]: 1 day ago
+        - listitem [ref=f257e686]:
+          - generic [ref=f257e687]:
+            - link [ref=f257e688] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-engineer-at-material-share-4465152209?position=47&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=K%2B75ZS6CGj7rLo3su4iLHg%3D%3D
+              - generic [ref=f257e689]: Full Stack Engineer
+            - generic [ref=f257e691]:
+              - heading [level=3] [ref=f257e692]: Full Stack Engineer
+              - heading [level=4] [ref=f257e693]:
+                - link [ref=f257e694] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/material-share-app?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Material Share
+              - generic [ref=f257e695]:
+                - generic [ref=f257e696]: Salt Lake City Metropolitan Area
+                - time [ref=f257e697]: 4 days ago
+        - listitem [ref=f257e698]:
+          - generic [ref=f257e699]:
+            - link [ref=f257e700] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-full-stack-developer-at-exeter-finance-4464556540?position=48&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=HP4eo7ScvtR2ivjhYgVeew%3D%3D
+              - generic [ref=f257e701]: Senior Full Stack Developer
+            - generic [ref=f257e703]:
+              - heading [level=3] [ref=f257e704]: Senior Full Stack Developer
+              - heading [level=4] [ref=f257e705]:
+                - link [ref=f257e706] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/exeter-finance-corp?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Exeter Finance
+              - generic [ref=f257e707]:
+                - generic [ref=f257e708]: Dallas-Fort Worth Metroplex
+                - time [ref=f257e709]: 5 days ago
+        - listitem [ref=f257e710]:
+          - generic [ref=f257e711]:
+            - link [ref=f257e712] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-developer-software-engineer-iii-top-secret-clearance-at-deloitte-4465605707?position=49&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=dXH7U0X4%2FgixtjiB4sTXgA%3D%3D
+              - generic [ref=f257e713]: Full Stack Developer - Software Engineer III - Top Secret clearance
+            - generic [ref=f257e715]:
+              - heading [level=3] [ref=f257e716]: Full Stack Developer - Software Engineer III - Top Secret clearance
+              - heading [level=4] [ref=f257e717]:
+                - link [ref=f257e718] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/deloitte?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Deloitte
+              - generic [ref=f257e719]:
+                - generic [ref=f257e720]: Washington, DC
+                - generic [ref=f257e721]: Be an early applicant
+                - time [ref=f257e724]: 5 days ago
+        - listitem [ref=f257e725]:
+          - generic [ref=f257e726]:
+            - link [ref=f257e727] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-software-engineer-gov-at-openai-4418853792?position=50&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=oxBUhS73EhBoFY9aWq22aQ%3D%3D
+              - generic [ref=f257e728]: Full Stack Software Engineer, Gov
+            - generic [ref=f257e730]:
+              - heading [level=3] [ref=f257e731]: Full Stack Software Engineer, Gov
+              - heading [level=4] [ref=f257e732]:
+                - link [ref=f257e733] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/openai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: OpenAI
+              - generic [ref=f257e734]:
+                - generic [ref=f257e735]: Seattle, WA
+                - time [ref=f257e736]: 2 days ago
+        - listitem [ref=f257e737]:
+          - generic [ref=f257e738]:
+            - link [ref=f257e739] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-api-developer-ts-sci-with-polygraph-at-general-dynamics-information-technology-4467771951?position=51&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=9BhfQPZylyaWzpKxzu%2BA4w%3D%3D
+              - generic [ref=f257e740]: Full Stack API Developer- TS/SCI with Polygraph
+            - generic [ref=f257e742]:
+              - heading [level=3] [ref=f257e743]: Full Stack API Developer- TS/SCI with Polygraph
+              - heading [level=4] [ref=f257e744]:
+                - link [ref=f257e745] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/gdit?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: General Dynamics Information Technology
+              - generic [ref=f257e746]:
+                - generic [ref=f257e747]: Chantilly, VA
+                - generic [ref=f257e748]: Be an early applicant
+                - time [ref=f257e751]: 6 hours ago
+        - listitem [ref=f257e752]:
+          - generic [ref=f257e753]:
+            - link [ref=f257e754] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-full-stack-php-laravel-b2b-saas-at-motion-recruitment-4456370911?position=52&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=gH0%2FeQRZzVWp1%2Bz4zVz49g%3D%3D
+              - generic [ref=f257e755]: Senior Software Engineer// Full Stack PHP Laravel // B2B SaaS
+            - generic [ref=f257e757]:
+              - heading [level=3] [ref=f257e758]: Senior Software Engineer// Full Stack PHP Laravel // B2B SaaS
+              - heading [level=4] [ref=f257e759]:
+                - link [ref=f257e760] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/motion-recruitment-partners?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Motion Recruitment
+              - generic [ref=f257e761]:
+                - generic [ref=f257e762]: Washington, DC
+                - time [ref=f257e763]: 5 days ago
+        - listitem [ref=f257e764]:
+          - generic [ref=f257e765]:
+            - link [ref=f257e766] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-full-stack-engineer-at-general-dynamics-information-technology-4467278493?position=53&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=LQJNjl%2BW%2FR7fzD%2BLvZoBGw%3D%3D
+              - generic [ref=f257e767]: Senior Full Stack Engineer
+            - generic [ref=f257e769]:
+              - heading [level=3] [ref=f257e770]: Senior Full Stack Engineer
+              - heading [level=4] [ref=f257e771]:
+                - link [ref=f257e772] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/gdit?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: General Dynamics Information Technology
+              - generic [ref=f257e773]:
+                - generic [ref=f257e774]: Fort Liberty, NC
+                - generic [ref=f257e775]: Be an early applicant
+                - time [ref=f257e778]: 1 day ago
+        - listitem [ref=f257e779]:
+          - generic [ref=f257e780]:
+            - link [ref=f257e781] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/sr-iot-full-stack-software-engineer-at-rivian-and-volkswagen-group-technologies-4415727249?position=54&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=x1oujkc3%2B4Zy52%2FI3wS9nA%3D%3D
+              - generic [ref=f257e782]: Sr. IoT Full-Stack Software Engineer
+            - generic [ref=f257e784]:
+              - heading [level=3] [ref=f257e785]: Sr. IoT Full-Stack Software Engineer
+              - heading [level=4] [ref=f257e786]:
+                - link [ref=f257e787] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/rivian-and-vw-group-technologies?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Rivian and Volkswagen Group Technologies
+              - generic [ref=f257e788]:
+                - generic [ref=f257e789]: Irvine, CA
+                - time [ref=f257e790]: 4 days ago
+        - listitem [ref=f257e791]:
+          - generic [ref=f257e792]:
+            - link [ref=f257e793] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-developer-at-international-forest-products-ifp-4422883940?position=55&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=pShm5NaYwt%2BZ0YQf0cxQIQ%3D%3D
+              - generic [ref=f257e794]: Full Stack Developer
+            - generic [ref=f257e796]:
+              - heading [level=3] [ref=f257e797]: Full Stack Developer
+              - heading [level=4] [ref=f257e798]:
+                - link [ref=f257e799] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/international-forest-products?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: International Forest Products (IFP)
+              - generic [ref=f257e800]:
+                - generic [ref=f257e801]: Foxborough (Foxboro), MA
+                - time [ref=f257e802]: 6 days ago
+        - listitem [ref=f257e803]:
+          - generic [ref=f257e804]:
+            - link [ref=f257e805] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/sr-full-stack-engineer-at-hhaexchange-4446809222?position=56&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=4VElumPugIIaNPhd%2FcbWQQ%3D%3D
+              - generic [ref=f257e806]: Sr. Full Stack Engineer
+            - generic [ref=f257e808]:
+              - heading [level=3] [ref=f257e809]: Sr. Full Stack Engineer
+              - heading [level=4] [ref=f257e810]:
+                - link [ref=f257e811] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/hhaexchange?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: HHAeXchange
+              - generic [ref=f257e812]:
+                - generic [ref=f257e813]: Washington DC-Baltimore Area
+                - time [ref=f257e814]: 5 days ago
+        - listitem [ref=f257e815]:
+          - generic [ref=f257e816]:
+            - link [ref=f257e817] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/founding-full-stack-engineer-at-jobot-4464732891?position=57&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=Ap4wWbFim0Pxzz8VJJNZ4g%3D%3D
+              - generic [ref=f257e818]: Founding Full Stack Engineer
+            - generic [ref=f257e820]:
+              - heading [level=3] [ref=f257e821]: Founding Full Stack Engineer
+              - heading [level=4] [ref=f257e822]:
+                - link [ref=f257e823] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/jobot?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Jobot
+              - generic [ref=f257e824]:
+                - generic [ref=f257e825]: Mountain View, CA
+                - time [ref=f257e826]: 2 days ago
+        - listitem [ref=f257e827]:
+          - generic [ref=f257e828]:
+            - link [ref=f257e829] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-slb-4463007845?position=58&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=pkyT4e3OC0G0X1Ma89ejAw%3D%3D
+              - generic [ref=f257e830]: Full Stack Software Engineer
+            - generic [ref=f257e832]:
+              - heading [level=3] [ref=f257e833]: Full Stack Software Engineer
+              - heading [level=4] [ref=f257e834]:
+                - link [ref=f257e835] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/slbglobal?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: SLB
+              - generic [ref=f257e836]:
+                - generic [ref=f257e837]: Houston, TX
+                - time [ref=f257e838]: 6 days ago
+        - listitem [ref=f257e839]:
+          - generic [ref=f257e840]:
+            - link [ref=f257e841] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-full-stack-developer-smart-factory-solutions-at-magna-international-4402699543?position=59&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=dLYsfPhPMkG7u1rkMI3VKw%3D%3D
+              - generic [ref=f257e842]: Senior Full Stack Developer, Smart Factory Solutions
+            - generic [ref=f257e844]:
+              - heading [level=3] [ref=f257e845]: Senior Full Stack Developer, Smart Factory Solutions
+              - heading [level=4] [ref=f257e846]:
+                - link [ref=f257e847] [cursor=pointer]:
+                  - /url: https://ca.linkedin.com/company/magna-international?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Magna International
+              - generic [ref=f257e848]:
+                - generic [ref=f257e849]: Troy, MI
+                - time [ref=f257e850]: 13 hours ago
+        - listitem [ref=f257e851]:
+          - generic [ref=f257e852]:
+            - link [ref=f257e853] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/sr-software-engineer-ii-fullstack-axs-at-aeg-4437337758?position=60&pageNum=0&refId=ogvjrsO9WBCP2lMSNqYU4Q%3D%3D&trackingId=EE%2BCLNxj0vAgllNu5pVMXQ%3D%3D
+              - generic [ref=f257e854]: Sr Software Engineer II - Fullstack - AXS
+            - generic [ref=f257e856]:
+              - heading [level=3] [ref=f257e857]: Sr Software Engineer II - Fullstack - AXS
+              - heading [level=4] [ref=f257e858]:
+                - link [ref=f257e859] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/aeg?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: AEG
+              - generic [ref=f257e860]:
+                - generic [ref=f257e861]: Los Angeles, CA
+                - time [ref=f257e862]: 3 days ago
+    - contentinfo [ref=f257e865]:
+      - list [ref=f257e866]:
+        - generic [ref=f257e867]: LinkedIn
+        - generic [ref=f257e869]: © 2026
+        - listitem [ref=f257e870]:
+          - link [ref=f257e871] [cursor=pointer]:
+            - /url: https://about.linkedin.com?trk=public_jobs_footer-about
+            - text: About
+        - listitem [ref=f257e872]:
+          - link [ref=f257e873] [cursor=pointer]:
+            - /url: https://www.linkedin.com/accessibility?trk=public_jobs_footer-accessibility
+            - text: Accessibility
+        - listitem [ref=f257e874]:
+          - link [ref=f257e875] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/user-agreement?trk=public_jobs_footer-user-agreement
+            - text: User Agreement
+        - listitem [ref=f257e876]:
+          - link [ref=f257e877] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/privacy-policy?trk=public_jobs_footer-privacy-policy
+            - text: Privacy Policy
+        - listitem [ref=f257e878]:
+          - link [ref=f257e879] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/california-privacy-disclosure?trk=public_jobs_footer-california-privacy-rights-act
+            - text: Your California Privacy Choices
+        - listitem [ref=f257e880]:
+          - link [ref=f257e881] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/cookie-policy?trk=public_jobs_footer-cookie-policy
+            - text: Cookie Policy
+        - listitem [ref=f257e882]:
+          - link [ref=f257e883] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/copyright-policy?trk=public_jobs_footer-copyright-policy
+            - text: Copyright Policy
+        - listitem [ref=f257e884]:
+          - link [ref=f257e885] [cursor=pointer]:
+            - /url: https://brand.linkedin.com/policies?trk=public_jobs_footer-brand-policy
+            - text: Brand Policy
+        - listitem [ref=f257e886]:
+          - link [ref=f257e887] [cursor=pointer]:
+            - /url: https://www.linkedin.com/psettings/guest-controls?trk=public_jobs_footer-guest-controls
+            - text: Guest Controls
+        - listitem [ref=f257e888]:
+          - link [ref=f257e889] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/professional-community-policies?trk=public_jobs_footer-community-guide
+            - text: Community Guidelines
+        - listitem [ref=f257e890]:
+          - button [ref=f257e892]: Language
+  - dialog [active] [ref=f257e895]:
+    - button "Dismiss" [ref=f257e896] [cursor=pointer]
+    - generic [ref=f257e901]:
+      - heading "Sign in to view more jobs" [level=2] [ref=f257e903]
+      - generic [ref=f257e904]:
+        - generic:
+          - generic:
+            - button "Continue with google"
+        - button "Sign in with Email" [ref=f257e905] [cursor=pointer]
+        - paragraph [ref=f257e911]: or
+        - generic:
+          - generic:
+            - button "Continue with google"
+        - paragraph [ref=f257e912]:
+          - text: New to LinkedIn?
+          - link "Join now" [ref=f257e913] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&trk=public_jobs_contextual-sign-in-modal_join-link
+        - paragraph [ref=f257e914]:
+          - text: By clicking Continue to join or sign in, you agree to LinkedIn’s
+          - link "User Agreement" [ref=f257e915] [cursor=pointer]:
+            - /url: /legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement
+          - text: ","
+          - link "Privacy Policy" [ref=f257e916] [cursor=pointer]:
+            - /url: /legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy
+          - text: ", and"
+          - link "Cookie Policy" [ref=f257e917] [cursor=pointer]:
+            - /url: /legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy
+          - text: .

@@ -1,0 +1,10 @@
+[    2763ms] [LOG] RENDER @ https://www.tesla.com/modules/custom/tesla_mega_menu/dist/7.0.0/header.bundle.js:1
+[    2768ms] [LOG] RENDER @ https://www.tesla.com/modules/custom/tesla_mega_menu/dist/7.0.0/header.bundle.js:1
+[    2847ms] [LOG] RENDER @ https://www.tesla.com/modules/custom/tesla_mega_menu/dist/7.0.0/header.bundle.js:1
+[    2849ms] [LOG] RENDER @ https://www.tesla.com/modules/custom/tesla_mega_menu/dist/7.0.0/header.bundle.js:1
+[    3023ms] [INFO] Location script loaded @ https://digitalassets.tesla.com/cua-tesla/raw/upload/Prod/location-script.js:0
+[    3628ms] [INFO] [Location Script] Not allowed to write cookie {cookieName: ip_info} @ https://digitalassets.tesla.com/cua-tesla/raw/upload/Prod/location-script.js:0
+[    3629ms] [INFO] [Location Script] Writing cookie {cookieName: ip_info} @ https://digitalassets.tesla.com/cua-tesla/raw/upload/Prod/location-script.js:0
+[    3935ms] [LOG] undefined @ :0
+[    3944ms] [LOG] {timestamp: 1789641253050} @ :2
+[    4212ms] [WARNING] [Meta Pixel] - Removed URL query parameters due to potential violations. @ https://connect.facebook.net/en_US/fbevents.js:203

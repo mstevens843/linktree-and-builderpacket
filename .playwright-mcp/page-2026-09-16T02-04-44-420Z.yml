@@ -1,0 +1,12 @@
+- contentinfo [ref=f12e3]:
+  - link "Learn more about Ashby" [ref=f12e4] [cursor=pointer]:
+    - /url: https://www.ashbyhq.com
+    - generic [ref=f12e5]: Powered by
+    - img "Ashby" [ref=f12e6]
+  - paragraph [ref=f12e12]:
+    - link "Privacy Policy" [ref=f12e13] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com/privacy
+    - link "Security" [ref=f12e14] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com/security
+    - link "Vulnerability Disclosure" [ref=f12e15] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com/disclosure

@@ -1,0 +1,10 @@
+[    1198ms] ReferenceError: Webflow is not defined
+    at https://www.rainforestqa.com/careers?_live_review=1789421257513:208:1
+[    1206ms] TypeError: Cannot read properties of null (reading 'addEventListener')
+    at https://www.rainforestqa.com/careers?_live_review=1789421257513:258:14
+[    1607ms] Uncaught Error: YouTube player element ID required.
+    at X (https://www.youtube.com/s/player/9712d354/www-widgetapi.vflset/www-widgetapi.js:145:189)
+    at onYouTubeIframeAPIReady (https://www.rainforestqa.com/careers?_live_review=1789421257513:249:13)
+    at t.onYouTubeIframeAPIReady (https://www.googletagmanager.com/gtm.js?id=GTM-WG4C3B:928:201)
+    at <anonymous> (https://www.youtube.com/s/player/9712d354/www-widgetapi.vflset/www-widgetapi.js:184:152)
+    at <anonymous> (https://www.youtube.com/s/player/9712d354/www-widgetapi.vflset/www-widgetapi.js:184:202)

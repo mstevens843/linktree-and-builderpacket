@@ -1,0 +1,141 @@
+- generic [ref=f6e2]:
+  - list [ref=f6e7]:
+    - listitem [ref=f6e8]:
+      - link [ref=f6e9] [cursor=pointer]:
+        - /url: https://phantom.app/
+        - img "Phantom" [ref=f6e10]
+    - link "Back to Phantom’s Job Listings" [ref=f6e11] [cursor=pointer]:
+      - /url: https://phantom.com/careers
+    - listitem
+  - generic [ref=f6e14]:
+    - heading "Software Engineer, Frontend / Full Stack (Identity Platform)" [level=1] [ref=f6e16]
+    - generic [ref=f6e17]:
+      - generic [ref=f6e18]:
+        - generic [ref=f6e19]:
+          - heading "Location" [level=2] [ref=f6e20]
+          - paragraph [ref=f6e21]: Remote
+        - generic [ref=f6e22]:
+          - heading "Employment Type" [level=2] [ref=f6e23]
+          - paragraph [ref=f6e24]: Full time
+        - generic [ref=f6e25]:
+          - heading "Location Type" [level=2] [ref=f6e26]
+          - paragraph [ref=f6e27]: Remote
+        - generic [ref=f6e28]:
+          - heading "Department" [level=2] [ref=f6e29]
+          - paragraph [ref=f6e30]: Engineering
+      - generic [ref=f6e31]:
+        - tablist [ref=f6e32]:
+          - tab "Overview" [selected] [ref=f6e33] [cursor=pointer]
+          - tab "Application" [ref=f6e34] [cursor=pointer]
+        - tabpanel "Overview" [ref=f6e36]:
+          - generic [ref=f6e37]:
+            - paragraph [ref=f6e38]:
+              - link "Phantom" [ref=f6e39] [cursor=pointer]:
+                - /url: https://phantom.com
+              - text: is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural moments that shape them, building conviction through real-time data and the verified performance of top traders. With self-custody and access to open networks at its core, Phantom lets them control their financial moves in the same app they use to safely store or spend money worldwide.
+            - paragraph [ref=f6e40]: "Phantom has reached #1 in Google Play's finance category and consistently ranks in the top 50 apps across all categories. Phantom partners with many of the most trusted and influential names in finance like Hyperliquid, Stripe, Kalshi and Visa, to make the most popular and innovative financial products accessible to everyone."
+            - paragraph [ref=f6e41]: We are around 180 people, fully remote, backed by a $150M Series C investment from a16z, Sequoia Capital and Paradigm.
+            - paragraph [ref=f6e42]
+            - heading "Role Description" [level=2] [ref=f6e43]
+            - paragraph [ref=f6e44]: "Identity Platform is the trust root of Phantom: we own authentication, unlocking, onboarding/key generation, and the signing pipeline that every transaction flows through. This is a business-critical area where bugs can lock users out or put funds at risk. You'll ship TypeScript across browser, Node.js, and mobile runtimes (e.g., Hermes) to keep these foundations fast, secure, and reliable."
+            - paragraph [ref=f6e45]
+            - heading "Responsibilities" [level=2] [ref=f6e46]
+            - list [ref=f6e47]:
+              - listitem [ref=f6e48]:
+                - paragraph [ref=f6e49]: Own and evolve the signing path for every transaction in Phantom.
+              - listitem [ref=f6e50]:
+                - paragraph [ref=f6e51]: Build and harden authentication, unlocking, biometrics, and account access flows across web and mobile.
+              - listitem [ref=f6e52]:
+                - paragraph [ref=f6e53]: Ship passkeys (WebAuthn) and MFA improvements with a strong security/usability balance.
+              - listitem [ref=f6e54]:
+                - paragraph [ref=f6e55]: "Own onboarding and key lifecycle flows: key generation/derivation, seed phrase flows, seedless registration, hardware wallet pairing."
+              - listitem [ref=f6e56]:
+                - paragraph [ref=f6e57]: Own sensitive key export/import experiences and related safety rails.
+              - listitem [ref=f6e58]:
+                - paragraph [ref=f6e59]: Write and maintain high-signal, non-flaky tests (unit/integration/e2e) for critical paths; ensure safe rollouts via monitoring and staged releases.
+            - paragraph [ref=f6e60]
+            - heading "Qualifications" [level=2] [ref=f6e61]
+            - paragraph [ref=f6e62]:
+              - strong [ref=f6e63]: Must-have
+            - list [ref=f6e64]:
+              - listitem [ref=f6e65]:
+                - paragraph [ref=f6e66]: 7+ years of experience
+              - listitem [ref=f6e67]:
+                - paragraph [ref=f6e68]: Strong TypeScript skills; comfortable shipping code across browser, Node.js, and mobile JS runtimes.
+              - listitem [ref=f6e69]:
+                - paragraph [ref=f6e70]: Proven ability to build high-signal, low-flake test suites for critical systems.
+              - listitem [ref=f6e71]:
+                - paragraph [ref=f6e72]: Familiarity with auth concepts and common mechanisms (sessions/tokens, MFA/OTP, WebAuthn/passkeys)
+              - listitem [ref=f6e73]:
+                - paragraph [ref=f6e74]: "Strong engineering fundamentals: system design, debugging, and production reliability."
+            - paragraph [ref=f6e75]:
+              - strong [ref=f6e76]: Nice-to-have
+            - list [ref=f6e77]:
+              - listitem [ref=f6e78]:
+                - paragraph [ref=f6e79]: Deeper experience with OAuth2/OIDC, WebAuthn internals, cryptography, or key management systems.
+              - listitem [ref=f6e80]:
+                - paragraph [ref=f6e81]: Web3/wallet or signing-flow experience.
+              - listitem [ref=f6e82]:
+                - paragraph [ref=f6e83]: Security- or money-adjacent experience (identity, payments, custody).
+              - listitem [ref=f6e84]:
+                - paragraph [ref=f6e85]: Rust experience (or strong interest in learning it).
+            - paragraph [ref=f6e86]
+            - heading "Why Work with Us" [level=2] [ref=f6e87]
+            - paragraph [ref=f6e88]: We are a team of experienced builders in the blockchain and crypto industry. Our journey began from users seeking an easy, seamless path to accessing the crypto ecosystem. This passion fueled our exponential growth, allowing us to onboard over 20M+ active users in just over three years; with our user base growing weekly. Our dedication to a secure and seamless user experience has made us the leading wallet on Solana as well as our multi-chain approach enhances our platform's versatility, meeting the needs of a diverse and growing user base. By staying at the forefront of technology and user expectations, we continue to innovate and set industry standards on self-custodial crypto wallets.
+            - paragraph [ref=f6e89]: There has never been a better time to work in crypto to help shape the future of innovation with a focus around the wallet experience!
+            - list [ref=f6e90]:
+              - listitem [ref=f6e91]:
+                - paragraph [ref=f6e92]:
+                  - strong [ref=f6e93]: "First impressions matter:"
+                  - text: Wallets are responsible for a users first impression with crypto and onboarding new users into crypto. By ensuring that a user has a great first-time experience with crypto, we can help supercharge the growth of the entire ecosystem.
+              - listitem [ref=f6e94]:
+                - paragraph [ref=f6e95]:
+                  - strong [ref=f6e96]: "Make crypto easier to navigate:"
+                  - text: There is no easy way for a user to discover and navigate all that crypto has to offer. Wallets have a unique opportunity to help users not only onboard to crypto but also stay retained by exploring new things to do.
+              - listitem [ref=f6e97]:
+                - paragraph [ref=f6e98]:
+                  - strong [ref=f6e99]: "We live in a multi-chain world:"
+                  - text: We currently support Solana, Ethereum, Polygon and Bitcoin with more networks to come in the new future. We are focused on creating a unified, multi-chain crypto experience for users.
+            - paragraph [ref=f6e100]
+            - heading "Benefits" [level=2] [ref=f6e101]
+            - list [ref=f6e102]:
+              - listitem [ref=f6e103]:
+                - paragraph [ref=f6e104]: Competitive salary and equity
+              - listitem [ref=f6e105]:
+                - paragraph [ref=f6e106]: Comprehensive insurance (medical/dental/vision)- Employee 100% covered
+              - listitem [ref=f6e107]:
+                - paragraph [ref=f6e108]: Stipend for your ideal remote set-up
+              - listitem [ref=f6e109]:
+                - paragraph [ref=f6e110]: Flexible hours and a supportive remote environment
+              - listitem [ref=f6e111]:
+                - paragraph [ref=f6e112]: "Unlimited vacation: Take time when you need it (and we really mean it!)"
+              - listitem [ref=f6e113]:
+                - paragraph [ref=f6e114]: 401(k) retirement plan
+              - listitem [ref=f6e115]:
+                - paragraph [ref=f6e116]: Monthly wellness benefit
+              - listitem [ref=f6e117]:
+                - paragraph [ref=f6e118]: Weekly meal benefit
+              - listitem [ref=f6e119]:
+                - paragraph [ref=f6e120]: Global off-sites
+            - paragraph [ref=f6e121]
+            - paragraph [ref=f6e122]:
+              - strong [ref=f6e123]: We strongly encourage candidates of all backgrounds to apply.
+              - text: We believe that our work is stronger with a variety of perspectives, and we’re eager to further diversify our company. If you have a background that you feel would make an impact at Phantom, please consider applying. We’re committed to building an inclusive, supportive place for you to do the best work of your career.
+            - paragraph [ref=f6e124]
+            - paragraph [ref=f6e125]:
+              - emphasis [ref=f6e126]: By submitting your resume and application materials, you acknowledge and agree that Phantom Technologies, Inc. ("Phantom") collects and processes your personal information (including application materials, interview records, and related data) to evaluate your candidacy. Phantom may use AI-powered tools and third-party service providers for transcription, note-taking, scheduling, and other administrative tasks. Phantom does not sell your information and your materials will be handled securely and in accordance with applicable data protection laws.
+          - link [ref=f6e127] [cursor=pointer]:
+            - /url: /Phantom/be5a838e-a6f4-4d99-be08-e6419a857289/application
+            - button "Apply for this Job" [ref=f6e128]
+  - contentinfo [ref=f6e129]:
+    - link "Learn more about Ashby" [ref=f6e130] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=f6e131]: Powered by
+      - img "Ashby" [ref=f6e132]
+    - paragraph [ref=f6e138]:
+      - link "Privacy Policy" [ref=f6e139] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=f6e140] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=f6e141] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

@@ -1,0 +1,574 @@
+- generic [ref=f327e1]:
+  - link [aria-hidden] [ref=f327e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - text: Skip to main content
+  - banner [aria-hidden] [ref=f327e3]:
+    - navigation [ref=f327e4]:
+      - link [ref=f327e5] [cursor=pointer]:
+        - /url: /?trk=public_jobs_nav-header-logo
+        - generic [ref=f327e6]: LinkedIn
+      - generic [ref=f327e19]:
+        - button [ref=f327e21] [cursor=pointer]:
+          - generic [ref=f327e22]: Jobs
+        - tabpanel [ref=f327e23]:
+          - search [ref=f327e24]:
+            - generic [ref=f327e25]:
+              - combobox [ref=f327e26]: Full Stack Engineer
+              - button [ref=f327e27] [cursor=pointer]:
+                - generic [ref=f327e28]: Clear text
+            - generic [ref=f327e34]:
+              - combobox [ref=f327e35]: San Pablo, CA
+              - button [ref=f327e36] [cursor=pointer]:
+                - generic [ref=f327e37]: Clear text
+            - button [ref=f327e43] [cursor=pointer]
+        - status [ref=f327e47]
+      - generic [ref=f327e48]:
+        - link [ref=f327e49] [cursor=pointer]:
+          - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&fromSignIn=true&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Ffull-stack-engineer-at-wonderschool-4264052074&trk=public_jobs_nav-header-signin
+          - text: Sign in
+        - link [ref=f327e50] [cursor=pointer]:
+          - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Ffull-stack-engineer-at-wonderschool-4264052074&trk=public_jobs_nav-header-join
+          - text: Join now
+  - main [aria-hidden] [ref=f327e51]:
+    - generic [ref=f327e53]:
+      - generic [ref=f327e55]:
+        - link [ref=f327e56] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/wonderschool?trk=public_jobs_topcard_logo
+        - generic [ref=f327e59]:
+          - heading [level=1] [ref=f327e60]: Full Stack Engineer
+          - heading [level=4] [ref=f327e61]:
+            - generic [ref=f327e62]:
+              - link [ref=f327e64] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/wonderschool?trk=public_jobs_topcard-org-name
+                - text: Wonderschool
+              - text: · San Francisco, CA
+            - generic [ref=f327e65]:
+              - text: 4 days ago
+              - figure [ref=f327e66]: · Over 200 applicants
+            - link [ref=f327e68] [cursor=pointer]:
+              - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D18020048%26title%3DFull%2BStack%2BEngineer&emailAddress=&fromSignIn=&trk=public_jobs_see-who-was-hired_people-search-link_face-pile-cta
+              - paragraph [ref=f327e71]: See who Wonderschool has hired for this role
+          - generic [ref=f327e72]:
+            - button [ref=f327e73] [cursor=pointer]: Apply
+            - button [ref=f327e74] [cursor=pointer]: Save
+        - button [ref=f327e77] [cursor=pointer]
+        - generic [ref=f327e79]:
+          - heading [level=3] [ref=f327e80]: Use AI to assess how you fit
+          - paragraph [ref=f327e81]: Get AI-powered advice on this job and more exclusive features.
+          - generic [ref=f327e82]:
+            - button [ref=f327e83] [cursor=pointer]
+            - button [ref=f327e85] [cursor=pointer]:
+              - generic [ref=f327e87]: Am I a good fit for this job?
+            - button [ref=f327e88] [cursor=pointer]:
+              - generic [ref=f327e90]: Tailor my resume
+      - generic [ref=f327e91]:
+        - generic [ref=f327e93]:
+          - generic [ref=f327e94]:
+            - paragraph [ref=f327e95]: Direct message the job poster from Wonderschool
+            - generic [ref=f327e96]:
+              - link [ref=f327e97] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/chrisebennett
+                - generic [ref=f327e98]: Chris Bennett
+              - generic [ref=f327e100]:
+                - heading [level=3] [ref=f327e101]: Chris Bennett
+                - heading [level=4] [ref=f327e102]: CEO at Wonderschool
+              - link [ref=f327e104] [cursor=pointer]:
+                - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fchrisebennett&trk=public_jobs_message-the-recruiter-cta
+          - generic [ref=f327e106]:
+            - generic [ref=f327e107]:
+              - strong [ref=f327e108]: About Wonderschool
+              - text: Wonderschool’s mission is to ensure every child has access to early childhood education that helps them realize their full potential. We empower small business owners, childcare providers, to launch and grow programs through software, coaching, and support, while partnering with governments to modernize childcare infrastructure. We are building a category-defining platform at the intersection of marketplace, SaaS, and public sector systems, now increasingly powered by AI. Our products help providers run and grow their businesses, from enrollment and marketing to licensing, compliance, and daily operations. Our team is small, fast-moving, and deeply focused on building systems that scale. We value people who take ownership, experiment quickly, and use modern tools, including AI and automation, to increase their leverage and impact.
+              - strong [ref=f327e109]: Position Summary
+              - text: This role builds the core systems that power Wonderschool’s platform, enabling providers to launch and grow their businesses, governments to operate programs at scale, and families to access care. As a Senior Full Stack Engineer, you will own features end-to-end, working across frontend, backend, and data layers to deliver high-quality, scalable products. You will operate as a builder, partnering closely with product, design, and go-to-market teams to turn real-world problems into simple, effective solutions. Success in this role means shipping quickly, improving system reliability, and leveraging modern tools, including AI, to increase development velocity and product impact.
+              - strong [ref=f327e110]: Responsibilities
+              - strong [ref=f327e111]: Build and Own Product End-to-End
+              - list [ref=f327e112]:
+                - listitem [ref=f327e113]: Design, build, and ship full-stack features that improve provider, parent, and government experiences
+                - listitem [ref=f327e114]: Own the full development lifecycle, from scoping and architecture to implementation and production support
+                - listitem [ref=f327e115]: Write high-quality, maintainable code with strong test coverage
+                - listitem [ref=f327e116]: Debug and resolve production issues across the stack
+              - strong [ref=f327e117]: Drive Product Impact
+              - list [ref=f327e118]:
+                - listitem [ref=f327e119]: Partner closely with Product, Design, and Data to build features that solve real customer problems
+                - listitem [ref=f327e120]: Develop a deep understanding of customer workflows and use cases
+                - listitem [ref=f327e121]: Contribute to product decisions through technical insight and tradeoff analysis
+                - listitem [ref=f327e122]: Work closely with GTM teams to understand user needs and improve product outcomes
+              - strong [ref=f327e123]: Improve Systems and Scale
+              - list [ref=f327e124]:
+                - listitem [ref=f327e125]: Design systems and data models that support complex workflows and integrations
+                - listitem [ref=f327e126]: Improve performance, scalability, and reliability of the platform
+                - listitem [ref=f327e127]: Contribute to architecture decisions and technical direction
+                - listitem [ref=f327e128]: Help evolve engineering standards, tooling, and best practices
+              - strong [ref=f327e129]: Increase Engineering Leverage
+              - list [ref=f327e130]:
+                - listitem [ref=f327e131]: Use AI tools, automation, and modern development workflows to increase speed and efficiency
+                - listitem [ref=f327e132]: Identify opportunities to reduce manual work and improve developer productivity
+                - listitem [ref=f327e133]: Contribute to a culture of rapid iteration and continuous improvement
+              - strong [ref=f327e134]: Required Qualifications
+              - list [ref=f327e135]:
+                - listitem [ref=f327e136]: 6+ years of experience as a full stack engineer
+                - listitem [ref=f327e137]: Strong experience with modern frontend technologies (React, TypeScript, JavaScript)
+                - listitem [ref=f327e138]: Proficiency with backend systems (Node.js, Ruby on Rails, Elixir, or similar)
+                - listitem [ref=f327e139]: Experience working with relational databases (Postgres or similar)
+                - listitem [ref=f327e140]: Proven ability to deliver high-quality code with strong testing practices
+                - listitem [ref=f327e141]: Experience building and shipping production systems end-to-end
+                - listitem [ref=f327e142]: Strong collaboration and communication skills
+              - strong [ref=f327e143]: Preferred Qualifications
+              - list [ref=f327e144]:
+                - listitem [ref=f327e145]: Experience building complex or enterprise-grade systems with multiple integrations
+                - listitem [ref=f327e146]: Experience designing APIs (REST or GraphQL)
+                - listitem [ref=f327e147]: Familiarity with cloud infrastructure, containerization, or serverless architectures
+                - listitem [ref=f327e148]: Experience with CI/CD pipelines and DevOps practices
+                - listitem [ref=f327e149]: Experience working in fast-paced, high-growth environments
+                - listitem [ref=f327e150]: Experience incorporating AI into products or development workflows
+              - strong [ref=f327e151]: Compensation & Benefits
+              - text: "Compensation Range (California): The base salary range for this role is $180,000 – $220,000, depending on experience, skills, and location. This role may also be eligible for equity and other forms of compensation."
+              - strong [ref=f327e152]: Wonderschool Offers a Competitive Benefits Package, Including
+              - list [ref=f327e153]:
+                - listitem [ref=f327e154]: Health benefits with up to 100% coverage for employee premiums and up to 80% for dependents
+                - listitem [ref=f327e155]: Wifi and employee wellness stipends
+                - listitem [ref=f327e156]: Flexible PTO, paid holidays, and mental wellness days
+                - listitem [ref=f327e157]: Competitive parental leave (eligible after 6 months of employment)
+                - listitem [ref=f327e158]: A highly collaborative, mission-driven workplace environment
+              - strong [ref=f327e159]: Location / Travel Expectations
+              - text: This role is based in our office in Rincon Hill, San Francisco. We work in-office 5-6 days a week to enable close collaboration across engineering, product, and leadership teams.
+            - button [ref=f327e160] [cursor=pointer]: Show more
+          - list [ref=f327e162]:
+            - listitem [ref=f327e163]:
+              - heading [level=3] [ref=f327e164]: Seniority level
+              - text: Mid-Senior level
+            - listitem [ref=f327e165]:
+              - heading [level=3] [ref=f327e166]: Employment type
+              - text: Full-time
+            - listitem [ref=f327e167]:
+              - heading [level=3] [ref=f327e168]: Job function
+              - text: Engineering and Information Technology
+            - listitem [ref=f327e169]:
+              - heading [level=3] [ref=f327e170]: Industries
+              - text: Education Management
+        - generic [ref=f327e175]:
+          - paragraph [ref=f327e176]: Referrals increase your chances of interviewing at Wonderschool by 2x
+          - link [ref=f327e177] [cursor=pointer]:
+            - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D18020048&emailAddress=&fromSignIn=&trk=public_jobs_find-a-referral-cta
+            - text: See who you know
+      - generic [ref=f327e180]:
+        - paragraph [ref=f327e181]:
+          - text: Get notified about new Full Stack Engineer jobs in
+          - strong [ref=f327e182]: San Francisco, CA
+          - text: .
+        - link [ref=f327e183] [cursor=pointer]:
+          - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Ffull-stack-engineer-at-wonderschool-4264052074&trk=public_jobs_job-alert-guest-redirect-cta
+          - text: Sign in to create job alert
+      - navigation [ref=f327e184]:
+        - list [ref=f327e185]:
+          - listitem [ref=f327e186]:
+            - link [ref=f327e187] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/
+              - text: Jobs
+            - text: /
+          - listitem [ref=f327e188]:
+            - link [ref=f327e189] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/javascript-developer-jobs
+              - text: Javascript Developer jobs
+            - text: /
+          - listitem [ref=f327e190]:
+            - generic [ref=f327e191]: Full Stack Engineer
+      - generic [ref=f327e192]:
+        - heading [level=2] [ref=f327e193]: Similar jobs
+        - generic [ref=f327e195]:
+          - list [ref=f327e196]:
+            - listitem [ref=f327e197]:
+              - generic [ref=f327e198]:
+                - link [ref=f327e199] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/full-stack-engineer-at-mercator-4346350059?refId=PRJ0wSt0kYMMNQJiJWZ3%2Fg%3D%3D&trackingId=Hl9vIWnnmaBoMaCjKdsycA%3D%3D
+                  - generic [ref=f327e200]: Full-Stack Engineer
+                - generic [ref=f327e201]:
+                  - heading [level=3] [ref=f327e202]: Full-Stack Engineer
+                  - heading [level=4] [ref=f327e203]:
+                    - link [ref=f327e204] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/mercatorintelligence?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Mercator
+                  - generic [ref=f327e205]:
+                    - generic [ref=f327e206]: San Francisco, CA
+                    - generic [ref=f327e207]: $140,000 - $200,000
+                    - time [ref=f327e208]: 8 months ago
+            - listitem [ref=f327e209]:
+              - generic [ref=f327e210]:
+                - link [ref=f327e211] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/full-stack-engineer-at-matic-robots-4409483529?refId=PRJ0wSt0kYMMNQJiJWZ3%2Fg%3D%3D&trackingId=7Noms%2FScB%2BHlRsoLfA8cCA%3D%3D
+                  - generic [ref=f327e212]: Full Stack Engineer
+                - generic [ref=f327e213]:
+                  - heading [level=3] [ref=f327e214]: Full Stack Engineer
+                  - heading [level=4] [ref=f327e215]:
+                    - link [ref=f327e216] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/maticrobots?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Matic Robots
+                  - generic [ref=f327e217]:
+                    - generic [ref=f327e218]: Menlo Park, CA
+                    - time [ref=f327e219]: 4 months ago
+            - listitem [ref=f327e220]:
+              - generic [ref=f327e221]:
+                - link [ref=f327e222] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-office-hours-4443637378?refId=PRJ0wSt0kYMMNQJiJWZ3%2Fg%3D%3D&trackingId=lsTZKQ4gf4mR8Yxtrh%2FCfQ%3D%3D
+                  - generic [ref=f327e223]: Software Engineer, Full Stack
+                - generic [ref=f327e224]:
+                  - heading [level=3] [ref=f327e225]: Software Engineer, Full Stack
+                  - heading [level=4] [ref=f327e226]:
+                    - link [ref=f327e227] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/office-hours?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Office Hours
+                  - generic [ref=f327e228]:
+                    - generic [ref=f327e229]: San Francisco, CA
+                    - time [ref=f327e230]: 1 month ago
+            - listitem [ref=f327e231]:
+              - generic [ref=f327e232]:
+                - link [ref=f327e233] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/full-stack-engineer-at-mrbeast-4439287139?refId=PRJ0wSt0kYMMNQJiJWZ3%2Fg%3D%3D&trackingId=NicY8w4ZqWKEQxt5oeGvTw%3D%3D
+                  - generic [ref=f327e234]: Full Stack Engineer
+                - generic [ref=f327e235]:
+                  - heading [level=3] [ref=f327e236]: Full Stack Engineer
+                  - heading [level=4] [ref=f327e237]:
+                    - link [ref=f327e238] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/mrbeastyoutube?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: MrBeast
+                  - generic [ref=f327e239]:
+                    - generic [ref=f327e240]: San Mateo, CA
+                    - time [ref=f327e241]: 2 weeks ago
+            - listitem [ref=f327e242]:
+              - generic [ref=f327e243]:
+                - link [ref=f327e244] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/full-stack-engineer-at-monumint-4322114408?refId=PRJ0wSt0kYMMNQJiJWZ3%2Fg%3D%3D&trackingId=uU3qHGbCm3ItfhIptT94mg%3D%3D
+                  - generic [ref=f327e245]: Full Stack Engineer
+                - generic [ref=f327e246]:
+                  - heading [level=3] [ref=f327e247]: Full Stack Engineer
+                  - heading [level=4] [ref=f327e248]:
+                    - link [ref=f327e249] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/monumintcom?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Monumint
+                  - generic [ref=f327e250]:
+                    - generic [ref=f327e251]: San Francisco, CA
+                    - generic [ref=f327e252]: $150,000 - $200,000
+                    - time [ref=f327e253]: 10 months ago
+            - listitem [ref=f327e254]:
+              - generic [ref=f327e255]:
+                - link [ref=f327e256] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-happyrobot-4286307379?refId=PRJ0wSt0kYMMNQJiJWZ3%2Fg%3D%3D&trackingId=TqKuB%2BvrS5rL9sl0XrvWnQ%3D%3D
+                  - generic [ref=f327e257]: Software Engineer - Full-Stack
+                - generic [ref=f327e258]:
+                  - heading [level=3] [ref=f327e259]: Software Engineer - Full-Stack
+                  - heading [level=4] [ref=f327e260]:
+                    - link [ref=f327e261] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/happyrobot?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: HappyRobot
+                  - generic [ref=f327e262]:
+                    - generic [ref=f327e263]: San Francisco, CA
+                    - time [ref=f327e264]: 3 days ago
+          - button [ref=f327e265] [cursor=pointer]: Show more jobs like this
+    - generic [ref=f327e267]:
+      - generic [ref=f327e268]:
+        - heading [level=2] [ref=f327e269]: People also viewed
+        - list [ref=f327e271]:
+          - listitem [ref=f327e272]:
+            - generic [ref=f327e273]:
+              - link [ref=f327e274] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-at-reform-4320453498?refId=PRJ0wSt0kYMMNQJiJWZ3%2Fg%3D%3D&trackingId=6PDy6l0VgJqD4syNrrSxqQ%3D%3D
+                - generic [ref=f327e275]: Software Engineer
+              - generic [ref=f327e276]:
+                - heading [level=3] [ref=f327e277]: Software Engineer
+                - paragraph [ref=f327e278]:
+                  - link [ref=f327e279] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/reformhq?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Reform
+                - generic [ref=f327e280]:
+                  - generic [ref=f327e281]: San Francisco, CA
+                  - generic [ref=f327e282]: $150,000 - $200,000
+                  - time [ref=f327e283]: 10 months ago
+          - listitem [ref=f327e284]:
+            - generic [ref=f327e285]:
+              - link [ref=f327e286] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/fullstack-engineer-at-bobyard-4386550028?refId=PRJ0wSt0kYMMNQJiJWZ3%2Fg%3D%3D&trackingId=jV7O7%2FTyKy0yha%2FjHIg2tg%3D%3D
+                - generic [ref=f327e287]: Fullstack Engineer
+              - generic [ref=f327e288]:
+                - heading [level=3] [ref=f327e289]: Fullstack Engineer
+                - paragraph [ref=f327e290]:
+                  - link [ref=f327e291] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/bobyard?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Bobyard
+                - generic [ref=f327e292]:
+                  - generic [ref=f327e293]: San Francisco, CA
+                  - generic [ref=f327e294]: $140,000 - $165,000
+                  - time [ref=f327e295]: 4 months ago
+          - listitem [ref=f327e296]:
+            - generic [ref=f327e297]:
+              - link [ref=f327e298] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-blink-new-4317737281?refId=PRJ0wSt0kYMMNQJiJWZ3%2Fg%3D%3D&trackingId=32ZQwzar2AD1Ay150CIbTQ%3D%3D
+                - generic [ref=f327e299]: Full Stack Software Engineer
+              - generic [ref=f327e300]:
+                - heading [level=3] [ref=f327e301]: Full Stack Software Engineer
+                - paragraph [ref=f327e302]:
+                  - link [ref=f327e303] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/blinkdotnew?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Blink.new
+                - generic [ref=f327e304]:
+                  - generic [ref=f327e305]: San Mateo, CA
+                  - generic [ref=f327e306]: $85,000 - $150,000
+                  - time [ref=f327e307]: 10 months ago
+          - listitem [ref=f327e308]:
+            - generic [ref=f327e309]:
+              - link [ref=f327e310] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-scout-ai-4381113818?refId=PRJ0wSt0kYMMNQJiJWZ3%2Fg%3D%3D&trackingId=Gkh8YhAKEcIp9623Bm9GCw%3D%3D
+                - generic [ref=f327e311]: Full Stack Software Engineer
+              - generic [ref=f327e312]:
+                - heading [level=3] [ref=f327e313]: Full Stack Software Engineer
+                - paragraph [ref=f327e314]:
+                  - link [ref=f327e315] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/scout-ai-official?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Scout AI
+                - generic [ref=f327e316]:
+                  - generic [ref=f327e317]: Sunnyvale, CA
+                  - time [ref=f327e318]: 2 months ago
+          - listitem [ref=f327e319]:
+            - generic [ref=f327e320]:
+              - link [ref=f327e321] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-blink-new-4317742141?refId=PRJ0wSt0kYMMNQJiJWZ3%2Fg%3D%3D&trackingId=TZq%2BCfgjqkmSf8pIsM5yZA%3D%3D
+                - generic [ref=f327e322]: Full Stack Software Engineer
+              - generic [ref=f327e323]:
+                - heading [level=3] [ref=f327e324]: Full Stack Software Engineer
+                - paragraph [ref=f327e325]:
+                  - link [ref=f327e326] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/blinkdotnew?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Blink.new
+                - generic [ref=f327e327]:
+                  - generic [ref=f327e328]: Redwood City, CA
+                  - generic [ref=f327e329]: $85,000 - $150,000
+                  - time [ref=f327e330]: 10 months ago
+          - listitem [ref=f327e331]:
+            - generic [ref=f327e332]:
+              - link [ref=f327e333] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/full-stack-engineer-at-campfire-4401814450?refId=PRJ0wSt0kYMMNQJiJWZ3%2Fg%3D%3D&trackingId=kSUJxYQE276mLcM78gnBzA%3D%3D
+                - generic [ref=f327e334]: Full Stack Engineer
+              - generic [ref=f327e335]:
+                - heading [level=3] [ref=f327e336]: Full Stack Engineer
+                - paragraph [ref=f327e337]:
+                  - link [ref=f327e338] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/meetcampfire?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Campfire
+                - generic [ref=f327e339]:
+                  - generic [ref=f327e340]: San Francisco, CA
+                  - time [ref=f327e341]: 5 months ago
+          - listitem [ref=f327e342]:
+            - generic [ref=f327e343]:
+              - link [ref=f327e344] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/full-stack-engineer-at-roo-4466404874?refId=PRJ0wSt0kYMMNQJiJWZ3%2Fg%3D%3D&trackingId=%2BBKBJmIFTKlDazE7HR1sqA%3D%3D
+                - generic [ref=f327e345]: Full Stack Engineer
+              - generic [ref=f327e346]:
+                - heading [level=3] [ref=f327e347]: Full Stack Engineer
+                - paragraph [ref=f327e348]:
+                  - link [ref=f327e349] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/roovets?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Roo
+                - generic [ref=f327e350]:
+                  - generic [ref=f327e351]: San Francisco, CA
+                  - time [ref=f327e352]: 4 days ago
+          - listitem [ref=f327e353]:
+            - generic [ref=f327e354]:
+              - link [ref=f327e355] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-%C5%8Dura-4462597978?refId=PRJ0wSt0kYMMNQJiJWZ3%2Fg%3D%3D&trackingId=LXJtmMFMZ4WZUxODznD6zQ%3D%3D
+                - generic [ref=f327e356]: Full Stack Software Engineer
+              - generic [ref=f327e357]:
+                - heading [level=3] [ref=f327e358]: Full Stack Software Engineer
+                - paragraph [ref=f327e359]:
+                  - link [ref=f327e360] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/oura?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: ŌURA
+                - generic [ref=f327e361]:
+                  - generic [ref=f327e362]: San Francisco, CA
+                  - time [ref=f327e363]: 6 days ago
+          - listitem [ref=f327e364]:
+            - generic [ref=f327e365]:
+              - link [ref=f327e366] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/fullstack-engineer-at-krea-4456361883?refId=PRJ0wSt0kYMMNQJiJWZ3%2Fg%3D%3D&trackingId=aqPBnRZcCXkoCFDXrl3ZMQ%3D%3D
+                - generic [ref=f327e367]: Fullstack Engineer
+              - generic [ref=f327e368]:
+                - heading [level=3] [ref=f327e369]: Fullstack Engineer
+                - paragraph [ref=f327e370]:
+                  - link [ref=f327e371] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/krea-ai?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Krea
+                - generic [ref=f327e372]:
+                  - generic [ref=f327e373]: San Francisco, CA
+                  - time [ref=f327e374]: 3 weeks ago
+          - listitem [ref=f327e375]:
+            - generic [ref=f327e376]:
+              - link [ref=f327e377] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/full-stack-engineer-at-nash-4358570627?refId=PRJ0wSt0kYMMNQJiJWZ3%2Fg%3D%3D&trackingId=ugMTBzmHSbMIrRJ9cXHTvg%3D%3D
+                - generic [ref=f327e378]: Full Stack Engineer
+              - generic [ref=f327e379]:
+                - heading [level=3] [ref=f327e380]: Full Stack Engineer
+                - paragraph [ref=f327e381]:
+                  - link [ref=f327e382] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/usenash?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Nash
+                - generic [ref=f327e383]:
+                  - generic [ref=f327e384]: San Francisco, CA
+                  - time [ref=f327e385]: 2 weeks ago
+      - generic [ref=f327e386]:
+        - heading [level=2] [ref=f327e387]: Similar Searches
+        - generic [ref=f327e389]:
+          - list [ref=f327e390]:
+            - listitem [ref=f327e391]:
+              - link [ref=f327e392] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/javascript-developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f327e393]:
+                  - heading [level=3] [ref=f327e394]: Javascript Developer jobs
+                  - generic [ref=f327e395]: 35,575 open jobs
+            - listitem [ref=f327e396]:
+              - link [ref=f327e397] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/java-software-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f327e398]:
+                  - heading [level=3] [ref=f327e399]: Java Software Engineer jobs
+                  - generic [ref=f327e400]: 36,180 open jobs
+            - listitem [ref=f327e401]:
+              - link [ref=f327e402] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f327e403]:
+                  - heading [level=3] [ref=f327e404]: Developer jobs
+                  - generic [ref=f327e405]: 258,935 open jobs
+            - listitem [ref=f327e406]:
+              - link [ref=f327e407] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/senior-web-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f327e408]:
+                  - heading [level=3] [ref=f327e409]: Senior Web Engineer jobs
+                  - generic [ref=f327e410]: 39,686 open jobs
+            - listitem [ref=f327e411]:
+              - link [ref=f327e412] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/coldfusion-developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f327e413]:
+                  - heading [level=3] [ref=f327e414]: Coldfusion Developer jobs
+                  - generic [ref=f327e415]: 23,224 open jobs
+            - listitem [ref=f327e416]:
+              - link [ref=f327e417] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/senior-software-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f327e418]:
+                  - heading [level=3] [ref=f327e419]: Senior Software Engineer jobs
+                  - generic [ref=f327e420]: 78,145 open jobs
+            - listitem [ref=f327e421]:
+              - link [ref=f327e422] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/php-developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f327e423]:
+                  - heading [level=3] [ref=f327e424]: PHP Developer jobs
+                  - generic [ref=f327e425]: 14,437 open jobs
+            - listitem [ref=f327e426]:
+              - link [ref=f327e427] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/contract-web-developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f327e428]:
+                  - heading [level=3] [ref=f327e429]: Contract Web Developer jobs
+                  - generic [ref=f327e430]: 354 open jobs
+            - listitem [ref=f327e431]:
+              - link [ref=f327e432] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/java-application-developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f327e433]:
+                  - heading [level=3] [ref=f327e434]: Java Application Developer jobs
+                  - generic [ref=f327e435]: 16,016 open jobs
+            - listitem [ref=f327e436]:
+              - link [ref=f327e437] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/senior-web-developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f327e438]:
+                  - heading [level=3] [ref=f327e439]: Senior Web Developer jobs
+                  - generic [ref=f327e440]: 46,615 open jobs
+            - listitem [ref=f327e441]:
+              - link [ref=f327e442] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/django-developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f327e443]:
+                  - heading [level=3] [ref=f327e444]: Django Developer jobs
+                  - generic [ref=f327e445]: 37,934 open jobs
+            - listitem [ref=f327e446]:
+              - link [ref=f327e447] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/associate-software-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f327e448]:
+                  - heading [level=3] [ref=f327e449]: Associate Software Engineer jobs
+                  - generic [ref=f327e450]: 223,979 open jobs
+          - button [ref=f327e451] [cursor=pointer]: Show more
+      - generic [ref=f327e455]:
+        - heading [level=2] [ref=f327e457]: Explore top content on LinkedIn
+        - paragraph [ref=f327e458]: Find curated posts and insights for relevant topics all in one place.
+        - link [ref=f327e459] [cursor=pointer]:
+          - /url: https://www.linkedin.com/top-content/
+          - text: View top content
+  - button [ref=f327e464] [cursor=pointer]: More searches
+  - contentinfo [aria-hidden] [ref=f327e466]:
+    - list [ref=f327e467]:
+      - generic [ref=f327e468]: LinkedIn
+      - generic [ref=f327e470]: © 2026
+      - listitem [ref=f327e471]:
+        - link [ref=f327e472] [cursor=pointer]:
+          - /url: https://about.linkedin.com?trk=d_jobs_guest_details_footer-about
+          - text: About
+      - listitem [ref=f327e473]:
+        - link [ref=f327e474] [cursor=pointer]:
+          - /url: https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility
+          - text: Accessibility
+      - listitem [ref=f327e475]:
+        - link [ref=f327e476] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/user-agreement?trk=d_jobs_guest_details_footer-user-agreement
+          - text: User Agreement
+      - listitem [ref=f327e477]:
+        - link [ref=f327e478] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/privacy-policy?trk=d_jobs_guest_details_footer-privacy-policy
+          - text: Privacy Policy
+      - listitem [ref=f327e479]:
+        - link [ref=f327e480] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/california-privacy-disclosure?trk=d_jobs_guest_details_footer-california-privacy-rights-act
+          - text: Your California Privacy Choices
+      - listitem [ref=f327e481]:
+        - link [ref=f327e482] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/cookie-policy?trk=d_jobs_guest_details_footer-cookie-policy
+          - text: Cookie Policy
+      - listitem [ref=f327e483]:
+        - link [ref=f327e484] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/copyright-policy?trk=d_jobs_guest_details_footer-copyright-policy
+          - text: Copyright Policy
+      - listitem [ref=f327e485]:
+        - link [ref=f327e486] [cursor=pointer]:
+          - /url: https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy
+          - text: Brand Policy
+      - listitem [ref=f327e487]:
+        - link [ref=f327e488] [cursor=pointer]:
+          - /url: https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls
+          - text: Guest Controls
+      - listitem [ref=f327e489]:
+        - link [ref=f327e490] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/professional-community-policies?trk=d_jobs_guest_details_footer-community-guide
+          - text: Community Guidelines
+      - listitem [ref=f327e491]:
+        - button [ref=f327e493]: Language
+  - dialog [active] [ref=f327e496]:
+    - button "Dismiss" [ref=f327e497] [cursor=pointer]
+    - generic [ref=f327e499]:
+      - heading "Sign in to see who you already know at Wonderschool" [level=2] [ref=f327e501]
+      - generic [ref=f327e502]:
+        - button "Continue with google" [ref=f327e536]:
+          - iframe [ref=f327e538]:
+            - button "Continue with Google. Opens in new tab" [ref=f338e3] [cursor=pointer]:
+              - generic [ref=f338e5]: Continue with Google
+        - button "Sign in with Email" [ref=f327e503] [cursor=pointer]
+        - paragraph [ref=f327e507]: or
+        - button "Continue with google" [ref=f327e542]:
+          - iframe [ref=f327e544]:
+            - button "Continue with Google. Opens in new tab" [ref=f339e3] [cursor=pointer]:
+              - generic [ref=f339e5]: Continue with Google
+        - paragraph [ref=f327e508]:
+          - text: New to LinkedIn?
+          - link "Join now" [ref=f327e509] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&trk=public_jobs_contextual-sign-in-modal_join-link
+        - paragraph [ref=f327e510]:
+          - text: By clicking Continue to join or sign in, you agree to LinkedIn’s
+          - link "User Agreement" [ref=f327e511] [cursor=pointer]:
+            - /url: /legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement
+          - text: ","
+          - link "Privacy Policy" [ref=f327e512] [cursor=pointer]:
+            - /url: /legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy
+          - text: ", and"
+          - link "Cookie Policy" [ref=f327e513] [cursor=pointer]:
+            - /url: /legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy
+          - text: .

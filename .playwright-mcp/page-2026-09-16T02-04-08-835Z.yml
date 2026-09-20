@@ -1,0 +1,108 @@
+- generic [active] [ref=f16e1]:
+  - generic [ref=f16e4]:
+    - generic [ref=f16e6]:
+      - link "Skip to content" [ref=f16e8] [cursor=pointer]:
+        - /url: "#main"
+      - generic [ref=f16e12]:
+        - banner [ref=f16e13]:
+          - generic [ref=f16e15]:
+            - generic [ref=f16e16]:
+              - link "Drift Career Opportunities" [ref=f16e18] [cursor=pointer]:
+                - /url: /Drift-Career-Opportunities-45de6a825f264388b13cd866b707d157?pvs=18
+              - generic [aria-hidden] [ref=f16e22]: /
+              - button "Drift Labs - QA Engineer - JD" [disabled] [ref=f16e23]
+            - generic [ref=f16e28]:
+              - button "Close panel" [ref=f16e30] [cursor=pointer]
+              - generic [ref=f16e34]:
+                - button [ref=f16e35] [cursor=pointer]
+                - button "Share site to socials" [ref=f16e40] [cursor=pointer]
+                - button "More actions" [ref=f16e45] [cursor=pointer]
+                - button "Get Notion free" [ref=f16e48] [cursor=pointer]
+        - main [ref=f16e49]:
+          - generic [ref=f16e54]:
+            - generic [ref=f16e72]:
+              - img "Page icon" [ref=f16e77]
+              - heading "Drift Labs - QA Engineer - JD" [level=1] [ref=f16e82]
+            - generic [ref=f16e84]:
+              - generic [ref=f16e85]: "Title: QA Engineer"
+              - generic [ref=f16e91]: "Location: Remote (Asia)"
+              - generic [ref=f16e97]: "Reports to: Engineering Lead"
+              - generic [ref=f16e103]: "Type: Full-time"
+              - heading "About Drift" [level=4] [ref=f16e119]
+              - generic [ref=f16e120]: Drift is one of the leading decentralized derivatives exchanges on Solana, built for serious traders. We offer lightning-fast, capital-efficient perpetual trading and innovative earning products like Strategy Vaults and Amplify. We’re backed by top crypto-native funds and building for the next generation of DeFi traders.
+              - heading "About the Role" [level=4] [ref=f16e130]
+              - generic [ref=f16e131]: We’re looking for a QA Engineer to ensure Drift delivers a world-class trading experience. You’ll be responsible for designing and executing test plans, identifying critical bugs, and building automated testing systems that guarantee reliability, security, and performance across our platform. Working closely with engineers and product managers, you’ll be the last line of defense before features go live, ensuring trust and confidence for our traders.
+              - heading "Responsibilities" [level=4] [ref=f16e147]
+              - generic [ref=f16e151]:
+                - generic [ref=f16e152]: •
+                - generic [ref=f16e154]: Own the testing strategy for Drift’s trading platform, including manual, automated, functional, and performance testing
+              - generic [ref=f16e160]:
+                - generic [ref=f16e161]: •
+                - generic [ref=f16e163]: Design, implement, and maintain automated test suites for frontend
+              - generic [ref=f16e169]:
+                - generic [ref=f16e170]: •
+                - generic [ref=f16e172]: Develop and execute test cases to validate product requirements, ensuring high-quality feature delivery
+              - generic [ref=f16e178]:
+                - generic [ref=f16e179]: •
+                - generic [ref=f16e181]: Identify, document, and track defects through resolution, collaborating with engineers to reproduce and fix issues
+              - generic [ref=f16e187]:
+                - generic [ref=f16e188]: •
+                - generic [ref=f16e190]: Establish and evolve best practices for QA processes, tooling, and CI/CD integration
+              - generic [ref=f16e196]:
+                - generic [ref=f16e197]: •
+                - generic [ref=f16e199]: Partner with product and engineering teams to define acceptance criteria, success metrics, and quality benchmarks
+              - generic [ref=f16e205]:
+                - generic [ref=f16e206]: •
+                - generic [ref=f16e208]: Proactively monitor product health, catching regressions early and ensuring stable releases
+              - heading "Requirements" [level=4] [ref=f16e221]
+              - generic [ref=f16e225]:
+                - generic [ref=f16e226]: •
+                - generic [ref=f16e228]: "MUST HAVE: detail-oriented mindset, proactive ownership, and passion for shipping flawless user experiences"
+              - generic [ref=f16e234]:
+                - generic [ref=f16e235]: •
+                - generic [ref=f16e237]: Experience in software QA or test automation roles, ideally within fintech, trading, or blockchain environments
+              - generic [ref=f16e243]:
+                - generic [ref=f16e244]: •
+                - generic [ref=f16e246]: Strong knowledge of QA methodologies, testing types (functional, regression, performance, security), and bug lifecycle
+              - generic [ref=f16e252]:
+                - generic [ref=f16e253]: •
+                - generic [ref=f16e255]: Hands-on experience with automated testing frameworks (e.g. Cypress, Playwright, Selenium, Jest, Mocha)
+              - generic [ref=f16e261]:
+                - generic [ref=f16e262]: •
+                - generic [ref=f16e264]: Familiarity with CI/CD pipelines and QA integration (GitHub Actions, GitLab CI, CircleCI, etc.)
+              - generic [ref=f16e270]:
+                - generic [ref=f16e271]: •
+                - generic [ref=f16e273]: "Bonus: experience with Solana, DeFi protocols, or performance testing high-throughput systems"
+              - heading "How You’ll Be Measured" [level=4] [ref=f16e286]
+              - generic [ref=f16e290]:
+                - generic [ref=f16e291]: •
+                - generic [ref=f16e293]: Stability and reliability of Drift’s releases
+              - generic [ref=f16e299]:
+                - generic [ref=f16e300]: •
+                - generic [ref=f16e302]: Speed and effectiveness in identifying, reproducing, and driving fixes for critical issues
+              - generic [ref=f16e308]:
+                - generic [ref=f16e309]: •
+                - generic [ref=f16e311]: Coverage and maintainability of automated test suites
+              - generic [ref=f16e317]:
+                - generic [ref=f16e318]: •
+                - generic [ref=f16e320]: Impact on reducing regressions, downtime, and user-facing issues
+              - generic [ref=f16e326]:
+                - generic [ref=f16e327]: •
+                - generic [ref=f16e329]: Contribution to team-wide quality culture and QA best practices
+              - heading "What You’ll Get" [level=4] [ref=f16e342]
+              - generic [ref=f16e346]:
+                - generic [ref=f16e347]: •
+                - generic [ref=f16e349]: Work directly with the Product and Engineering team
+              - generic [ref=f16e355]:
+                - generic [ref=f16e356]: •
+                - generic [ref=f16e358]: Help shape one of the top trading protocols in DeFi
+              - generic [ref=f16e364]:
+                - generic [ref=f16e365]: •
+                - generic [ref=f16e367]: Competitive crypto-native compensation (base + token upside)
+              - generic [ref=f16e373]:
+                - generic [ref=f16e374]: •
+                - generic [ref=f16e376]: Fast-paced, remote-first team with deep ownership
+        - region [aria-hidden] [ref=f16e381]
+    - status [ref=f16e382]
+    - alert [ref=f16e383]
+  - iframe [aria-hidden] [ref=f16e384]

@@ -1,0 +1,7 @@
+[     579ms] [LOG] On consent changed! @ :1
+[     580ms] [LOG] After On consent changed! @ :1
+[     580ms] [LOG] On consent changed! @ :1
+[     580ms] [LOG] After On consent changed! @ :1
+[     729ms] [WARNING] WARNING: Tags are firing before consent is initialized. Please ensure that the consent mode default is initialized before firing tags. @ :2
+[    1033ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://aplo-evnt.com/api/v1/intent_pixel/track_request?app_id=69dd2ebf05dbeb00113d4992:0
+[    1573ms] [LOG] [Framer On-Page Editing] Unavailable because not on a `framer.app` subdomain and access status is no-auth @ https://app.framerstatic.com/editorbar.QDMVIKN3.mjs:0

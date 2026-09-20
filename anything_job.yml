@@ -1,0 +1,571 @@
+- generic [ref=f207e1]:
+  - link [aria-hidden] [ref=f207e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - text: Skip to main content
+  - banner [aria-hidden] [ref=f207e3]:
+    - navigation [ref=f207e4]:
+      - link [ref=f207e5] [cursor=pointer]:
+        - /url: /?trk=public_jobs_nav-header-logo
+        - generic [ref=f207e6]: LinkedIn
+      - generic [ref=f207e19]:
+        - button [ref=f207e21] [cursor=pointer]:
+          - generic [ref=f207e22]: Jobs
+        - tabpanel [ref=f207e23]:
+          - search [ref=f207e24]:
+            - generic [ref=f207e25]:
+              - combobox [ref=f207e26]: Product Engineer
+              - button [ref=f207e27] [cursor=pointer]:
+                - generic [ref=f207e28]: Clear text
+            - generic [ref=f207e34]:
+              - combobox [ref=f207e35]: San Pablo, CA
+              - button [ref=f207e36] [cursor=pointer]:
+                - generic [ref=f207e37]: Clear text
+            - button [ref=f207e43] [cursor=pointer]
+        - status [ref=f207e47]
+      - generic [ref=f207e48]:
+        - link [ref=f207e49] [cursor=pointer]:
+          - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&fromSignIn=true&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fproduct-engineer-at-anything-4331956083&trk=public_jobs_nav-header-signin
+          - text: Sign in
+        - link [ref=f207e50] [cursor=pointer]:
+          - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fproduct-engineer-at-anything-4331956083&trk=public_jobs_nav-header-join
+          - text: Join now
+  - main [aria-hidden] [ref=f207e51]:
+    - generic [ref=f207e53]:
+      - generic [ref=f207e55]:
+        - link [ref=f207e56] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/anythingai?trk=public_jobs_topcard_logo
+        - generic [ref=f207e59]:
+          - heading [level=1] [ref=f207e60]: Product Engineer
+          - heading [level=4] [ref=f207e61]:
+            - generic [ref=f207e62]:
+              - link [ref=f207e64] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/anythingai?trk=public_jobs_topcard-org-name
+                - text: Anything
+              - text: · San Francisco, CA
+            - generic [ref=f207e65]:
+              - text: 6 days ago
+              - figure [ref=f207e66]: · Over 200 applicants
+            - link [ref=f207e68] [cursor=pointer]:
+              - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D89829649%26title%3DProduct%2BEngineer&emailAddress=&fromSignIn=&trk=public_jobs_see-who-was-hired_people-search-link_face-pile-cta
+              - paragraph [ref=f207e71]: See who Anything has hired for this role
+          - generic [ref=f207e72]:
+            - button [ref=f207e73] [cursor=pointer]: Apply
+            - button [ref=f207e77] [cursor=pointer]: Save
+        - button [ref=f207e80] [cursor=pointer]
+        - generic [ref=f207e85]:
+          - heading [level=3] [ref=f207e91]: Use AI to assess how you fit
+          - paragraph [ref=f207e92]: Get AI-powered advice on this job and more exclusive features.
+          - generic [ref=f207e93]:
+            - button [ref=f207e94] [cursor=pointer]
+            - button [ref=f207e98] [cursor=pointer]:
+              - generic [ref=f207e102]: Am I a good fit for this job?
+            - button [ref=f207e103] [cursor=pointer]:
+              - generic [ref=f207e107]: Tailor my resume
+      - generic [ref=f207e108]:
+        - generic [ref=f207e109]:
+          - heading [level=2] [ref=f207e110]: Anything provided pay range
+          - generic [ref=f207e111]:
+            - paragraph [ref=f207e112]: This range is provided by Anything. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+            - generic [ref=f207e113]:
+              - heading [level=3] [ref=f207e114]: Base pay range
+              - generic [ref=f207e115]: $125,000.00/yr - $200,000.00/yr
+        - generic [ref=f207e117]:
+          - generic [ref=f207e119]:
+            - generic [ref=f207e120]:
+              - strong [ref=f207e121]: Anything
+              - text: Anything is the AI product engineer for the next wave of entrepreneurs. It's an AI agent that turns English into apps. Everything you need make money on the internet built in - mobile, web, design, AI, backend, infra, payments. Launched Aug 7th. https://x.com/anything Hit $5m rev and growing quickly Try it at anything.com
+              - strong [ref=f207e122]: Role
+              - strong [ref=f207e123]:
+                - strong [ref=f207e124]: Who this role is for
+              - text: This role is for an experienced product engineer who wants real ownership, real leverage, and real impact. You have already shipped meaningful products and systems. You are comfortable taking responsibility for outcomes, not just execution. You care deeply about product quality, system design, and user experience, and you want your decisions to shape the direction of what gets built. You thrive in environments with ambiguity. You are energized by loosely defined problems and take initiative to clarify goals, explore constraints, and drive toward strong solutions. You are trusted to make technical and product tradeoffs independently and to mentor others by example. You enjoy working across the stack and across disciplines. You move fluidly between backend systems, frontend interfaces, and product decisions. You want to help define how a product is built, not just implement tickets. This is not a role for someone who wants narrow scope or heavy process. It is for someone who wants to operate as a force multiplier.
+              - strong [ref=f207e125]: What You Will Do
+              - text: "You will own complex, high impact product work end to end, from early problem framing through production and iteration. You will:"
+              - list [ref=f207e126]:
+                - listitem [ref=f207e127]: Lead the design and implementation of user facing features across frontend and backend using TypeScript, React, Tailwind, and Postgres
+                - listitem [ref=f207e128]: Translate ambiguous product goals into clear technical plans and shipped outcomes
+                - listitem [ref=f207e129]: Partner closely with product and design to shape roadmap decisions and execution strategy
+                - listitem [ref=f207e130]: Talk directly with users to understand workflows, pain points, and opportunities
+                - listitem [ref=f207e131]: Drive fast iteration loops using feedback, data, and firsthand product usage
+                - listitem [ref=f207e132]: Raise the quality bar through thoughtful system design, testing, and code review
+                - listitem [ref=f207e133]: Identify and resolve structural issues that slow the team or degrade product quality
+                - listitem [ref=f207e134]: Mentor junior engineers through pairing, feedback, and setting strong technical examples
+                - listitem [ref=f207e135]: Contribute to a culture of ownership, clarity, and high standards
+              - text: You will be expected to move fast while thinking holistically, choosing solutions that scale with the product and team rather than optimizing for short term convenience.
+              - strong [ref=f207e136]: How You Will Be Successful
+              - text: "Your success will be measured by:"
+              - list [ref=f207e137]:
+                - listitem [ref=f207e138]: End to end ownership You take responsibility for important product areas, drive decisions, and reliably deliver high quality features without heavy oversight.
+                - listitem [ref=f207e139]: Technical and product leadership You make sound architectural and product tradeoffs, improve system quality over time, and elevate the thinking of those around you.
+                - listitem [ref=f207e140]: Shipped product impact Your work measurably improves user experience, product depth, reliability, and development velocity.
+              - strong [ref=f207e141]:
+                - strong [ref=f207e142]: Required background
+              - text: "Strong candidates typically have:"
+              - list [ref=f207e143]:
+                - listitem [ref=f207e144]: Several years of experience building and shipping production software
+                - listitem [ref=f207e145]: A strong technical foundation from a CS program or equivalent real world experience
+                - listitem [ref=f207e146]: Experience owning significant product or system areas end to end
+                - listitem [ref=f207e147]: Deep comfort with TypeScript and modern frontend development
+                - listitem [ref=f207e148]: Solid backend fundamentals including data modeling, APIs, and system design
+                - listitem [ref=f207e149]: Strong debugging skills and the ability to reason through complex systems
+                - listitem [ref=f207e150]: Clear written and verbal communication
+                - listitem [ref=f207e151]: A demonstrated ability to learn new domains quickly and apply them in practice
+                - listitem [ref=f207e152]: Experience operating in fast paced environments with high ownership
+              - strong [ref=f207e153]:
+                - strong [ref=f207e154]: Nice to have
+              - list [ref=f207e155]:
+                - listitem [ref=f207e156]: Experience at an early stage or high growth startup
+                - listitem [ref=f207e157]: Experience collaborating deeply with design and product partners
+                - listitem [ref=f207e158]: A track record of mentoring or leading other engineers
+                - listitem [ref=f207e159]: Personal projects or writing that demonstrate taste and initiative
+                - listitem [ref=f207e160]: Interests beyond engineering such as design, writing, economics, or philosophy
+              - strong [ref=f207e161]:
+                - strong [ref=f207e162]: Why this role matters
+              - text: We are building ambitious products at the intersection of AI and modern software. Doing that well requires senior product engineers who can think clearly, learn continuously, and ship with conviction. In this role, you will have outsized influence on the product, the codebase, and the team. You will work on problems that matter, help shape how we build, and play a key role in defining the future of the company.
+              - strong [ref=f207e163]: In all roles
+              - text: "We look for:"
+              - strong [ref=f207e164]: Intense
+              - text: . Ship fast. Cycles are hours, not weeks. Hard to outwork.
+              - strong [ref=f207e165]: Ownership
+              - text: ". Grab the #1 priority and relentless to deliver."
+              - strong [ref=f207e166]: Fearlessness
+              - text: . Risk on. Do the unknown / uncomfortable. Say "good" to bad news.
+              - strong [ref=f207e167]: Taste
+              - text: . Obsess over quality. Know what “great” looks like. No slop.
+              - strong [ref=f207e168]: Play
+              - text: . Curiosity, joy, and energy. Sound like you? Come do the most meaningful work of your career.
+              - strong [ref=f207e169]: Applying
+              - text: "Submit here and we'll reach out if it's a fit. Compensation Range: $125K - $200K"
+            - button [ref=f207e170] [cursor=pointer]: Show more
+          - list [ref=f207e172]:
+            - listitem [ref=f207e173]:
+              - heading [level=3] [ref=f207e174]: Seniority level
+              - text: Mid-Senior level
+            - listitem [ref=f207e175]:
+              - heading [level=3] [ref=f207e176]: Employment type
+              - text: Full-time
+            - listitem [ref=f207e177]:
+              - heading [level=3] [ref=f207e178]: Job function
+              - text: Engineering and Information Technology
+            - listitem [ref=f207e179]:
+              - heading [level=3] [ref=f207e180]: Industries
+              - text: Software Development
+        - generic [ref=f207e185]:
+          - paragraph [ref=f207e186]: Referrals increase your chances of interviewing at Anything by 2x
+          - link [ref=f207e187] [cursor=pointer]:
+            - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D89829649&emailAddress=&fromSignIn=&trk=public_jobs_find-a-referral-cta
+            - text: See who you know
+      - generic [ref=f207e190]:
+        - paragraph [ref=f207e191]:
+          - text: Get notified about new Product Engineer jobs in
+          - strong [ref=f207e192]: San Francisco, CA
+          - text: .
+        - link [ref=f207e193] [cursor=pointer]:
+          - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fproduct-engineer-at-anything-4331956083&trk=public_jobs_job-alert-guest-redirect-cta
+          - text: Sign in to create job alert
+      - navigation [ref=f207e194]:
+        - list [ref=f207e195]:
+          - listitem [ref=f207e196]:
+            - link [ref=f207e197] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/
+              - text: Jobs
+            - text: /
+          - listitem [ref=f207e198]:
+            - link [ref=f207e199] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/national-human-resources-manager-jobs
+              - text: National Human Resources Manager jobs
+            - text: /
+          - listitem [ref=f207e200]:
+            - generic [ref=f207e201]: Product Engineer
+      - generic [ref=f207e202]:
+        - heading [level=2] [ref=f207e203]: Similar jobs
+        - generic [ref=f207e205]:
+          - list [ref=f207e206]:
+            - listitem [ref=f207e207]:
+              - generic [ref=f207e208]:
+                - link [ref=f207e209] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/product-engineer-3-at-lam-research-4460957702?refId=APXg26SX%2F9SWksygvepSSw%3D%3D&trackingId=hss9cQMvTit1RKbwHz63Mg%3D%3D
+                  - generic [ref=f207e210]: Product Engineer 3
+                - generic [ref=f207e211]:
+                  - heading [level=3] [ref=f207e212]: Product Engineer 3
+                  - heading [level=4] [ref=f207e213]:
+                    - link [ref=f207e214] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/lam-research?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Lam Research
+                  - generic [ref=f207e215]:
+                    - generic [ref=f207e216]: Fremont, CA
+                    - time [ref=f207e217]: 1 week ago
+            - listitem [ref=f207e218]:
+              - generic [ref=f207e219]:
+                - link [ref=f207e220] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/product-engineer-5-at-lam-research-4407952751?refId=APXg26SX%2F9SWksygvepSSw%3D%3D&trackingId=8H%2F17FuAa2yt3p98gR3%2F9g%3D%3D
+                  - generic [ref=f207e221]: Product Engineer 5
+                - generic [ref=f207e222]:
+                  - heading [level=3] [ref=f207e223]: Product Engineer 5
+                  - heading [level=4] [ref=f207e224]:
+                    - link [ref=f207e225] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/lam-research?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Lam Research
+                  - generic [ref=f207e226]:
+                    - generic [ref=f207e227]: Fremont, CA
+                    - time [ref=f207e228]: 1 week ago
+            - listitem [ref=f207e229]:
+              - generic [ref=f207e230]:
+                - link [ref=f207e231] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/product-development-engineer-at-nvidia-4449324486?refId=APXg26SX%2F9SWksygvepSSw%3D%3D&trackingId=YiNDkNbQHB767MDlm99vMA%3D%3D
+                  - generic [ref=f207e232]: Product Development Engineer
+                - generic [ref=f207e233]:
+                  - heading [level=3] [ref=f207e234]: Product Development Engineer
+                  - heading [level=4] [ref=f207e235]:
+                    - link [ref=f207e236] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/nvidia?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: NVIDIA
+                  - generic [ref=f207e237]:
+                    - generic [ref=f207e238]: Santa Clara, CA
+                    - time [ref=f207e239]: 2 weeks ago
+            - listitem [ref=f207e240]:
+              - generic [ref=f207e241]:
+                - link [ref=f207e242] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/product-engineer-at-upcore-solutions-4466818173?refId=APXg26SX%2F9SWksygvepSSw%3D%3D&trackingId=Bl%2BPtFKtjzpQP2M57PlQVg%3D%3D
+                  - generic [ref=f207e243]: Product Engineer
+                - generic [ref=f207e244]:
+                  - heading [level=3] [ref=f207e245]: Product Engineer
+                  - heading [level=4] [ref=f207e246]:
+                    - link [ref=f207e247] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/up-coresolutions?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: UpCore Solutions
+                  - generic [ref=f207e248]:
+                    - generic [ref=f207e249]: San Francisco, CA
+                    - time [ref=f207e250]: 1 hour ago
+            - listitem [ref=f207e251]:
+              - generic [ref=f207e252]:
+                - link [ref=f207e253] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/product-engineer-at-omnivision-4375785368?refId=APXg26SX%2F9SWksygvepSSw%3D%3D&trackingId=%2FsSGEOhYDh7v5tq58KePOw%3D%3D
+                  - generic [ref=f207e254]: Product Engineer
+                - generic [ref=f207e255]:
+                  - heading [level=3] [ref=f207e256]: Product Engineer
+                  - heading [level=4] [ref=f207e257]:
+                    - link [ref=f207e258] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/omnivision?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: OMNIVISION
+                  - generic [ref=f207e259]:
+                    - generic [ref=f207e260]: Santa Clara, CA
+                    - time [ref=f207e261]: 1 week ago
+            - listitem [ref=f207e262]:
+              - generic [ref=f207e263]:
+                - link [ref=f207e264] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/hardware-product-engineer-at-penguin-solutions-4447734739?refId=APXg26SX%2F9SWksygvepSSw%3D%3D&trackingId=yQ17brOjBQbgUjf4lTnUaw%3D%3D
+                  - generic [ref=f207e265]: Hardware Product Engineer
+                - generic [ref=f207e266]:
+                  - heading [level=3] [ref=f207e267]: Hardware Product Engineer
+                  - heading [level=4] [ref=f207e268]:
+                    - link [ref=f207e269] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/penguinsolutions?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Penguin Solutions
+                  - generic [ref=f207e270]:
+                    - generic [ref=f207e271]: Newark, CA
+                    - time [ref=f207e272]: 3 days ago
+          - button [ref=f207e273] [cursor=pointer]: Show more jobs like this
+    - generic [ref=f207e275]:
+      - generic [ref=f207e276]:
+        - heading [level=2] [ref=f207e277]: People also viewed
+        - list [ref=f207e279]:
+          - listitem [ref=f207e280]:
+            - generic [ref=f207e281]:
+              - link [ref=f207e282] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/product-engineer-npi-manufacturing-operations-at-foxconn-industrial-internet-fii-4445439081?refId=APXg26SX%2F9SWksygvepSSw%3D%3D&trackingId=wqjCgJvqKlc7cGjXAtTh6g%3D%3D
+                - generic [ref=f207e283]: Product Engineer (NPI / Manufacturing Operations)
+              - generic [ref=f207e284]:
+                - heading [level=3] [ref=f207e285]: Product Engineer (NPI / Manufacturing Operations)
+                - paragraph [ref=f207e286]:
+                  - link [ref=f207e287] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/foxconn-industrial-internet-fii?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Foxconn Industrial Internet - FII
+                - generic [ref=f207e288]:
+                  - generic [ref=f207e289]: San Jose, CA
+                  - time [ref=f207e290]: 1 month ago
+          - listitem [ref=f207e291]:
+            - generic [ref=f207e292]:
+              - link [ref=f207e293] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/product-engineer-at-super-micro-computer-spain-s-l-4459252658?refId=APXg26SX%2F9SWksygvepSSw%3D%3D&trackingId=hKdYpJalEhdtDPtVv%2F%2BU1w%3D%3D
+                - generic [ref=f207e294]: Product Engineer
+              - generic [ref=f207e295]:
+                - heading [level=3] [ref=f207e296]: Product Engineer
+                - paragraph [ref=f207e297]:
+                  - link [ref=f207e298] [cursor=pointer]:
+                    - /url: https://es.linkedin.com/company/super-micro-computer-spain-s-l-?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Super Micro Computer Spain, S.L.
+                - generic [ref=f207e299]:
+                  - generic [ref=f207e300]: San Jose, CA
+                  - time [ref=f207e301]: 2 weeks ago
+          - listitem [ref=f207e302]:
+            - generic [ref=f207e303]:
+              - link [ref=f207e304] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/product-engineer-4-at-lam-research-4398189221?refId=APXg26SX%2F9SWksygvepSSw%3D%3D&trackingId=HpMLmuJK1%2BdHxO5Eu2zr%2Bg%3D%3D
+                - generic [ref=f207e305]: Product Engineer 4
+              - generic [ref=f207e306]:
+                - heading [level=3] [ref=f207e307]: Product Engineer 4
+                - paragraph [ref=f207e308]:
+                  - link [ref=f207e309] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/lam-research?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Lam Research
+                - generic [ref=f207e310]:
+                  - generic [ref=f207e311]: Fremont, CA
+                  - time [ref=f207e312]: 2 weeks ago
+          - listitem [ref=f207e313]:
+            - generic [ref=f207e314]:
+              - link [ref=f207e315] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/product-engineer-4-at-lam-research-4463830320?refId=APXg26SX%2F9SWksygvepSSw%3D%3D&trackingId=kiu5qZKfn1%2FbKbqefFUWZw%3D%3D
+                - generic [ref=f207e316]: Product Engineer 4
+              - generic [ref=f207e317]:
+                - heading [level=3] [ref=f207e318]: Product Engineer 4
+                - paragraph [ref=f207e319]:
+                  - link [ref=f207e320] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/lam-research?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Lam Research
+                - generic [ref=f207e321]:
+                  - generic [ref=f207e322]: Fremont, CA
+                  - time [ref=f207e323]: 6 days ago
+          - listitem [ref=f207e324]:
+            - generic [ref=f207e325]:
+              - link [ref=f207e326] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/board-product-development-engineer-at-nvidia-4450001911?refId=APXg26SX%2F9SWksygvepSSw%3D%3D&trackingId=m3j%2F6U9wxA5sGa%2FHjzLOww%3D%3D
+                - generic [ref=f207e327]: Board Product Development Engineer
+              - generic [ref=f207e328]:
+                - heading [level=3] [ref=f207e329]: Board Product Development Engineer
+                - paragraph [ref=f207e330]:
+                  - link [ref=f207e331] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/nvidia?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: NVIDIA
+                - generic [ref=f207e332]:
+                  - generic [ref=f207e333]: Santa Clara, CA
+                  - time [ref=f207e334]: 2 weeks ago
+          - listitem [ref=f207e335]:
+            - generic [ref=f207e336]:
+              - link [ref=f207e337] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/product-engineer-6-at-lam-research-4427748998?refId=APXg26SX%2F9SWksygvepSSw%3D%3D&trackingId=HWImfReJCNSrt9PFzOS1fA%3D%3D
+                - generic [ref=f207e338]: Product Engineer 6
+              - generic [ref=f207e339]:
+                - heading [level=3] [ref=f207e340]: Product Engineer 6
+                - paragraph [ref=f207e341]:
+                  - link [ref=f207e342] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/lam-research?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Lam Research
+                - generic [ref=f207e343]:
+                  - generic [ref=f207e344]: Fremont, CA
+                  - time [ref=f207e345]: 1 week ago
+          - listitem [ref=f207e346]:
+            - generic [ref=f207e347]:
+              - link [ref=f207e348] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/product-engineer-4-gas-delivery-at-lam-research-4450348345?refId=APXg26SX%2F9SWksygvepSSw%3D%3D&trackingId=%2FjXlBYftmbVP7MTcj13mzg%3D%3D
+                - generic [ref=f207e349]: Product Engineer 4 - Gas Delivery
+              - generic [ref=f207e350]:
+                - heading [level=3] [ref=f207e351]: Product Engineer 4 - Gas Delivery
+                - paragraph [ref=f207e352]:
+                  - link [ref=f207e353] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/lam-research?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Lam Research
+                - generic [ref=f207e354]:
+                  - generic [ref=f207e355]: Fremont, CA
+                  - time [ref=f207e356]: 2 weeks ago
+          - listitem [ref=f207e357]:
+            - generic [ref=f207e358]:
+              - link [ref=f207e359] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/characterization-product-development-engineer-at-nvidia-4459714103?refId=APXg26SX%2F9SWksygvepSSw%3D%3D&trackingId=xIJD0LuQFcMXALEvuhhieg%3D%3D
+                - generic [ref=f207e360]: Characterization Product Development Engineer
+              - generic [ref=f207e361]:
+                - heading [level=3] [ref=f207e362]: Characterization Product Development Engineer
+                - paragraph [ref=f207e363]:
+                  - link [ref=f207e364] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/nvidia?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: NVIDIA
+                - generic [ref=f207e365]:
+                  - generic [ref=f207e366]: Santa Clara, CA
+                  - time [ref=f207e367]: 2 weeks ago
+          - listitem [ref=f207e368]:
+            - generic [ref=f207e369]:
+              - link [ref=f207e370] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/product-engineer-4-etch-esc-product-development-at-lam-research-4443422202?refId=APXg26SX%2F9SWksygvepSSw%3D%3D&trackingId=6EeNOFATRPBCUM3tOzk%2FfQ%3D%3D
+                - generic [ref=f207e371]: Product Engineer 4 - Etch ESC product development
+              - generic [ref=f207e372]:
+                - heading [level=3] [ref=f207e373]: Product Engineer 4 - Etch ESC product development
+                - paragraph [ref=f207e374]:
+                  - link [ref=f207e375] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/lam-research?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Lam Research
+                - generic [ref=f207e376]:
+                  - generic [ref=f207e377]: Fremont, CA
+                  - time [ref=f207e378]: 1 week ago
+          - listitem [ref=f207e379]:
+            - generic [ref=f207e380]:
+              - link [ref=f207e381] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/npi-product-engineer-at-kla-4413651399?refId=APXg26SX%2F9SWksygvepSSw%3D%3D&trackingId=m3wrntb7G8HozbxQIQdELg%3D%3D
+                - generic [ref=f207e382]: NPI Product Engineer
+              - generic [ref=f207e383]:
+                - heading [level=3] [ref=f207e384]: NPI Product Engineer
+                - paragraph [ref=f207e385]:
+                  - link [ref=f207e386] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/klacorp?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: KLA
+                - generic [ref=f207e387]:
+                  - generic [ref=f207e388]: Milpitas, CA
+                  - time [ref=f207e389]: 1 week ago
+      - generic [ref=f207e390]:
+        - heading [level=2] [ref=f207e391]: Similar Searches
+        - generic [ref=f207e393]:
+          - list [ref=f207e394]:
+            - listitem [ref=f207e395]:
+              - link [ref=f207e396] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/national-human-resources-manager-jobs?trk=public_jobs_full-click
+                - generic [ref=f207e397]:
+                  - heading [level=3] [ref=f207e398]: National Human Resources Manager jobs
+                  - generic [ref=f207e399]: 6,388 open jobs
+            - listitem [ref=f207e400]:
+              - link [ref=f207e401] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/chief-design-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f207e402]:
+                  - heading [level=3] [ref=f207e403]: Chief Design Engineer jobs
+                  - generic [ref=f207e404]: 309 open jobs
+            - listitem [ref=f207e405]:
+              - link [ref=f207e406] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/principal-product-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f207e407]:
+                  - heading [level=3] [ref=f207e408]: Principal Product Engineer jobs
+                  - generic [ref=f207e409]: 40,556 open jobs
+            - listitem [ref=f207e410]:
+              - link [ref=f207e411] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/product-development-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f207e412]:
+                  - heading [level=3] [ref=f207e413]: Product Development Engineer jobs
+                  - generic [ref=f207e414]: 45,237 open jobs
+            - listitem [ref=f207e415]:
+              - link [ref=f207e416] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/electronic-development-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f207e417]:
+                  - heading [level=3] [ref=f207e418]: Electronic Development Engineer jobs
+                  - generic [ref=f207e419]: 8,017 open jobs
+            - listitem [ref=f207e420]:
+              - link [ref=f207e421] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/new-product-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f207e422]:
+                  - heading [level=3] [ref=f207e423]: New Product Engineer jobs
+                  - generic [ref=f207e424]: 20,853 open jobs
+            - listitem [ref=f207e425]:
+              - link [ref=f207e426] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/staff-product-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f207e427]:
+                  - heading [level=3] [ref=f207e428]: Staff Product Engineer jobs
+                  - generic [ref=f207e429]: 2,934 open jobs
+            - listitem [ref=f207e430]:
+              - link [ref=f207e431] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/application-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f207e432]:
+                  - heading [level=3] [ref=f207e433]: Application Engineer jobs
+                  - generic [ref=f207e434]: 280,202 open jobs
+            - listitem [ref=f207e435]:
+              - link [ref=f207e436] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/lead-product-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f207e437]:
+                  - heading [level=3] [ref=f207e438]: Lead Product Engineer jobs
+                  - generic [ref=f207e439]: 7,318 open jobs
+            - listitem [ref=f207e440]:
+              - link [ref=f207e441] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/product-design-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f207e442]:
+                  - heading [level=3] [ref=f207e443]: Product Design Engineer jobs
+                  - generic [ref=f207e444]: 41,548 open jobs
+            - listitem [ref=f207e445]:
+              - link [ref=f207e446] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/senior-security-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f207e447]:
+                  - heading [level=3] [ref=f207e448]: Senior Security Engineer jobs
+                  - generic [ref=f207e449]: 30,665 open jobs
+            - listitem [ref=f207e450]:
+              - link [ref=f207e451] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/staff-application-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f207e452]:
+                  - heading [level=3] [ref=f207e453]: Staff Application Engineer jobs
+                  - generic [ref=f207e454]: 2,429 open jobs
+          - button [ref=f207e455] [cursor=pointer]: Show more
+      - generic [ref=f207e459]:
+        - heading [level=2] [ref=f207e461]: Explore top content on LinkedIn
+        - paragraph [ref=f207e462]: Find curated posts and insights for relevant topics all in one place.
+        - link [ref=f207e463] [cursor=pointer]:
+          - /url: https://www.linkedin.com/top-content/
+          - text: View top content
+  - button [ref=f207e468] [cursor=pointer]: More searches
+  - contentinfo [aria-hidden] [ref=f207e470]:
+    - list [ref=f207e471]:
+      - generic [ref=f207e472]: LinkedIn
+      - generic [ref=f207e474]: © 2026
+      - listitem [ref=f207e475]:
+        - link [ref=f207e476] [cursor=pointer]:
+          - /url: https://about.linkedin.com?trk=d_jobs_guest_details_footer-about
+          - text: About
+      - listitem [ref=f207e477]:
+        - link [ref=f207e478] [cursor=pointer]:
+          - /url: https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility
+          - text: Accessibility
+      - listitem [ref=f207e479]:
+        - link [ref=f207e480] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/user-agreement?trk=d_jobs_guest_details_footer-user-agreement
+          - text: User Agreement
+      - listitem [ref=f207e481]:
+        - link [ref=f207e482] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/privacy-policy?trk=d_jobs_guest_details_footer-privacy-policy
+          - text: Privacy Policy
+      - listitem [ref=f207e483]:
+        - link [ref=f207e484] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/california-privacy-disclosure?trk=d_jobs_guest_details_footer-california-privacy-rights-act
+          - text: Your California Privacy Choices
+      - listitem [ref=f207e485]:
+        - link [ref=f207e486] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/cookie-policy?trk=d_jobs_guest_details_footer-cookie-policy
+          - text: Cookie Policy
+      - listitem [ref=f207e487]:
+        - link [ref=f207e488] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/copyright-policy?trk=d_jobs_guest_details_footer-copyright-policy
+          - text: Copyright Policy
+      - listitem [ref=f207e489]:
+        - link [ref=f207e490] [cursor=pointer]:
+          - /url: https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy
+          - text: Brand Policy
+      - listitem [ref=f207e491]:
+        - link [ref=f207e492] [cursor=pointer]:
+          - /url: https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls
+          - text: Guest Controls
+      - listitem [ref=f207e493]:
+        - link [ref=f207e494] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/professional-community-policies?trk=d_jobs_guest_details_footer-community-guide
+          - text: Community Guidelines
+      - listitem [ref=f207e495]:
+        - button [ref=f207e497]: Language
+  - dialog [active] [ref=f207e500]:
+    - button "Dismiss" [ref=f207e501] [cursor=pointer]
+    - generic [ref=f207e506]:
+      - heading "Sign in to see who you already know at Anything" [level=2] [ref=f207e508]
+      - generic [ref=f207e509]:
+        - button "Continue with google" [ref=f207e525]:
+          - iframe [ref=f207e527]:
+            - button "Continue with Google. Opens in new tab" [ref=f222e3] [cursor=pointer]:
+              - generic [ref=f222e5]: Continue with Google
+        - button "Sign in with Email" [ref=f207e510] [cursor=pointer]
+        - paragraph [ref=f207e516]: or
+        - button "Continue with google" [ref=f207e529]:
+          - iframe [ref=f207e531]:
+            - button "Continue with Google. Opens in new tab" [ref=f223e3] [cursor=pointer]:
+              - generic [ref=f223e5]: Continue with Google
+        - paragraph [ref=f207e517]:
+          - text: New to LinkedIn?
+          - link "Join now" [ref=f207e518] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&trk=public_jobs_contextual-sign-in-modal_join-link
+        - paragraph [ref=f207e519]:
+          - text: By clicking Continue to join or sign in, you agree to LinkedIn’s
+          - link "User Agreement" [ref=f207e520] [cursor=pointer]:
+            - /url: /legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement
+          - text: ","
+          - link "Privacy Policy" [ref=f207e521] [cursor=pointer]:
+            - /url: /legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy
+          - text: ", and"
+          - link "Cookie Policy" [ref=f207e522] [cursor=pointer]:
+            - /url: /legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy
+          - text: .

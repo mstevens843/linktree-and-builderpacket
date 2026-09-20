@@ -1,0 +1,22 @@
+- main [ref=f32e2]:
+  - generic [ref=f32e3]:
+    - img "Wellfound" [ref=f32e4]
+    - region [ref=f32e19]:
+      - paragraph [ref=f32e20]: 403 / Security check
+      - heading "Before you continue, please verify your request." [level=1] [ref=f32e21]:
+        - text: Before you continue,
+        - generic [ref=f32e22]: please verify your request.
+      - paragraph [ref=f32e23]: We need to confirm that this request is coming from a real browser before we send you to Wellfound. Complete the security check below to continue.
+      - generic [ref=f32e24]:
+        - main:
+          - generic:
+            - heading [level=2]
+            - paragraph
+      - paragraph [ref=f32e25]:
+        - generic [ref=f32e26]: Cloudflare Ray ID
+        - code [ref=f32e27]: a3bc49793c63ccb8
+      - generic [ref=f32e28]:
+        - link "Back to Wellfound" [ref=f32e29] [cursor=pointer]:
+          - /url: /
+        - link "Contact Support" [ref=f32e30] [cursor=pointer]:
+          - /url: mailto:team@wellfound.com

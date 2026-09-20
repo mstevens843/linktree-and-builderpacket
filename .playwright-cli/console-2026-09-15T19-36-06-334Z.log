@@ -1,0 +1,7 @@
+[     423ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://cdn.prod.website-files.com/6260298eca091b490f18dd17/68c04ef8c7d3c03d36c72baf_38466db5b776aa1baf3c010572ecda5b_GT-Flexa-VF.woff2:0
+[     923ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ https://www.qawolf.com/careers:283
+[     926ms] [LOG] bug script running @ https://www.qawolf.com/careers:828
+[    1088ms] [INFO] Consent Pro script found, skipping init Cookie Consent Component using Finsweet Components @ https://cdn.jsdelivr.net/npm/@finsweet/fs-components@2/fs-components.js?v=1789500967312:0
+[    1088ms] [ERROR] [fs-components] initComponent(): no data returned from loadComponent for consent @ https://cdn.jsdelivr.net/npm/@finsweet/fs-components@2/fs-components.js?v=1789500967312:9
+[    1167ms] [ERROR] [marquee] No marquee instances found on the page when initializing Marquee component {} @ https://cdn.jsdelivr.net/npm/@finsweet/fs-components@2/dist/chunk-2PJ4KWGC.js:8
+[    1178ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Ffast.wistia.net%2Fembed%2Fiframe%2Frmmz9lgwbb&display_name=Wistia%2C+Inc.&url=https%3A%2F%2Fqawolf.wistia.com%2Fmedias%2Frmmz9lgwbb&image=https%3A%2F%2Fembed-ssl.wistia.com%2Fdeliveries%2Fa57437da6893d3ffbc9f94e5ab87faa67a113dee.jpg%3Fimage_crop_resized%3D640x360&type=text%2Fhtml&schema=wistia:6

@@ -1,0 +1,982 @@
+- generic [ref=f40e1]:
+  - generic [aria-hidden] [ref=f40e2]:
+    - link [ref=f40e3] [cursor=pointer]:
+      - /url: "#main-content"
+      - text: Skip to main content
+    - banner [ref=f40e4]:
+      - navigation [ref=f40e5]:
+        - link [ref=f40e6] [cursor=pointer]:
+          - /url: /?trk=public_jobs_nav-header-logo
+          - generic [ref=f40e7]: LinkedIn
+        - generic [ref=f40e20]:
+          - button [ref=f40e22] [cursor=pointer]:
+            - generic [ref=f40e23]: Jobs
+          - tabpanel [ref=f40e24]:
+            - search [ref=f40e25]:
+              - generic [ref=f40e26]:
+                - combobox [ref=f40e27]: Full Stack Software Engineer
+                - button [ref=f40e28] [cursor=pointer]:
+                  - generic [ref=f40e29]: Clear text
+              - generic [ref=f40e35]:
+                - combobox [ref=f40e36]: San Francisco Bay Area
+                - button [ref=f40e37] [cursor=pointer]:
+                  - generic [ref=f40e38]: Clear text
+              - button [ref=f40e44] [cursor=pointer]
+          - status [ref=f40e48]
+        - generic [ref=f40e49]:
+          - link [ref=f40e50] [cursor=pointer]:
+            - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&fromSignIn=true&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fsearch-results%3Fkeywords%3Dfull%2Bstack%2Bsoftware%2Bengineer%26f_TPR%3Dr604800&trk=public_jobs_nav-header-signin
+            - text: Sign in
+          - link [ref=f40e51] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fsearch-results%3Fkeywords%3Dfull%2Bstack%2Bsoftware%2Bengineer%26f_TPR%3Dr604800&trk=public_jobs_nav-header-join
+            - text: Join now
+    - generic [ref=f40e54]:
+      - list [ref=f40e58]:
+        - listitem [ref=f40e59]:
+          - button [ref=f40e62] [cursor=pointer]: Past week
+        - listitem [ref=f40e66]:
+          - button [ref=f40e69] [cursor=pointer]: Company
+        - listitem [ref=f40e73]:
+          - link [ref=f40e74] [cursor=pointer]:
+            - /url: https://www.linkedin.com/jobs/search/?keywords=full+stack+software+engineer&location=San+Francisco+Bay+Area&f_E=2%2C3&f_WT=2%2C3&f_TPR=r604800&f_AL=true&trk=public_jobs_filters_f_AL
+            - text: Easy Apply
+        - listitem [ref=f40e75]:
+          - link [ref=f40e76] [cursor=pointer]:
+            - /url: https://www.linkedin.com/jobs/search/?keywords=full+stack+software+engineer&location=San+Francisco+Bay+Area&f_E=2%2C3&f_WT=2%2C3&f_TPR=r604800&f_EA=true&trk=public_jobs_filters_f_EA
+            - text: Under 10 applicants
+      - button [ref=f40e78] [cursor=pointer]: Where are the filters?
+    - main [ref=f40e83]:
+      - generic [ref=f40e90]:
+        - paragraph [ref=f40e91]:
+          - text: Get notified about new Full Stack Software Engineer jobs in
+          - strong [ref=f40e92]: San Francisco Bay Area
+          - text: .
+        - link [ref=f40e93] [cursor=pointer]:
+          - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fsearch-results%3Fkeywords%3Dfull%2Bstack%2Bsoftware%2Bengineer%26f_TPR%3Dr604800&trk=public_jobs_job-alert-guest-redirect-cta
+          - text: Sign in to create job alert
+      - heading [level=1] [ref=f40e95]: 2,000+ Full Stack Software Engineer Jobs in San Francisco Bay Area
+      - list [ref=f40e97]:
+        - listitem [ref=f40e98]:
+          - generic [ref=f40e99]:
+            - link [ref=f40e100] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-full-stack-engineer-at-classdojo-4318543704?position=1&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=o1et0ahQnouZpiVg2PKRog%3D%3D
+              - generic [ref=f40e101]: Senior Full-Stack Engineer
+            - generic [ref=f40e103]:
+              - heading [level=3] [ref=f40e104]: Senior Full-Stack Engineer
+              - heading [level=4] [ref=f40e105]:
+                - link [ref=f40e106] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/classdojo?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: ClassDojo
+              - generic [ref=f40e107]:
+                - generic [ref=f40e108]: San Francisco, CA
+                - time [ref=f40e109]: 4 days ago
+        - listitem [ref=f40e110]:
+          - generic [ref=f40e111]:
+            - link [ref=f40e112] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-engineer-at-wonderschool-4264052074?position=2&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=w7PH7%2B%2FxYhB%2F6buWm7uZxA%3D%3D
+              - generic [ref=f40e113]: Full Stack Engineer
+            - generic [ref=f40e115]:
+              - heading [level=3] [ref=f40e116]: Full Stack Engineer
+              - heading [level=4] [ref=f40e117]:
+                - link [ref=f40e118] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/wonderschool?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Wonderschool
+              - generic [ref=f40e119]:
+                - generic [ref=f40e120]: San Francisco, CA
+                - time [ref=f40e121]: 4 days ago
+        - listitem [ref=f40e122]:
+          - generic [ref=f40e123]:
+            - link [ref=f40e124] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-software-engineer-%24190k-%24225k-%2B-equity-at-hyperbound-at-jack-jill-4457404614?position=3&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=hdhBLid%2FfmqR3fRLImQz%2Bw%3D%3D
+              - generic [ref=f40e125]: Full-Stack Software Engineer ($190k-$225k + Equity) at Hyperbound
+            - generic [ref=f40e127]:
+              - heading [level=3] [ref=f40e128]: Full-Stack Software Engineer ($190k-$225k + Equity) at Hyperbound
+              - heading [level=4] [ref=f40e129]:
+                - link [ref=f40e130] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/jackandjillai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Jack & Jill
+              - generic [ref=f40e131]:
+                - generic [ref=f40e132]: San Francisco, CA
+                - generic [ref=f40e133]: Be an early applicant
+                - time [ref=f40e138]: 16 hours ago
+        - listitem [ref=f40e139]:
+          - generic [ref=f40e140]:
+            - link [ref=f40e141] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-engineer-application-software-at-spacex-4448666881?position=4&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=Y3LjgPGNuDt1t5HVbkERpg%3D%3D
+              - generic [ref=f40e142]: Full Stack Engineer (Application Software)
+            - generic [ref=f40e144]:
+              - heading [level=3] [ref=f40e145]: Full Stack Engineer (Application Software)
+              - heading [level=4] [ref=f40e146]:
+                - link [ref=f40e147] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/spacex?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: SpaceX
+              - generic [ref=f40e148]:
+                - generic [ref=f40e149]: Palo Alto, CA
+                - time [ref=f40e150]: 10 hours ago
+        - listitem [ref=f40e151]:
+          - generic [ref=f40e152]:
+            - link [ref=f40e153] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-full-stack-product-engineering-at-baton-4465092585?position=5&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=%2FekcXRGx1hvDhlYqvvvv5w%3D%3D
+              - generic [ref=f40e154]: Software Engineer - Full Stack, Product Engineering
+            - generic [ref=f40e156]:
+              - heading [level=3] [ref=f40e157]: Software Engineer - Full Stack, Product Engineering
+              - heading [level=4] [ref=f40e158]:
+                - link [ref=f40e159] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/baton-trucking?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Baton
+              - generic [ref=f40e160]:
+                - generic [ref=f40e161]: San Francisco, CA
+                - time [ref=f40e162]: 6 days ago
+        - listitem [ref=f40e163]:
+          - generic [ref=f40e164]:
+            - link [ref=f40e165] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-full-stack-engineer-at-xp-health-4466741361?position=6&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=%2B%2FTr2Zzp4D5bHyKxHXdhWw%3D%3D
+              - generic [ref=f40e166]: Senior Full Stack Engineer
+            - generic [ref=f40e168]:
+              - heading [level=3] [ref=f40e169]: Senior Full Stack Engineer
+              - heading [level=4] [ref=f40e170]:
+                - link [ref=f40e171] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/xphealth?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: XP Health
+              - generic [ref=f40e172]:
+                - generic [ref=f40e173]: San Carlos, CA
+                - time [ref=f40e174]: 3 days ago
+        - listitem [ref=f40e175]:
+          - generic [ref=f40e176]:
+            - link [ref=f40e177] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-software-engineer-model-development-platform-at-wayve-4456518595?position=7&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=JGmcy2i9Ly1J62A%2FfsJZZQ%3D%3D
+              - generic [ref=f40e178]: Full-Stack Software Engineer, Model Development Platform
+            - generic [ref=f40e180]:
+              - heading [level=3] [ref=f40e181]: Full-Stack Software Engineer, Model Development Platform
+              - heading [level=4] [ref=f40e182]:
+                - link [ref=f40e183] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/wayve-technologies?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Wayve
+              - generic [ref=f40e184]:
+                - generic [ref=f40e185]: Sunnyvale, CA
+                - time [ref=f40e186]: 11 hours ago
+        - listitem [ref=f40e187]:
+          - generic [ref=f40e188]:
+            - link [ref=f40e189] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-at-jack-4464873992?position=8&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=1V3T1m%2BHiK0c%2BxzNNwBoPg%3D%3D
+              - generic [ref=f40e190]: Software Engineer
+            - generic [ref=f40e192]:
+              - heading [level=3] [ref=f40e193]: Software Engineer
+              - heading [level=4] [ref=f40e194]:
+                - link [ref=f40e195] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/searchwithjack?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Jack
+              - generic [ref=f40e196]:
+                - generic [ref=f40e197]: San Francisco Bay Area
+                - generic [ref=f40e198]: 401(k) +53 benefits
+                - time [ref=f40e201]: 4 days ago
+        - listitem [ref=f40e202]:
+          - generic [ref=f40e203]:
+            - link [ref=f40e204] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-at-outschool-4465865687?position=9&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=crpjkt2PVI%2B4ijJWbzuL6w%3D%3D
+              - generic [ref=f40e205]: Software Engineer
+            - generic [ref=f40e207]:
+              - heading [level=3] [ref=f40e208]: Software Engineer
+              - heading [level=4] [ref=f40e209]:
+                - link [ref=f40e210] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/outschool?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Outschool
+              - generic [ref=f40e211]:
+                - generic [ref=f40e212]: San Francisco, CA
+                - time [ref=f40e213]: 5 days ago
+        - listitem [ref=f40e214]:
+          - generic [ref=f40e215]:
+            - link [ref=f40e216] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-full-stack-software-engineer-at-orchard-4455049623?position=10&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=N3AchFlvO1XBgaH9J%2FlKDQ%3D%3D
+              - generic [ref=f40e217]: Senior Full Stack Software Engineer
+            - generic [ref=f40e219]:
+              - heading [level=3] [ref=f40e220]: Senior Full Stack Software Engineer
+              - heading [level=4] [ref=f40e221]:
+                - link [ref=f40e222] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/orchardrobotics?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Orchard
+              - generic [ref=f40e223]:
+                - generic [ref=f40e224]: San Francisco, CA
+                - time [ref=f40e225]: 1 day ago
+        - listitem [ref=f40e226]:
+          - generic [ref=f40e227]:
+            - link [ref=f40e228] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/founding-full-stack-engineer-at-jobot-4464732891?position=11&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=PVKoYIJFXA5ihNJJWNagIQ%3D%3D
+              - generic [ref=f40e229]: Founding Full Stack Engineer
+            - generic [ref=f40e231]:
+              - heading [level=3] [ref=f40e232]: Founding Full Stack Engineer
+              - heading [level=4] [ref=f40e233]:
+                - link [ref=f40e234] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/jobot?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Jobot
+              - generic [ref=f40e235]:
+                - generic [ref=f40e236]: Mountain View, CA
+                - time [ref=f40e237]: 2 days ago
+        - listitem [ref=f40e238]:
+          - generic [ref=f40e239]:
+            - link [ref=f40e240] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/fullstack-software-engineer-at-collective-4411299806?position=12&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=1dlGT%2F%2By5VZHyFxR3PtDmw%3D%3D
+              - generic [ref=f40e241]: Fullstack Software Engineer
+            - generic [ref=f40e243]:
+              - heading [level=3] [ref=f40e244]: Fullstack Software Engineer
+              - heading [level=4] [ref=f40e245]:
+                - link [ref=f40e246] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/collective?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Collective
+              - generic [ref=f40e247]:
+                - generic [ref=f40e248]: San Francisco, CA
+                - time [ref=f40e249]: 2 days ago
+        - listitem [ref=f40e250]:
+          - generic [ref=f40e251]:
+            - link [ref=f40e252] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-full-stack-engineer-at-stealth-startup-4463482354?position=13&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=H2F6EHScGnbK%2BgEdCihCkw%3D%3D
+              - generic [ref=f40e253]: Senior Full Stack Engineer
+            - generic [ref=f40e255]:
+              - heading [level=3] [ref=f40e256]: Senior Full Stack Engineer
+              - heading [level=4] [ref=f40e257]:
+                - link [ref=f40e258] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/stealth-startup-community?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Stealth Startup
+              - generic [ref=f40e259]:
+                - generic [ref=f40e260]: San Francisco, CA
+                - generic [ref=f40e261]: 401(k) +3 benefits
+                - time [ref=f40e264]: 5 days ago
+        - listitem [ref=f40e265]:
+          - generic [ref=f40e266]:
+            - link [ref=f40e267] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-full-stack-developer-at-stealth-startup-4463967541?position=14&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=o4eEOBiD9jgIyDDn0LLoBg%3D%3D
+              - generic [ref=f40e268]: Senior Full Stack Developer
+            - generic [ref=f40e270]:
+              - heading [level=3] [ref=f40e271]: Senior Full Stack Developer
+              - heading [level=4] [ref=f40e272]:
+                - link [ref=f40e273] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/stealth-startupsssss?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Stealth Startup
+              - generic [ref=f40e274]:
+                - generic [ref=f40e275]: San Francisco, CA
+                - generic [ref=f40e276]: 401(k) +3 benefits
+                - time [ref=f40e279]: 4 days ago
+        - listitem [ref=f40e280]:
+          - generic [ref=f40e281]:
+            - link [ref=f40e282] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-fullstack-engineer-ambient-ai-at-commure-4448565033?position=15&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=mLpUI96NZIiOT07ddtDpaw%3D%3D
+              - generic [ref=f40e283]: Senior Fullstack Engineer, Ambient AI
+            - generic [ref=f40e285]:
+              - heading [level=3] [ref=f40e286]: Senior Fullstack Engineer, Ambient AI
+              - heading [level=4] [ref=f40e287]:
+                - link [ref=f40e288] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/commure?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Commure
+              - generic [ref=f40e289]:
+                - generic [ref=f40e290]: Mountain View, CA
+                - time [ref=f40e291]: 10 hours ago
+        - listitem [ref=f40e292]:
+          - generic [ref=f40e293]:
+            - link [ref=f40e294] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-engineer-bay-area-%24250k-%2B-meaningful-equity-at-harrison-clarke-4467201179?position=16&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=vx3v2Me42hyebj8TJGf%2F8A%3D%3D
+              - generic [ref=f40e295]: Full Stack Engineer | Bay Area | $250k + meaningful equity
+            - generic [ref=f40e297]:
+              - heading [level=3] [ref=f40e298]: Full Stack Engineer | Bay Area | $250k + meaningful equity
+              - heading [level=4] [ref=f40e299]:
+                - link [ref=f40e300] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/harrisonclarke?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Harrison Clarke
+              - generic [ref=f40e301]:
+                - generic [ref=f40e302]: San Francisco Bay Area
+                - time [ref=f40e303]: 1 day ago
+        - listitem [ref=f40e304]:
+          - generic [ref=f40e305]:
+            - link [ref=f40e306] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-fullstack-engineer-ambient-ai-at-commure-4455439792?position=17&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=fE1CfZAf%2F7XoZNPQVl0QQA%3D%3D
+              - generic [ref=f40e307]: Senior Fullstack Engineer, Ambient AI
+            - generic [ref=f40e309]:
+              - heading [level=3] [ref=f40e310]: Senior Fullstack Engineer, Ambient AI
+              - heading [level=4] [ref=f40e311]:
+                - link [ref=f40e312] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/commure?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Commure
+              - generic [ref=f40e313]:
+                - generic [ref=f40e314]: San Francisco, CA
+                - time [ref=f40e315]: 10 hours ago
+        - listitem [ref=f40e316]:
+          - generic [ref=f40e317]:
+            - link [ref=f40e318] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-software-development-engineer-full-stack-agent-factory-at-workday-4465913103?position=18&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=2mCXxsLzmrHZKk1MY%2FnYIg%3D%3D
+              - generic [ref=f40e319]: Senior Software Development Engineer (Full Stack) - Agent Factory
+            - generic [ref=f40e321]:
+              - heading [level=3] [ref=f40e322]: Senior Software Development Engineer (Full Stack) - Agent Factory
+              - heading [level=4] [ref=f40e323]:
+                - link [ref=f40e324] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/workday?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Workday
+              - generic [ref=f40e325]:
+                - generic [ref=f40e326]: Pleasanton, CA
+                - generic [ref=f40e327]: Be an early applicant
+                - time [ref=f40e330]: 8 hours ago
+        - listitem [ref=f40e331]:
+          - generic [ref=f40e332]:
+            - link [ref=f40e333] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-full-stack-engineer-at-stealth-startup-4463966575?position=19&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=epLf8DuI%2Fy8FTyIp9bvuog%3D%3D
+              - generic [ref=f40e334]: Senior Full Stack Engineer
+            - generic [ref=f40e336]:
+              - heading [level=3] [ref=f40e337]: Senior Full Stack Engineer
+              - heading [level=4] [ref=f40e338]:
+                - link [ref=f40e339] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/stealth-startupsssss?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Stealth Startup
+              - generic [ref=f40e340]:
+                - generic [ref=f40e341]: San Francisco Bay Area
+                - generic [ref=f40e342]: 401(k) +3 benefits
+                - time [ref=f40e345]: 4 days ago
+        - listitem [ref=f40e346]:
+          - generic [ref=f40e347]:
+            - link [ref=f40e348] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/sr-full-stack-software-engineer-starlink-at-spacex-4402204067?position=20&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=Tn2gcooJzyZbIpNfuofkLA%3D%3D
+              - generic [ref=f40e349]: Sr. Full Stack Software Engineer (Starlink)
+            - generic [ref=f40e351]:
+              - heading [level=3] [ref=f40e352]: Sr. Full Stack Software Engineer (Starlink)
+              - heading [level=4] [ref=f40e353]:
+                - link [ref=f40e354] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/spacex?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: SpaceX
+              - generic [ref=f40e355]:
+                - generic [ref=f40e356]: Palo Alto, CA
+                - time [ref=f40e357]: 5 days ago
+        - listitem [ref=f40e358]:
+          - generic [ref=f40e359]:
+            - link [ref=f40e360] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/core-engineer-at-techtree-4442861065?position=21&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=RCefzwiPeLll%2BMwaUkTnKQ%3D%3D
+              - generic [ref=f40e361]: Core Engineer
+            - generic [ref=f40e363]:
+              - heading [level=3] [ref=f40e364]: Core Engineer
+              - heading [level=4] [ref=f40e365]:
+                - link [ref=f40e366] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/techtreehq?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: TechTree
+              - generic [ref=f40e367]:
+                - generic [ref=f40e368]: San Francisco, CA
+                - time [ref=f40e369]: 6 days ago
+        - listitem [ref=f40e370]:
+          - generic [ref=f40e371]:
+            - link [ref=f40e372] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-at-freed-4318536958?position=22&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=KGS9xzOoDaGC3sMOuZMlUQ%3D%3D
+              - generic [ref=f40e373]: Senior Software Engineer
+            - generic [ref=f40e375]:
+              - heading [level=3] [ref=f40e376]: Senior Software Engineer
+              - heading [level=4] [ref=f40e377]:
+                - link [ref=f40e378] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/freed-ai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Freed
+              - generic [ref=f40e379]:
+                - generic [ref=f40e380]: San Francisco, CA
+                - time [ref=f40e381]: 6 days ago
+        - listitem [ref=f40e382]:
+          - generic [ref=f40e383]:
+            - link [ref=f40e384] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-forward-deployed-entry-senior-level-at-zip-4466530957?position=23&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=P2HEalMoHHlMOJrtYZvOMw%3D%3D
+              - generic [ref=f40e385]: Software Engineer, Forward Deployed (Entry - Senior Level)
+            - generic [ref=f40e387]:
+              - heading [level=3] [ref=f40e388]: Software Engineer, Forward Deployed (Entry - Senior Level)
+              - heading [level=4] [ref=f40e389]:
+                - link [ref=f40e390] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/theziphq?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Zip
+              - generic [ref=f40e391]:
+                - generic [ref=f40e392]: San Francisco, CA
+                - time [ref=f40e393]: 11 hours ago
+        - listitem [ref=f40e394]:
+          - generic [ref=f40e395]:
+            - link [ref=f40e396] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-full-stack-staff-at-lightfield-4457161717?position=24&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=feCZ181lItf74HBELye0ww%3D%3D
+              - generic [ref=f40e397]: Software Engineer, Full Stack (Staff)
+            - generic [ref=f40e399]:
+              - heading [level=3] [ref=f40e400]: Software Engineer, Full Stack (Staff)
+              - heading [level=4] [ref=f40e401]:
+                - link [ref=f40e402] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/lightfld?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Lightfield
+              - generic [ref=f40e403]:
+                - generic [ref=f40e404]: San Francisco, CA
+                - time [ref=f40e405]: 5 days ago
+        - listitem [ref=f40e406]:
+          - generic [ref=f40e407]:
+            - link [ref=f40e408] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-new-grad-2027-at-replit-4464163116?position=25&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=5Qdvb5iaCTSeBwdKLAgxrg%3D%3D
+              - generic [ref=f40e409]: Software Engineer - New Grad (2027)
+            - generic [ref=f40e411]:
+              - heading [level=3] [ref=f40e412]: Software Engineer - New Grad (2027)
+              - heading [level=4] [ref=f40e413]:
+                - link [ref=f40e414] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/repl-it?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Replit
+              - generic [ref=f40e415]:
+                - generic [ref=f40e416]: Foster City, CA
+                - time [ref=f40e417]: 6 days ago
+        - listitem [ref=f40e418]:
+          - generic [ref=f40e419]:
+            - link [ref=f40e420] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-happyrobot-4286307379?position=26&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=N%2FLVpy6xy4xP9IKSXauvJQ%3D%3D
+              - generic [ref=f40e421]: Software Engineer - Full-Stack
+            - generic [ref=f40e423]:
+              - heading [level=3] [ref=f40e424]: Software Engineer - Full-Stack
+              - heading [level=4] [ref=f40e425]:
+                - link [ref=f40e426] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/happyrobot?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: HappyRobot
+              - generic [ref=f40e427]:
+                - generic [ref=f40e428]: San Francisco, CA
+                - time [ref=f40e429]: 3 days ago
+        - listitem [ref=f40e430]:
+          - generic [ref=f40e431]:
+            - link [ref=f40e432] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/sr-full-stack-engineer-at-xona-4363825438?position=27&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=%2FZA%2F5z%2F7pkwzqDq3i3lngQ%3D%3D
+              - generic [ref=f40e433]: Sr. Full Stack Engineer
+            - generic [ref=f40e435]:
+              - heading [level=3] [ref=f40e436]: Sr. Full Stack Engineer
+              - heading [level=4] [ref=f40e437]:
+                - link [ref=f40e438] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/xona-space-systems?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Xona
+              - generic [ref=f40e439]:
+                - generic [ref=f40e440]: Burlingame, CA
+                - time [ref=f40e441]: 1 day ago
+        - listitem [ref=f40e442]:
+          - generic [ref=f40e443]:
+            - link [ref=f40e444] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-backend-full-stack-financial-product-at-rippling-4336077196?position=28&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=TfDp1FBclig1Fu3oh6q8IA%3D%3D
+              - generic [ref=f40e445]: Senior Software Engineer, Backend Full Stack - Financial Product
+            - generic [ref=f40e447]:
+              - heading [level=3] [ref=f40e448]: Senior Software Engineer, Backend Full Stack - Financial Product
+              - heading [level=4] [ref=f40e449]:
+                - link [ref=f40e450] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/rippling?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Rippling
+              - generic [ref=f40e451]:
+                - generic [ref=f40e452]: San Francisco, CA
+                - time [ref=f40e453]: 3 days ago
+        - listitem [ref=f40e454]:
+          - generic [ref=f40e455]:
+            - link [ref=f40e456] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-full-stack-engineer-at-vynca-4463952169?position=29&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=ptUPzYUbCRdsiHAcmrcx7A%3D%3D
+              - generic [ref=f40e457]: Senior Full Stack Engineer
+            - generic [ref=f40e459]:
+              - heading [level=3] [ref=f40e460]: Senior Full Stack Engineer
+              - heading [level=4] [ref=f40e461]:
+                - link [ref=f40e462] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/vyncacare?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Vynca
+              - generic [ref=f40e463]:
+                - generic [ref=f40e464]: San Mateo, CA
+                - time [ref=f40e465]: 5 days ago
+        - listitem [ref=f40e466]:
+          - generic [ref=f40e467]:
+            - link [ref=f40e468] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-miter-4467265839?position=30&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=mR36%2B9adq36XhzzJwzdfoA%3D%3D
+              - generic [ref=f40e469]: Software Engineer (New Grad)
+            - generic [ref=f40e471]:
+              - heading [level=3] [ref=f40e472]: Software Engineer (New Grad)
+              - heading [level=4] [ref=f40e473]:
+                - link [ref=f40e474] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/miterhr?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Miter
+              - generic [ref=f40e475]:
+                - generic [ref=f40e476]: San Francisco, CA
+                - time [ref=f40e477]: 1 day ago
+        - listitem [ref=f40e478]:
+          - generic [ref=f40e479]:
+            - link [ref=f40e480] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-at-f2-4464814392?position=31&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=exZwUMWqqcIgBgw7bQNI3w%3D%3D
+              - generic [ref=f40e481]: Senior Software Engineer
+            - generic [ref=f40e483]:
+              - heading [level=3] [ref=f40e484]: Senior Software Engineer
+              - heading [level=4] [ref=f40e485]:
+                - link [ref=f40e486] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/f2aihq?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: F2
+              - generic [ref=f40e487]:
+                - generic [ref=f40e488]: San Francisco, CA
+                - time [ref=f40e489]: 5 days ago
+        - listitem [ref=f40e490]:
+          - generic [ref=f40e491]:
+            - link [ref=f40e492] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-full-stack-at-nvidia-ai-4465233172?position=32&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=GebvkFEEcdXDvz8LWceHlg%3D%3D
+              - generic [ref=f40e493]: Senior Software Engineer, Full-Stack
+            - generic [ref=f40e495]:
+              - heading [level=3] [ref=f40e496]: Senior Software Engineer, Full-Stack
+              - heading [level=4] [ref=f40e497]:
+                - link [ref=f40e498] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/showcase/nvidia-ai/?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: NVIDIA AI
+              - generic [ref=f40e499]:
+                - generic [ref=f40e500]: Santa Clara, CA
+                - time [ref=f40e501]: 1 day ago
+        - listitem [ref=f40e502]:
+          - generic [ref=f40e503]:
+            - link [ref=f40e504] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-full-stack-at-sift-4253101367?position=33&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=knIoubYXmRRzIF3dF4yxjg%3D%3D
+              - generic [ref=f40e505]: Senior Software Engineer, Full Stack
+            - generic [ref=f40e507]:
+              - heading [level=3] [ref=f40e508]: Senior Software Engineer, Full Stack
+              - heading [level=4] [ref=f40e509]:
+                - link [ref=f40e510] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/sift-stack?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Sift
+              - generic [ref=f40e511]:
+                - generic [ref=f40e512]: San Francisco, CA
+                - time [ref=f40e513]: 4 days ago
+        - listitem [ref=f40e514]:
+          - generic [ref=f40e515]:
+            - link [ref=f40e516] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-full-stack-at-plaid-4410273031?position=34&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=mdapFjt8zf5rjcaWZh7RhA%3D%3D
+              - generic [ref=f40e517]: Senior Software Engineer, Full Stack
+            - generic [ref=f40e519]:
+              - heading [level=3] [ref=f40e520]: Senior Software Engineer, Full Stack
+              - heading [level=4] [ref=f40e521]:
+                - link [ref=f40e522] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/plaid-?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Plaid
+              - generic [ref=f40e523]:
+                - generic [ref=f40e524]: San Francisco Bay Area
+                - time [ref=f40e525]: 4 days ago
+        - listitem [ref=f40e526]:
+          - generic [ref=f40e527]:
+            - link [ref=f40e528] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-north-for-finance-at-cohere-4428410424?position=35&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=scvwzoyzducPvRy7%2B80qbA%3D%3D
+              - generic [ref=f40e529]: Software Engineer, North for Finance
+            - generic [ref=f40e531]:
+              - heading [level=3] [ref=f40e532]: Software Engineer, North for Finance
+              - heading [level=4] [ref=f40e533]:
+                - link [ref=f40e534] [cursor=pointer]:
+                  - /url: https://ca.linkedin.com/company/cohere-ai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Cohere
+              - generic [ref=f40e535]:
+                - generic [ref=f40e536]: San Francisco, CA
+                - time [ref=f40e537]: 4 days ago
+        - listitem [ref=f40e538]:
+          - generic [ref=f40e539]:
+            - link [ref=f40e540] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-full-stack-engineer-at-myome-4465394356?position=36&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=Bc%2Fa1S5RCZNpqpOjjyVniQ%3D%3D
+              - generic [ref=f40e541]: Senior Full Stack Engineer
+            - generic [ref=f40e543]:
+              - heading [level=3] [ref=f40e544]: Senior Full Stack Engineer
+              - heading [level=4] [ref=f40e545]:
+                - link [ref=f40e546] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/myome?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: MyOme
+              - generic [ref=f40e547]:
+                - generic [ref=f40e548]: San Francisco, CA
+                - time [ref=f40e549]: 6 days ago
+        - listitem [ref=f40e550]:
+          - generic [ref=f40e551]:
+            - link [ref=f40e552] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-full-stack-systems-at-atlas-4467936877?position=37&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=6HB5sbPU9w%2BLQynqcmmgSQ%3D%3D
+              - generic [ref=f40e553]: Senior Software Engineer (Full Stack, Systems)
+            - generic [ref=f40e555]:
+              - heading [level=3] [ref=f40e556]: Senior Software Engineer (Full Stack, Systems)
+              - heading [level=4] [ref=f40e557]:
+                - link [ref=f40e558] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/atlasfin?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Atlas
+              - generic [ref=f40e559]:
+                - generic [ref=f40e560]: San Francisco, CA
+                - generic [ref=f40e561]: Be an early applicant
+                - time [ref=f40e564]: 2 hours ago
+        - listitem [ref=f40e565]:
+          - generic [ref=f40e566]:
+            - link [ref=f40e567] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-full-stack-engineer-mapping-web-services-at-zoox-4437881019?position=38&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=3Ij1GeCzqFSRj1MHT%2F4mAg%3D%3D
+              - generic [ref=f40e568]: Senior Full-stack Engineer - Mapping Web Services
+            - generic [ref=f40e570]:
+              - heading [level=3] [ref=f40e571]: Senior Full-stack Engineer - Mapping Web Services
+              - heading [level=4] [ref=f40e572]:
+                - link [ref=f40e573] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/zoox-inc?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Zoox
+              - generic [ref=f40e574]:
+                - generic [ref=f40e575]: Foster City, CA
+                - time [ref=f40e576]: 6 days ago
+        - listitem [ref=f40e577]:
+          - generic [ref=f40e578]:
+            - link [ref=f40e579] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-google-beam-full-stack-at-google-4454971714?position=39&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=83FWylrwJ0450CrWR9H1Pw%3D%3D
+              - generic [ref=f40e580]: Senior Software Engineer, Google Beam, Full Stack
+            - generic [ref=f40e582]:
+              - heading [level=3] [ref=f40e583]: Senior Software Engineer, Google Beam, Full Stack
+              - heading [level=4] [ref=f40e584]:
+                - link [ref=f40e585] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/google?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Google
+              - generic [ref=f40e586]:
+                - generic [ref=f40e587]: Mountain View, CA
+                - time [ref=f40e588]: 6 days ago
+        - listitem [ref=f40e589]:
+          - generic [ref=f40e590]:
+            - link [ref=f40e591] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-at-instawork-4403125470?position=40&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=BPeUiqz7tjCNmfCVXgq1gg%3D%3D
+              - generic [ref=f40e592]: Senior Software Engineer
+            - generic [ref=f40e594]:
+              - heading [level=3] [ref=f40e595]: Senior Software Engineer
+              - heading [level=4] [ref=f40e596]:
+                - link [ref=f40e597] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/instawork?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Instawork
+              - generic [ref=f40e598]:
+                - generic [ref=f40e599]: San Francisco, CA
+                - time [ref=f40e600]: 13 hours ago
+        - listitem [ref=f40e601]:
+          - generic [ref=f40e602]:
+            - link [ref=f40e603] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-full-stack-at-nvidia-4466154258?position=41&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=6kmMJq8tPQkLqvU8vOgohg%3D%3D
+              - generic [ref=f40e604]: Senior Software Engineer, Full-Stack
+            - generic [ref=f40e606]:
+              - heading [level=3] [ref=f40e607]: Senior Software Engineer, Full-Stack
+              - heading [level=4] [ref=f40e608]:
+                - link [ref=f40e609] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/nvidia?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: NVIDIA
+              - generic [ref=f40e610]:
+                - generic [ref=f40e611]: Santa Clara, CA
+                - time [ref=f40e612]: 1 day ago
+        - listitem [ref=f40e613]:
+          - generic [ref=f40e614]:
+            - link [ref=f40e615] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-pylon-4438850428?position=42&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=I4BihJ2SdH3Dn8wDb7K4qg%3D%3D
+              - generic [ref=f40e616]: Software Engineer, New Grad
+            - generic [ref=f40e618]:
+              - heading [level=3] [ref=f40e619]: Software Engineer, New Grad
+              - heading [level=4] [ref=f40e620]:
+                - link [ref=f40e621] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/usepylon?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Pylon
+              - generic [ref=f40e622]:
+                - generic [ref=f40e623]: San Francisco, CA
+                - time [ref=f40e624]: 3 days ago
+        - listitem [ref=f40e625]:
+          - generic [ref=f40e626]:
+            - link [ref=f40e627] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-fullstack-software-engineer-profiles-at-roblox-4456296777?position=43&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=uCcQqM%2FR0EI4%2FdyUAbGJAA%3D%3D
+              - generic [ref=f40e628]: Senior Fullstack Software Engineer, Profiles
+            - generic [ref=f40e630]:
+              - heading [level=3] [ref=f40e631]: Senior Fullstack Software Engineer, Profiles
+              - heading [level=4] [ref=f40e632]:
+                - link [ref=f40e633] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/roblox?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Roblox
+              - generic [ref=f40e634]:
+                - generic [ref=f40e635]: San Mateo, CA
+                - time [ref=f40e636]: 3 days ago
+        - listitem [ref=f40e637]:
+          - generic [ref=f40e638]:
+            - link [ref=f40e639] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-senior-software-engineer-at-amplitude-4466387431?position=44&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=5lFwdseRuSTZBQ9xVxzRSw%3D%3D
+              - generic [ref=f40e640]: Full-Stack Senior Software Engineer
+            - generic [ref=f40e642]:
+              - heading [level=3] [ref=f40e643]: Full-Stack Senior Software Engineer
+              - heading [level=4] [ref=f40e644]:
+                - link [ref=f40e645] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/amplitude-analytics?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Amplitude
+              - generic [ref=f40e646]:
+                - generic [ref=f40e647]: San Francisco Bay Area
+                - time [ref=f40e648]: 4 days ago
+        - listitem [ref=f40e649]:
+          - generic [ref=f40e650]:
+            - link [ref=f40e651] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-fullstack-engineer-commure-pro-at-athelas-4466477594?position=45&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=cfrivkQ3sVeWW9U%2B1y59mg%3D%3D
+              - generic [ref=f40e652]: Senior Fullstack Engineer, Commure Pro
+            - generic [ref=f40e654]:
+              - heading [level=3] [ref=f40e655]: Senior Fullstack Engineer, Commure Pro
+              - heading [level=4] [ref=f40e656]:
+                - link [ref=f40e657] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/athelas?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Athelas
+              - generic [ref=f40e658]:
+                - generic [ref=f40e659]: San Francisco, CA
+                - time [ref=f40e660]: 3 days ago
+        - listitem [ref=f40e661]:
+          - generic [ref=f40e662]:
+            - link [ref=f40e663] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/platform-full-stack-engineer-new-grad-2027-at-c3-ai-4465226718?position=46&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=E4GskE%2F65%2BO3qttSoI%2FX0Q%3D%3D
+              - generic [ref=f40e664]: Platform Full-Stack Engineer, New Grad 2027
+            - generic [ref=f40e666]:
+              - heading [level=3] [ref=f40e667]: Platform Full-Stack Engineer, New Grad 2027
+              - heading [level=4] [ref=f40e668]:
+                - link [ref=f40e669] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/c3-ai-enterprise-ai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: C3 AI
+              - generic [ref=f40e670]:
+                - generic [ref=f40e671]: Redwood City, CA
+                - time [ref=f40e672]: 1 day ago
+        - listitem [ref=f40e673]:
+          - generic [ref=f40e674]:
+            - link [ref=f40e675] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-engineer-bridge-at-stripe-4457074266?position=47&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=BEctp3UeYFVyJBPX9%2BoBTA%3D%3D
+              - generic [ref=f40e676]: Full Stack Engineer, Bridge
+            - generic [ref=f40e678]:
+              - heading [level=3] [ref=f40e679]: Full Stack Engineer, Bridge
+              - heading [level=4] [ref=f40e680]:
+                - link [ref=f40e681] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/stripe?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Stripe
+              - generic [ref=f40e682]:
+                - generic [ref=f40e683]: San Francisco, CA
+                - time [ref=f40e684]: 4 days ago
+        - listitem [ref=f40e685]:
+          - generic [ref=f40e686]:
+            - link [ref=f40e687] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/sr-software-development-engineer-full-stack-evisort-ai-at-workday-4453469722?position=48&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=TinuqGWzf5a62plN8Evx3Q%3D%3D
+              - generic [ref=f40e688]: Sr Software Development Engineer (Full Stack) - Evisort AI
+            - generic [ref=f40e690]:
+              - heading [level=3] [ref=f40e691]: Sr Software Development Engineer (Full Stack) - Evisort AI
+              - heading [level=4] [ref=f40e692]:
+                - link [ref=f40e693] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/workday?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Workday
+              - generic [ref=f40e694]:
+                - generic [ref=f40e695]: Pleasanton, CA
+                - time [ref=f40e696]: 5 days ago
+        - listitem [ref=f40e697]:
+          - generic [ref=f40e698]:
+            - link [ref=f40e699] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/product-engineer-at-jack-4464881484?position=49&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=XZ3b%2BhhzDItv85m3xS2lcg%3D%3D
+              - generic [ref=f40e700]: Product Engineer
+            - generic [ref=f40e702]:
+              - heading [level=3] [ref=f40e703]: Product Engineer
+              - heading [level=4] [ref=f40e704]:
+                - link [ref=f40e705] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/searchwithjack?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Jack
+              - generic [ref=f40e706]:
+                - generic [ref=f40e707]: San Francisco Bay Area
+                - generic [ref=f40e708]: Medical insurance +2 benefits
+                - time [ref=f40e711]: 4 days ago
+        - listitem [ref=f40e712]:
+          - generic [ref=f40e713]:
+            - link [ref=f40e714] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-full-stack-engineer-%2B-equity-at-arcessio-at-jack-jill-4464836900?position=50&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=a4RKitrJVX1Qmi%2Fnublhng%3D%3D
+              - generic [ref=f40e715]: Senior Full Stack Engineer (+ Equity) at Arcessio
+            - generic [ref=f40e717]:
+              - heading [level=3] [ref=f40e718]: Senior Full Stack Engineer (+ Equity) at Arcessio
+              - heading [level=4] [ref=f40e719]:
+                - link [ref=f40e720] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/jackandjillai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Jack & Jill
+              - generic [ref=f40e721]:
+                - generic [ref=f40e722]: San Francisco, CA
+                - generic [ref=f40e723]: Be an early applicant
+                - time [ref=f40e726]: 4 days ago
+        - listitem [ref=f40e727]:
+          - generic [ref=f40e728]:
+            - link [ref=f40e729] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-fullstack-software-engineer-online-jobs-at-linkedin-4465846741?position=51&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=iD7WMCplaeBZd8IykcFKFQ%3D%3D
+              - generic [ref=f40e730]: Senior Fullstack Software Engineer - Online Jobs
+            - generic [ref=f40e732]:
+              - heading [level=3] [ref=f40e733]: Senior Fullstack Software Engineer - Online Jobs
+              - heading [level=4] [ref=f40e734]:
+                - link [ref=f40e735] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/linkedin?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: LinkedIn
+              - generic [ref=f40e736]:
+                - generic [ref=f40e737]: Mountain View, CA
+                - time [ref=f40e738]: 5 days ago
+        - listitem [ref=f40e739]:
+          - generic [ref=f40e740]:
+            - link [ref=f40e741] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-full-stack-engineer-at-mill-4447221113?position=52&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=rnZTfJEFb4b72qh%2BEzUVZg%3D%3D
+              - generic [ref=f40e742]: Senior Full Stack Engineer
+            - generic [ref=f40e744]:
+              - heading [level=3] [ref=f40e745]: Senior Full Stack Engineer
+              - heading [level=4] [ref=f40e746]:
+                - link [ref=f40e747] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/mill?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Mill
+              - generic [ref=f40e748]:
+                - generic [ref=f40e749]: San Bruno, CA
+                - time [ref=f40e750]: 3 days ago
+        - listitem [ref=f40e751]:
+          - generic [ref=f40e752]:
+            - link [ref=f40e753] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-full-stack-engineer-front-end-leaning-north-admin-at-cohere-4456292610?position=53&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=9PypFJQtUUvPJC564LuTHA%3D%3D
+              - generic [ref=f40e754]: Senior Full-Stack Engineer (Front-End Leaning), North Admin
+            - generic [ref=f40e756]:
+              - heading [level=3] [ref=f40e757]: Senior Full-Stack Engineer (Front-End Leaning), North Admin
+              - heading [level=4] [ref=f40e758]:
+                - link [ref=f40e759] [cursor=pointer]:
+                  - /url: https://ca.linkedin.com/company/cohere-ai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Cohere
+              - generic [ref=f40e760]:
+                - generic [ref=f40e761]: San Francisco, CA
+                - time [ref=f40e762]: 3 days ago
+        - listitem [ref=f40e763]:
+          - generic [ref=f40e764]:
+            - link [ref=f40e765] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-fullstack-at-databricks-4297756005?position=54&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=BAfFLwMwgig0OvaOk%2Bi5mA%3D%3D
+              - generic [ref=f40e766]: Senior Software Engineer - Fullstack
+            - generic [ref=f40e768]:
+              - heading [level=3] [ref=f40e769]: Senior Software Engineer - Fullstack
+              - heading [level=4] [ref=f40e770]:
+                - link [ref=f40e771] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/databricks?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Databricks
+              - generic [ref=f40e772]:
+                - generic [ref=f40e773]: Mountain View, CA
+                - time [ref=f40e774]: 3 days ago
+        - listitem [ref=f40e775]:
+          - generic [ref=f40e776]:
+            - link [ref=f40e777] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-full-stack-at-prudentia-sciences-4461448556?position=55&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=aXi9C3tQe2dRzT0Gnih4yQ%3D%3D
+              - generic [ref=f40e778]: Senior Software Engineer (Full Stack)
+            - generic [ref=f40e780]:
+              - heading [level=3] [ref=f40e781]: Senior Software Engineer (Full Stack)
+              - heading [level=4] [ref=f40e782]:
+                - link [ref=f40e783] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/prudentiasciences?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Prudentia Sciences
+              - generic [ref=f40e784]:
+                - generic [ref=f40e785]: San Francisco, CA
+                - time [ref=f40e786]: 5 days ago
+        - listitem [ref=f40e787]:
+          - generic [ref=f40e788]:
+            - link [ref=f40e789] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-at-federato-4459632588?position=56&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=LIphQtzXrVXDw0oAulSvVg%3D%3D
+              - generic [ref=f40e790]: Senior Software Engineer
+            - generic [ref=f40e792]:
+              - heading [level=3] [ref=f40e793]: Senior Software Engineer
+              - heading [level=4] [ref=f40e794]:
+                - link [ref=f40e795] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/federato?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Federato
+              - generic [ref=f40e796]:
+                - generic [ref=f40e797]: San Francisco Bay Area
+                - time [ref=f40e798]: 8 hours ago
+        - listitem [ref=f40e799]:
+          - generic [ref=f40e800]:
+            - link [ref=f40e801] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-at-tenex-ai-4315979563?position=57&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=H%2Bv5KZU5d8W%2FubrHB%2BeO8g%3D%3D
+              - generic [ref=f40e802]: Software Engineer
+            - generic [ref=f40e804]:
+              - heading [level=3] [ref=f40e805]: Software Engineer
+              - heading [level=4] [ref=f40e806]:
+                - link [ref=f40e807] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/tenex-ai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: TENEX.AI
+              - generic [ref=f40e808]:
+                - generic [ref=f40e809]: San Jose, CA
+                - time [ref=f40e810]: 4 days ago
+        - listitem [ref=f40e811]:
+          - generic [ref=f40e812]:
+            - link [ref=f40e813] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-alku-4465074535?position=58&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=6gu7JE%2B5lkrO1NTbMvRjOQ%3D%3D
+              - generic [ref=f40e814]: Full Stack Software Engineer
+            - generic [ref=f40e816]:
+              - heading [level=3] [ref=f40e817]: Full Stack Software Engineer
+              - heading [level=4] [ref=f40e818]:
+                - link [ref=f40e819] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/lifeatalku?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: ALKU
+              - generic [ref=f40e820]:
+                - generic [ref=f40e821]: San Francisco, CA
+                - generic [ref=f40e822]: Medical insurance +3 benefits
+                - time [ref=f40e825]: 6 days ago
+        - listitem [ref=f40e826]:
+          - generic [ref=f40e827]:
+            - link [ref=f40e828] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-fullstack-at-sigma-4426741941?position=59&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=j1TOfDlLJUZf5npH3vHh1A%3D%3D
+              - generic [ref=f40e829]: Senior Software Engineer - Fullstack
+            - generic [ref=f40e831]:
+              - heading [level=3] [ref=f40e832]: Senior Software Engineer - Fullstack
+              - heading [level=4] [ref=f40e833]:
+                - link [ref=f40e834] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/sigmacomputing?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Sigma
+              - generic [ref=f40e835]:
+                - generic [ref=f40e836]: San Francisco, CA
+                - time [ref=f40e837]: 2 hours ago
+        - listitem [ref=f40e838]:
+          - generic [ref=f40e839]:
+            - link [ref=f40e840] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-product-at-pylon-4438856059?position=60&pageNum=0&refId=O0MhzoQvuaya996PmTZNJw%3D%3D&trackingId=B57OEOczO7Rlat9NgQEfOw%3D%3D
+              - generic [ref=f40e841]: Software Engineer, Product
+            - generic [ref=f40e843]:
+              - heading [level=3] [ref=f40e844]: Software Engineer, Product
+              - heading [level=4] [ref=f40e845]:
+                - link [ref=f40e846] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/usepylon?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Pylon
+              - generic [ref=f40e847]:
+                - generic [ref=f40e848]: San Francisco, CA
+                - time [ref=f40e849]: 2 days ago
+    - contentinfo [ref=f40e852]:
+      - list [ref=f40e853]:
+        - generic [ref=f40e854]: LinkedIn
+        - generic [ref=f40e856]: © 2026
+        - listitem [ref=f40e857]:
+          - link [ref=f40e858] [cursor=pointer]:
+            - /url: https://about.linkedin.com?trk=public_jobs_footer-about
+            - text: About
+        - listitem [ref=f40e859]:
+          - link [ref=f40e860] [cursor=pointer]:
+            - /url: https://www.linkedin.com/accessibility?trk=public_jobs_footer-accessibility
+            - text: Accessibility
+        - listitem [ref=f40e861]:
+          - link [ref=f40e862] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/user-agreement?trk=public_jobs_footer-user-agreement
+            - text: User Agreement
+        - listitem [ref=f40e863]:
+          - link [ref=f40e864] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/privacy-policy?trk=public_jobs_footer-privacy-policy
+            - text: Privacy Policy
+        - listitem [ref=f40e865]:
+          - link [ref=f40e866] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/california-privacy-disclosure?trk=public_jobs_footer-california-privacy-rights-act
+            - text: Your California Privacy Choices
+        - listitem [ref=f40e867]:
+          - link [ref=f40e868] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/cookie-policy?trk=public_jobs_footer-cookie-policy
+            - text: Cookie Policy
+        - listitem [ref=f40e869]:
+          - link [ref=f40e870] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/copyright-policy?trk=public_jobs_footer-copyright-policy
+            - text: Copyright Policy
+        - listitem [ref=f40e871]:
+          - link [ref=f40e872] [cursor=pointer]:
+            - /url: https://brand.linkedin.com/policies?trk=public_jobs_footer-brand-policy
+            - text: Brand Policy
+        - listitem [ref=f40e873]:
+          - link [ref=f40e874] [cursor=pointer]:
+            - /url: https://www.linkedin.com/psettings/guest-controls?trk=public_jobs_footer-guest-controls
+            - text: Guest Controls
+        - listitem [ref=f40e875]:
+          - link [ref=f40e876] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/professional-community-policies?trk=public_jobs_footer-community-guide
+            - text: Community Guidelines
+        - listitem [ref=f40e877]:
+          - button [ref=f40e879]: Language
+  - dialog [active] [ref=f40e882]:
+    - button "Dismiss" [ref=f40e883] [cursor=pointer]
+    - generic [ref=f40e888]:
+      - heading "Sign in to view more jobs" [level=2] [ref=f40e890]
+      - generic [ref=f40e891]:
+        - generic:
+          - generic:
+            - button "Continue with google"
+        - button "Sign in with Email" [ref=f40e892] [cursor=pointer]
+        - paragraph [ref=f40e898]: or
+        - generic:
+          - generic:
+            - button "Continue with google"
+        - paragraph [ref=f40e899]:
+          - text: New to LinkedIn?
+          - link "Join now" [ref=f40e900] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&trk=public_jobs_contextual-sign-in-modal_join-link
+        - paragraph [ref=f40e901]:
+          - text: By clicking Continue to join or sign in, you agree to LinkedIn’s
+          - link "User Agreement" [ref=f40e902] [cursor=pointer]:
+            - /url: /legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement
+          - text: ","
+          - link "Privacy Policy" [ref=f40e903] [cursor=pointer]:
+            - /url: /legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy
+          - text: ", and"
+          - link "Cookie Policy" [ref=f40e904] [cursor=pointer]:
+            - /url: /legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy
+          - text: .

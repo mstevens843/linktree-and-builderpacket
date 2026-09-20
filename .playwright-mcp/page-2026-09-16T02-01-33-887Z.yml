@@ -1,0 +1,105 @@
+- generic [ref=f12e2]:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - link "Kamino":
+            - /url: /
+            - img "Kamino"
+        - navigation:
+          - generic:
+            - link "Highlighted Icon Swap":
+              - /url: /swap
+              - generic:
+                - img "Highlighted Icon"
+              - generic: Swap
+          - generic:
+            - link "Earn":
+              - /url: /earn/lend
+          - generic:
+            - link "Borrow":
+              - /url: /borrow
+          - generic:
+            - link "Multiply":
+              - /url: /multiply
+          - generic:
+            - link "Liquidity":
+              - /url: /liquidity
+          - generic:
+            - link "Portfolio":
+              - /url: /my-portfolio
+          - generic:
+            - generic:
+              - link "More":
+                - /url: "#"
+        - generic:
+          - link "Formally Verified":
+            - /url: /security#formal-verification
+            - generic:
+              - paragraph: Formally Verified
+          - link "20 Audits":
+            - /url: /security#security-audits
+            - generic:
+              - paragraph: 20 Audits
+          - link "Security":
+            - /url: /security
+        - generic:
+          - generic:
+            - link "twitter":
+              - /url: https://x.com/kamino
+              - img "twitter"
+            - link "discord":
+              - /url: https://discord.com/invite/kamino
+              - img "discord"
+            - link "telegram":
+              - /url: https://t.me/+DVzNEEQqiSRjODg0
+              - img "telegram"
+            - link "github":
+              - /url: https://github.com/Kamino-Finance
+              - img "github"
+      - button:
+        - button
+  - generic:
+    - generic:
+      - button:
+        - button
+  - generic [ref=f12e3]:
+    - banner [ref=f12e7]:
+      - generic [ref=f12e8]:
+        - link "Kamino" [ref=f12e10] [cursor=pointer]:
+          - /url: /
+          - img "Kamino"
+        - generic [ref=f12e11]:
+          - button [ref=f12e13] [cursor=pointer]
+          - button [ref=f12e20] [cursor=pointer]
+          - button "Connect Wallet" [ref=f12e23] [cursor=pointer]
+          - button [ref=f12e25] [cursor=pointer]
+    - generic: Loading Kamino
+    - contentinfo [ref=f12e31]:
+      - generic [ref=f12e33]:
+        - generic [ref=f12e36]:
+          - link [ref=f12e38] [cursor=pointer]:
+            - /url: https://x.com/kamino
+            - img "twitter" [ref=f12e39]
+          - link [ref=f12e41] [cursor=pointer]:
+            - /url: https://discord.com/invite/kamino
+            - img "discord" [ref=f12e42]
+          - link [ref=f12e44] [cursor=pointer]:
+            - /url: https://t.me/+DVzNEEQqiSRjODg0
+            - img "telegram" [ref=f12e45]
+          - link [ref=f12e47] [cursor=pointer]:
+            - /url: https://github.com/Kamino-Finance
+            - img "github" [ref=f12e48]
+        - generic [ref=f12e50]:
+          - link [ref=f12e51] [cursor=pointer]:
+            - /url: https://risk.kamino.finance/
+            - paragraph [ref=f12e54]: Risk dashboard
+          - link [ref=f12e58] [cursor=pointer]:
+            - /url: /security
+            - paragraph [ref=f12e61]: Security
+          - link [ref=f12e65] [cursor=pointer]:
+            - /url: https://docs.kamino.finance/
+            - paragraph [ref=f12e68]: Docs
+          - link [ref=f12e72] [cursor=pointer]:
+            - /url: /terms
+            - paragraph [ref=f12e75]: Terms

@@ -1,0 +1,6 @@
+[     432ms] [LOG] Concierge version 1.237.0 @ https://fireblocks.chilipiper.com/concierge-js/cjs/concierge.js:5
+[     439ms] [LOG] {data: Object, link: https://fireblocks.chilipiper.com/concierge-router…rceUrl=https%3A%2F%2Fwww.fireblocks.com%2Fcareers} @ https://fireblocks.chilipiper.com/concierge-js/cjs/concierge.js:5
+[    1531ms] [ERROR] Access to fetch at 'https://an-api.getro.com/v1/p' from origin 'https://jobs.solana.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://jobs.solana.com/companies?query=Sanctum:0
+[    1531ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://an-api.getro.com/v1/p:0
+[    1990ms] [ERROR] Access to fetch at 'https://an-api.getro.com/v1/p' from origin 'https://jobs.solana.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://jobs.solana.com/companies?query=Sanctum:0
+[    1991ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://an-api.getro.com/v1/p:0

@@ -1,0 +1,3 @@
+- generic [ref=f101e2]:
+  - region "Notifications Alt+T"
+  - alert "Loading" [ref=f101e3]

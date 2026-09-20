@@ -1,0 +1,8 @@
+[    1162ms] [WARNING] Unrecognized feature: 'attribution-reporting'. @ https://c.amazon-adsystem.com/aat/amzn.js:1
+[    1347ms] [WARNING] LogRocket Track API: Ignored unsupported type (null) at property refcode. Expected one of: boolean,number,string,boolean[],number[],string[] @ https://www.brex.com/_next/static/chunks/17418.636ac3343e669934.js:0
+[    1347ms] [WARNING] LogRocket Track API: Ignored unsupported type (null) at property paidClickId. Expected one of: boolean,number,string,boolean[],number[],string[] @ https://www.brex.com/_next/static/chunks/17418.636ac3343e669934.js:0
+[    1347ms] [WARNING] LogRocket Track API: Ignored unsupported type (null) at property utm_id. Expected one of: boolean,number,string,boolean[],number[],string[] @ https://www.brex.com/_next/static/chunks/17418.636ac3343e669934.js:0
+[    1348ms] [WARNING] LogRocket Track API: Ignored unsupported type (null) at property utm_campaign. Expected one of: boolean,number,string,boolean[],number[],string[] @ https://www.brex.com/_next/static/chunks/17418.636ac3343e669934.js:0
+[    1348ms] [WARNING] LogRocket Track API: Ignored unsupported type (null) at property utm_term. Expected one of: boolean,number,string,boolean[],number[],string[] @ https://www.brex.com/_next/static/chunks/17418.636ac3343e669934.js:0
+[    1348ms] [WARNING] LogRocket Track API: Ignored unsupported type (null) at property utm_content. Expected one of: boolean,number,string,boolean[],number[],string[] @ https://www.brex.com/_next/static/chunks/17418.636ac3343e669934.js:0
+[    1394ms] [WARNING] [Meta Pixel] - Invalid PixelID: null. @ https://www.brex.com/_next/static/chunks/17418.636ac3343e669934.js:0

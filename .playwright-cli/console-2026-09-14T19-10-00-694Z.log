@@ -1,0 +1,4 @@
+[    1387ms] [WARNING] Unrecognized feature: 'presentation'. @ https://www.useparagon.com/careers?_live_review=1789413000710:1045
+[    1830ms] [INFO] PH_09 pricing A/B router v2 ready @ :62
+[    2074ms] [INFO] PH_03 v11 ready (demo form only; no form PII sent to PostHog) @ :157
+[    2074ms] [INFO] PH_CTA v1.9 ready (consent-gated; referrer and campaign source sanitised) @ :370

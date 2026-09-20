@@ -1,0 +1,3 @@
+[     664ms] [LOG] Initializing analytics tracking @ https://app.dover.com/static/search-builder2/static/js/index-BHDlXZr9.js:238
+[     677ms] [WARNING] Could not identify user for NewRelic custom attributes @ https://app.dover.com/static/search-builder2/static/js/index-BHDlXZr9.js:250
+[     682ms] [WARNING] Could not identify user for NewRelic custom attributes @ https://app.dover.com/static/search-builder2/static/js/index-BHDlXZr9.js:250

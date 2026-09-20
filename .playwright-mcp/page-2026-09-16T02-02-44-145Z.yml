@@ -1,0 +1,273 @@
+- generic [ref=f1e2]:
+  - generic [ref=f1e3]:
+    - banner [ref=f1e5]:
+      - generic [ref=f1e6]:
+        - link "home" [ref=f1e7] [cursor=pointer]:
+          - /url: /
+        - navigation [ref=f1e8]:
+          - generic [ref=f1e9]:
+            - link "Trade" [ref=f1e10] [cursor=pointer]:
+              - /url: https://app.drift.trade/SOL-PERP
+            - link "Earn" [ref=f1e12] [cursor=pointer]:
+              - /url: https://app.drift.trade/earn
+            - link "Vaults" [ref=f1e14] [cursor=pointer]:
+              - /url: https://app.drift.trade/vaults
+            - link "Stake DRIFT" [ref=f1e16] [cursor=pointer]:
+              - /url: https://app.drift.trade/drift-safety-module
+            - link "Update" [ref=f1e18] [cursor=pointer]:
+              - /url: /updates
+          - generic [ref=f1e20]:
+            - link [ref=f1e21] [cursor=pointer]:
+              - /url: https://twitter.com/driftprotocol
+            - link [ref=f1e25] [cursor=pointer]:
+              - /url: https://discord.com/invite/fMcZBH8ErM
+            - link "Launch App" [ref=f1e29] [cursor=pointer]:
+              - /url: https://app.drift.trade/
+    - generic [ref=f1e37]:
+      - generic [ref=f1e38]:
+        - heading "Built for Traders. Engineered for Execution." [level=1] [ref=f1e39]: Built for Traders.Engineered for Execution.
+        - generic [ref=f1e40]: Experience deep liquidity, lightning-fast execution, and institutional-grade security on Solana's premier trading hub.
+      - generic [ref=f1e42]:
+        - link "Start Trading" [ref=f1e43] [cursor=pointer]:
+          - /url: https://app.drift.trade/BTC-PERP
+        - link "Start Earning" [ref=f1e46] [cursor=pointer]:
+          - /url: https://app.drift.trade/earn
+    - generic [ref=f1e52]:
+      - link "USDC icon USDC 0.00% APY Earn APY with or without trading" [ref=f1e54] [cursor=pointer]:
+        - /url: https://app.drift.trade/earn/borrow-lend?token=USDC
+        - generic [ref=f1e56]:
+          - img "USDC icon"
+        - generic [ref=f1e57]:
+          - generic [ref=f1e58]:
+            - generic [ref=f1e59]: USDC
+            - generic [ref=f1e60]: 0.00% APY
+          - generic [ref=f1e61]: Earn APY with or without trading
+      - link "SOL icon SOL 0.00% APY Earn APY with or without trading" [ref=f1e63] [cursor=pointer]:
+        - /url: https://app.drift.trade/earn/borrow-lend?token=SOL
+        - generic [ref=f1e65]:
+          - img "SOL icon"
+        - generic [ref=f1e66]:
+          - generic [ref=f1e67]:
+            - generic [ref=f1e68]: SOL
+            - generic [ref=f1e69]: 0.00% APY
+          - generic [ref=f1e70]: Earn APY with or without trading
+      - link "wBTC icon wBTC 0.00% APY Earn APY with or without trading" [ref=f1e72] [cursor=pointer]:
+        - /url: https://app.drift.trade/earn/borrow-lend?token=wBTC
+        - generic [ref=f1e74]:
+          - img "wBTC icon"
+        - generic [ref=f1e75]:
+          - generic [ref=f1e76]:
+            - generic [ref=f1e77]: wBTC
+            - generic [ref=f1e78]: 0.00% APY
+          - generic [ref=f1e79]: Earn APY with or without trading
+    - generic [ref=f1e83]:
+      - heading "Solana’s most reliable trading platform" [level=2] [ref=f1e85]
+      - generic [ref=f1e87]:
+        - generic [ref=f1e88]:
+          - generic [ref=f1e89]: $826B
+          - generic [ref=f1e91]: Total Deposits
+        - generic [ref=f1e92]:
+          - generic [ref=f1e93]: $50B+
+          - generic [ref=f1e95]: Cumulative Volume
+        - generic [ref=f1e96]:
+          - generic [ref=f1e97]: 19.2M
+          - generic [ref=f1e99]: Total Trades
+    - generic [ref=f1e104]:
+      - generic [ref=f1e105]:
+        - generic [ref=f1e106]: Degen-level leverage, institutional execution
+        - heading "Trade with conviction" [level=2] [ref=f1e107]
+        - generic [ref=f1e108]:
+          - generic [ref=f1e109]: Trade across 40+ hottest markets with up to 20x leverage.
+          - generic [ref=f1e110]: Go up to 101x leverage on SOL, BTC, and ETH perps.
+      - generic [ref=f1e112]:
+        - img "Drift UI"
+    - generic [ref=f1e117]:
+      - generic [ref=f1e118]:
+        - generic [ref=f1e119]: drift product suite
+        - heading "Your all in one DeFi Suite" [level=2] [ref=f1e120]: Your all in oneDeFi Suite
+        - generic [ref=f1e121]: Everything you need to trade, earn, and build on-chain, unified in a single, powerful platform.
+      - generic [ref=f1e124]:
+        - generic [ref=f1e125]:
+          - img "Drift Trade" [ref=f1e126]
+          - generic [ref=f1e127]:
+            - img "Drift Trade"
+            - generic [ref=f1e128]:
+              - heading "Permissionless trading of over 100+ assets" [level=3] [ref=f1e129]
+              - list [ref=f1e131]:
+                - listitem [ref=f1e132]: Permissionlessly trade 50+ markets
+                - listitem [ref=f1e133]: Use any token as collateral
+                - listitem [ref=f1e134]: 101x lev, we have the highest leverage
+        - generic [ref=f1e135]:
+          - img "Drift Earn" [ref=f1e136]
+          - generic [ref=f1e137]:
+            - img "Drift Earn"
+            - generic [ref=f1e138]:
+              - heading "Earn up to 16% yield on your deposits" [level=3] [ref=f1e139]
+              - paragraph [ref=f1e141]: Put your capital to work. Our optimized yield strategies offer competitive, sustainable returns on your favorite assets.
+        - generic [ref=f1e142]:
+          - img "Drift Institutional" [ref=f1e143]
+          - generic [ref=f1e144]:
+            - img "Drift Institutional"
+            - generic [ref=f1e145]:
+              - heading "Permissionless trading of over 100+ assets" [level=3] [ref=f1e146]
+              - paragraph [ref=f1e148]: Access bespoke credit solutions and secure, high-yield opportunities built for institutional-scale capital and compliance.
+    - generic [ref=f1e153]:
+      - generic [ref=f1e154]: Trusted by industry-leading financial institutions
+      - generic [ref=f1e157]:
+        - generic [ref=f1e158]:
+          - img "Ethereal Ventures"
+          - img "Polychain Capital"
+          - img "Ledger Prime"
+          - img "QCP Capital"
+          - img "Robot Venture"
+          - img "Not3Lau Capital"
+          - img "Multicoin Capital"
+          - img "Folius Ventures"
+          - img "Bixin Ventures"
+          - img "Anatoly Yakovenko & Raj Gokal"
+        - generic [ref=f1e159]:
+          - img "Ethereal Ventures"
+          - img "Polychain Capital"
+          - img "Ledger Prime"
+          - img "QCP Capital"
+          - img "Robot Venture"
+          - img "Not3Lau Capital"
+          - img "Multicoin Capital"
+          - img "Folius Ventures"
+          - img "Bixin Ventures"
+          - img "Anatoly Yakovenko & Raj Gokal"
+    - generic [ref=f1e165]:
+      - generic [ref=f1e166]:
+        - generic [ref=f1e167]: speed, composability, capital efficiency
+        - heading "Performance-first infrastructure" [level=2] [ref=f1e169]
+      - generic [ref=f1e171]:
+        - generic [ref=f1e172]:
+          - generic [ref=f1e173]: Top-of-block executionvia native Solana Integrations
+          - generic [ref=f1e174]:
+            - img "Top-of-block execution"
+        - generic [ref=f1e175]:
+          - generic [ref=f1e176]:
+            - img "Gasless trading"
+          - generic [ref=f1e177]: Gasless trading,direct to market maker
+        - generic [ref=f1e178]:
+          - generic [ref=f1e179]: Open-source with verifiable contracts
+          - generic [ref=f1e180]:
+            - img "Open-srouce"
+    - generic [ref=f1e184]:
+      - generic [ref=f1e185]:
+        - heading "Built to meet institutional risk standards" [level=2] [ref=f1e187]:
+          - text: Built to meet institutional
+          - generic [ref=f1e188]: risk standards
+        - generic [ref=f1e189]:
+          - generic [ref=f1e190]: View Audits
+          - generic [ref=f1e191]:
+            - link "Trail of Bits" [ref=f1e192] [cursor=pointer]:
+              - /url: /audit
+            - link "OtterSec" [ref=f1e195] [cursor=pointer]:
+              - /url: /connect-by-drift-security-audit-by-ottersec
+            - link "Neodyme" [ref=f1e198] [cursor=pointer]:
+              - /url: https://cdn.prod.website-files.com/6310e7dee49f0866da8eed4c/6686bbdfe7c6e5a997cc51bc_Neodyme%20-%20Drift%20Security%20Audit.pdf
+      - generic [ref=f1e202]:
+        - generic [ref=f1e203]:
+          - img "Audit icon"
+          - generic [ref=f1e204]:
+            - generic [ref=f1e205]: Audited by industry-leading security firms
+            - generic [ref=f1e206]:
+              - img "Trail of Bits"
+              - img "OtterSec"
+              - img "Neodyme"
+        - generic [ref=f1e208]:
+          - img "Risk engine"
+          - generic [ref=f1e209]:
+            - generic [ref=f1e210]: Real-time risk engine with circuit breakers
+            - generic [ref=f1e211]: Our risk engine monitors positions 24/7 to protect the protocol and its users from market volatility.
+        - generic [ref=f1e213]:
+          - img "Liquidatoini engine"
+          - generic [ref=f1e214]:
+            - generic [ref=f1e215]: World class liquidation engine
+            - generic [ref=f1e216]: Our advanced liquidation engine operates with precision, ensuring market stability and minimizing slippage during volatile periods.
+    - generic [ref=f1e221]:
+      - heading "Start trading & earning in seconds" [level=2] [ref=f1e223]
+      - generic [ref=f1e225]:
+        - generic [ref=f1e227]:
+          - generic [ref=f1e228]:
+            - img "Trade with Drift"
+          - generic [ref=f1e229]:
+            - generic [ref=f1e230]:
+              - heading "Trade with Drift" [level=3] [ref=f1e231]:
+                - generic [ref=f1e232]: Trade
+                - text: with Drift
+              - generic [ref=f1e233]: Trade over 100+ assets with up to 101x leverage.
+            - link "Start Trading" [ref=f1e234] [cursor=pointer]:
+              - /url: https://app.drift.trade/BTC-PERP
+        - generic [ref=f1e238]:
+          - generic [ref=f1e239]:
+            - img "Earn with Drift"
+          - generic [ref=f1e240]:
+            - generic [ref=f1e241]:
+              - heading "Earn with Drift" [level=3] [ref=f1e242]:
+                - generic [ref=f1e243]: Earn
+                - text: with Drift
+              - generic [ref=f1e244]: Earn up to 16% on your deposits.
+            - link "Start Earning" [ref=f1e245] [cursor=pointer]:
+              - /url: https://app.drift.trade/earn
+  - contentinfo [ref=f1e248]:
+    - generic [ref=f1e251]:
+      - generic [ref=f1e252]:
+        - generic [ref=f1e253]:
+          - link [ref=f1e254] [cursor=pointer]:
+            - /url: /wip/old-home-2
+          - generic [ref=f1e255]:
+            - generic [ref=f1e256]: Subscribe to Drift's newsletter for exclusive updates.
+            - iframe [ref=f1e258]:
+              - generic [ref=f2e3]:
+                - generic [ref=f2e4]:
+                  - generic [ref=f2e5]: Email
+                  - textbox "Enter your email" [ref=f2e6]
+                - button "Subscribe" [ref=f2e8] [cursor=pointer]
+        - generic [ref=f1e259]:
+          - generic [ref=f1e260]:
+            - generic [ref=f1e261]: Drift
+            - link "Learn" [ref=f1e262] [cursor=pointer]:
+              - /url: /learn
+            - link "Governance" [ref=f1e264] [cursor=pointer]:
+              - /url: https://drift.foundation/
+            - link "careers" [ref=f1e266] [cursor=pointer]:
+              - /url: https://driftprotocol.notion.site/Drift-Career-Opportunities-45de6a825f264388b13cd866b707d157
+            - link "media kit" [ref=f1e268] [cursor=pointer]:
+              - /url: https://www.figma.com/design/ub4YVSWfeKf8rwH0ksTxPq/Drift-Logo---Token-Icon?node-id=3-2&t=7mhOPPXXGiBfAYIo-1
+          - generic [ref=f1e270]:
+            - generic [ref=f1e271]: Insights
+            - link "stats" [ref=f1e272] [cursor=pointer]:
+              - /url: https://app.drift.trade/stats
+            - link "validators" [ref=f1e274] [cursor=pointer]:
+              - /url: /validator-security-policies
+            - link "Market Metric" [ref=f1e276] [cursor=pointer]:
+              - /url: https://metrics.drift.trade/d/9AG0WHvVz/home?orgId=1&from=now-6h&to=now&timezone=browser
+            - link "github" [ref=f1e278] [cursor=pointer]:
+              - /url: https://drift-labs.github.io/v2-teacher/
+            - link "docs" [ref=f1e280] [cursor=pointer]:
+              - /url: https://docs.drift.trade/
+          - generic [ref=f1e282]:
+            - generic [ref=f1e283]: developers
+            - link "Protocol Code" [ref=f1e284] [cursor=pointer]:
+              - /url: https://github.com/drift-labs/protocol-v2
+            - link "Technical Docs" [ref=f1e286] [cursor=pointer]:
+              - /url: https://docs.drift.trade/developers
+            - link "Python SDK" [ref=f1e288] [cursor=pointer]:
+              - /url: https://github.com/drift-labs/driftpy
+            - link "Typescript SDK" [ref=f1e290] [cursor=pointer]:
+              - /url: https://github.com/drift-labs/protocol-v2/tree/master/sdk
+            - link "TOB Audit" [ref=f1e292] [cursor=pointer]:
+              - /url: https://www.drift.trade/audit
+            - link "Neodyme Audit" [ref=f1e294] [cursor=pointer]:
+              - /url: https://cdn.prod.website-files.com/6310e7dee49f0866da8eed4c/6686bbdfe7c6e5a997cc51bc_Neodyme%20-%20Drift%20Security%20Audit.pdf
+            - link "Ottersec Audit" [ref=f1e296] [cursor=pointer]:
+              - /url: https://www.drift.trade/connect-by-drift-security-audit-by-ottersec
+      - generic [ref=f1e298]:
+        - generic [ref=f1e299]:
+          - link [ref=f1e300] [cursor=pointer]:
+            - /url: https://twitter.com/driftprotocol
+          - link [ref=f1e304] [cursor=pointer]:
+            - /url: https://discord.com/invite/fMcZBH8ErM
+        - generic [ref=f1e308]: All rights reserved © drift.trade

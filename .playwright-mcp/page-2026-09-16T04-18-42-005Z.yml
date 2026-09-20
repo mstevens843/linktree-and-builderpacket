@@ -1,0 +1,296 @@
+- generic [active] [ref=f390e1]:
+  - link "Skip to content" [ref=f390e2] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=f390e3]:
+    - generic [ref=f390e6]:
+      - generic [ref=f390e7]:
+        - link [ref=f390e10] [cursor=pointer]:
+          - /url: /site
+        - navigation "Menu" [ref=f390e13]:
+          - generic "Menu Toggle" [ref=f390e14]:
+            - list [ref=f390e15]:
+              - listitem [ref=f390e16]:
+                - generic [ref=f390e17]:
+                  - generic [ref=f390e18]: Platform
+                  - button "Open Platform"
+              - listitem [ref=f390e27]:
+                - generic [ref=f390e28]:
+                  - generic [ref=f390e29]: Solutions
+                  - button "Open Solutions"
+              - listitem [ref=f390e38]:
+                - generic [ref=f390e39]:
+                  - generic [ref=f390e40]: Enterprise
+                  - button "Open Enterprise"
+              - listitem [ref=f390e49]:
+                - generic [ref=f390e50]:
+                  - generic [ref=f390e51]: Resources
+                  - button "Open Resources"
+              - listitem [ref=f390e60]:
+                - link "Docs" [ref=f390e62] [cursor=pointer]:
+                  - /url: https://docs.wandb.ai/
+              - listitem [ref=f390e64]:
+                - link "Pricing" [ref=f390e66] [cursor=pointer]:
+                  - /url: /site/pricing/
+      - generic [ref=f390e68]:
+        - link "Contact" [ref=f390e72] [cursor=pointer]:
+          - /url: /site/contact/
+        - link "LOG IN" [ref=f390e78] [cursor=pointer]:
+          - /url: https://app.wandb.ai/login?_gl=1*1njlh40*_ga*MjAzMDY0NTMxOC4xNjg2NzMzODEw*_ga_JH1SJHJQXJ*MTY5MDk5MDgxNS4xMjEuMS4xNjkwOTkxMDExLjYwLjAuMA..
+        - link "Sign up" [ref=f390e84] [cursor=pointer]:
+          - /url: https://app.wandb.ai/login?signup=true&_gl=1*1njlh40*_ga*MjAzMDY0NTMxOC4xNjg2NzMzODEw*_ga_JH1SJHJQXJ*MTY5MDk5MDgxNS4xMjEuMS4xNjkwOTkxMDExLjYwLjAuMA..
+      - text:  
+  - main [ref=f390e87]:
+    - generic [ref=f390e89]:
+      - generic [ref=f390e91]:
+        - generic [ref=f390e92]:
+          - heading "Careers at Weights & Biases" [level=1] [ref=f390e95]
+          - heading "Our mission" [level=2] [ref=f390e98]
+          - paragraph [ref=f390e101]: At Weights & Biases our mission is to build the best tools for AI. Our co-founders built Figure Eight, and our tools are being used by cutting-edge machine learning teams including OpenAI, NVIDIA, and Meta. We’re looking for passionate, driven people who love to learn and collaborate in an inclusive work environment.
+          - link "View all roles" [ref=f390e105] [cursor=pointer]:
+            - /url: https://coreweave.com/careers/weights-biases
+            - generic [ref=f390e106]:
+              - generic [aria-hidden] [ref=f390e108]: 
+              - generic [ref=f390e109]: View all roles
+          - paragraph [ref=f390e112]: Weights & Biases is now part of CoreWeave, and we’re excited to grow together. The button above will take you to all open Weights & Biases roles on the CoreWeave careers page.
+        - img "careers-head" [ref=f390e115]
+      - generic [ref=f390e117]:
+        - heading "Our team" [level=2] [ref=f390e120]
+        - paragraph [ref=f390e128]: Made up of 260 (and counting) talented, kind, and mission-driven individuals, our team is distributed all over the world. If you’re the owner of an inquisitive mind, sees challenges as opportunities, and are committed to going the extra mile — let’s talk.
+      - generic [ref=f390e130]:
+        - heading "How we work" [level=2] [ref=f390e133]
+        - generic [ref=f390e134]:
+          - generic [ref=f390e135]:
+            - heading "Building the best tools for AI" [level=3] [ref=f390e138]
+            - paragraph [ref=f390e141]: We take pride in being tool builders. We’re focused on giving developers, ML engineers, and AI app builders the best tools for the job. It’s what we think about every day and our mission has never changed.
+          - generic [ref=f390e142]:
+            - heading "Nimble and collaborative" [level=3] [ref=f390e145]
+            - paragraph [ref=f390e148]: AI is in a perpetual state of flux. Best-in-class models come out every week, state-of-the-art techniques evolve, and our customers need to keep pace with the constant change. We value staying nimble and solving problems together. If you do too, you’ll fit right in.
+          - generic [ref=f390e149]:
+            - heading "Remote-first culture" [level=3] [ref=f390e152]
+            - paragraph [ref=f390e155]: While we’re headquartered in San Francisco, Weights & Biases has always been remote-first. We prioritize the best talent, not local talent, so no matter where you are, we’d love to hear from you.
+      - generic [ref=f390e157]:
+        - heading "Our values" [level=2] [ref=f390e160]
+        - generic [ref=f390e161]:
+          - generic [ref=f390e162]:
+            - img "careers-honesty" [ref=f390e165]
+            - generic [ref=f390e166]:
+              - heading "Honesty" [level=2] [ref=f390e169]
+              - paragraph [ref=f390e172]: To make smart decisions, we need to be honest with each other and with ourselves. Honesty allows us to surface problems so we can tackle them together as a team, instead of avoiding them.
+          - generic [ref=f390e173]:
+            - img "careers-curiosity" [ref=f390e176]
+            - generic [ref=f390e177]:
+              - heading "Curiosity" [level=2] [ref=f390e180]
+              - paragraph [ref=f390e183]: Machine learning is advancing fast. Best practices can easily become obsolete overnight. The key to thriving (not just surviving) in this industry is to never stop learning.
+          - generic [ref=f390e184]:
+            - img "careers-gumption" [ref=f390e187]
+            - generic [ref=f390e188]:
+              - heading "Gumption" [level=2] [ref=f390e191]
+              - paragraph [ref=f390e194]: In a world of intense competition, having the confidence to move forward despite uncertainty is essential. Taking risks can be uncomfortable but staying complacent is rarely the better option.
+          - generic [ref=f390e195]:
+            - img "careers-grit" [ref=f390e198]
+            - generic [ref=f390e199]:
+              - heading "Grit" [level=2] [ref=f390e202]
+              - paragraph [ref=f390e205]: As much as talent counts, effort counts twice. Having that ability to roll up your sleeves converts setbacks into stepping stones. In the long run, having grit is a core part of success.
+      - generic [ref=f390e207]:
+        - heading "Our hiring process" [level=2] [ref=f390e210]
+        - generic [ref=f390e211]:
+          - generic [ref=f390e212]:
+            - generic [aria-hidden] [ref=f390e218]: 
+            - paragraph [ref=f390e222]: Initial conversations
+          - generic [ref=f390e230]:
+            - generic [aria-hidden] [ref=f390e236]: 
+            - paragraph [ref=f390e240]: Team/panel interviews
+          - paragraph [ref=f390e259]: Executive call(s)
+          - paragraph [ref=f390e278]: Offer
+          - generic [ref=f390e286]:
+            - generic [aria-hidden] [ref=f390e292]: 
+            - paragraph [ref=f390e296]: Orientation
+      - generic [ref=f390e298]:
+        - heading "Our benefits" [level=2] [ref=f390e301]
+        - generic [ref=f390e302]:
+          - paragraph [ref=f390e312]: Medical
+          - paragraph [ref=f390e322]: Dental
+          - paragraph [ref=f390e332]: Vision
+          - paragraph [ref=f390e342]: 401 (K)
+          - generic [ref=f390e343]:
+            - generic [aria-hidden] [ref=f390e348]: 
+            - paragraph [ref=f390e351]: WFH stipend
+          - paragraph [ref=f390e361]: Take-what-you-need time off policy
+          - generic [ref=f390e362]:
+            - generic [aria-hidden] [ref=f390e367]: 
+            - paragraph [ref=f390e370]: Life and AD&D insurance
+          - paragraph [ref=f390e380]: Professional development stipend
+          - paragraph [ref=f390e390]: Parental leave
+          - paragraph [ref=f390e400]: Plus more
+  - contentinfo [ref=f390e401]:
+    - generic [ref=f390e404]:
+      - generic [ref=f390e405]:
+        - link [ref=f390e408] [cursor=pointer]:
+          - /url: /site
+        - list [ref=f390e411]:
+          - listitem [ref=f390e412]:
+            - link "X-twitter" [ref=f390e413] [cursor=pointer]:
+              - /url: https://x.com/weights_biases?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+          - listitem [ref=f390e417]:
+            - link "Linkedin-in" [ref=f390e418] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/wandb/
+          - listitem [ref=f390e422]:
+            - link "Youtube" [ref=f390e423] [cursor=pointer]:
+              - /url: https://www.youtube.com/c/WeightsBiases
+      - generic [ref=f390e429]:
+        - generic [ref=f390e430]:
+          - heading "The Platform" [level=5] [ref=f390e433]
+          - navigation "Menu" [ref=f390e436]:
+            - list [ref=f390e437]:
+              - listitem [ref=f390e438]:
+                - link "Traces" [ref=f390e439] [cursor=pointer]:
+                  - /url: /site/traces/
+              - listitem [ref=f390e440]:
+                - link "Evaluations" [ref=f390e441] [cursor=pointer]:
+                  - /url: /site/evaluations/
+              - listitem [ref=f390e442]:
+                - link "Playground" [ref=f390e443] [cursor=pointer]:
+                  - /url: /site/playground
+              - listitem [ref=f390e444]:
+                - link "Agents" [ref=f390e445] [cursor=pointer]:
+                  - /url: /site/agents
+              - listitem [ref=f390e446]:
+                - link "Guardrails" [ref=f390e447] [cursor=pointer]:
+                  - /url: /site/guardrails
+              - listitem [ref=f390e448]:
+                - link "Online Evaluations" [ref=f390e449] [cursor=pointer]:
+                  - /url: /site/online-evaluations
+              - listitem [ref=f390e450]:
+                - link "Models" [ref=f390e451] [cursor=pointer]:
+                  - /url: /site/models
+              - listitem [ref=f390e452]:
+                - link "Experiments" [ref=f390e453] [cursor=pointer]:
+                  - /url: /site/experiment-tracking/
+              - listitem [ref=f390e454]:
+                - link "Sweeps" [ref=f390e455] [cursor=pointer]:
+                  - /url: /site/sweeps/
+              - listitem [ref=f390e456]:
+                - link "Tables" [ref=f390e457] [cursor=pointer]:
+                  - /url: /site/tables/
+              - listitem [ref=f390e458]:
+                - link "Serverless Inference" [ref=f390e459] [cursor=pointer]:
+                  - /url: /site/inference
+              - listitem [ref=f390e460]:
+                - link "Registry" [ref=f390e461] [cursor=pointer]:
+                  - /url: /site/registry/
+              - listitem [ref=f390e462]:
+                - link "Artifacts" [ref=f390e463] [cursor=pointer]:
+                  - /url: /site/artifacts/
+              - listitem [ref=f390e464]:
+                - link "Reports" [ref=f390e465] [cursor=pointer]:
+                  - /url: /site/reports/
+              - listitem [ref=f390e466]:
+                - link "SDK" [ref=f390e467] [cursor=pointer]:
+                  - /url: /site/sdk
+              - listitem [ref=f390e468]:
+                - link "Automations" [ref=f390e469] [cursor=pointer]:
+                  - /url: /site/automations/
+              - listitem [ref=f390e470]:
+                - link "ARIA" [ref=f390e471] [cursor=pointer]:
+                  - /url: /site/agent/
+        - generic [ref=f390e472]:
+          - heading "Article" [level=5] [ref=f390e475]
+          - navigation "Menu" [ref=f390e478]:
+            - list [ref=f390e479]:
+              - listitem [ref=f390e480]:
+                - link "What are AI agents?" [ref=f390e481] [cursor=pointer]:
+                  - /url: /site/articles/ai-agents/
+              - listitem [ref=f390e482]:
+                - link "What are AI guardrails?" [ref=f390e483] [cursor=pointer]:
+                  - /url: /site/articles/ai-guardrails/
+              - listitem [ref=f390e484]:
+                - link "LLM evaluations" [ref=f390e485] [cursor=pointer]:
+                  - /url: /site/?p=22126
+              - listitem [ref=f390e486]:
+                - link "What is RAG?" [ref=f390e487] [cursor=pointer]:
+                  - /url: /site/articles/what-is-retrieval-augmented-generation/
+              - listitem [ref=f390e488]:
+                - link "What is MLOps?" [ref=f390e489] [cursor=pointer]:
+                  - /url: /site/articles/what-is-mlops/
+              - listitem [ref=f390e490]:
+                - link "ML model registry" [ref=f390e491] [cursor=pointer]:
+                  - /url: /site/articles/what-is-an-ml-model-registry/
+              - listitem [ref=f390e492]:
+                - link "What is LLMOps?" [ref=f390e493] [cursor=pointer]:
+                  - /url: /site/articles/what-is-llmops-and-how-does-it-work/
+              - listitem [ref=f390e494]:
+                - link "What is reinforcement learning?" [ref=f390e495] [cursor=pointer]:
+                  - /url: /site/articles/reinforcement-learning-rl/
+        - generic [ref=f390e496]:
+          - heading "Resources" [level=5] [ref=f390e499]
+          - navigation "Menu" [ref=f390e502]:
+            - list [ref=f390e503]:
+              - listitem [ref=f390e504]:
+                - link "Documentation" [ref=f390e505] [cursor=pointer]:
+                  - /url: https://docs.wandb.ai/
+              - listitem [ref=f390e506]:
+                - link "AI Courses" [ref=f390e507] [cursor=pointer]:
+                  - /url: /site/courses
+              - listitem [ref=f390e508]:
+                - link "AI SideQuest" [ref=f390e509] [cursor=pointer]:
+                  - /url: /site/ai-sidequest
+              - listitem [ref=f390e510]:
+                - link "Articles" [ref=f390e511] [cursor=pointer]:
+                  - /url: /site/articles/
+              - listitem [ref=f390e512]:
+                - link "Blog and tutorials" [ref=f390e513] [cursor=pointer]:
+                  - /url: https://wandb.ai/fully-connected
+              - listitem [ref=f390e514]:
+                - link "Podcast" [ref=f390e515] [cursor=pointer]:
+                  - /url: https://wandb.ai/fully-connected/podcast
+              - listitem [ref=f390e516]:
+                - link "Events" [ref=f390e517] [cursor=pointer]:
+                  - /url: /site/resources/events/
+              - listitem [ref=f390e518]:
+                - link "Support" [ref=f390e519] [cursor=pointer]:
+                  - /url: /site/support/
+        - generic [ref=f390e520]:
+          - heading "Company" [level=5] [ref=f390e523]
+          - navigation "Menu" [ref=f390e526]:
+            - list [ref=f390e527]:
+              - listitem [ref=f390e528]:
+                - link "About us" [ref=f390e529] [cursor=pointer]:
+                  - /url: /site/company/about-us/
+              - listitem [ref=f390e530]:
+                - link "Partners" [ref=f390e531] [cursor=pointer]:
+                  - /url: /site/partners
+              - listitem [ref=f390e532]:
+                - link "Trust and security" [ref=f390e533] [cursor=pointer]:
+                  - /url: /site/security
+              - listitem [ref=f390e534]:
+                - link "Legal" [ref=f390e535] [cursor=pointer]:
+                  - /url: /site/legal-home/
+              - listitem [ref=f390e536]:
+                - link "Careers" [ref=f390e537] [cursor=pointer]:
+                  - /url: /site/careers/
+              - listitem [ref=f390e538]:
+                - link "Contact" [ref=f390e539] [cursor=pointer]:
+                  - /url: /site/contact/
+              - listitem [ref=f390e540]:
+                - link "Brand guide" [ref=f390e541] [cursor=pointer]:
+                  - /url: /site/brand-identity/
+              - listitem [ref=f390e542]:
+                - link "Press" [ref=f390e543] [cursor=pointer]:
+                  - /url: /site/press-releases/
+    - generic [ref=f390e546]:
+      - paragraph [ref=f390e550]: Copyright © Weights & Biases. All rights reserved.
+      - navigation "Menu" [ref=f390e554]:
+        - list [ref=f390e555]:
+          - listitem [ref=f390e556]:
+            - link "Website terms of use" [ref=f390e557] [cursor=pointer]:
+              - /url: /site/website-terms-of-use
+          - listitem [ref=f390e558]:
+            - link "Privacy policy" [ref=f390e559] [cursor=pointer]:
+              - /url: https://docs.coreweave.com/policies/terms-of-service/privacy-policy
+          - listitem [ref=f390e560] [cursor=pointer]:
+            - link "Cookie Settings" [ref=f390e561]:
+              - /url: "#cookie-settings"
+          - listitem [ref=f390e562]:
+            - link "English" [ref=f390e563] [cursor=pointer]:
+              - /url: /site/careers/
+  - generic [ref=f390e568]: tablet_extra

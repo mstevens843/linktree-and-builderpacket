@@ -1,0 +1,174 @@
+- generic [ref=f36e2]:
+  - list [ref=f36e4]:
+    - listitem [ref=f36e5]:
+      - link [ref=f36e6] [cursor=pointer]:
+        - /url: https://www.tailor.tech/
+        - img "Tailor" [ref=f36e7]
+    - listitem [ref=f36e8]:
+      - link "Back to Tailor’s Job Listings" [ref=f36e9] [cursor=pointer]:
+        - /url: /tailor
+    - listitem
+  - generic [ref=f36e12]:
+    - heading "Full-Stack Software Engineer (Remote, US West Timezone Overlap)" [level=1] [ref=f36e14]
+    - generic [ref=f36e15]:
+      - generic [ref=f36e16]:
+        - generic [ref=f36e17]:
+          - heading "Location" [level=2] [ref=f36e18]
+          - paragraph [ref=f36e19]: Remote (Anywhere in the world)
+        - generic [ref=f36e20]:
+          - heading "Employment Type" [level=2] [ref=f36e21]
+          - paragraph [ref=f36e22]: Full time
+        - generic [ref=f36e23]:
+          - heading "Location Type" [level=2] [ref=f36e24]
+          - paragraph [ref=f36e25]: Remote
+        - generic [ref=f36e26]:
+          - heading "Department" [level=2] [ref=f36e27]
+          - paragraph [ref=f36e28]:
+            - generic [ref=f36e29]: US
+      - generic [ref=f36e30]:
+        - tablist [ref=f36e31]:
+          - tab "Overview" [selected] [ref=f36e32] [cursor=pointer]
+          - tab "Application" [ref=f36e33] [cursor=pointer]
+        - tabpanel "Overview" [ref=f36e35]:
+          - generic [ref=f36e36]:
+            - heading "About Tailor" [level=3] [ref=f36e37]
+            - paragraph [ref=f36e38]:
+              - text: Tailor is pioneering
+              - strong [ref=f36e39]: Headless ERP technology
+              - text: — a new way for growing companies to design internal workflows that fit their business, not the other way around. Our platform combines the flexibility of modern developer tools with the power of enterprise-grade operations.
+            - paragraph [ref=f36e40]:
+              - text: We’re helping multi-channel retailers, manufacturers, and B2B businesses replace rigid systems with
+              - strong [ref=f36e41]: adaptive, composable infrastructure
+              - text: . If you care about solving complex real-world problems and building products that scale from first principles, you’ll fit right in.
+            - heading "The Role" [level=3] [ref=f36e43]
+            - paragraph [ref=f36e44]:
+              - text: We’re looking for a
+              - strong [ref=f36e45]: Full-Stack Software Engineer
+              - text: to join Tailor full-time as one of our early technical hires.
+            - paragraph [ref=f36e46]:
+              - text: This is a hybrid role that blends
+              - strong [ref=f36e47]: core product development
+              - text: with
+              - strong [ref=f36e48]: customer-facing implementations
+              - text: — building real applications on Tailor’s platform while contributing reusable patterns and components back into the product.
+            - paragraph [ref=f36e49]: You’ll collaborate directly with Forward Deployed PMs and customers to translate messy, real-world workflows into elegant, maintainable systems. Over time, your work will define how Tailor scales — not just in code, but in culture.
+            - heading "What You’ll Do" [level=3] [ref=f36e51]
+            - list [ref=f36e52]:
+              - listitem [ref=f36e53]:
+                - paragraph [ref=f36e54]:
+                  - strong [ref=f36e55]: Scope ambiguous customer asks
+                  - text: ", prototype quickly, and iterate into stable customer deployments using Tailor’s platform."
+              - listitem [ref=f36e56]:
+                - paragraph [ref=f36e57]:
+                  - strong [ref=f36e58]: Engage with customers
+                  - text: with our Forward Deployed Product Manager to understand the customer needs, and iterate into stable customer deployments using Tailor’s platform.
+              - listitem [ref=f36e59]:
+                - paragraph [ref=f36e60]:
+                  - strong [ref=f36e61]: Productize repeatable solutions
+                  - text: ", turning bespoke implementations into scalable modules for accounting, e-commerce, logistics, and other workflows."
+              - listitem [ref=f36e62]:
+                - paragraph [ref=f36e63]:
+                  - strong [ref=f36e64]: Build and ship production-grade features
+                  - text: across our stack — from front-end UIs to backend APIs, integrations, and data models.
+              - listitem [ref=f36e65]:
+                - paragraph [ref=f36e66]:
+                  - text: Work with the founding team to shape
+                  - strong [ref=f36e67]: engineering standards, developer experience, and platform architecture
+                  - text: as we grow.
+            - heading "Who You Are" [level=3] [ref=f36e69]
+            - list [ref=f36e70]:
+              - listitem [ref=f36e71]:
+                - paragraph [ref=f36e72]:
+                  - text: 4+ years of experience
+                  - strong [ref=f36e73]: building and shipping full-stack web applications
+                  - text: in production environments. Proficiency with
+                  - strong [ref=f36e74]: TypeScript,
+                  - link [ref=f36e75] [cursor=pointer]:
+                    - /url: https://nodejs.org/
+                    - strong [ref=f36e76]: Node.js
+                  - strong [ref=f36e77]: ", GraphQL"
+                  - text: and
+                  - strong [ref=f36e78]: React
+                  - text: is a plus.
+              - listitem [ref=f36e79]:
+                - paragraph [ref=f36e80]:
+                  - text: Strong foundation in
+                  - strong [ref=f36e81]: data modeling
+                  - text: ", API design, and ensuring"
+                  - strong [ref=f36e82]: performance, scalability, and reliability
+                  - text: in production systems.
+              - listitem [ref=f36e83]:
+                - paragraph [ref=f36e84]:
+                  - text: Comfortable integrating with
+                  - strong [ref=f36e85]: third-party APIs
+                  - text: and external platforms across accounting, commerce, or logistics domains.
+              - listitem [ref=f36e86]:
+                - paragraph [ref=f36e87]:
+                  - text: Pragmatic engineer with a
+                  - strong [ref=f36e88]: bias toward outcomes
+                  - text: — you value shipping solutions that solve real problems over perfect engineering.
+              - listitem [ref=f36e89]:
+                - paragraph [ref=f36e90]:
+                  - text: Comfortable with ambiguity — able to
+                  - strong [ref=f36e91]: decompose fuzzy asks
+                  - text: ", prioritize independently, and"
+                  - strong [ref=f36e92]: ship without a complete spec
+                  - text: .
+              - listitem [ref=f36e93]:
+                - paragraph [ref=f36e94]:
+                  - text: Enjoy
+                  - strong [ref=f36e95]: working with customers
+                  - text: and turning complex operational pain points into smart, maintainable software.
+            - heading "Compensation, Location & Benefits" [level=3] [ref=f36e97]
+            - list [ref=f36e98]:
+              - listitem [ref=f36e99]:
+                - paragraph [ref=f36e100]:
+                  - strong [ref=f36e101]: "Compensation:"
+                  - text: $120,000 – $160,000 USD / year
+              - listitem [ref=f36e102]:
+                - paragraph [ref=f36e103]:
+                  - strong [ref=f36e104]: Remote-first
+                  - text: (anywhere with at least 6 hr overlap with US west coast)
+                - list [ref=f36e105]:
+                  - listitem [ref=f36e106]:
+                    - paragraph [ref=f36e107]: Occasional customer meetings (remote only, no travel required)
+              - listitem [ref=f36e108]:
+                - paragraph [ref=f36e109]:
+                  - strong [ref=f36e110]: "Benefits:"
+                - list [ref=f36e111]:
+                  - listitem [ref=f36e112]:
+                    - paragraph [ref=f36e113]: PTO & paid holidays
+                  - listitem [ref=f36e114]:
+                    - paragraph [ref=f36e115]: Work-from-home setup stipend
+                  - listitem [ref=f36e116]:
+                    - paragraph [ref=f36e117]: Parental leave and family support
+            - heading "About the interview" [level=3] [ref=f36e119]
+            - paragraph [ref=f36e120]: We keep our process fast, transparent, and respectful of your time.
+            - list [ref=f36e121]:
+              - listitem [ref=f36e122]:
+                - paragraph [ref=f36e123]:
+                  - strong [ref=f36e124]: Intro call (15 min)
+                  - text: — alignment on role, background, and mutual fit.
+              - listitem [ref=f36e125]:
+                - paragraph [ref=f36e126]:
+                  - strong [ref=f36e127]: Practical exercise (paid, 1–3 hrs)
+                  - text: — scoped feature or workflow problem built using Tailor’s platform.
+              - listitem [ref=f36e128]:
+                - paragraph [ref=f36e129]:
+                  - strong [ref=f36e130]: Final interview (60 min)
+                  - text: — deep dive into your technical experience and collaboration style.
+          - link [ref=f36e131] [cursor=pointer]:
+            - /url: /tailor/08796053-4fa8-48db-9a73-a977ae2c5434/application
+            - button "Apply for this Job" [ref=f36e132]
+  - contentinfo [ref=f36e133]:
+    - link "Learn more about Ashby" [ref=f36e134] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=f36e135]: Powered by
+      - img "Ashby" [ref=f36e136]
+    - paragraph [ref=f36e142]:
+      - link "Privacy Policy" [ref=f36e143] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=f36e144] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=f36e145] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

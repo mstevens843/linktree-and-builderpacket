@@ -1,0 +1,8 @@
+[    1584ms] [WARNING] LogRocket Track API: Ignored unsupported type (null) at property refcode. Expected one of: boolean,number,string,boolean[],number[],string[] @ https://www.brex.com/_next/static/chunks/17418.636ac3343e669934.js:0
+[    1584ms] [WARNING] LogRocket Track API: Ignored unsupported type (null) at property paidClickId. Expected one of: boolean,number,string,boolean[],number[],string[] @ https://www.brex.com/_next/static/chunks/17418.636ac3343e669934.js:0
+[    1585ms] [WARNING] LogRocket Track API: Ignored unsupported type (null) at property utm_id. Expected one of: boolean,number,string,boolean[],number[],string[] @ https://www.brex.com/_next/static/chunks/17418.636ac3343e669934.js:0
+[    1585ms] [WARNING] LogRocket Track API: Ignored unsupported type (null) at property utm_campaign. Expected one of: boolean,number,string,boolean[],number[],string[] @ https://www.brex.com/_next/static/chunks/17418.636ac3343e669934.js:0
+[    1585ms] [WARNING] LogRocket Track API: Ignored unsupported type (null) at property utm_term. Expected one of: boolean,number,string,boolean[],number[],string[] @ https://www.brex.com/_next/static/chunks/17418.636ac3343e669934.js:0
+[    1585ms] [WARNING] LogRocket Track API: Ignored unsupported type (null) at property utm_content. Expected one of: boolean,number,string,boolean[],number[],string[] @ https://www.brex.com/_next/static/chunks/17418.636ac3343e669934.js:0
+[    1614ms] [WARNING] [Meta Pixel] - Invalid PixelID: null. @ https://www.brex.com/_next/static/chunks/17418.636ac3343e669934.js:0
+[    2557ms] [LOG] Concierge version 1.1.107 @ https://www.brex.com/_next/static/chunks/17418.636ac3343e669934.js:0

@@ -1,0 +1,181 @@
+- generic [active] [ref=f31e1]:
+  - generic [ref=f31e6]:
+    - banner [ref=f31e8]:
+      - navigation [ref=f31e9]:
+        - link [ref=f31e11] [cursor=pointer]:
+          - /url: https://solana.com
+          - img "Solana" [ref=f31e12]
+    - generic [ref=f31e14]:
+      - navigation "Job board" [ref=f31e15]:
+        - generic [ref=f31e16]:
+          - link "Search jobs" [ref=f31e17] [cursor=pointer]:
+            - /url: /jobs
+            - generic [ref=f31e18]: Search
+            - text: jobs
+          - link "Explore companies" [ref=f31e19] [cursor=pointer]:
+            - /url: /companies
+            - generic [ref=f31e20]: Explore
+            - text: companies
+          - link "Join talent network" [ref=f31e21] [cursor=pointer]:
+            - /url: /talent-network
+          - button "My job alerts" [ref=f31e24] [cursor=pointer]:
+            - generic [ref=f31e27]:
+              - text: My
+              - generic [ref=f31e28]: job
+              - text: alerts
+      - main [ref=f31e29]:
+        - generic [ref=f31e30]:
+          - generic [ref=f31e31]:
+            - generic [ref=f31e34]:
+              - generic [ref=f31e35]:
+                - generic [ref=f31e36]: Search by name or keyword
+                - textbox "Search by name or keyword" [ref=f31e40]
+              - generic [ref=f31e42]:
+                - generic [ref=f31e43]: Location
+                - textbox "Location" [ref=f31e47]
+                - button "Open location filter" [ref=f31e48] [cursor=pointer]
+            - link "Powered by Getro" [ref=f31e54] [cursor=pointer]:
+              - /url: https://www.getro.com/professional-networks-job-board
+          - generic [ref=f31e55]:
+            - generic [ref=f31e56]: Showing 251 companies
+            - generic [ref=f31e64]:
+              - link "01 Exchange 01 Exchange Developer of a derivatives exchange platform intended to provide centralized exchange offers through a fully decentralized protocol. The company's platform offers a chain limit order book through a deep integration with Project Serum, cross-collateralization, powerful cross-margining, and yield-earning deposits, all without sacrificing decentralization, enabling customers and traders to trade perpetual futures and power perpetual, an entirely new asset class. View company" [ref=f31e67] [cursor=pointer]:
+                - /url: /companies/01-exchange?query=Sanctum#content
+                - generic [ref=f31e68]:
+                  - generic [ref=f31e69]:
+                    - img "01 Exchange" [ref=f31e72]
+                    - generic [ref=f31e73]: 01 Exchange
+                  - paragraph [ref=f31e77]: Developer of a derivatives exchange platform intended to provide centralized exchange offers through a fully decentralized protocol. The company's platform offers a chain limit order book through a deep integration with Project Serum, cross-collateralization, powerful cross-margining, and yield-earning deposits, all without sacrificing decentralization, enabling customers and traders to trade perpetual futures and power perpetual, an entirely new asset class.
+                  - generic [ref=f31e78]: View company
+              - link "ABC Labs ABC Labs We believe that crypto — specifically DeFi and real-world asset tokenization — are unlocking a world where people, organizations, and governments can preserve spending power with inflation-proof, stable, asset-backed currencies. A world where people aren’t required to devote so much time to managing their investments just to preserve the spending power they’ve already earned. Where anyone can choose how to allocate their spending power without the specter of people they don’t know or trust limiting their spending decisions. ABC Labs builds digital products that enable and empower this world. We believe that small, ambitious teams can deliver an inspiring future — and if you think so too, we want to talk to you. View company" [ref=f31e84] [cursor=pointer]:
+                - /url: /companies/abc-labs-2-829ccc6b-2e70-4c3e-a615-96a5317cf3fe?query=Sanctum#content
+                - generic [ref=f31e85]:
+                  - generic [ref=f31e86]:
+                    - img "ABC Labs" [ref=f31e89]
+                    - generic [ref=f31e90]: ABC Labs
+                  - paragraph [ref=f31e94]: We believe that crypto — specifically DeFi and real-world asset tokenization — are unlocking a world where people, organizations, and governments can preserve spending power with inflation-proof, stable, asset-backed currencies. A world where people aren’t required to devote so much time to managing their investments just to preserve the spending power they’ve already earned. Where anyone can choose how to allocate their spending power without the specter of people they don’t know or trust limiting their spending decisions. ABC Labs builds digital products that enable and empower this world. We believe that small, ambitious teams can deliver an inspiring future — and if you think so too, we want to talk to you.
+                  - generic [ref=f31e95]: View company
+              - link "Access Protocol Access Protocol Access Protocol develops a new model monetization layer designed for digital content creators. By integrating Access Protocol on their site, creators can paywall and enable premium content to their supporters. View company" [ref=f31e101] [cursor=pointer]:
+                - /url: /companies/access-protocol?query=Sanctum#content
+                - generic [ref=f31e102]:
+                  - generic [ref=f31e103]:
+                    - img "Access Protocol" [ref=f31e106]
+                    - generic [ref=f31e107]: Access Protocol
+                  - paragraph [ref=f31e111]: Access Protocol develops a new model monetization layer designed for digital content creators. By integrating Access Protocol on their site, creators can paywall and enable premium content to their supporters.
+                  - generic [ref=f31e112]: View company
+              - link "Akash Network Akash Network 1 job Overclock Labs, creators of Akash Network, develops tools, protocols, and infrastructure to make foundational elements of the Internet open, decentralized, and simple. View 1 job" [ref=f31e118] [cursor=pointer]:
+                - /url: /companies/akash-network?query=Sanctum#content
+                - generic [ref=f31e119]:
+                  - generic [ref=f31e120]:
+                    - img "Akash Network" [ref=f31e123]
+                    - generic [ref=f31e124]:
+                      - generic [ref=f31e125]: Akash Network
+                      - generic [ref=f31e126]: 1 job
+                  - paragraph [ref=f31e129]: Overclock Labs, creators of Akash Network, develops tools, protocols, and infrastructure to make foundational elements of the Internet open, decentralized, and simple.
+                  - generic [ref=f31e130]: View 1 job
+              - link [ref=f31e136] [cursor=pointer]:
+                - /url: /companies/alchemy-2?query=Sanctum#content
+                - generic [ref=f31e137]:
+                  - generic [ref=f31e138]:
+                    - img "Alchemy" [ref=f31e141]
+                    - generic [ref=f31e142]:
+                      - generic [ref=f31e143]: Alchemy
+                      - generic [ref=f31e144]: 14 jobs
+                  - paragraph [ref=f31e147]: Alchemy is a developer platform that empowers companies to build scalable and reliable decentralized applications without the hassle of managing blockchain infrastructure in-house. It is currently faster, more reliable, and more scalable than any other existing solution, and is incredibly easy to integrate! Many top projects in the space, including Augur, CryptoKitties, Kyber, Radar Relay, OpenSea, etc., rely on Alchemy to support their core infrastructure needs. The team consists of top engineers (from Stanford, MIT, Google, Facebook, Microsoft, and many more startups) with decades of industry experience in big data and scalable infrastructure and is backed by A-list investors (Charles Schwab, Coinbase, founders of LinkedIn and PayPal, chairman of Google, etc.). We're currently hiring across multiple roles in engineering and go to market. If this sounds interesting, say hi!
+                  - generic [ref=f31e148]: View 14 jobs
+              - 'link "alphafc.xyz alphafc.xyz We bought a National League English football club and are bringing it on-chain. AlphaFC will be the infrastructure that enables the first fan-owned and controlled football club. We are launching our MVP: a real-time streaming and entertainment platform enabling fans to watch matches, tip players onchain, and dive deep into league stats, with more blockchain-driven integrations and features in the pipeline. Enquiries: info@alphafc,xyz View company" [ref=f31e154] [cursor=pointer]':
+                - /url: /companies/alphafc-xyz?query=Sanctum#content
+                - generic [ref=f31e155]:
+                  - generic [ref=f31e156]:
+                    - img "alphafc.xyz" [ref=f31e159]
+                    - generic [ref=f31e160]: alphafc.xyz
+                  - paragraph [ref=f31e164]: "We bought a National League English football club and are bringing it on-chain. AlphaFC will be the infrastructure that enables the first fan-owned and controlled football club. We are launching our MVP: a real-time streaming and entertainment platform enabling fans to watch matches, tip players onchain, and dive deep into league stats, with more blockchain-driven integrations and features in the pipeline. Enquiries: info@alphafc,xyz"
+                  - generic [ref=f31e165]: View company
+              - link [ref=f31e171] [cursor=pointer]:
+                - /url: /companies/anchorage-digital?query=Sanctum#content
+                - generic [ref=f31e172]:
+                  - generic [ref=f31e173]:
+                    - img "Anchorage Digital" [ref=f31e176]
+                    - generic [ref=f31e177]:
+                      - generic [ref=f31e178]: Anchorage Digital
+                      - generic [ref=f31e179]: 8 jobs
+                  - paragraph [ref=f31e182]: Anchorage Digital is a regulated crypto platform that provides institutions with integrated financial services and infrastructure solutions. With the only federally chartered crypto bank in the US, as well as Anchorage Digital Singapore, which offers equivalent security and service standards, Anchorage Digital provides institutions an unparalleled combination of secure custody, regulatory compliance, product breadth, and client service. Founded in 2017, Anchorage Digital is valued at over $3 billion with funding from leading institutions including Andreessen Horowitz, GIC—Singapore’s sovereign wealth fund, Goldman Sachs, KKR, and Visa. Headquartered in San Francisco, California, Anchorage Digital is remote-friendly with offices in New York, New York; Porto, Portugal; Singapore; and Sioux Falls, South Dakota. Learn more at anchorage.com, on Twitter @Anchorage, and on LinkedIn.
+                  - generic [ref=f31e183]: View 8 jobs
+              - link "Anza Anza 4 jobs Anza is the leading Solana-focused software development firm, building resilient, elegant, and impactful protocols. View 4 jobs" [ref=f31e189] [cursor=pointer]:
+                - /url: /companies/anza-2?query=Sanctum#content
+                - generic [ref=f31e190]:
+                  - generic [ref=f31e191]:
+                    - img "Anza" [ref=f31e194]
+                    - generic [ref=f31e195]:
+                      - generic [ref=f31e196]: Anza
+                      - generic [ref=f31e197]: 4 jobs
+                  - paragraph [ref=f31e200]: Anza is the leading Solana-focused software development firm, building resilient, elegant, and impactful protocols.
+                  - generic [ref=f31e201]: View 4 jobs
+              - link "Apricot Finance Apricot Finance Apricot Finance is a DeFi service provider that helps the user to maximize yield and minimize risk. It is a collateralized lending protocol that seeks to maximize users’ borrowing power while minimizing liquidation penalties and uncertainties. View company" [ref=f31e207] [cursor=pointer]:
+                - /url: /companies/apricot-finance?query=Sanctum#content
+                - generic [ref=f31e208]:
+                  - generic [ref=f31e209]:
+                    - img "Apricot Finance" [ref=f31e212]
+                    - generic [ref=f31e213]: Apricot Finance
+                  - paragraph [ref=f31e217]: Apricot Finance is a DeFi service provider that helps the user to maximize yield and minimize risk. It is a collateralized lending protocol that seeks to maximize users’ borrowing power while minimizing liquidation penalties and uncertainties.
+                  - generic [ref=f31e218]: View company
+              - link "Arcade Arcade 3 jobs The best place to trade crypto on your phone. View 3 jobs" [ref=f31e224] [cursor=pointer]:
+                - /url: /companies/arcade-2?query=Sanctum#content
+                - generic [ref=f31e225]:
+                  - generic [ref=f31e226]:
+                    - img "Arcade" [ref=f31e229]
+                    - generic [ref=f31e230]:
+                      - generic [ref=f31e231]: Arcade
+                      - generic [ref=f31e232]: 3 jobs
+                  - paragraph [ref=f31e235]: The best place to trade crypto on your phone.
+                  - generic [ref=f31e236]: View 3 jobs
+              - link "Arrakis Finance Arrakis Finance Developer of a decentralized market-making platform designed to help businesses bootstrap liquidity for tokens. The company's platform enables projects to create deep liquidity for their tokens while deploying automated liquidity management strategies that earn annual percentage yield, providing businesses with leverage protocol automated liquidity management to acquire the inventory to create deep liquidity for the token. View company" [ref=f31e242] [cursor=pointer]:
+                - /url: /companies/arrakis-finance-2?query=Sanctum#content
+                - generic [ref=f31e243]:
+                  - generic [ref=f31e244]:
+                    - img "Arrakis Finance" [ref=f31e247]
+                    - generic [ref=f31e248]: Arrakis Finance
+                  - paragraph [ref=f31e252]: Developer of a decentralized market-making platform designed to help businesses bootstrap liquidity for tokens. The company's platform enables projects to create deep liquidity for their tokens while deploying automated liquidity management strategies that earn annual percentage yield, providing businesses with leverage protocol automated liquidity management to acquire the inventory to create deep liquidity for the token.
+                  - generic [ref=f31e253]: View company
+              - link "Artemis Artemis Artemis aggregates key metrics for crypto in one place for investors and builders. View company" [ref=f31e259] [cursor=pointer]:
+                - /url: /companies/artemis-2?query=Sanctum#content
+                - generic [ref=f31e260]:
+                  - generic [ref=f31e261]:
+                    - img "Artemis" [ref=f31e264]
+                    - generic [ref=f31e265]: Artemis
+                  - paragraph [ref=f31e269]: Artemis aggregates key metrics for crypto in one place for investors and builders.
+                  - generic [ref=f31e270]: View company
+            - button "Load more" [ref=f31e275] [cursor=pointer]
+    - contentinfo [ref=f31e278]:
+      - generic [ref=f31e279]:
+        - link "Powered by Getro.com" [ref=f31e280] [cursor=pointer]:
+          - /url: https://www.getro.com/professional-networks-job-board
+        - generic [ref=f31e318]:
+          - link "Privacy policy" [ref=f31e319] [cursor=pointer]:
+            - /url: /privacy-policy#content
+          - link "Cookie policy" [ref=f31e320] [cursor=pointer]:
+            - /url: /cookie-policy#content
+    - generic [ref=f31e325]:
+      - generic [ref=f31e327]:
+        - link "Solana" [ref=f31e329] [cursor=pointer]:
+          - /url: https://solana.com
+        - paragraph [ref=f31e332]: Managed by Solana Foundation
+        - generic [ref=f31e333]:
+          - link "YouTube" [ref=f31e334] [cursor=pointer]:
+            - /url: https://solana.com/youtube
+          - link "Twitter" [ref=f31e337] [cursor=pointer]:
+            - /url: https://solana.com/twitter
+          - link "Discord" [ref=f31e340] [cursor=pointer]:
+            - /url: https://solana.com/discord
+          - link "Reddit" [ref=f31e343] [cursor=pointer]:
+            - /url: https://solana.com/reddit
+          - link "GitHub" [ref=f31e346] [cursor=pointer]:
+            - /url: https://solana.com/github
+          - link "Telegram" [ref=f31e350] [cursor=pointer]:
+            - /url: https://solana.com/telegram
+        - generic [ref=f31e353]: © 2024 Solana Foundation. All rights reserved.
+      - generic [ref=f31e354]:
+        - paragraph [ref=f31e355]: Click here to add your company or job posting to the Solana job board
+        - link "CLICK HERE" [ref=f31e356] [cursor=pointer]:
+          - /url: https://docs.google.com/forms/d/e/1FAIpQLScy2RwYkNF2Leklwn-blkYlRfdxCWTRNn67U2gKZS8qSZ3muA/viewform
+  - alert [ref=f31e357]

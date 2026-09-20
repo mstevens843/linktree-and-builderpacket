@@ -1,0 +1,546 @@
+- generic [ref=f287e1]:
+  - link [aria-hidden] [ref=f287e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - text: Skip to main content
+  - banner [aria-hidden] [ref=f287e3]:
+    - navigation [ref=f287e4]:
+      - link [ref=f287e5] [cursor=pointer]:
+        - /url: /?trk=public_jobs_nav-header-logo
+        - generic [ref=f287e6]: LinkedIn
+      - generic [ref=f287e19]:
+        - button [ref=f287e21] [cursor=pointer]:
+          - generic [ref=f287e22]: Jobs
+        - tabpanel [ref=f287e23]:
+          - search [ref=f287e24]:
+            - generic [ref=f287e25]:
+              - combobox [ref=f287e26]: Full Stack Engineer - Associate
+              - button [ref=f287e27] [cursor=pointer]:
+                - generic [ref=f287e28]: Clear text
+            - generic [ref=f287e34]:
+              - combobox [ref=f287e35]: San Pablo, CA
+              - button [ref=f287e36] [cursor=pointer]:
+                - generic [ref=f287e37]: Clear text
+            - button [ref=f287e43] [cursor=pointer]
+        - status [ref=f287e47]
+      - generic [ref=f287e48]:
+        - link [ref=f287e49] [cursor=pointer]:
+          - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&fromSignIn=true&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Ffull-stack-engineer-associate-at-icapital-4419964841&trk=public_jobs_nav-header-signin
+          - text: Sign in
+        - link [ref=f287e50] [cursor=pointer]:
+          - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Ffull-stack-engineer-associate-at-icapital-4419964841&trk=public_jobs_nav-header-join
+          - text: Join now
+  - main [aria-hidden] [ref=f287e51]:
+    - generic [ref=f287e53]:
+      - generic [ref=f287e55]:
+        - link [ref=f287e56] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/icapital-network-inc?trk=public_jobs_topcard_logo
+        - generic [ref=f287e59]:
+          - heading [level=1] [ref=f287e60]: Full Stack Engineer - Associate
+          - heading [level=4] [ref=f287e61]:
+            - generic [ref=f287e62]:
+              - link [ref=f287e64] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/icapital-network-inc?trk=public_jobs_topcard-org-name
+                - text: iCapital
+              - text: · Salt Lake City, UT
+            - generic [ref=f287e65]:
+              - text: 3 days ago
+              - figure [ref=f287e66]: · Over 200 applicants
+            - link [ref=f287e68] [cursor=pointer]:
+              - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D3080201%26title%3DFull%2BStack%2BEngineer&emailAddress=&fromSignIn=&trk=public_jobs_see-who-was-hired_people-search-link_face-pile-cta
+              - paragraph [ref=f287e71]: See who iCapital has hired for this role
+          - generic [ref=f287e72]:
+            - button [ref=f287e73] [cursor=pointer]: Apply
+            - button [ref=f287e77] [cursor=pointer]: Save
+        - button [ref=f287e80] [cursor=pointer]
+        - generic [ref=f287e85]:
+          - heading [level=3] [ref=f287e91]: Use AI to assess how you fit
+          - paragraph [ref=f287e92]: Get AI-powered advice on this job and more exclusive features.
+          - generic [ref=f287e93]:
+            - button [ref=f287e94] [cursor=pointer]
+            - button [ref=f287e96] [cursor=pointer]:
+              - generic [ref=f287e98]: Am I a good fit for this job?
+            - button [ref=f287e99] [cursor=pointer]:
+              - generic [ref=f287e101]: Tailor my resume
+      - generic [ref=f287e102]:
+        - generic [ref=f287e104]:
+          - generic [ref=f287e106]:
+            - generic [ref=f287e107]:
+              - strong [ref=f287e108]:
+                - strong [ref=f287e109]: About The Role
+              - text: The Full Stack Engineer at iCapital will work end-to-end on new features, enhancements, and defect resolution on one or more of iCapital's software platforms. You will work closely with our Product Management team throughout the software development process, detailing requirements, reviewing work in progress, and addressing issues found in manual test efforts.
+              - strong [ref=f287e110]:
+                - strong [ref=f287e111]: Responsibilities
+              - list [ref=f287e112]:
+                - listitem [ref=f287e113]: Web application development in React as front end and Ruby on Rails as a backend.
+                - listitem [ref=f287e114]: Strong grasp of system design, architecture, and trade-offs. Able to mentor junior engineers effectively.
+                - listitem [ref=f287e115]: Participate in architecture reviews and technical design.
+                - listitem [ref=f287e116]: Active participation in daily stand-up meetings
+                - listitem [ref=f287e117]: Active participation in Peer Code Reviews as part of our standard SDLC and Change
+              - strong [ref=f287e118]:
+                - strong [ref=f287e119]: Qualifications
+              - list [ref=f287e120]:
+                - listitem [ref=f287e121]: 3+ years software engineering experience building enterprise SaaS cloud-based solutions
+                - listitem [ref=f287e122]: 2+ years of Ruby on Rails development experience or 3+ years of Python development experience
+                - listitem [ref=f287e123]: 2+ years of hands-on experience with modern JS frameworks such as React
+                - listitem [ref=f287e124]: 2+ years of front end and back-end test automation development using RSpec, Cucumber or similar
+                - listitem [ref=f287e125]: Demonstrated understanding of relational database concepts and modeling practices.
+                - listitem [ref=f287e126]: Familiarity with cloud-based technologies – K8S, AWS etc.
+                - listitem [ref=f287e127]: Ability to work in an Agile / Kanban methodology
+                - listitem [ref=f287e128]: Ability to work independently or as part of a group effort, as required
+                - listitem [ref=f287e129]: Solid problem-solving ability
+                - listitem [ref=f287e130]: Excellent communication skills
+                - listitem [ref=f287e131]: Collaborative approach to software development
+              - strong [ref=f287e132]:
+                - strong [ref=f287e133]: Benefits
+              - text: "The base salary range for this role is $90,000 to $110,000 depending on level. iCapital offers a compensation package which includes salary, equity for all full-time employees, and an annual performance bonus. Employees also receive a comprehensive benefits package that includes an employer matched retirement plan, generously subsidized healthcare with 100% employer paid dental, vision, telemedicine, and virtual mental health counseling, parental leave, and unlimited paid time off (PTO). We believe the best ideas and innovation happen when we are together. Employees in this role will work in the office Monday-Thursday, with the flexibility to work remotely on Friday. For additional information on iCapital, please visit https://www.icapitalnetwork.com/about-us Twitter: @icapitalnetwork | LinkedIn: https://www.linkedin.com/company/icapital-network-inc | Awards Disclaimer: https://www.icapitalnetwork.com/about-us/recognition/ iCapital is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender, sexual orientation, gender identity, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics."
+              - strong [ref=f287e134]:
+                - strong [ref=f287e135]: Qualifications
+              - list [ref=f287e136]:
+                - listitem [ref=f287e137]: 5+ years software engineering experience building enterprise SaaS cloud-based solutions
+                - listitem [ref=f287e138]: 4+ years of Ruby on Rails development experience
+                - listitem [ref=f287e139]: 4+ years of hands-on experience with modern JS frameworks such as React
+                - listitem [ref=f287e140]: 4+ years of front end and back-end test automation development using RSpec, Cucumber or similar
+                - listitem [ref=f287e141]: Technical leadership/management experience is a plus
+                - listitem [ref=f287e142]: Demonstrated understanding of relational database concepts and modeling practices.
+                - listitem [ref=f287e143]: Familiarity with cloud-based technologies – K8S, AWS etc.
+                - listitem [ref=f287e144]: Ability to work in an Agile / Kanban methodology
+                - listitem [ref=f287e145]: Ability to work independently or as part of a group effort, as required
+                - listitem [ref=f287e146]: Solid problem-solving ability
+                - listitem [ref=f287e147]: Excellent communication skills
+                - listitem [ref=f287e148]: Collaborative approach to software development
+              - strong [ref=f287e149]:
+                - strong [ref=f287e150]: Benefits
+              - text: "The base salary range for this role is $90,000 to $110,000 depending on level. iCapital offers a compensation package which includes salary, equity for all full-time employees, and an annual performance bonus. Employees also receive a comprehensive benefits package that includes an employer matched retirement plan, generously subsidized healthcare with 100% employer paid dental, vision, telemedicine, and virtual mental health counseling, parental leave, and unlimited paid time off (PTO). We believe the best ideas and innovation happen when we are together. Employees in this role will work in the office Monday-Thursday, with the flexibility to work remotely on Friday. For additional information on iCapital, please visit https://www.icapitalnetwork.com/about-us Twitter: @icapitalnetwork | LinkedIn: https://www.linkedin.com/company/icapital-network-inc | Awards Disclaimer: https://www.icapitalnetwork.com/about-us/recognition/ iCapital is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender, sexual orientation, gender identity, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics."
+            - button [ref=f287e151] [cursor=pointer]: Show more
+          - list [ref=f287e153]:
+            - listitem [ref=f287e154]:
+              - heading [level=3] [ref=f287e155]: Seniority level
+              - text: Mid-Senior level
+            - listitem [ref=f287e156]:
+              - heading [level=3] [ref=f287e157]: Employment type
+              - text: Full-time
+            - listitem [ref=f287e158]:
+              - heading [level=3] [ref=f287e159]: Job function
+              - text: Engineering and Information Technology
+            - listitem [ref=f287e160]:
+              - heading [level=3] [ref=f287e161]: Industries
+              - text: Financial Services and IT Services and IT Consulting
+        - generic [ref=f287e166]:
+          - paragraph [ref=f287e167]: Referrals increase your chances of interviewing at iCapital by 2x
+          - link [ref=f287e168] [cursor=pointer]:
+            - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D3080201&emailAddress=&fromSignIn=&trk=public_jobs_find-a-referral-cta
+            - text: See who you know
+      - generic [ref=f287e171]:
+        - paragraph [ref=f287e172]:
+          - text: Get notified about new Full Stack Engineer jobs in
+          - strong [ref=f287e173]: Salt Lake City, UT
+          - text: .
+        - link [ref=f287e174] [cursor=pointer]:
+          - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Ffull-stack-engineer-associate-at-icapital-4419964841&trk=public_jobs_job-alert-guest-redirect-cta
+          - text: Sign in to create job alert
+      - navigation [ref=f287e175]:
+        - list [ref=f287e176]:
+          - listitem [ref=f287e177]:
+            - link [ref=f287e178] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/
+              - text: Jobs
+            - text: /
+          - listitem [ref=f287e179]:
+            - link [ref=f287e180] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/javascript-developer-jobs
+              - text: Javascript Developer jobs
+            - text: /
+          - listitem [ref=f287e181]:
+            - generic [ref=f287e182]: Full Stack Engineer - Associate
+      - generic [ref=f287e183]:
+        - heading [level=2] [ref=f287e184]: Similar jobs
+        - generic [ref=f287e186]:
+          - list [ref=f287e187]:
+            - listitem [ref=f287e188]:
+              - generic [ref=f287e189]:
+                - link [ref=f287e190] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/software-engineer-technical-associate-onsite-at-braintrust-4459875827?refId=ntNXow9ZskUjOmeVYN4osg%3D%3D&trackingId=yVcwfRynisZvUA8PXMgtkw%3D%3D
+                  - generic [ref=f287e191]: Software Engineer / Technical Associate - Onsite
+                - generic [ref=f287e192]:
+                  - heading [level=3] [ref=f287e193]: Software Engineer / Technical Associate - Onsite
+                  - heading [level=4] [ref=f287e194]:
+                    - link [ref=f287e195] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/usebraintrust?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Braintrust
+                  - generic [ref=f287e196]:
+                    - generic [ref=f287e197]: Salt Lake City, UT
+                    - time [ref=f287e198]: 2 weeks ago
+            - listitem [ref=f287e199]:
+              - generic [ref=f287e200]:
+                - link [ref=f287e201] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/software-engineer-at-neighbor-4464901212?refId=ntNXow9ZskUjOmeVYN4osg%3D%3D&trackingId=Ef3i%2B1dbDrJitM8Gsezj1g%3D%3D
+                  - generic [ref=f287e202]: Software Engineer
+                - generic [ref=f287e203]:
+                  - heading [level=3] [ref=f287e204]: Software Engineer
+                  - heading [level=4] [ref=f287e205]:
+                    - link [ref=f287e206] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/neighbor?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Neighbor
+                  - generic [ref=f287e207]:
+                    - generic [ref=f287e208]: Lehi, UT
+                    - time [ref=f287e209]: 2 weeks ago
+            - listitem [ref=f287e210]:
+              - generic [ref=f287e211]:
+                - link [ref=f287e212] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/junior-full-stack-software-engineer-at-lumion-4466559276?refId=ntNXow9ZskUjOmeVYN4osg%3D%3D&trackingId=2d5aP73R9GHidnQQqPZ0Uw%3D%3D
+                  - generic [ref=f287e213]: Junior Full Stack Software Engineer
+                - generic [ref=f287e214]:
+                  - heading [level=3] [ref=f287e215]: Junior Full Stack Software Engineer
+                  - heading [level=4] [ref=f287e216]:
+                    - link [ref=f287e217] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/joinlumion?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Lumion
+                  - generic [ref=f287e218]:
+                    - generic [ref=f287e219]: South Jordan, UT
+                    - time [ref=f287e220]: 11 hours ago
+            - listitem [ref=f287e221]:
+              - generic [ref=f287e222]:
+                - link [ref=f287e223] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/full-stack-engineer-at-zions-bancorporation-4456800479?refId=ntNXow9ZskUjOmeVYN4osg%3D%3D&trackingId=DkCHLnONhxQrTlSA6ri8nw%3D%3D
+                  - generic [ref=f287e224]: Full Stack Engineer
+                - generic [ref=f287e225]:
+                  - heading [level=3] [ref=f287e226]: Full Stack Engineer
+                  - heading [level=4] [ref=f287e227]:
+                    - link [ref=f287e228] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/zions-bancorporation?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Zions Bancorporation
+                  - generic [ref=f287e229]:
+                    - generic [ref=f287e230]: Midvale, UT
+                    - time [ref=f287e231]: 1 week ago
+            - listitem [ref=f287e232]:
+              - generic [ref=f287e233]:
+                - link [ref=f287e234] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/software-engineer-ii-full-stack-at-waystar-4432038982?refId=ntNXow9ZskUjOmeVYN4osg%3D%3D&trackingId=EsrvKh8Uf%2BT3js%2F3MWQApQ%3D%3D
+                  - generic [ref=f287e235]: Software Engineer II - Full Stack
+                - generic [ref=f287e236]:
+                  - heading [level=3] [ref=f287e237]: Software Engineer II - Full Stack
+                  - heading [level=4] [ref=f287e238]:
+                    - link [ref=f287e239] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/waystar?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Waystar
+                  - generic [ref=f287e240]:
+                    - generic [ref=f287e241]: Lehi, UT
+                    - time [ref=f287e242]: 2 weeks ago
+            - listitem [ref=f287e243]:
+              - generic [ref=f287e244]:
+                - link [ref=f287e245] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/full-stack-developer-remote-at-rainfocus-4457036070?refId=ntNXow9ZskUjOmeVYN4osg%3D%3D&trackingId=yGZi4RMA5ZDSGuBzQydT7A%3D%3D
+                  - generic [ref=f287e246]: Full Stack Developer (Remote)
+                - generic [ref=f287e247]:
+                  - heading [level=3] [ref=f287e248]: Full Stack Developer (Remote)
+                  - heading [level=4] [ref=f287e249]:
+                    - link [ref=f287e250] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/rainfocus?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: RainFocus
+                  - generic [ref=f287e251]:
+                    - generic [ref=f287e252]: Orem, UT
+                    - time [ref=f287e253]: 3 weeks ago
+          - button [ref=f287e254] [cursor=pointer]: Show more jobs like this
+    - generic [ref=f287e256]:
+      - generic [ref=f287e257]:
+        - heading [level=2] [ref=f287e258]: People also viewed
+        - list [ref=f287e260]:
+          - listitem [ref=f287e261]:
+            - generic [ref=f287e262]:
+              - link [ref=f287e263] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-ii-at-enfra-4465266174?refId=ntNXow9ZskUjOmeVYN4osg%3D%3D&trackingId=NEAk%2BM1RXVs8yyQ8F72s9g%3D%3D
+                - generic [ref=f287e264]: Software Engineer II
+              - generic [ref=f287e265]:
+                - heading [level=3] [ref=f287e266]: Software Engineer II
+                - paragraph [ref=f287e267]:
+                  - link [ref=f287e268] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/enfrasolutions?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: ENFRA
+                - generic [ref=f287e269]:
+                  - generic [ref=f287e270]: Salt Lake City Metropolitan Area
+                  - time [ref=f287e271]: 1 day ago
+          - listitem [ref=f287e272]:
+            - generic [ref=f287e273]:
+              - link [ref=f287e274] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/full-stack-engineer-at-material-share-4465152209?refId=ntNXow9ZskUjOmeVYN4osg%3D%3D&trackingId=TkDiOofSDO8s7Q%2FNZGXWog%3D%3D
+                - generic [ref=f287e275]: Full Stack Engineer
+              - generic [ref=f287e276]:
+                - heading [level=3] [ref=f287e277]: Full Stack Engineer
+                - paragraph [ref=f287e278]:
+                  - link [ref=f287e279] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/material-share-app?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Material Share
+                - generic [ref=f287e280]:
+                  - generic [ref=f287e281]: Salt Lake City Metropolitan Area
+                  - time [ref=f287e282]: 4 days ago
+          - listitem [ref=f287e283]:
+            - generic [ref=f287e284]:
+              - link [ref=f287e285] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-development-engineer-i-%E2%80%93-iii-at-cambia-health-solutions-4464804877?refId=ntNXow9ZskUjOmeVYN4osg%3D%3D&trackingId=C8M76EtEuepa0Gt7sZkEXw%3D%3D
+                - generic [ref=f287e286]: Software Development Engineer I – III
+              - generic [ref=f287e287]:
+                - heading [level=3] [ref=f287e288]: Software Development Engineer I – III
+                - paragraph [ref=f287e289]:
+                  - link [ref=f287e290] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/cambia-health-solutions?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Cambia Health Solutions
+                - generic [ref=f287e291]:
+                  - generic [ref=f287e292]: Salt Lake City, UT
+                  - time [ref=f287e293]: 5 days ago
+          - listitem [ref=f287e294]:
+            - generic [ref=f287e295]:
+              - link [ref=f287e296] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/full-stack-engineer-at-atlas-search-4452592693?refId=ntNXow9ZskUjOmeVYN4osg%3D%3D&trackingId=mPo%2FIl0UdjSH3meevJJ9%2Bw%3D%3D
+                - generic [ref=f287e297]: Full Stack Engineer
+              - generic [ref=f287e298]:
+                - heading [level=3] [ref=f287e299]: Full Stack Engineer
+                - paragraph [ref=f287e300]:
+                  - link [ref=f287e301] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/atlas-search?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Atlas Search
+                - generic [ref=f287e302]:
+                  - generic [ref=f287e303]: Salt Lake City Metropolitan Area
+                  - generic [ref=f287e304]: $100,000 - $160,000
+                  - time [ref=f287e305]: 13 hours ago
+          - listitem [ref=f287e306]:
+            - generic [ref=f287e307]:
+              - link [ref=f287e308] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/front-end-engineer-at-place-4456276638?refId=ntNXow9ZskUjOmeVYN4osg%3D%3D&trackingId=7aAW3IgqzjQFihPeiu9dYg%3D%3D
+                - generic [ref=f287e309]: Front End Engineer
+              - generic [ref=f287e310]:
+                - heading [level=3] [ref=f287e311]: Front End Engineer
+                - paragraph [ref=f287e312]:
+                  - link [ref=f287e313] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/placeinc?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: PLACE
+                - generic [ref=f287e314]:
+                  - generic [ref=f287e315]: Draper, UT
+                  - time [ref=f287e316]: 3 weeks ago
+          - listitem [ref=f287e317]:
+            - generic [ref=f287e318]:
+              - link [ref=f287e319] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-development-engineer-at-university-of-utah-4464979195?refId=ntNXow9ZskUjOmeVYN4osg%3D%3D&trackingId=veYWiK83tv692dA7XPQN8g%3D%3D
+                - generic [ref=f287e320]: Software Development Engineer
+              - generic [ref=f287e321]:
+                - heading [level=3] [ref=f287e322]: Software Development Engineer
+                - paragraph [ref=f287e323]:
+                  - link [ref=f287e324] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/school/university-of-utah/?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: University of Utah
+                - generic [ref=f287e325]:
+                  - generic [ref=f287e326]: Salt Lake City, UT
+                  - time [ref=f287e327]: 1 week ago
+          - listitem [ref=f287e328]:
+            - generic [ref=f287e329]:
+              - link [ref=f287e330] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/full-stack-engineer-assistant-vice-president-at-icapital-4419973522?refId=ntNXow9ZskUjOmeVYN4osg%3D%3D&trackingId=mhk83es2qjdj6irJ3pt6AQ%3D%3D
+                - generic [ref=f287e331]: Full Stack Engineer - Assistant Vice President
+              - generic [ref=f287e332]:
+                - heading [level=3] [ref=f287e333]: Full Stack Engineer - Assistant Vice President
+                - paragraph [ref=f287e334]:
+                  - link [ref=f287e335] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/icapital-network-inc?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: iCapital
+                - generic [ref=f287e336]:
+                  - generic [ref=f287e337]: Salt Lake City, UT
+                  - time [ref=f287e338]: 3 days ago
+          - listitem [ref=f287e339]:
+            - generic [ref=f287e340]:
+              - link [ref=f287e341] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-associate-assistant-vice-president-at-icapital-4450277650?refId=ntNXow9ZskUjOmeVYN4osg%3D%3D&trackingId=iLhIhomI65Q4h6AxZQmzRw%3D%3D
+                - generic [ref=f287e342]: Software Engineer - Associate / Assistant Vice President
+              - generic [ref=f287e343]:
+                - heading [level=3] [ref=f287e344]: Software Engineer - Associate / Assistant Vice President
+                - paragraph [ref=f287e345]:
+                  - link [ref=f287e346] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/icapital-network-inc?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: iCapital
+                - generic [ref=f287e347]:
+                  - generic [ref=f287e348]: Salt Lake City, UT
+                  - time [ref=f287e349]: 2 weeks ago
+          - listitem [ref=f287e350]:
+            - generic [ref=f287e351]:
+              - link [ref=f287e352] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-full-stack-engineer-at-enzo-health-4410207866?refId=ntNXow9ZskUjOmeVYN4osg%3D%3D&trackingId=xznfXNSp%2F7W2cn9vXcruBw%3D%3D
+                - generic [ref=f287e353]: Senior Full Stack Engineer
+              - generic [ref=f287e354]:
+                - heading [level=3] [ref=f287e355]: Senior Full Stack Engineer
+                - paragraph [ref=f287e356]:
+                  - link [ref=f287e357] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/enzo-health?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Enzo Health
+                - generic [ref=f287e358]:
+                  - generic [ref=f287e359]: Lehi, UT
+                  - time [ref=f287e360]: 4 months ago
+          - listitem [ref=f287e361]:
+            - generic [ref=f287e362]:
+              - link [ref=f287e363] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-ai-at-nice-4463089019?refId=ntNXow9ZskUjOmeVYN4osg%3D%3D&trackingId=BTNYF%2B8XWs6hVu%2Fd3XndJw%3D%3D
+                - generic [ref=f287e364]: Software Engineer, AI
+              - generic [ref=f287e365]:
+                - heading [level=3] [ref=f287e366]: Software Engineer, AI
+                - paragraph [ref=f287e367]:
+                  - link [ref=f287e368] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/nice-systems?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: NiCE
+                - generic [ref=f287e369]:
+                  - generic [ref=f287e370]: Sandy, UT
+                  - time [ref=f287e371]: 6 days ago
+      - generic [ref=f287e372]:
+        - heading [level=2] [ref=f287e373]: Similar Searches
+        - generic [ref=f287e375]:
+          - list [ref=f287e376]:
+            - listitem [ref=f287e377]:
+              - link [ref=f287e378] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/javascript-developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f287e379]:
+                  - heading [level=3] [ref=f287e380]: Javascript Developer jobs
+                  - generic [ref=f287e381]: 35,575 open jobs
+            - listitem [ref=f287e382]:
+              - link [ref=f287e383] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/java-software-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f287e384]:
+                  - heading [level=3] [ref=f287e385]: Java Software Engineer jobs
+                  - generic [ref=f287e386]: 36,180 open jobs
+            - listitem [ref=f287e387]:
+              - link [ref=f287e388] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f287e389]:
+                  - heading [level=3] [ref=f287e390]: Developer jobs
+                  - generic [ref=f287e391]: 258,935 open jobs
+            - listitem [ref=f287e392]:
+              - link [ref=f287e393] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/senior-web-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f287e394]:
+                  - heading [level=3] [ref=f287e395]: Senior Web Engineer jobs
+                  - generic [ref=f287e396]: 39,686 open jobs
+            - listitem [ref=f287e397]:
+              - link [ref=f287e398] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/coldfusion-developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f287e399]:
+                  - heading [level=3] [ref=f287e400]: Coldfusion Developer jobs
+                  - generic [ref=f287e401]: 23,224 open jobs
+            - listitem [ref=f287e402]:
+              - link [ref=f287e403] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/senior-software-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f287e404]:
+                  - heading [level=3] [ref=f287e405]: Senior Software Engineer jobs
+                  - generic [ref=f287e406]: 78,145 open jobs
+            - listitem [ref=f287e407]:
+              - link [ref=f287e408] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/php-developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f287e409]:
+                  - heading [level=3] [ref=f287e410]: PHP Developer jobs
+                  - generic [ref=f287e411]: 14,437 open jobs
+            - listitem [ref=f287e412]:
+              - link [ref=f287e413] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/contract-web-developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f287e414]:
+                  - heading [level=3] [ref=f287e415]: Contract Web Developer jobs
+                  - generic [ref=f287e416]: 354 open jobs
+            - listitem [ref=f287e417]:
+              - link [ref=f287e418] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/java-application-developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f287e419]:
+                  - heading [level=3] [ref=f287e420]: Java Application Developer jobs
+                  - generic [ref=f287e421]: 16,016 open jobs
+            - listitem [ref=f287e422]:
+              - link [ref=f287e423] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/senior-web-developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f287e424]:
+                  - heading [level=3] [ref=f287e425]: Senior Web Developer jobs
+                  - generic [ref=f287e426]: 46,615 open jobs
+            - listitem [ref=f287e427]:
+              - link [ref=f287e428] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/django-developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f287e429]:
+                  - heading [level=3] [ref=f287e430]: Django Developer jobs
+                  - generic [ref=f287e431]: 37,934 open jobs
+            - listitem [ref=f287e432]:
+              - link [ref=f287e433] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/associate-software-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f287e434]:
+                  - heading [level=3] [ref=f287e435]: Associate Software Engineer jobs
+                  - generic [ref=f287e436]: 223,979 open jobs
+          - button [ref=f287e437] [cursor=pointer]: Show more
+      - generic [ref=f287e441]:
+        - heading [level=2] [ref=f287e443]: Explore top content on LinkedIn
+        - paragraph [ref=f287e444]: Find curated posts and insights for relevant topics all in one place.
+        - link [ref=f287e445] [cursor=pointer]:
+          - /url: https://www.linkedin.com/top-content/
+          - text: View top content
+  - button [ref=f287e450] [cursor=pointer]: More searches
+  - contentinfo [aria-hidden] [ref=f287e452]:
+    - list [ref=f287e453]:
+      - generic [ref=f287e454]: LinkedIn
+      - generic [ref=f287e456]: © 2026
+      - listitem [ref=f287e457]:
+        - link [ref=f287e458] [cursor=pointer]:
+          - /url: https://about.linkedin.com?trk=d_jobs_guest_details_footer-about
+          - text: About
+      - listitem [ref=f287e459]:
+        - link [ref=f287e460] [cursor=pointer]:
+          - /url: https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility
+          - text: Accessibility
+      - listitem [ref=f287e461]:
+        - link [ref=f287e462] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/user-agreement?trk=d_jobs_guest_details_footer-user-agreement
+          - text: User Agreement
+      - listitem [ref=f287e463]:
+        - link [ref=f287e464] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/privacy-policy?trk=d_jobs_guest_details_footer-privacy-policy
+          - text: Privacy Policy
+      - listitem [ref=f287e465]:
+        - link [ref=f287e466] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/california-privacy-disclosure?trk=d_jobs_guest_details_footer-california-privacy-rights-act
+          - text: Your California Privacy Choices
+      - listitem [ref=f287e467]:
+        - link [ref=f287e468] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/cookie-policy?trk=d_jobs_guest_details_footer-cookie-policy
+          - text: Cookie Policy
+      - listitem [ref=f287e469]:
+        - link [ref=f287e470] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/copyright-policy?trk=d_jobs_guest_details_footer-copyright-policy
+          - text: Copyright Policy
+      - listitem [ref=f287e471]:
+        - link [ref=f287e472] [cursor=pointer]:
+          - /url: https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy
+          - text: Brand Policy
+      - listitem [ref=f287e473]:
+        - link [ref=f287e474] [cursor=pointer]:
+          - /url: https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls
+          - text: Guest Controls
+      - listitem [ref=f287e475]:
+        - link [ref=f287e476] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/professional-community-policies?trk=d_jobs_guest_details_footer-community-guide
+          - text: Community Guidelines
+      - listitem [ref=f287e477]:
+        - button [ref=f287e479]: Language
+  - dialog [active] [ref=f287e482]:
+    - button "Dismiss" [ref=f287e483] [cursor=pointer]
+    - generic [ref=f287e485]:
+      - heading "Sign in to see who you already know at iCapital" [level=2] [ref=f287e487]
+      - generic [ref=f287e488]:
+        - generic:
+          - generic:
+            - button "Continue with google"
+        - button "Sign in with Email" [ref=f287e489] [cursor=pointer]
+        - paragraph [ref=f287e493]: or
+        - generic:
+          - generic:
+            - button "Continue with google"
+        - paragraph [ref=f287e494]:
+          - text: New to LinkedIn?
+          - link "Join now" [ref=f287e495] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&trk=public_jobs_contextual-sign-in-modal_join-link
+        - paragraph [ref=f287e496]:
+          - text: By clicking Continue to join or sign in, you agree to LinkedIn’s
+          - link "User Agreement" [ref=f287e497] [cursor=pointer]:
+            - /url: /legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement
+          - text: ","
+          - link "Privacy Policy" [ref=f287e498] [cursor=pointer]:
+            - /url: /legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy
+          - text: ", and"
+          - link "Cookie Policy" [ref=f287e499] [cursor=pointer]:
+            - /url: /legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy
+          - text: .

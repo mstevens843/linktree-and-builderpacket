@@ -1,0 +1,8 @@
+[    1000ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://as.coinbase.com/metrics:0
+[    1101ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://as.coinbase.com/amp:0
+[    1138ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://as.coinbase.com/amp:0
+[    1138ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://www.googletagmanager.com/gtm.js?id=GTM-TEST:0
+[    1474ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://as.coinbase.com/amp:0
+[    1898ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://as.coinbase.com/metrics:0
+[    3675ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://as.coinbase.com/metrics:0
+[    5845ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://as.coinbase.com/amp:0

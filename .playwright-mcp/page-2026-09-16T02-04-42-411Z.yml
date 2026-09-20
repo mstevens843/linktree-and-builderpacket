@@ -1,0 +1,257 @@
+- generic [active] [ref=f4e1]:
+  - generic [ref=f4e3]:
+    - banner [ref=f4e4]:
+      - generic [ref=f4e6]:
+        - button "Search anything /" [ref=f4e8] [cursor=pointer]:
+          - generic [ref=f4e9]: Search anything
+          - generic [ref=f4e12]: /
+        - generic [ref=f4e13]:
+          - link "Rewards" [ref=f4e14] [cursor=pointer]:
+            - /url: /rewards
+          - button "Open settings" [ref=f4e17] [cursor=pointer]
+          - button "Connect" [ref=f4e19] [cursor=pointer]
+      - generic [ref=f4e21]:
+        - button "Configure token bar" [ref=f4e22] [cursor=pointer]
+        - group [ref=f4e24]:
+          - button "Watchlist" [pressed] [ref=f4e25] [cursor=pointer]
+          - button "Positions" [ref=f4e27] [cursor=pointer]
+          - button "Recently visited tokens" [ref=f4e29] [cursor=pointer]
+        - button "Add to watchlist" [ref=f4e31] [cursor=pointer]
+      - complementary [ref=f4e33]:
+        - generic [ref=f4e34]:
+          - link "Go to Home" [ref=f4e35] [cursor=pointer]:
+            - /url: /?sell=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v&buy=So11111111111111111111111111111111111111112
+            - generic [aria-hidden] [ref=f4e46]: Jupiter
+          - button "Toggle sidebar" [ref=f4e47] [cursor=pointer]
+        - generic [ref=f4e49]:
+          - generic [ref=f4e51]:
+            - generic [ref=f4e53]:
+              - button "Trade" [expanded] [ref=f4e54] [cursor=pointer]
+              - generic [ref=f4e58]:
+                - generic [ref=f4e59]:
+                  - link "Spot" [ref=f4e60] [cursor=pointer]:
+                    - /url: /spot
+                    - generic [ref=f4e65]: Spot
+                  - button "Pin to top nav" [ref=f4e66] [cursor=pointer]
+                - generic [ref=f4e68]:
+                  - link "Perps" [ref=f4e69] [cursor=pointer]:
+                    - /url: /perps
+                    - generic [ref=f4e76]: Perps
+                  - button "Pin to top nav" [ref=f4e77] [cursor=pointer]
+                - generic [ref=f4e79]:
+                  - link "Predict" [ref=f4e80] [cursor=pointer]:
+                    - /url: /prediction
+                    - generic [ref=f4e84]: Predict
+                  - button "Pin to top nav" [ref=f4e85] [cursor=pointer]
+                - generic [ref=f4e87]:
+                  - link "Gacha" [ref=f4e88] [cursor=pointer]:
+                    - /url: /gacha
+                    - generic [ref=f4e92]: Gacha
+                  - button "Pin to top nav" [ref=f4e93] [cursor=pointer]
+            - generic [ref=f4e96]:
+              - button "Earn" [expanded] [ref=f4e97] [cursor=pointer]
+              - generic [ref=f4e101]:
+                - generic [ref=f4e102]:
+                  - link "Lend" [ref=f4e103] [cursor=pointer]:
+                    - /url: /lend/earn
+                    - generic [ref=f4e107]: Lend
+                  - button "Pin to top nav" [ref=f4e108] [cursor=pointer]
+                - generic [ref=f4e110]:
+                  - link "Offerbook" [ref=f4e111] [cursor=pointer]:
+                    - /url: https://offerbook.jup.ag
+                    - generic [aria-hidden] [ref=f4e114]:
+                      - generic [ref=f4e115]: Offerbook
+                      - generic [ref=f4e116]: Beta
+                  - button "Pin to top nav" [ref=f4e119] [cursor=pointer]
+                - generic [ref=f4e121]:
+                  - link "Stake SOL" [ref=f4e122] [cursor=pointer]:
+                    - /url: /stake
+                    - generic [ref=f4e127]: Stake SOL
+                  - button "Pin to top nav" [ref=f4e128] [cursor=pointer]
+                - generic [ref=f4e130]:
+                  - link "Stake JUP" [ref=f4e131] [cursor=pointer]:
+                    - /url: https://vote.jup.ag/
+                    - generic [ref=f4e141]: Stake JUP
+                  - button "Pin to top nav" [ref=f4e143] [cursor=pointer]
+            - generic [ref=f4e146]:
+              - button "Manage" [expanded] [ref=f4e147] [cursor=pointer]
+              - generic [ref=f4e151]:
+                - generic [ref=f4e152]:
+                  - link "Portfolio" [ref=f4e153] [cursor=pointer]:
+                    - /url: /portfolio
+                    - generic [ref=f4e157]: Portfolio
+                  - button "Pin to top nav" [ref=f4e158] [cursor=pointer]
+                - generic [ref=f4e160]:
+                  - link "Send" [ref=f4e161] [cursor=pointer]:
+                    - /url: /send
+                    - generic [ref=f4e165]: Send
+                  - button "Pin to top nav" [ref=f4e166] [cursor=pointer]
+                - generic [ref=f4e168]:
+                  - link "Deposit" [ref=f4e169] [cursor=pointer]:
+                    - /url: /deposit
+                    - generic [ref=f4e173]: Deposit
+                  - button "Pin to top nav" [ref=f4e174] [cursor=pointer]
+                - generic [ref=f4e176]:
+                  - link "Spend" [ref=f4e177] [cursor=pointer]:
+                    - /url: https://jupiter.global/
+                    - generic [ref=f4e181]: Spend
+                  - button "Pin to top nav" [ref=f4e183] [cursor=pointer]
+            - navigation [ref=f4e186]:
+              - list [ref=f4e187]:
+                - listitem [ref=f4e188]:
+                  - button "More" [ref=f4e189] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f4e192]: More
+          - button "Get Help" [ref=f4e194] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f4e197]: Get Help
+    - main [ref=f4e198]:
+      - heading "The Home of Onchain Finance" [level=1] [ref=f4e199]
+      - generic [ref=f4e201]:
+        - generic [ref=f4e202]:
+          - generic [ref=f4e204]:
+            - generic [ref=f4e205]:
+              - link "3 New Packs LIVE on Jupiter Gacha!" [ref=f4e206] [cursor=pointer]:
+                - /url: https://jup.ag/gacha/packs/pokemon_10
+              - generic [ref=f4e208]:
+                - img "3 New Packs LIVE on Jupiter Gacha!" [ref=f4e210]
+                - generic [ref=f4e211]:
+                  - heading "3 New Packs LIVE on Jupiter Gacha!" [level=3] [ref=f4e212]
+                  - paragraph [ref=f4e213]: Rip real Sports & Pokemon packs starting at $5 with $50,000 in rewards.
+              - button "Close banner" [ref=f4e214] [cursor=pointer]
+            - generic [aria-hidden] [ref=f4e216]:
+              - link [ref=f4e217] [cursor=pointer]:
+                - /url: https://jup.ag/stocks-feedback-form
+                - generic [ref=f4e218]: Help Build the Best Stocks Trading Experience
+              - generic [ref=f4e222]:
+                - heading [level=3] [ref=f4e223]: Help Build the Best Stocks Trading Experience
+                - paragraph [ref=f4e224]: Tell us the data, tools and features you want on Jupiter Stocks. Click to give your feedback to shape what comes next.
+              - button [ref=f4e225] [cursor=pointer]
+            - generic [aria-hidden] [ref=f4e227]:
+              - link [ref=f4e228] [cursor=pointer]:
+                - /url: https://jup.ag/swap?buy=7GxATsNMnaC88vdwd2t3mwrFuQwwGvmYPrUQ4D6FotXk&sell=EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
+                - generic [ref=f4e229]: Earn over 4.5% APY on your Stables
+              - generic [ref=f4e233]:
+                - heading [level=3] [ref=f4e234]: Earn over 4.5% APY on your Stables
+                - paragraph [ref=f4e235]: Swap to JUICED to earn between your trades, even while you sleep.
+              - button [ref=f4e236] [cursor=pointer]
+          - group "Banner pagination" [ref=f4e238]:
+            - button "Go to banner 1" [ref=f4e239] [cursor=pointer]
+            - button "Go to banner 2" [ref=f4e241] [cursor=pointer]
+            - button "Go to banner 3" [ref=f4e243] [cursor=pointer]
+        - generic [ref=f4e245]:
+          - generic [ref=f4e248]:
+            - generic [ref=f4e249]:
+              - group [ref=f4e252]:
+                - button "Market" [pressed] [ref=f4e253] [cursor=pointer]
+                - combobox "Limit" [ref=f4e254] [cursor=pointer]
+                - textbox [aria-hidden] [ref=f4e257]: take-profit
+                - button "DCA" [ref=f4e258] [cursor=pointer]
+              - generic [ref=f4e260]:
+                - generic [ref=f4e261]:
+                  - generic [ref=f4e266]: Ultra
+                  - generic [aria-hidden]:
+                    - generic: Ultra
+                  - generic [aria-hidden]:
+                    - generic: Ultra
+                - button "Open swap settings" [ref=f4e267] [cursor=pointer]
+            - generic [ref=f4e272]:
+              - generic [ref=f4e273]:
+                - generic [ref=f4e274]:
+                  - generic [ref=f4e275]: Sell
+                  - generic [ref=f4e277]:
+                    - textbox "Sell amount" [ref=f4e279]:
+                      - /placeholder: "0.0"
+                    - button "Select token" [ref=f4e281]:
+                      - generic [ref=f4e286]: USDC
+                - button "Switch sell and buy assets" [ref=f4e289] [cursor=pointer]
+                - generic [ref=f4e295]:
+                  - generic [ref=f4e297]:
+                    - generic [ref=f4e298]: Buy
+                    - button "paste Paste CA" [ref=f4e299] [cursor=pointer]:
+                      - generic "paste" [ref=f4e300]
+                      - generic [ref=f4e301]: Paste CA
+                  - button "Select token" [ref=f4e305] [cursor=pointer]:
+                    - generic [ref=f4e310]: SOL
+              - button "Connect" [ref=f4e313] [cursor=pointer]
+          - generic [ref=f4e314]:
+            - generic [ref=f4e315]:
+              - link [ref=f4e316] [cursor=pointer]:
+                - /url: /tokens/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
+              - generic [ref=f4e317]:
+                - generic [ref=f4e318]:
+                  - img "USDC" [ref=f4e321]
+                  - generic [ref=f4e322]:
+                    - generic [ref=f4e323]: USDC
+                    - button "Copy Address" [ref=f4e325] [cursor=pointer]:
+                      - generic [ref=f4e326]: EPjF…Dt1v
+                - generic [ref=f4e328]:
+                  - generic [ref=f4e329]: $0.99967
+                  - generic [ref=f4e332]: "-0.02%"
+            - generic [ref=f4e333]:
+              - link [ref=f4e334] [cursor=pointer]:
+                - /url: /tokens/So11111111111111111111111111111111111111112
+              - generic [ref=f4e335]:
+                - generic [ref=f4e336]:
+                  - img "SOL" [ref=f4e339]
+                  - generic [ref=f4e340]:
+                    - generic [ref=f4e341]: SOL
+                    - button "Copy Address" [ref=f4e343] [cursor=pointer]:
+                      - generic [ref=f4e344]: So11…1112
+                - generic [ref=f4e346]:
+                  - generic [ref=f4e347]: $96.53
+                  - generic [ref=f4e350]: "-5.64%"
+      - button "Scroll to more content" [ref=f4e351] [cursor=pointer]
+      - generic [ref=f4e353]:
+        - generic [ref=f4e355]:
+          - generic [ref=f4e356]:
+            - heading "Find Popular Tokens" [level=3] [ref=f4e357]
+            - generic [ref=f4e358]: with Jupiter Spot
+          - link "View popular tokens" [ref=f4e359] [cursor=pointer]:
+            - /url: /spot/popular
+            - generic "Open link" [ref=f4e360]
+        - generic [ref=f4e378]:
+          - generic [ref=f4e379]:
+            - generic [ref=f4e380]:
+              - heading "Trade Your Opinions" [level=3] [ref=f4e381]
+              - generic [ref=f4e382]: with Jupiter Prediction Markets
+            - link "Open link" [ref=f4e383] [cursor=pointer]:
+              - /url: /prediction
+          - button "Scroll right" [ref=f4e386] [cursor=pointer]
+        - generic [ref=f4e393]:
+          - generic [ref=f4e394]:
+            - generic [ref=f4e395]:
+              - heading "Trade up to 250x Leverage" [level=3] [ref=f4e396]
+              - generic [ref=f4e397]: with Jupiter Perps
+            - link "Open link" [ref=f4e398] [cursor=pointer]:
+              - /url: /perps
+          - button "Scroll right" [ref=f4e401] [cursor=pointer]
+        - generic [ref=f4e409]:
+          - generic [ref=f4e410]:
+            - heading "Earn Yield Simply" [level=3] [ref=f4e411]
+            - generic [ref=f4e412]: with Jupiter Lend Vaults
+          - link "Open link" [ref=f4e413] [cursor=pointer]:
+            - /url: /lend/earn
+        - generic [ref=f4e422]:
+          - generic [ref=f4e423]:
+            - heading "Maximize Your Yield" [level=3] [ref=f4e424]
+            - generic [ref=f4e425]: with Jupiter Multiply Loops
+          - link "Open link" [ref=f4e426] [cursor=pointer]:
+            - /url: /lend/borrow/multiply
+        - generic [ref=f4e434]:
+          - generic [ref=f4e435]:
+            - heading "Trade Stocks Onchain" [level=3] [ref=f4e436]
+            - generic [ref=f4e437]: with Jupiter Spot
+          - link "Open link" [ref=f4e438] [cursor=pointer]:
+            - /url: /spot/stocks
+        - generic [ref=f4e447]:
+          - generic [ref=f4e448]:
+            - heading "Send Crypto to Anyone as a Link" [level=3] [ref=f4e449]
+            - generic [ref=f4e450]: with Jupiter Send
+          - link "Open link" [ref=f4e451] [cursor=pointer]:
+            - /url: /send
+    - button "Back to Swap" [ref=f4e456] [cursor=pointer]
+  - generic:
+    - region "Notifications"
+  - generic:
+    - region "Notifications"
+  - generic:
+    - region "Notifications"

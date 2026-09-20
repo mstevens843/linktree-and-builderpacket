@@ -1,0 +1,4 @@
+[     707ms] [ERROR] The source list for the Content Security Policy directive 'connect-src' contains an invalid source: 'http://[::1]:*'. It will be ignored. @ https://agentic-signer.com/?live_review=1789387330287:0
+[    1285ms] [LOG] [cloud-signin-diag] {"ts":"2026-09-14T12:02:11.551Z","event":"app-bootstrap","walletId":"","path":"/"} @ https://agentic-signer.com/assets/index-Dhm0RP5z.js:10355
+[    1286ms] [INFO] [AgentMWA] register | SKIP reason=unsupported_environment android=false chrome=true ios=false safari=false @ https://agentic-signer.com/assets/mobile-wallet-adapter-DXLjUTIB.js:0
+[    1346ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://agentic-signer.com/api/connector-secrets:0

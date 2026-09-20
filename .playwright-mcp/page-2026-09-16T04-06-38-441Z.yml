@@ -1,0 +1,144 @@
+- generic [ref=f16e2]:
+  - list [ref=f16e4]:
+    - listitem [ref=f16e5]:
+      - link [ref=f16e6] [cursor=pointer]:
+        - /url: https://hex.tech/
+        - img "Hex" [ref=f16e7]
+    - listitem [ref=f16e8]:
+      - link "Back to Hex’s Job Listings" [ref=f16e9] [cursor=pointer]:
+        - /url: /hex
+    - listitem
+  - generic [ref=f16e12]:
+    - heading "Software Engineer, Fullstack" [level=1] [ref=f16e14]
+    - generic [ref=f16e15]:
+      - generic [ref=f16e16]:
+        - generic [ref=f16e17]:
+          - heading "Location" [level=2] [ref=f16e18]
+          - paragraph [ref=f16e19]: San Francisco; New York
+        - generic [ref=f16e20]:
+          - heading "Employment Type" [level=2] [ref=f16e21]
+          - paragraph [ref=f16e22]: Full time
+        - generic [ref=f16e23]:
+          - heading "Location Type" [level=2] [ref=f16e24]
+          - paragraph [ref=f16e25]: Hybrid
+        - generic [ref=f16e26]:
+          - heading "Department" [level=2] [ref=f16e27]
+          - paragraph [ref=f16e28]: Engineering
+        - generic [ref=f16e29]:
+          - heading "Compensation" [level=2] [ref=f16e30]
+          - list [ref=f16e31]:
+            - listitem [ref=f16e32]:
+              - generic [ref=f16e33]: $198,750 – $295,000 • Offers Equity
+          - generic [ref=f16e34]:
+            - paragraph [ref=f16e35]:
+              - emphasis [ref=f16e36]: In addition to our unique culture, Hex proudly offers a competitive total rewards package, including but not limited to, market-benched salary & equity, comprehensive health benefits, and flexible paid time off.
+            - paragraph [ref=f16e37]
+            - paragraph [ref=f16e38]:
+              - emphasis [ref=f16e39]: The salary range shown may be a reflection of additional factors such as geographical location and skill ranges/levels we’re open to. Placement in the salary range will be decided upon completion of the interview process, taking into account factors like leaving room for growth, internal fairness & parity, your demonstrated skills, and the depth of your experience. Our Recruiting team will be able to provide more details during the interview process.
+      - generic [ref=f16e40]:
+        - tablist [ref=f16e41]:
+          - tab "Overview" [selected] [ref=f16e42] [cursor=pointer]
+          - tab "Application" [ref=f16e43] [cursor=pointer]
+        - tabpanel "Overview" [ref=f16e45]:
+          - generic [ref=f16e46]:
+            - heading [level=1] [ref=f16e47]:
+              - strong [ref=f16e48]: About Hex
+            - paragraph [ref=f16e49]:
+              - text: Hex is growing our team of builders on a mission to make everyone a data person. Our platform solves key pain points with today’s data and analytics tooling, and empowers anyone to explore data using natural language, with or without code, on trusted context. Thousands of customers like
+              - link "Ramp" [ref=f16e50] [cursor=pointer]:
+                - /url: https://hex.tech/customers/ramp/
+              - text: ","
+              - link "Figma" [ref=f16e51] [cursor=pointer]:
+                - /url: https://hex.tech/customers/figma/
+              - text: ","
+              - link "Stubhub" [ref=f16e52] [cursor=pointer]:
+                - /url: https://hex.tech/customers/stubhub/
+              - text: ", Anthropic, and Gamma"
+              - link "love Hex" [ref=f16e53] [cursor=pointer]:
+                - /url: https://www.g2.com/products/hex-tech-hex/reviews
+              - text: for our beautiful UI, agentic superpowers, and boundless flexibility.
+            - paragraph [ref=f16e54]:
+              - text: Hex has raised over $100M from leading investors like Sequoia, a16z, Snowflake and Amplify. With office hubs in San Francisco and New York, as well as remote team members throughout the US and UK, we’re a high-agency team that ships fast and has fun doing it. Check out our
+              - link "Intro to Hex video" [ref=f16e55] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=qAXsnrNlavk
+              - text: and
+              - link "employee handbook" [ref=f16e56] [cursor=pointer]:
+                - /url: https://www.notion.so/hexhq/Hex-Handbook-9fff0d42860e4f70815c599e0d1664d6
+              - text: to learn more about what it’s like to work at Hex.
+            - paragraph [ref=f16e57]
+            - heading [level=1] [ref=f16e58]:
+              - strong [ref=f16e59]: About the role
+            - paragraph [ref=f16e60]: At Hex we are using AI to reinvent how business users interact with data, enabling rich data exploration using natural language. Our team of fullstack engineers are responsible for the critical workflows that our customers use to monitor and govern these AI agents, so that users receive answers that are consistently accurate, trustworthy, and grounded in truth. And you’ll work across the full stack to shape the core user experience of Hex
+            - paragraph [ref=f16e61]: Our vision is to be the control center for AI agents within the modern data stack, sitting at the nexus of AI engineering, workflow design, and data modeling to keep up with a fast-moving space.
+            - paragraph [ref=f16e62]
+            - heading [level=1] [ref=f16e63]:
+              - strong [ref=f16e64]: What you will do
+            - paragraph [ref=f16e65]: As a software engineer you'll work across the full stack, from complex user-facing interfaces and browser-based IDEs to backend language parsers and SQL generation.
+            - paragraph [ref=f16e66]: "Specifically, you will:"
+            - list [ref=f16e67]:
+              - listitem [ref=f16e68]:
+                - paragraph [ref=f16e69]:
+                  - strong [ref=f16e70]: Build observability tools
+                  - text: that provide data teams with critical control and visibility, surfacing agent performance, usage metrics, and conversational audit trails for AI-driven insights.
+              - listitem [ref=f16e71]:
+                - paragraph [ref=f16e72]:
+                  - strong [ref=f16e73]: Design and implement AI context systems
+                  - text: ", managing structures for diverse inputs such as free-form rules, certified SQL queries, and deterministic semantic models."
+              - listitem [ref=f16e74]:
+                - paragraph [ref=f16e75]:
+                  - strong [ref=f16e76]: Create robust, full-stack workflows
+                  - text: that allow data teams to effectively govern, debug, and curate the Hex agent’s knowledge, ensuring the reliability and trustworthiness of AI-generated answers across the entire organization.
+              - listitem [ref=f16e77]:
+                - paragraph [ref=f16e78]:
+                  - strong [ref=f16e79]: Tackle challenging back-end problems
+                  - text: related to SQL compilation, semantic model development, and serializing database context to ensure deterministic and accurate AI outputs.
+              - listitem [ref=f16e80]:
+                - paragraph [ref=f16e81]:
+                  - strong [ref=f16e82]: Solve complex front-end UX challenges
+                  - text: to present a large volume of technical information in an actionable, clear, and intuitive user interface.
+            - paragraph [ref=f16e83]
+            - heading [level=1] [ref=f16e84]:
+              - strong [ref=f16e85]: About you
+            - list [ref=f16e86]:
+              - listitem [ref=f16e87]:
+                - paragraph [ref=f16e88]: 4+ years of experience as a full-stack software engineer, comfortable navigating the entire application stack and building full-stack applications with React, Typescript, and/or Python.
+              - listitem [ref=f16e89]:
+                - paragraph [ref=f16e90]: You have a strong understanding of front-end and back-end development principles, with an appreciation for both elegant user experiences and robust, scalable service architecture.
+              - listitem [ref=f16e91]:
+                - paragraph [ref=f16e92]: You have empathy for data teams and understand the challenges involved in answering complex data questions and working with modern data warehouses.
+              - listitem [ref=f16e93]:
+                - paragraph [ref=f16e94]: You are excited by the opportunity to work at the forefront of AI development, tackling novel problems in agentic reliability, governance, and model curation.
+              - listitem [ref=f16e95]:
+                - paragraph [ref=f16e96]: You are pragmatic and action-oriented, focused on delivering high-quality solutions that directly contribute to business-critical features.
+            - paragraph [ref=f16e97]:
+              - emphasis [ref=f16e98]: This role will be hybrid (2 days per week in office) based out of our NYC or SF offices.
+            - paragraph [ref=f16e99]
+            - heading [level=1] [ref=f16e100]:
+              - strong [ref=f16e101]: Our stack
+            - paragraph [ref=f16e102]: Our product is a web-based notebook and app authoring platform. Our frontend is built with Typescript and React, using a combination of Apollo GraphQL and Redux for managing application state and data. On the backend, we also use Typescript to power an Express/Apollo GraphQL server that interacts with Postgres, Redis, and Kubernetes to manage our database and Python kernels. Our backend is tightly integrated with our infrastructure and CI/CD, where we use a combination of Terraform, Helm, and AWS to deploy and maintain our stack.
+            - paragraph [ref=f16e103]
+            - paragraph [ref=f16e104]: "The salary range for this role is: $198,750 - $295,000"
+            - paragraph [ref=f16e105]
+            - paragraph [ref=f16e106]: In addition to our unique culture, Hex proudly offers a competitive total rewards package, including but not limited to, market-benched salary & equity, comprehensive health benefits, and flexible paid time off.
+            - paragraph [ref=f16e107]: The salary range shown may be a reflection of additional factors such as geographical location and skill ranges/levels we’re open to. Placement in the salary range will be decided upon completion of the interview process, taking into account factors like leaving room for growth, internal fairness & parity, your demonstrated skills, and the depth of your experience. Our Recruiting team will be able to provide more details during the interview process.
+            - paragraph [ref=f16e108]
+            - paragraph [ref=f16e109]:
+              - text: "By submitting an application the candidate consents to the use of their personal information in accordance with the Hex Privacy policy:"
+              - link "https://learn.hex.tech/docs/trust/privacy-policy" [ref=f16e110] [cursor=pointer]:
+                - /url: https://learn.hex.tech/docs/trust/privacy-policy
+              - text: .
+          - link [ref=f16e111] [cursor=pointer]:
+            - /url: /hex/996c38fd-0a7a-4df9-a5c3-4234b20b7b71/application
+            - button "Apply for this Job" [ref=f16e112]
+  - contentinfo [ref=f16e113]:
+    - link "Learn more about Ashby" [ref=f16e114] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=f16e115]: Powered by
+      - img "Ashby" [ref=f16e116]
+    - paragraph [ref=f16e122]:
+      - link "Privacy Policy" [ref=f16e123] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=f16e124] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=f16e125] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

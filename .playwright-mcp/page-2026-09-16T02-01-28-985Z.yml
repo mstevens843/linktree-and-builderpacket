@@ -1,0 +1,302 @@
+- generic [active] [ref=f6e1]:
+  - main [ref=f6e2]:
+    - generic [ref=f6e3]:
+      - link [ref=f6e5] [cursor=pointer]:
+        - /url: https://www.cloudflare.com/careers
+        - img "Cloudflare Logo" [ref=f6e6]
+      - generic [ref=f6e7]:
+        - link "Back to jobs" [ref=f6e8] [cursor=pointer]:
+          - /url: https://www.cloudflare.com/careers/#open-roles
+        - generic [ref=f6e12]:
+          - generic [ref=f6e13]:
+            - heading "Software Engineer - Platforms & Productivity" [level=1] [ref=f6e14]
+            - generic [ref=f6e15]: Hybrid
+          - button "Apply" [ref=f6e19] [cursor=pointer]
+        - generic [ref=f6e20]:
+          - generic [ref=f6e21]:
+            - heading "About Us" [level=3] [ref=f6e22]
+            - paragraph [ref=f6e23]: At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.
+            - paragraph [ref=f6e24]: At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a "normalized" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.
+          - generic [ref=f6e25]:
+            - heading "About the Team and Role" [level=3] [ref=f6e26]
+            - paragraph [ref=f6e27]: The Developer Productivity team builds internal tools and platforms that improve the velocity and developer experience of Cloudflare's engineering teams. We own developer productivity (code commit to production), developer insights and ADLC metrics, developer infrastructure (CI/CD, build systems), AI-assisted development, and Cloudflare-on-Cloudflare dogfooding.
+            - paragraph [ref=f6e28]: This team is responsible for AI-assisted development across all of Cloudflare engineering. Adoption has grown 4–6x in the last year. It's a small team, so you'll have a big surface area and real ownership from day one.
+            - paragraph [ref=f6e29]: As a Software Engineer, you will help build and operate internal platforms that help Cloudflare engineers develop, deploy, and run software safely and efficiently. You’ll work across developer tooling, CI/CD, GitOps, and AI-assisted development, including MCP servers, agents, evals, and context engineering.
+            - paragraph [ref=f6e30]: You’ll also help govern and enforce Cloudflare’s Engineering Codex by turning engineering standards into automated guardrails, paved paths, and actionable feedback.
+            - heading "What You’ll Do" [level=3] [ref=f6e31]
+            - paragraph [ref=f6e32]: "- Build developer productivity tools, MCP servers, and AI agents."
+            - paragraph [ref=f6e33]: "- Automate Engineering Codex controls through CI/CD checks, templates, and policy-as-code."
+            - paragraph [ref=f6e34]: "- Monitor Codex adoption, improve controls, and support remediation and exception workflows."
+            - paragraph [ref=f6e35]: "- Improve GitOps, developer experience, platform security, and reliability."
+            - paragraph [ref=f6e36]: "- Partner with product teams on architecture and platform adoption."
+            - paragraph [ref=f6e37]: "- Respond to and prevent incidents affecting internal platforms."
+            - heading "What We’re Looking For" [level=3] [ref=f6e38]
+            - paragraph [ref=f6e39]: "- Experience with TypeScript, Go, or Bash."
+            - paragraph [ref=f6e40]: "- Strong debugging and source-control skills."
+            - paragraph [ref=f6e41]: "- Experience with CI/CD, GitOps, or developer platforms."
+            - paragraph [ref=f6e42]: "- Ability to break down complex problems and evaluate trade-offs."
+            - paragraph [ref=f6e43]: "- Clear communication and a strong focus on developer experience."
+            - heading "Bonus Points" [level=3] [ref=f6e44]
+            - paragraph [ref=f6e45]: "- Experience with AI agents, MCP, evals, or LLM-based tooling."
+            - paragraph [ref=f6e46]: "- Experience with policy-as-code or compliance automation."
+            - paragraph [ref=f6e47]: "- Background in platform engineering or developer productivity."
+            - paragraph [ref=f6e48]: "- Experience operating distributed or Kubernetes-based systems."
+          - generic [ref=f6e49]:
+            - heading "What Makes Cloudflare Special?" [level=3] [ref=f6e50]
+            - paragraph [ref=f6e51]: We’re not just a highly ambitious, large-scale technology company. We’re a highly ambitious, large-scale technology company with a soul. Fundamental to our mission to help build a better Internet is protecting the free and open Internet.
+            - paragraph [ref=f6e52]:
+              - link [ref=f6e53] [cursor=pointer]:
+                - /url: https://blog.cloudflare.com/protecting-free-expression-online/
+                - strong [ref=f6e54]: Project Galileo
+              - text: ": Since 2014, we've equipped more than 2,400 journalism and civil society organizations in 111 countries with powerful tools to defend themselves against attacks that would otherwise censor their work, technology already used by Cloudflare’s enterprise customers--at no cost."
+            - paragraph [ref=f6e55]:
+              - strong [ref=f6e56]:
+                - link "Athenian Project" [ref=f6e57] [cursor=pointer]:
+                  - /url: https://www.cloudflare.com/athenian/
+              - text: ": In 2017, we created the Athenian Project to ensure that state and local governments have the highest level of protection and reliability for free, so that their constituents have access to election information and voter registration. Since the project, we've provided services to more than 425 local government election websites in 33 states."
+            - paragraph [ref=f6e58]:
+              - link [ref=f6e59] [cursor=pointer]:
+                - /url: https://1.1.1.1/
+                - strong [ref=f6e60]: 1.1.1.1
+              - text: ": We released"
+              - link "1.1.1.1" [ref=f6e61] [cursor=pointer]:
+                - /url: https://1.1.1.1/
+              - text: to help fix the foundation of the Internet by building a faster, more secure and privacy-centric public DNS resolver. This is available publicly for everyone to use - it is the first consumer-focused service Cloudflare has ever released. Here’s the deal - we don’t store client IP addresses never, ever. We will continue to abide by our
+              - link "privacy commitment" [ref=f6e62] [cursor=pointer]:
+                - /url: https://developers.cloudflare.com/1.1.1.1/privacy/public-dns-resolver
+              - text: and ensure that no user data is sold to advertisers or used to target consumers.
+            - paragraph [ref=f6e63]: Sound like something you’d like to be a part of? We’d love to hear from you!
+            - paragraph [ref=f6e64]: Please note that applicants who progress to the offer stage of the interview process may be asked to attend an in-person interview within one of the Cloudflare Offices or Cloudflare Hubs. More details about this will be available at that stage of the interview process.
+            - paragraph [ref=f6e65]: This position may require access to information protected under U.S. export control laws, including the U.S. Export Administration Regulations. Please note that any offer of employment may be conditioned on your authorization to receive software or technology controlled under these U.S. export laws without sponsorship for an export license.
+            - paragraph [ref=f6e66]: Cloudflare is proud to be an equal opportunity employer. We are committed to providing equal employment opportunity for all people and place great value in both diversity and inclusiveness. All qualified applicants will be considered for employment without regard to their, or any other person's, perceived or actual race, color, religion, sex, gender, gender identity, gender expression, sexual orientation, national origin, ancestry, citizenship, age, physical or mental disability, medical condition, family care status, or any other basis protected by law. We are an AA/Veterans/Disabled Employer.
+            - paragraph [ref=f6e67]: Cloudflare provides reasonable accommodations to qualified individuals with disabilities. Please tell us if you require a reasonable accommodation to apply for a job. Examples of reasonable accommodations include, but are not limited to, changing the application process, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment. If you require a reasonable accommodation to apply for a job, please contact us via e-mail at hr@cloudflare.com or via mail at 101 Townsend St. San Francisco, CA 94107.
+      - separator [ref=f6e68]
+      - generic [ref=f6e69]:
+        - generic [ref=f6e71]:
+          - heading "Apply for this job" [level=2] [ref=f6e73]
+          - generic [ref=f6e74]:
+            - paragraph [ref=f6e76]: "*"
+            - paragraph [ref=f6e77]: indicates a required field
+        - generic [ref=f6e78]:
+          - generic [ref=f6e79]:
+            - generic [ref=f6e82]:
+              - generic [ref=f6e83]: First Name*
+              - textbox "First Name" [ref=f6e84]
+            - generic [ref=f6e87]:
+              - generic [ref=f6e88]: Last Name*
+              - textbox "Last Name" [ref=f6e89]
+            - generic [ref=f6e92]:
+              - generic [ref=f6e93]: Email*
+              - textbox "Email" [ref=f6e94]
+            - group "Phone" [ref=f6e96]:
+              - generic [ref=f6e100]:
+                - generic [ref=f6e101]: Country*
+                - generic [ref=f6e102]:
+                  - log [ref=f6e104]
+                  - generic [ref=f6e106]:
+                    - combobox "Country" [ref=f6e109]
+                    - button "Toggle flyout" [ref=f6e111] [cursor=pointer]
+                  - textbox [aria-hidden]
+              - generic [ref=f6e116]:
+                - generic [ref=f6e117]: Phone*
+                - textbox "Phone" [ref=f6e118]
+            - generic [ref=f6e119]:
+              - generic [ref=f6e121]:
+                - generic [ref=f6e122]: Location (City)*
+                - generic [ref=f6e123]:
+                  - log [ref=f6e125]
+                  - combobox "Location (City)" [ref=f6e130]
+                  - textbox [aria-hidden]
+              - button "Locate me" [ref=f6e131] [cursor=pointer]
+            - group "Resume/CV*" [ref=f6e133]:
+              - generic [ref=f6e136]:
+                - generic [ref=f6e138]:
+                  - button "Attach" [ref=f6e139] [cursor=pointer]
+                  - generic [ref=f6e140]: Attach
+                  - button "Attach" [ref=f6e141]
+                - button "Dropbox" [ref=f6e143] [cursor=pointer]
+                - button "Google Drive" [ref=f6e145] [cursor=pointer]
+                - generic [ref=f6e147]:
+                  - button "Enter manually" [ref=f6e148] [cursor=pointer]
+                  - generic [ref=f6e149]: Enter manually
+                - paragraph [ref=f6e150]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=f6e152]:
+              - generic [ref=f6e155]:
+                - generic [ref=f6e157]:
+                  - button "Attach" [ref=f6e158] [cursor=pointer]
+                  - generic [ref=f6e159]: Attach
+                  - button "Attach" [ref=f6e160]
+                - button "Dropbox" [ref=f6e162] [cursor=pointer]
+                - button "Google Drive" [ref=f6e164] [cursor=pointer]
+                - generic [ref=f6e166]:
+                  - button "Enter manually" [ref=f6e167] [cursor=pointer]
+                  - generic [ref=f6e168]: Enter manually
+                - paragraph [ref=f6e169]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=f6e170]:
+            - separator [ref=f6e171]
+            - generic [ref=f6e174]:
+              - generic [ref=f6e175]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=f6e176]
+            - generic [ref=f6e179]:
+              - generic [ref=f6e180]: Website
+              - textbox "Website" [ref=f6e181]
+            - generic [ref=f6e184]:
+              - generic [ref=f6e185]: Legal Name (if different than above)
+              - textbox "Legal Name (if different than above)" [ref=f6e186]
+            - generic [ref=f6e189]:
+              - generic [ref=f6e190]: Would you like to include your LinkedIn profile, personal website or blog?
+              - textbox "Would you like to include your LinkedIn profile, personal website or blog?" [ref=f6e191]
+            - generic [ref=f6e194]:
+              - generic [ref=f6e195]: How did you hear about this job?*
+              - textbox "How did you hear about this job?" [ref=f6e196]
+            - generic [ref=f6e199]:
+              - generic [ref=f6e200]: Do you currently live or are you willing to relocate to the job’s location?*
+              - generic [ref=f6e201]:
+                - log [ref=f6e203]
+                - generic [ref=f6e205]:
+                  - generic [ref=f6e206]:
+                    - generic [ref=f6e207]: Select...
+                    - combobox "Do you currently live or are you willing to relocate to the job’s location?" [ref=f6e209]
+                  - button "Toggle flyout" [ref=f6e211] [cursor=pointer]
+                - textbox [aria-hidden]
+            - generic [ref=f6e216]:
+              - generic [ref=f6e217]: Do you now or will you in the future require immigration sponsorship to work at Cloudflare?*
+              - generic [ref=f6e218]:
+                - log [ref=f6e220]
+                - generic [ref=f6e222]:
+                  - generic [ref=f6e223]:
+                    - generic [ref=f6e224]: Select...
+                    - combobox "Do you now or will you in the future require immigration sponsorship to work at Cloudflare?" [ref=f6e226]
+                  - button "Toggle flyout" [ref=f6e228] [cursor=pointer]
+                - textbox [aria-hidden]
+            - generic [ref=f6e231]:
+              - group "Please review and acknowledge Cloudflare's Candidate Privacy Policy (cloudflare.com/candidate-privacy-notice/). *" [ref=f6e232]:
+                - generic [ref=f6e234]:
+                  - checkbox "Acknowledge/Confirm" [ref=f6e236]
+                  - generic [ref=f6e237]: Acknowledge/Confirm
+              - paragraph [ref=f6e240]:
+                - link "Candidate Privacy Policy" [ref=f6e241] [cursor=pointer]:
+                  - /url: https://www.cloudflare.com/candidate-privacy-notice/
+            - generic [ref=f6e242]:
+              - generic [ref=f6e244]:
+                - generic [ref=f6e245]: "Optional Assignment: Please share GitHub repo URL for the project here"
+                - 'textbox "Optional Assignment: Please share GitHub repo URL for the project here" [ref=f6e246]'
+              - generic [ref=f6e248]:
+                - generic [ref=f6e249]:
+                  - text: We plan to fast track candidates who complete an assignment to build a type of
+                  - link "AI-powered application" [ref=f6e250] [cursor=pointer]:
+                    - /url: https://agents.cloudflare.com/
+                  - text: "on Cloudflare. An AI-powered application should include the following components:"
+                  - list [ref=f6e251]:
+                    - listitem [ref=f6e252]: LLM (recommend using Llama 3.3 on Workers AI), or an external LLM of your choice
+                    - listitem [ref=f6e253]: Workflow / coordination (recommend using Workflows, Workers or Durable Objects)
+                    - listitem [ref=f6e254]: User input via chat or voice (recommend using Pages or Realtime)
+                    - listitem [ref=f6e255]: Memory or state
+                  - text: Find additional documentation
+                  - link "here" [ref=f6e256] [cursor=pointer]:
+                    - /url: https://developers.cloudflare.com/agents/
+                  - text: .
+                - emphasis [ref=f6e259]: "Note: AI-assisted coding is encouraged, but you have to submit prompt history."
+          - generic [ref=f6e260]:
+            - separator [ref=f6e261]
+            - generic [ref=f6e262]:
+              - heading "Voluntary Self-Identification" [level=2] [ref=f6e263]
+              - paragraph [ref=f6e264]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=f6e265]: As set forth in Cloudflare’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=f6e268]:
+              - generic [ref=f6e269]: Gender
+              - generic [ref=f6e270]:
+                - log [ref=f6e272]
+                - generic [ref=f6e274]:
+                  - generic [ref=f6e275]:
+                    - generic [ref=f6e276]: Select...
+                    - combobox "Gender" [ref=f6e278]
+                  - button "Toggle flyout" [ref=f6e280] [cursor=pointer]
+            - generic [ref=f6e283]:
+              - generic [ref=f6e285]:
+                - generic [ref=f6e286]: Are you Hispanic/Latino?
+                - generic [ref=f6e287]:
+                  - log [ref=f6e289]
+                  - generic [ref=f6e291]:
+                    - generic [ref=f6e292]:
+                      - generic [ref=f6e293]: Select...
+                      - combobox "Are you Hispanic/Latino?" [ref=f6e295]
+                    - button "Toggle flyout" [ref=f6e297] [cursor=pointer]
+              - link "Race & Ethnicity Definitions" [ref=f6e300] [cursor=pointer]:
+                - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+            - generic [ref=f6e301]:
+              - paragraph [ref=f6e302]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - paragraph [ref=f6e303]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - paragraph [ref=f6e304]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - paragraph [ref=f6e305]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - paragraph [ref=f6e306]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=f6e309]:
+              - generic [ref=f6e310]: Veteran Status
+              - generic [ref=f6e311]:
+                - log [ref=f6e313]
+                - generic [ref=f6e315]:
+                  - generic [ref=f6e316]:
+                    - generic [ref=f6e317]: Select...
+                    - combobox "Veteran Status" [ref=f6e319]
+                  - button "Toggle flyout" [ref=f6e321] [cursor=pointer]
+            - separator [ref=f6e324]
+            - generic [ref=f6e325]:
+              - heading "Voluntary Self-Identification of Disability" [level=2] [ref=f6e326]
+              - generic [ref=f6e327]:
+                - generic [ref=f6e328]:
+                  - generic [ref=f6e329]: Form CC-305
+                  - generic [ref=f6e330]: Page 1 of 1
+                - generic [ref=f6e331]:
+                  - generic [ref=f6e332]: OMB Control Number 1250-0005
+                  - generic [ref=f6e333]: Expires 07/31/2029
+              - strong [ref=f6e334]: Why are you being asked to complete this form?
+              - paragraph [ref=f6e335]: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+              - paragraph [ref=f6e336]:
+                - text: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at
+                - link "www.dol.gov/ofccp" [ref=f6e337] [cursor=pointer]:
+                  - /url: https://www.dol.gov/ofccp
+                - text: .
+              - strong [ref=f6e338]: How do you know if you have a disability?
+              - paragraph [ref=f6e339]:
+                - text: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.
+                - strong [ref=f6e340]: "Disabilities include, but are not limited to:"
+              - list [ref=f6e341]:
+                - listitem [ref=f6e342]: Alcohol or other substance use disorder (not currently using drugs illegally)
+                - listitem [ref=f6e343]: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+                - listitem [ref=f6e344]: Blind or low vision
+                - listitem [ref=f6e345]: Cancer (past or present)
+                - listitem [ref=f6e346]: Cardiovascular or heart disease
+                - listitem [ref=f6e347]: Celiac disease
+                - listitem [ref=f6e348]: Cerebral palsy
+                - listitem [ref=f6e349]: Deaf or serious difficulty hearing
+                - listitem [ref=f6e350]: Diabetes
+                - listitem [ref=f6e351]: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+                - listitem [ref=f6e352]: Epilepsy or other seizure disorder
+                - listitem [ref=f6e353]: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+                - listitem [ref=f6e354]: Intellectual or developmental disability
+                - listitem [ref=f6e355]: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+                - listitem [ref=f6e356]: Missing limbs or partially missing limbs
+                - listitem [ref=f6e357]: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+                - listitem [ref=f6e358]: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+                - listitem [ref=f6e359]: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+                - listitem [ref=f6e360]: Partial or complete paralysis (any cause)
+                - listitem [ref=f6e361]: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+                - listitem [ref=f6e362]: Short stature (dwarfism)
+                - listitem [ref=f6e363]: Traumatic brain injury
+            - generic [ref=f6e366]:
+              - generic [ref=f6e367]: Disability Status
+              - generic [ref=f6e368]:
+                - log [ref=f6e370]
+                - generic [ref=f6e372]:
+                  - generic [ref=f6e373]:
+                    - generic [ref=f6e374]: Select...
+                    - combobox "Disability Status" [ref=f6e376]
+                  - button "Toggle flyout" [ref=f6e378] [cursor=pointer]
+            - paragraph [ref=f6e382]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+          - button "Submit application" [ref=f6e384] [cursor=pointer]
+  - contentinfo [ref=f6e385]:
+    - generic [ref=f6e386]:
+      - paragraph [ref=f6e387]: Powered by
+      - link [ref=f6e388] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=f6e389]

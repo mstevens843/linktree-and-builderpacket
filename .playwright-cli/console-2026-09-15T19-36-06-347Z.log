@@ -1,0 +1,4 @@
+[     681ms] [WARNING] This package has been deprecated. We strongly encourage if you are planning to use it for the first time, please use the new library Events-Toolkit-Browser: https://github.com/zapier/events-toolkit-js @ https://pagebuilder.vercel.zapier.com/_next/static/chunks/main-4987f426c4129013.js:4
+[     803ms] [WARNING] No CSRF token found for JWT refresh @ https://pagebuilder.vercel.zapier.com/_next/static/chunks/main-4987f426c4129013.js:4
+[     974ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://zapier.com/api/v3/profiles:0
+[    3591ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://o23399.ingest.us.sentry.io/api/5720276/envelope/?sentry_version=7&sentry_key=144f55083777228832ec383540603c4d&sentry_client=sentry.javascript.nextjs%2F9.47.1:0

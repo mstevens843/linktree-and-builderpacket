@@ -1,0 +1,13 @@
+[    2261ms] [WARNING] Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened. @ https://cdn.jsdelivr.net/npm/statsig-sidecar-v2-beta/dist/index.min.js?apikey=client-EUKyJOc60pqwfv0oSrx8egQ53gk3U6fLLvTv16ygfIM:6
+[    2312ms] [LOG] null @ https://truemeter.com/careers?_live_review=1789413499222:240
+[    2313ms] [WARNING]   WARN  [Statsig] Creating multiple Statsig clients with the same SDK key can lead to unexpected behavior. Multi-instance support requires different SDK keys. @ https://cdn.jsdelivr.net/npm/@statsig/js-client@3.31.0/build/statsig-js-client.min.js:0
+[    2650ms] [WARNING]   WARN  [Statsig] The user does not have the required id_type "userID" for Experiment "1377327057" @ https://cdn.jsdelivr.net/npm/statsig-sidecar-v2-beta/dist/index.min.js?apikey=client-EUKyJOc60pqwfv0oSrx8egQ53gk3U6fLLvTv16ygfIM:6
+[    2651ms] [LOG] statsig @ https://truemeter.com/careers?_live_review=1789413499222:283
+[    2651ms] [LOG] n @ https://truemeter.com/careers?_live_review=1789413499222:284
+[    2651ms] [LOG] ++ handleGTMMessage gtm.js null {gtm.start: 1789413501429, event: gtm.js, gtm.uniqueEventId: 3} @ https://truemeter.com/careers?_live_review=1789413499222:312
+[    2651ms] [LOG] n @ https://truemeter.com/careers?_live_review=1789413499222:313
+[    2651ms] [LOG] ++ handleGTMMessage gtm.dom null {event: gtm.dom, gtm.uniqueEventId: 4} @ https://truemeter.com/careers?_live_review=1789413499222:312
+[    2651ms] [LOG] n @ https://truemeter.com/careers?_live_review=1789413499222:313
+[    3213ms] [LOG] ++ handleGTMMessage gtm.load null {event: gtm.load, gtm.uniqueEventId: 13} @ https://truemeter.com/careers?_live_review=1789413499222:312
+[    3213ms] [LOG] n @ https://truemeter.com/careers?_live_review=1789413499222:313
+[    3214ms] [LOG] ++ handleGTMMessage / skip @ https://truemeter.com/careers?_live_review=1789413499222:317

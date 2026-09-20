@@ -1,0 +1,149 @@
+- generic [ref=f20e2]:
+  - list [ref=f20e4]:
+    - listitem [ref=f20e5]:
+      - link [ref=f20e6] [cursor=pointer]:
+        - /url: https://render.com
+        - img "Render" [ref=f20e7]
+    - listitem [ref=f20e8]:
+      - link "Back to Render ’s Job Listings" [ref=f20e9] [cursor=pointer]:
+        - /url: /render
+    - listitem
+  - generic [ref=f20e12]:
+    - heading "Software Engineer, Growth (all levels)" [level=1] [ref=f20e14]
+    - generic [ref=f20e15]:
+      - generic [ref=f20e16]:
+        - generic [ref=f20e17]:
+          - heading "Location" [level=2] [ref=f20e18]
+          - paragraph [ref=f20e19]: "Remote: United States; Remote: Canada"
+        - generic [ref=f20e20]:
+          - heading "Employment Type" [level=2] [ref=f20e21]
+          - paragraph [ref=f20e22]: Full time
+        - generic [ref=f20e23]:
+          - heading "Location Type" [level=2] [ref=f20e24]
+          - paragraph [ref=f20e25]: Remote
+        - generic [ref=f20e26]:
+          - heading "Department" [level=2] [ref=f20e27]
+          - paragraph [ref=f20e28]:
+            - generic [ref=f20e29]: Engineering ›
+            - generic [ref=f20e30]: Engineering
+        - generic [ref=f20e31]:
+          - heading "Compensation" [level=2] [ref=f20e32]
+          - list [ref=f20e33]:
+            - listitem [ref=f20e34]:
+              - generic [ref=f20e35]: $170K – $290K • Offers Equity
+          - paragraph [ref=f20e37]:
+            - emphasis [ref=f20e38]: Our openings span more than one career level. The provided salary depends on many factors, such as work experience and transferable skills, business needs and impact, location, and market demands.
+      - generic [ref=f20e39]:
+        - tablist [ref=f20e40]:
+          - tab "Overview" [selected] [ref=f20e41] [cursor=pointer]
+          - tab "Application" [ref=f20e42] [cursor=pointer]
+        - tabpanel "Overview" [ref=f20e44]:
+          - generic [ref=f20e45]:
+            - paragraph [ref=f20e46]: At Render, we’re building the modern cloud platform for developers creating AI-native, full-stack, multi-service applications. Our mission is to eliminate the tradeoff between the power of hyperscalers and the simplicity of developer-friendly platforms—so teams can ship fast, scale reliably, and focus on their product, not infrastructure.
+            - paragraph [ref=f20e47]: Unlike complex hyperscalers or ephemeral edge/serverless solutions, Render offers a developer-first experience with persistent compute, dynamic autoscaling, built-in orchestration, and observability, allowing teams to launch, scale, and manage real-world applications without writing infrastructure code or managing servers. Whether you're building LLM-powered applications, scalable SaaS products, or async processing pipelines, Render empowers teams to move fast and scale confidently from MVP to millions of users.
+            - paragraph [ref=f20e48]: Our platform is trusted by over 7 million developers worldwide and continues to grow rapidly. In February 2026, we raised an additional $100M in Series C financing, bringing our total funding to $260M, to accelerate our vision of making cloud infrastructure both powerful and intuitive—designed for the speed of modern AI development.
+            - paragraph [ref=f20e49]: We’re a diverse and talented team that values craft, velocity, and user experience. If you’re excited to help shape the future of the intelligent cloud and empower developers everywhere, we’d love to hear from you.
+            - paragraph [ref=f20e50]
+            - heading [level=2] [ref=f20e51]:
+              - strong [ref=f20e52]: Applying to Render
+            - paragraph [ref=f20e53]: We're seeking candidates who possess high integrity, humility, and an insatiable drive to learn. Through reasoned discussions and continuous feedback, we strive to improve both individually and collectively. We foster an environment of mutual trust and respect, empowering effective debate to achieve the best outcomes for our customers and team.
+            - paragraph [ref=f20e54]: We especially encourage members of underrepresented groups in the tech community to apply and understand that not all successful candidates will meet each requirement listed.
+            - paragraph [ref=f20e55]: Our interview process is unique to each role, and we value the candidate experience just as much as our customer experience. We hope your conversations with us reflect a thoughtful process that is illuminative, enjoyable, and respectful of your time.
+            - paragraph [ref=f20e56]
+            - heading [level=2] [ref=f20e57]:
+              - strong [ref=f20e58]: About the Role
+            - paragraph [ref=f20e59]: Render's mission is to eliminate the undifferentiated work that goes into building software products by offering an easy-to-use, powerful cloud platform for developer teams of all sizes.
+            - paragraph [ref=f20e60]: By joining us at an early stage, you will design and build the cloud platform you've always wanted for yourself, and make decisions that will shape our product and company, directly impacting developers around the globe.
+            - paragraph [ref=f20e61]: The challenge is in building the right user-facing features and abstractions that make simple application deployments effortless and complex application deployments possible. User experience is our primary focus and drives everything we do. As a product engineer at Render, you will take complete, end-to-end ownership of full stack projects. You should already have experience building products across the stack and have a keen understanding of databases, web frameworks, APIs, and multiple programming languages.
+            - paragraph [ref=f20e62]
+            - heading [level=2] [ref=f20e63]:
+              - strong [ref=f20e64]: What You'll Do
+            - list [ref=f20e65]:
+              - listitem [ref=f20e66]:
+                - paragraph [ref=f20e67]: Build new products. This team owns the customer attraction, onboarding, and billing flows.
+              - listitem [ref=f20e68]:
+                - paragraph [ref=f20e69]: Collaborate closely with design, product, other engineers, and cross-functional stakeholders.
+              - listitem [ref=f20e70]:
+                - paragraph [ref=f20e71]: Help evolve and mature the Render codebase and technology as the product scales and increases in complexity over time.
+              - listitem [ref=f20e72]:
+                - paragraph [ref=f20e73]: Participate in team planning, roadmapping, and goal-setting.
+              - listitem [ref=f20e74]:
+                - paragraph [ref=f20e75]: Help shape team culture and practices as the company scales.
+              - listitem [ref=f20e76]:
+                - paragraph [ref=f20e77]: Participate in on-call responsibilities with the rest of your team.
+            - paragraph [ref=f20e78]
+            - heading [level=2] [ref=f20e79]:
+              - strong [ref=f20e80]: What We're Looking For
+            - list [ref=f20e81]:
+              - listitem [ref=f20e82]:
+                - paragraph [ref=f20e83]: 6+ years of professional experience shipping software. Bonus points if you’ve excelled at a small, high-growth startup.
+              - listitem [ref=f20e84]:
+                - paragraph [ref=f20e85]: Experience collaborating with product and design stakeholders.
+              - listitem [ref=f20e86]:
+                - paragraph [ref=f20e87]: Experience wearing multiple hats and working across the stack, both collaboratively and independently.
+              - listitem [ref=f20e88]:
+                - paragraph [ref=f20e89]: Strong understanding of web frameworks, APIs, and databases, and experience working with multiple programming languages.
+              - listitem [ref=f20e90]:
+                - paragraph [ref=f20e91]: Strong sense of ownership and ability to make pragmatic decisions about your work.
+            - paragraph [ref=f20e92]
+            - heading [level=2] [ref=f20e93]:
+              - strong [ref=f20e94]: "Nice-to-haves:"
+            - list [ref=f20e95]:
+              - listitem [ref=f20e96]:
+                - paragraph [ref=f20e97]: Familiarity with modern tooling for software build and deploy processes.
+              - listitem [ref=f20e98]:
+                - paragraph [ref=f20e99]: Familiarity building for product-driven growth and modern enterprise audiences.
+              - listitem [ref=f20e100]:
+                - paragraph [ref=f20e101]: "Experience with any of the technologies the Render product runs on: Go, Typescript, React, Kubernetes, Postgres, Terraform, Temporal."
+            - paragraph [ref=f20e102]: If this role excites you but you don’t meet every single requirement, we’d still love to hear from you—your unique experience might be just what we need.
+            - paragraph [ref=f20e103]
+            - heading "Benefits" [level=2] [ref=f20e104]
+            - list [ref=f20e105]:
+              - listitem [ref=f20e106]:
+                - paragraph [ref=f20e107]: 4 weeks of paid vacation.
+              - listitem [ref=f20e108]:
+                - paragraph [ref=f20e109]: 14 weeks of fully paid parental leave for all parents to bond with a newly born, adopted, or fostered child. We will also work with you to create a supportive plan of return.
+              - listitem [ref=f20e110]:
+                - paragraph [ref=f20e111]: Long-term disability, life insurance, and 401K plans.
+              - listitem [ref=f20e112]:
+                - paragraph [ref=f20e113]: 100% employer-paid medical coverage and 99% employer-paid dental and vision coverage for you and a dependent. FSAs and HSAs are available as well.
+              - listitem [ref=f20e114]:
+                - paragraph [ref=f20e115]: Monthly lifestyle stipend for wellness, mental health and therapy, hobbies, etc.
+              - listitem [ref=f20e116]:
+                - paragraph [ref=f20e117]: Monthly cell phone and internet subsidy.
+              - listitem [ref=f20e118]:
+                - paragraph [ref=f20e119]: Commuter benefits for Renders in the Bay Area, and home office stipends for remote Renders.
+              - listitem [ref=f20e120]:
+                - paragraph [ref=f20e121]: Continuous learning benefits & related support.
+            - paragraph [ref=f20e122]:
+              - emphasis [ref=f20e123]:
+                - text: This position is generally not eligible for new visa
+                - strong [ref=f20e124]
+                - text: sponsorship. At Render's discretion, the business may sponsor existing visa transfers. Applicants who require sponsorship must receive business authorization.
+            - paragraph [ref=f20e125]:
+              - emphasis [ref=f20e126]: Render is an equal-opportunity employer. We know that employing a team rich in diverse thoughts, experiences, and opinions allows our employees, product, and community to flourish. We make all employment decisions including hiring, evaluation, termination, promotional, and training opportunities, without regard to race, religion, color, sex, age, national origin, ancestry, sexual orientation, physical handicap, mental disability, medical condition, disability, gender or identity or expression, pregnancy or pregnancy-related condition, marital status, height and/or weight.
+            - paragraph [ref=f20e127]:
+              - emphasis [ref=f20e128]: We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+            - paragraph [ref=f20e129]:
+              - emphasis [ref=f20e130]: We encourage all who are interested to apply. We can't wait to hear from you!
+            - paragraph [ref=f20e131]:
+              - link "Render — CCPA Applicant Privacy Notice" [ref=f20e132] [cursor=pointer]:
+                - /url: https://drive.google.com/file/d/1wKr9IejoT5McFrs9I2mahQnf6AFwb3z2/view
+            - paragraph [ref=f20e133]:
+              - link "Render — GDPR Applicant Privacy Notice" [ref=f20e134] [cursor=pointer]:
+                - /url: https://drive.google.com/file/d/1_8jtyXQ1HdRdTdQn9sZ7n-R-zAGBmsFa/view
+          - link [ref=f20e135] [cursor=pointer]:
+            - /url: /render/62ea10c7-ad69-444f-9632-dd4b50b8c805/application
+            - button "Apply for this Job" [ref=f20e136]
+  - contentinfo [ref=f20e137]:
+    - link "Learn more about Ashby" [ref=f20e138] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=f20e139]: Powered by
+      - img "Ashby" [ref=f20e140]
+    - paragraph [ref=f20e146]:
+      - link "Privacy Policy" [ref=f20e147] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=f20e148] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=f20e149] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

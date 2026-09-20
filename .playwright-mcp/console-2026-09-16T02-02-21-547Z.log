@@ -1,0 +1,2 @@
+[     462ms] [INFO] Evaluating a string as JavaScript violates the following Content Security Policy directive because 'unsafe-eval' is not an allowed source of script: "script-src 'self' https: 'strict-dynamic' 'report-sample' 'nonce-fhSw73IJ15FdccxWNVfY4g=='".
+ The policy is report-only, so the violation has been logged but no further action has been taken. @ https://bookface-static.ycombinator.com/vite/assets/schemas-JFLZtZvw.js:2

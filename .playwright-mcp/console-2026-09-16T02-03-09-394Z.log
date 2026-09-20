@@ -1,0 +1,50 @@
+[     125ms] TypeError: Cannot set properties of null (setting 'oninput')
+    at https://www.drift.trade/:826:18
+[     201ms] [WARNING] [PostHog.js] You have already initialized PostHog! Re-initializing is a no-op @ https://app.posthog.com/static/array.js:0
+[     220ms] [ERROR] Access to fetch at 'https://api.llama.fi/overview/derivatives' from origin 'https://www.drift.trade' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://www.drift.trade/:0
+[     221ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://api.llama.fi/overview/derivatives:0
+[     221ms] [ERROR] ❌ Drift Volume API Error: TypeError: Failed to fetch
+    at fetchDriftVolume (https://www.drift.trade/:127:30)
+    at initializeDriftData (https://www.drift.trade/:179:9)
+    at HTMLDocument.<anonymous> (https://www.drift.trade/:205:5) @ https://www.drift.trade/:169
+[     290ms] [ERROR] [Weglot] Cannot load Weglot because the project has been deleted @ https://cdn.weglot.com/weglot.min.js:0
+[     421ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://data.api.drift.trade/stats/wBTC/rateHistory/deposit:0
+[     421ms] [ERROR] ❌ Failed to fetch APY for wBTC: TypeError: Failed to fetch
+    at fetchAPY (https://www.drift.trade/:229:30)
+    at Array.map (<anonymous>)
+    at fetchAllAPYs (https://www.drift.trade/:249:47)
+    at initializeAPYBanners (https://www.drift.trade/:324:29)
+    at HTMLDocument.<anonymous> (https://www.drift.trade/:340:5) @ https://www.drift.trade/:240
+[     421ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://data.api.drift.trade/stats/SOL/rateHistory/deposit:0
+[     421ms] [ERROR] ❌ Failed to fetch APY for SOL: TypeError: Failed to fetch
+    at fetchAPY (https://www.drift.trade/:229:30)
+    at Array.map (<anonymous>)
+    at fetchAllAPYs (https://www.drift.trade/:249:47)
+    at initializeAPYBanners (https://www.drift.trade/:324:29)
+    at HTMLDocument.<anonymous> (https://www.drift.trade/:340:5) @ https://www.drift.trade/:240
+[     421ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://data.api.drift.trade/stats/cbBTC/rateHistory/deposit:0
+[     421ms] [ERROR] ❌ Failed to fetch APY for cbBTC: TypeError: Failed to fetch
+    at fetchAPY (https://www.drift.trade/:229:30)
+    at Array.map (<anonymous>)
+    at fetchAllAPYs (https://www.drift.trade/:249:47)
+    at initializeAPYBanners (https://www.drift.trade/:324:29)
+    at HTMLDocument.<anonymous> (https://www.drift.trade/:340:5) @ https://www.drift.trade/:240
+[     421ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://data.api.drift.trade/stats/USDC/rateHistory/deposit:0
+[     421ms] [ERROR] ❌ Failed to fetch APY for USDC: TypeError: Failed to fetch
+    at fetchAPY (https://www.drift.trade/:229:30)
+    at Array.map (<anonymous>)
+    at fetchAllAPYs (https://www.drift.trade/:249:47)
+    at initializeAPYBanners (https://www.drift.trade/:324:29)
+    at HTMLDocument.<anonymous> (https://www.drift.trade/:340:5) @ https://www.drift.trade/:240
+[     421ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://data.api.drift.trade/stats/wETH/rateHistory/deposit:0
+[     421ms] [ERROR] ❌ Failed to fetch APY for wETH: TypeError: Failed to fetch
+    at fetchAPY (https://www.drift.trade/:229:30)
+    at Array.map (<anonymous>)
+    at fetchAllAPYs (https://www.drift.trade/:249:47)
+    at initializeAPYBanners (https://www.drift.trade/:324:29)
+    at HTMLDocument.<anonymous> (https://www.drift.trade/:340:5) @ https://www.drift.trade/:240
+[     427ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://data-staging.api.drift.trade/stats/markets:0
+[     427ms] [ERROR] ❌ Drift Total Deposits API Error: TypeError: Failed to fetch
+    at fetchDriftTotalDeposits (https://www.drift.trade/:80:30)
+    at initializeDriftData (https://www.drift.trade/:178:9)
+    at HTMLDocument.<anonymous> (https://www.drift.trade/:205:5) @ https://www.drift.trade/:119

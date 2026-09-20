@@ -1,0 +1,87 @@
+- generic [active] [ref=f10e1]:
+  - generic [ref=f10e4]:
+    - generic [ref=f10e6]:
+      - link "Skip to content" [ref=f10e8] [cursor=pointer]:
+        - /url: "#main"
+      - generic [ref=f10e12]:
+        - banner [ref=f10e13]:
+          - generic [ref=f10e15]:
+            - generic [ref=f10e16]:
+              - link "Drift Career Opportunities" [ref=f10e18] [cursor=pointer]:
+                - /url: /Drift-Career-Opportunities-45de6a825f264388b13cd866b707d157?pvs=18
+              - generic [aria-hidden] [ref=f10e22]: /
+              - button "Drift - Junior Software Engineer" [disabled] [ref=f10e23]
+            - generic [ref=f10e25]:
+              - button "Close panel" [ref=f10e27] [cursor=pointer]
+              - generic [ref=f10e31]:
+                - button [ref=f10e32] [cursor=pointer]
+                - button "Share site to socials" [ref=f10e37] [cursor=pointer]
+                - button "More actions" [ref=f10e42] [cursor=pointer]
+                - button "Get Notion free" [ref=f10e45] [cursor=pointer]
+        - main [ref=f10e46]:
+          - generic [ref=f10e51]:
+            - heading "Drift - Junior Software Engineer" [level=1] [ref=f10e70]
+            - generic [ref=f10e72]:
+              - heading "Company Background" [level=4] [ref=f10e77]
+              - generic [ref=f10e78]: Drift Labs is the core contributor to Drift Protocols the largest open-sourced perpetual futures exchange built on Solana. Drift Protocol’s goal is to make DEXs the best way to trade derivatives. Despite the decentralized nature of crypto, centralized derivatives exchanges still remain dominant - they're already fast, familiar and reliable however they lack immutability and transparency.
+              - generic [ref=f10e84]: Drift’s vision is to create a centralised user experience built on decentralised rails. We’re backed by Multicoin Capital, Polychain Ventures, Ethereal and many more. The team is made up of experienced traders and builders from DeFi and traditional finance working to make this a reality.
+              - heading "Job Title" [level=4] [ref=f10e100]
+              - generic [ref=f10e101]: Junior Software Engineer
+              - heading "Job Responsibilities" [level=4] [ref=f10e117]
+              - generic [ref=f10e118]: "The role:"
+              - generic [ref=f10e127]:
+                - generic [ref=f10e128]: •
+                - generic [ref=f10e130]: Crafting pixel-perfect UI in react based on designs
+              - generic [ref=f10e136]:
+                - generic [ref=f10e137]: •
+                - generic [ref=f10e139]: Helping to build out an automated test suite
+              - generic [ref=f10e145]:
+                - generic [ref=f10e146]: •
+                - generic [ref=f10e148]: Jumping on bug fixes and customer support requests
+              - generic [ref=f10e154]:
+                - generic [ref=f10e155]: •
+                - generic [ref=f10e157]: Fully-Remote, working in the Asia timezone
+              - generic [ref=f10e166]: "Who you are:"
+              - generic [ref=f10e175]:
+                - generic [ref=f10e176]: •
+                - generic [ref=f10e178]:
+                  - generic [ref=f10e179]: Someone with strong working experience in React.
+                  - generic [ref=f10e184]:
+                    - generic [ref=f10e185]: ◦
+                    - generic [ref=f10e187]:
+                      - generic [ref=f10e188]: "Bonus skills:"
+                      - generic [ref=f10e193]:
+                        - generic [ref=f10e194]: ▪
+                        - generic [ref=f10e196]: Javascript testing frameworks
+                      - generic [ref=f10e202]:
+                        - generic [ref=f10e203]: ▪
+                        - generic [ref=f10e205]: Next.js
+              - generic [ref=f10e211]:
+                - generic [ref=f10e212]: •
+                - generic [ref=f10e214]: Someone able to work autonomously and tackle ambiguity to reach desired outcomes.
+              - generic [ref=f10e220]:
+                - generic [ref=f10e221]: •
+                - generic [ref=f10e223]: Able to work closely with UI designers to create good product outcomes.
+              - generic [ref=f10e229]:
+                - generic [ref=f10e230]: •
+                - generic [ref=f10e232]: Hungry and excited to work in a fast-moving and flat organisation. Drift has a tight-knit engineering team of 12, preferring quality over quantity. A scrappy and dynamic personality will succeed here.
+              - heading "Perks" [level=4] [ref=f10e245]
+              - generic [ref=f10e249]:
+                - generic [ref=f10e250]: •
+                - generic [ref=f10e252]: Remote first - work from anywhere
+              - generic [ref=f10e258]:
+                - generic [ref=f10e259]: •
+                - generic [ref=f10e261]: International team offsites
+              - generic [ref=f10e267]:
+                - generic [ref=f10e268]: •
+                - generic [ref=f10e270]: Stipend for technology costs
+              - generic [ref=f10e276]:
+                - generic [ref=f10e277]: •
+                - generic [ref=f10e279]: Leading compensation in the digital assets space
+              - generic [ref=f10e285]:
+                - generic [ref=f10e286]: •
+                - generic [ref=f10e288]: Leading equity ownership in the digital assets space
+        - region [aria-hidden] [ref=f10e299]
+    - status [ref=f10e300]
+    - alert [ref=f10e301]
+  - iframe [aria-hidden] [ref=f10e302]

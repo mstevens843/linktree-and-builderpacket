@@ -1,0 +1,171 @@
+- generic [ref=f22e2]:
+  - list [ref=f22e4]:
+    - listitem [ref=f22e5]:
+      - link "Render":
+        - /url: https://render.com
+        - img "Render"
+    - listitem [ref=f22e6]:
+      - link "Back to Render ’s Job Listings" [ref=f22e7] [cursor=pointer]:
+        - /url: /render
+    - listitem
+  - generic [ref=f22e10]:
+    - heading "Software Engineer, Dev Velocity (all levels)" [level=1] [ref=f22e12]
+    - generic [ref=f22e13]:
+      - generic [ref=f22e14]:
+        - generic [ref=f22e15]:
+          - heading "Location" [level=2] [ref=f22e16]
+          - paragraph [ref=f22e17]: "Remote: United States; Remote: Canada"
+        - generic [ref=f22e18]:
+          - heading "Employment Type" [level=2] [ref=f22e19]
+          - paragraph [ref=f22e20]: Full time
+        - generic [ref=f22e21]:
+          - heading "Location Type" [level=2] [ref=f22e22]
+          - paragraph [ref=f22e23]: Remote
+        - generic [ref=f22e24]:
+          - heading "Department" [level=2] [ref=f22e25]
+          - paragraph [ref=f22e26]:
+            - generic [ref=f22e27]: Engineering ›
+            - generic [ref=f22e28]: Engineering ›
+            - generic [ref=f22e29]: Developer Velocity
+        - generic [ref=f22e30]:
+          - heading "Compensation" [level=2] [ref=f22e31]
+          - list [ref=f22e32]:
+            - listitem [ref=f22e33]:
+              - generic [ref=f22e34]: $170K – $290K • Offers Equity
+          - paragraph [ref=f22e36]:
+            - emphasis [ref=f22e37]: Our openings span more than one career level. The provided salary depends on many factors, such as work experience and transferable skills, business needs and impact, location, and market demands.
+      - generic [ref=f22e38]:
+        - tablist [ref=f22e39]:
+          - tab "Overview" [selected] [ref=f22e40] [cursor=pointer]
+          - tab "Application" [ref=f22e41] [cursor=pointer]
+        - tabpanel "Overview" [ref=f22e43]:
+          - generic [ref=f22e44]:
+            - paragraph [ref=f22e45]: At Render, we’re building the modern cloud platform for developers creating AI-native, full-stack, multi-service applications. Our mission is to eliminate the tradeoff between the power of hyperscalers and the simplicity of developer-friendly platforms—so teams can ship fast, scale reliably, and focus on their product, not infrastructure.
+            - paragraph [ref=f22e46]: Unlike complex hyperscalers or ephemeral edge/serverless solutions, Render offers a developer-first experience with persistent compute, dynamic autoscaling, built-in orchestration, and observability, allowing teams to launch, scale, and manage real-world applications without writing infrastructure code or managing servers. Whether you're building LLM-powered applications, scalable SaaS products, or async processing pipelines, Render empowers teams to move fast and scale confidently from MVP to millions of users.
+            - paragraph [ref=f22e47]: Our platform is trusted by over 7 million developers worldwide and continues to grow rapidly. In February 2026, we raised an additional $100M in Series C financing, bringing our total funding to $260M, to accelerate our vision of making cloud infrastructure both powerful and intuitive—designed for the speed of modern AI development.
+            - paragraph [ref=f22e48]: We’re a diverse and talented team that values craft, velocity, and user experience. If you’re excited to help shape the future of the intelligent cloud and empower developers everywhere, we’d love to hear from you.
+            - paragraph [ref=f22e49]
+            - heading [level=2] [ref=f22e50]:
+              - strong [ref=f22e51]: Applying to Render
+            - paragraph [ref=f22e52]: We're seeking candidates who possess high integrity, humility, and an insatiable drive to learn. Through reasoned discussions and continuous feedback, we strive to improve both individually and collectively. We foster an environment of mutual trust and respect, empowering effective debate to achieve the best outcomes for our customers and team.
+            - paragraph [ref=f22e53]: We especially encourage members of underrepresented groups in the tech community to apply and understand that not all successful candidates will meet each requirement listed.
+            - paragraph [ref=f22e54]: Our interview process is unique to each role, and we value the candidate experience just as much as our customer experience. We hope your conversations with us reflect a thoughtful process that is illuminative, enjoyable, and respectful of your time.
+            - paragraph [ref=f22e55]
+            - heading "About the Role" [level=2] [ref=f22e56]
+            - paragraph [ref=f22e57]: As a Software Engineer on Developer Velocity, you'll design and build the internal platform, tooling, and automation that lets every Render engineer move quickly and safely. You'll drive changes in our local development environments, CI/CD pipelines, test infrastructure, and the metrics we use to understand and improve how we ship. You'll work across the entire engineering org, identify where friction lives, and remove it, measurably.
+            - paragraph [ref=f22e58]
+            - heading "What You'll Do" [level=2] [ref=f22e59]
+            - list [ref=f22e60]:
+              - listitem [ref=f22e61]:
+                - paragraph [ref=f22e62]:
+                  - strong [ref=f22e63]: Improve speed and reliability of early change feedback
+                - list [ref=f22e64]:
+                  - listitem [ref=f22e65]:
+                    - paragraph [ref=f22e66]: Invest in build and dependency tooling, caching, incremental builds, and monorepo ergonomics, to keep iteration tight as the codebase grows.
+                  - listitem [ref=f22e67]:
+                    - paragraph [ref=f22e68]: Accelerate our CI/CD pipelines - cutting build, test, and deploy times while keeping the path to production safe and reversible.
+                  - listitem [ref=f22e69]:
+                    - paragraph [ref=f22e70]: "Make our test suites fast and trustworthy: parallelization, smart test selection, flaky-test detection, and better local/preview environments built on the same primitives our customers use."
+              - listitem [ref=f22e71]:
+                - paragraph [ref=f22e72]:
+                  - strong [ref=f22e73]: Design and build tools to support concurrent agent execution
+                - list [ref=f22e74]:
+                  - listitem [ref=f22e75]:
+                    - paragraph [ref=f22e76]: Make test feedback fast enough to live inside an agent's loop, where slow or flaky runs compound across every attempt.
+                  - listitem [ref=f22e77]:
+                    - paragraph [ref=f22e78]: Get agents the right context (codebase conventions, service ownership, recent changes, environment state) so their first attempt lands closer to correct.
+              - listitem [ref=f22e79]:
+                - paragraph [ref=f22e80]:
+                  - strong [ref=f22e81]: Simplify and establish repeatable patterns
+                - list [ref=f22e82]:
+                  - listitem [ref=f22e83]:
+                    - paragraph [ref=f22e84]: Reduce toil through automation, paving over repetitive workflows and manual steps wherever they slow people down.
+                  - listitem [ref=f22e85]:
+                    - paragraph [ref=f22e86]: Instrument the engineering org with meaningful signals (deployment frequency, lead time for changes, change failure rate, time to restore) and turn them into action.
+              - listitem [ref=f22e87]:
+                - paragraph [ref=f22e88]: Build and participate in an on-call rotation as the team takes ownership of critical systems.
+            - heading "What We're Looking For" [level=2] [ref=f22e89]
+            - list [ref=f22e90]:
+              - listitem [ref=f22e91]:
+                - paragraph [ref=f22e92]: Experience building and operating developer-facing tooling, CI/CD systems, or internal platforms that other engineers depend on every day.
+              - listitem [ref=f22e93]:
+                - paragraph [ref=f22e94]: Experience driving cultural and process changes to make engineering teams more effective.
+              - listitem [ref=f22e95]:
+                - paragraph [ref=f22e96]: Strong software engineering fundamentals and a track record of shipping, maintaining, and debugging production systems.
+              - listitem [ref=f22e97]:
+                - paragraph [ref=f22e98]: Proficiency in Go (or a strong willingness to ramp quickly, it's our primary language).
+              - listitem [ref=f22e99]:
+                - paragraph [ref=f22e100]: Hands-on experience with Kubernetes or similar container orchestration.
+              - listitem [ref=f22e101]:
+                - paragraph [ref=f22e102]: Familiarity with infrastructure-as-code tools (yup, Terraform).
+              - listitem [ref=f22e103]:
+                - paragraph [ref=f22e104]: "A bias toward measurement: you instrument what you build and let data tell you whether you actually made things faster."
+              - listitem [ref=f22e105]:
+                - paragraph [ref=f22e106]: You empathize deeply with engineers, fixing developer pain points in an elegant and sustainable manner is something that resonates deeply with you.
+            - heading "Nice-to-Haves" [level=2] [ref=f22e107]
+            - list [ref=f22e108]:
+              - listitem [ref=f22e109]:
+                - paragraph [ref=f22e110]: Experience improving build systems, test infrastructure, or developer experience at meaningful scale - Bazel, Concourse, and GitHub workflows are old friends.
+              - listitem [ref=f22e111]:
+                - paragraph [ref=f22e112]: Familiarity with observability tools like Datadog, Grafana, and OpenTelemetry.
+              - listitem [ref=f22e113]:
+                - paragraph [ref=f22e114]:
+                  - text: Comfort working close to the metal - Linux, containers, kubernetes - you get your hands
+                  - emphasis [ref=f22e115]: very
+                  - text: dirty.
+              - listitem [ref=f22e116]:
+                - paragraph [ref=f22e117]: Security-minded instincts, especially around supply chain and the path from commit to deploy.
+              - listitem [ref=f22e118]:
+                - paragraph [ref=f22e119]: Understanding that the question isn't "AI pilled vs AI skeptic", but rather where to use it as an accelerant, and where human context must come first.
+            - paragraph [ref=f22e120]: If this role excites you but you don’t meet every single requirement, we’d still love to hear from you—your unique experience might be just what we need.
+            - paragraph [ref=f22e121]
+            - heading "Benefits" [level=2] [ref=f22e122]
+            - list [ref=f22e123]:
+              - listitem [ref=f22e124]:
+                - paragraph [ref=f22e125]: 4 weeks of paid vacation.
+              - listitem [ref=f22e126]:
+                - paragraph [ref=f22e127]: 14 weeks of fully paid parental leave for all parents to bond with a newly born, adopted, or fostered child. We will also work with you to create a supportive plan of return.
+              - listitem [ref=f22e128]:
+                - paragraph [ref=f22e129]: Long-term disability, life insurance, and 401K plans.
+              - listitem [ref=f22e130]:
+                - paragraph [ref=f22e131]: 100% employer-paid medical coverage and 99% employer-paid dental and vision coverage for you and a dependent. FSAs and HSAs are available as well.
+              - listitem [ref=f22e132]:
+                - paragraph [ref=f22e133]: Monthly lifestyle stipend for wellness, mental health and therapy, hobbies, etc.
+              - listitem [ref=f22e134]:
+                - paragraph [ref=f22e135]: Monthly cell phone and internet subsidy.
+              - listitem [ref=f22e136]:
+                - paragraph [ref=f22e137]: Commuter benefits for Renders in the Bay Area, and home office stipends for remote Renders.
+              - listitem [ref=f22e138]:
+                - paragraph [ref=f22e139]: Continuous learning benefits & related support.
+            - paragraph [ref=f22e140]:
+              - emphasis [ref=f22e141]:
+                - text: This position is generally not eligible for new visa
+                - strong [ref=f22e142]
+                - text: sponsorship. At Render's discretion, the business may sponsor existing visa transfers. Applicants who require sponsorship must receive business authorization.
+            - paragraph [ref=f22e143]:
+              - emphasis [ref=f22e144]: Render is an equal-opportunity employer. We know that employing a team rich in diverse thoughts, experiences, and opinions allows our employees, product, and community to flourish. We make all employment decisions including hiring, evaluation, termination, promotional, and training opportunities, without regard to race, religion, color, sex, age, national origin, ancestry, sexual orientation, physical handicap, mental disability, medical condition, disability, gender or identity or expression, pregnancy or pregnancy-related condition, marital status, height and/or weight.
+            - paragraph [ref=f22e145]:
+              - emphasis [ref=f22e146]: We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+            - paragraph [ref=f22e147]:
+              - emphasis [ref=f22e148]: We encourage all who are interested to apply. We can't wait to hear from you!
+            - paragraph [ref=f22e149]:
+              - link "Render — CCPA Applicant Privacy Notice" [ref=f22e150] [cursor=pointer]:
+                - /url: https://drive.google.com/file/d/1wKr9IejoT5McFrs9I2mahQnf6AFwb3z2/view
+            - paragraph [ref=f22e151]:
+              - link "Render — GDPR Applicant Privacy Notice" [ref=f22e152] [cursor=pointer]:
+                - /url: https://drive.google.com/file/d/1_8jtyXQ1HdRdTdQn9sZ7n-R-zAGBmsFa/view
+          - link [ref=f22e153] [cursor=pointer]:
+            - /url: /render/a3f88090-5e37-43a7-b392-04b02056db6d/application
+            - button "Apply for this Job" [ref=f22e154]
+  - contentinfo [ref=f22e155]:
+    - link "Learn more about Ashby" [ref=f22e156] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=f22e157]: Powered by
+      - img "Ashby" [ref=f22e158]
+    - paragraph [ref=f22e164]:
+      - link "Privacy Policy" [ref=f22e165] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=f22e166] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=f22e167] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

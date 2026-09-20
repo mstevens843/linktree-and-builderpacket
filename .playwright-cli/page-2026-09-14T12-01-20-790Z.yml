@@ -1,0 +1,257 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "Mathew Stevens builder packet" [ref=e4] [cursor=pointer]:
+        - /url: "#top"
+        - generic [ref=e5]: MS
+        - generic [ref=e6]: Builder Packet
+      - navigation "Page sections" [ref=e7]:
+        - link "Apps" [ref=e8] [cursor=pointer]:
+          - /url: "#products"
+        - link "Infra" [ref=e9] [cursor=pointer]:
+          - /url: "#infra"
+        - link "PR Proof" [ref=e10] [cursor=pointer]:
+          - /url: "#proof"
+        - link "Contact" [ref=e11] [cursor=pointer]:
+          - /url: "#contact"
+  - main [ref=e12]:
+    - generic [ref=e14]:
+      - generic [ref=e15]:
+        - generic [ref=e16]: Full-stack products, AI systems, real-time infrastructure
+        - heading "Mathew Stevens builds production software end to end." [level=1] [ref=e17]
+        - paragraph [ref=e18]: Full-stack engineer shipping live products across web, mobile, backend systems, AI-enabled workflows, SDKs, and developer tools. I build real-time infrastructure, security-sensitive workflows, cross-platform apps, and polished user-facing product experiences.
+        - generic "Primary links" [ref=e19]:
+          - link "Resume PDF" [ref=e20] [cursor=pointer]:
+            - /url: Mathew_Stevens_Resume.pdf
+          - link "GitHub" [ref=e25] [cursor=pointer]:
+            - /url: https://github.com/mstevens843
+          - link "LinkedIn" [ref=e28] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/mathewbradleystevens/
+          - link "X / Twitter" [ref=e31] [cursor=pointer]:
+            - /url: https://x.com/mattinfra
+      - complementary "Profile summary" [ref=e34]:
+        - generic [ref=e36]:
+          - generic [aria-hidden] [ref=e37]: MS
+          - generic [ref=e38]:
+            - paragraph [ref=e39]: Mathew Stevens
+            - generic [ref=e40]: Bay Area, CA / RemoteFull-stack engineer and SDK builder
+        - generic "Builder metrics" [ref=e41]:
+          - generic [ref=e42]:
+            - strong [ref=e43]: 1250+
+            - generic [ref=e44]: Agentic users
+          - generic [ref=e45]:
+            - strong [ref=e46]: 1000+
+            - generic [ref=e47]: SolPulse users
+          - generic "Agentic rating and reviews" [ref=e48]:
+            - generic [ref=e49]:
+              - generic [ref=e50]:
+                - generic [ref=e51]: Agentic
+                - strong [ref=e52]: "4.2"
+                - generic [ref=e55]: Rating
+              - generic [ref=e56]:
+                - generic [ref=e57]: Agentic
+                - strong [ref=e58]: "40"
+                - generic [ref=e59]: Reviews
+          - generic "SolPulse rating and reviews" [ref=e60]:
+            - generic [ref=e61]:
+              - generic [ref=e62]:
+                - generic [ref=e63]: SolPulse
+                - strong [ref=e64]: "4.3"
+                - generic [ref=e67]: Rating
+              - generic [ref=e68]:
+                - generic [ref=e69]: SolPulse
+                - strong [ref=e70]: "26"
+                - generic [ref=e71]: Reviews
+          - generic [ref=e72]:
+            - strong [ref=e73]: "4"
+            - generic [ref=e74]: Merged upstream PRs
+          - generic [ref=e75]:
+            - strong [ref=e76]: "18"
+            - generic [ref=e77]: Open-source repos
+        - generic [ref=e78]: "Best fit: full-stack product engineering, backend/API systems, AI-enabled systems, reliability/evaluation tooling, SDKs, developer tooling, mobile apps, real-time infrastructure, and user-facing product engineering."
+    - generic [ref=e80]:
+      - generic [ref=e81]:
+        - generic [ref=e82]:
+          - paragraph [ref=e83]: Live products
+          - heading "Live products with real users." [level=2] [ref=e84]
+        - paragraph [ref=e85]: "Two shipped production products: one for trading execution and risk, one for user-approved AI-agent signing across real wallet surfaces."
+      - generic [ref=e86]:
+        - article [ref=e87]:
+          - generic [ref=e88]:
+            - generic [ref=e89]:
+              - img "Agentic logo" [ref=e91]
+              - generic [ref=e92]:
+                - heading "Agentic" [level=3] [ref=e93]
+                - generic [ref=e94]: First multi-wallet AI-agent signer across web, mobile, CLI, and desktop
+            - generic [ref=e95]:
+              - button "Open Agentic mobile demo" [ref=e96] [cursor=pointer]: Demo
+              - generic [ref=e99]:
+                - generic [ref=e100]: Non-Custodial AI Agent
+                - link "Open Agentic Solana dApp Store review proof" [ref=e101] [cursor=pointer]:
+                  - /url: https://mattinfra.dev/agentic-dapp-store-proof.html
+                  - text: Review proof
+          - paragraph [ref=e105]: First multi-wallet AI-agent signer, live at agentic-signer.com with Apple App Store, Google Play, verified app-store surfaces, web app, CLI, and desktop releases. Agents propose chat-driven wallet actions, plans, and external payment requests; users approve or deny with their real wallet; keys never leave the wallet. One WalletBackend powers the chat/app flow, MCP tools, Vercel AI tools, A2A AgentCard metadata, AP2/ACP/MPP payment-adapter flows, CLI, desktop, and web surfaces.
+          - list [ref=e106]:
+            - listitem [ref=e107]: First multi-wallet AI-agent signer with Apple App Store, Google Play, web, CLI, and desktop release surfaces.
+            - listitem [ref=e108]: 1250+ users, 40 reviews, and a 4.2-star rating across shipped product surfaces.
+            - listitem [ref=e109]: MCP/Vercel AI tools, A2A AgentCard metadata, AP2/ACP/MPP payment-adapter flows, approval polling, transaction simulation, and sign-and-send.
+          - generic "Agentic links" [ref=e110]:
+            - link "Website" [ref=e111] [cursor=pointer]:
+              - /url: https://agentic-signer.com
+            - link "App Store" [ref=e117] [cursor=pointer]:
+              - /url: https://apps.apple.com/us/app/agentic-signer/id6774866574
+            - link "Google Play" [ref=e120] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.agentic.wallet
+            - link "dApp Store" [ref=e126] [cursor=pointer]:
+              - /url: https://mattinfra.dev/agentic-dapp-store-proof.html
+        - article [ref=e131]:
+          - generic [ref=e132]:
+            - generic [ref=e133]:
+              - img "SolPulse logo" [ref=e135]
+              - generic [ref=e136]:
+                - heading "SolPulse" [level=3] [ref=e137]
+                - generic [ref=e138]: Real-time trading platform
+            - generic [ref=e139]:
+              - button "Open SolPulse mobile demo" [ref=e140] [cursor=pointer]: Demo
+              - generic [ref=e143]:
+                - generic [ref=e144]: Live trading system
+                - link "Open SolPulse Solana dApp Store review proof" [ref=e145] [cursor=pointer]:
+                  - /url: https://mattinfra.dev/solpulse-dapp-store-proof.html
+                  - text: Review proof
+          - paragraph [ref=e149]: Solo-built production trading platform with multi-mode scanning, DCA, limit orders, smart TP/SL exits, 35 intelligence pillars, multi-DEX routing, priority fee controls, and institutional risk controls exposed through a consumer UI.
+          - list [ref=e150]:
+            - listitem [ref=e151]: 1000+ users, 26 reviews, 4.3-star rating, Apple App Store, Solana dApp Store, and web releases.
+            - listitem [ref=e152]: Execution path documented for 1,200 concurrent transactions and 10ms monitoring intervals.
+            - listitem [ref=e153]: Seed Vault and Mobile Wallet Adapter signing flows keep keys inside user wallets/devices.
+          - generic "SolPulse links" [ref=e154]:
+            - link "Website" [ref=e155] [cursor=pointer]:
+              - /url: https://solpulse.trade
+            - link "App Store" [ref=e161] [cursor=pointer]:
+              - /url: https://apps.apple.com/us/app/solpulse/id6760656199?uo=4
+            - link "Google Play" [ref=e164] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=trade.solpulse.app
+            - link "dApp Store" [ref=e170] [cursor=pointer]:
+              - /url: https://mattinfra.dev/solpulse-dapp-store-proof.html
+    - generic [ref=e176]:
+      - generic [ref=e177]:
+        - generic [ref=e178]:
+          - paragraph [ref=e179]: Infrastructure repos
+          - heading "AI systems, SDKs, reliability tooling, and product infrastructure." [level=2] [ref=e180]
+        - paragraph [ref=e181]: Public repositories showing transferable systems work across AI, reliability/evaluation tooling, SDK design, native/mobile bridges, security tooling, and game-engine integrations.
+      - generic "Infrastructure project pages" [ref=e182]:
+        - button "Next infrastructure projects" [ref=e183] [cursor=pointer]
+      - generic [ref=e186]:
+        - 'link "Agent Eval Foundry 25 benchmark task packages and 170 Claude/Codex attempts. After audit, 12 histories meet the failure target: nine at 6/6 failures, three at 5/6. Grader corrections, evidence and fairness findings documented. TypeScript / Docker / Harbor GitHub" [ref=e187] [cursor=pointer]':
+          - /url: https://github.com/mstevens843/agent-eval-foundry
+          - generic [ref=e192]:
+            - heading "Agent Eval Foundry" [level=3] [ref=e193]
+            - paragraph [ref=e194]: "25 benchmark task packages and 170 Claude/Codex attempts. After audit, 12 histories meet the failure target: nine at 6/6 failures, three at 5/6. Grader corrections, evidence and fairness findings documented."
+          - generic [ref=e195]:
+            - generic [ref=e196]: TypeScript / Docker / Harbor
+            - generic [ref=e197]: GitHub
+        - link "Capability Record Replay Deterministic automation runtime where an LLM discovers a legacy back-office workflow once, then typed capabilities replay model-free through browser and terminal surfaces. TypeScript / Playwright / CLI GitHub" [ref=e200] [cursor=pointer]:
+          - /url: https://github.com/mstevens843/capability-record-replay
+          - generic [ref=e207]:
+            - heading "Capability Record Replay" [level=3] [ref=e208]
+            - paragraph [ref=e209]: Deterministic automation runtime where an LLM discovers a legacy back-office workflow once, then typed capabilities replay model-free through browser and terminal surfaces.
+          - generic [ref=e210]:
+            - generic [ref=e211]: TypeScript / Playwright / CLI
+            - generic [ref=e212]: GitHub
+        - link "Klavis TB3 Durable Outbox Terminal-Bench 3 eval where 6/6 Claude Opus and OpenAI Codex trials failed clean reward-0 on UNKNOWN outcomes, receipts, revocation, exactly-once execution, and audit legality. Python / Docker GitHub" [ref=e215] [cursor=pointer]:
+          - /url: https://github.com/mstevens843/terminal-bench-durable-outbox
+          - generic [ref=e222]:
+            - heading "Klavis TB3 Durable Outbox" [level=3] [ref=e223]
+            - paragraph [ref=e224]: Terminal-Bench 3 eval where 6/6 Claude Opus and OpenAI Codex trials failed clean reward-0 on UNKNOWN outcomes, receipts, revocation, exactly-once execution, and audit legality.
+          - generic [ref=e225]:
+            - generic [ref=e226]: Python / Docker
+            - generic [ref=e227]: GitHub
+        - 'link "ConfigPilot AI Fund (Andrew Ng) build challenge, one of 12 engineers invited: B2B decision engine gating LLM recommendations behind deterministic margin, inventory, and policy checks. Python / React GitHub" [ref=e230] [cursor=pointer]':
+          - /url: https://github.com/mstevens843/ConfigPilot
+          - generic [ref=e245]:
+            - heading "ConfigPilot" [level=3] [ref=e246]
+            - paragraph [ref=e247]: "AI Fund (Andrew Ng) build challenge, one of 12 engineers invited: B2B decision engine gating LLM recommendations behind deterministic margin, inventory, and policy checks."
+          - generic [ref=e248]:
+            - generic [ref=e249]: Python / React
+            - generic [ref=e250]: GitHub
+        - link "Crashpoint Crash/recovery conformance kit for agent runtimes, measuring exactly-once external side effects through an out-of-process ledger across persistence barriers. Python / Temporal / DBOS GitHub" [ref=e253] [cursor=pointer]:
+          - /url: https://github.com/mstevens843/crashpoint
+          - generic [ref=e258]:
+            - heading "Crashpoint" [level=3] [ref=e259]
+            - paragraph [ref=e260]: Crash/recovery conformance kit for agent runtimes, measuring exactly-once external side effects through an out-of-process ledger across persistence barriers.
+          - generic [ref=e261]:
+            - generic [ref=e262]: Python / Temporal / DBOS
+            - generic [ref=e263]: GitHub
+        - link "Durable Agent Outbox TypeScript infrastructure for AI agents that call real external systems without duplicating payments, transfers, tool calls, or other side effects after crashes and retries. TypeScript / SQLite / Postgres GitHub" [ref=e266] [cursor=pointer]:
+          - /url: https://github.com/mstevens843/durable-agent-outbox
+          - generic [ref=e273]:
+            - heading "Durable Agent Outbox" [level=3] [ref=e274]
+            - paragraph [ref=e275]: TypeScript infrastructure for AI agents that call real external systems without duplicating payments, transfers, tool calls, or other side effects after crashes and retries.
+          - generic [ref=e276]:
+            - generic [ref=e277]: TypeScript / SQLite / Postgres
+            - generic [ref=e278]: GitHub
+    - generic [ref=e282]:
+      - generic [ref=e283]:
+        - generic [ref=e284]:
+          - paragraph [ref=e285]: Upstream proof
+          - heading "PRs accepted by SDK maintainers." [level=2] [ref=e286]
+        - paragraph [ref=e287]: Merged PRs are written by delivered outcome instead of raw method names, so the section reflects the actual engineering scope.
+      - generic [ref=e288]:
+        - article [ref=e289]:
+          - heading "Godot Mobile Wallet Adapter - merged" [level=3] [ref=e290]
+          - generic [ref=e291]:
+            - link "#449 Android MWA reconnect, capabilities, and sign/send bridge Merged" [ref=e292] [cursor=pointer]:
+              - /url: https://github.com/Virus-Axel/godot-solana-sdk/pull/449
+              - generic [ref=e293]: "#449"
+              - generic [ref=e294]: Android MWA reconnect, capabilities, and sign/send bridge
+              - generic [ref=e295]: Merged
+            - link "#453 MWA 2.0 SIWS authorize with wallet-proof result APIs Merged" [ref=e296] [cursor=pointer]:
+              - /url: https://github.com/Virus-Axel/godot-solana-sdk/pull/453
+              - generic [ref=e297]: "#453"
+              - generic [ref=e298]: MWA 2.0 SIWS authorize with wallet-proof result APIs
+              - generic [ref=e299]: Merged
+            - link "#454 Auth-token cache API for persistent GDScript wallet sessions Merged" [ref=e300] [cursor=pointer]:
+              - /url: https://github.com/Virus-Axel/godot-solana-sdk/pull/454
+              - generic [ref=e301]: "#454"
+              - generic [ref=e302]: Auth-token cache API for persistent GDScript wallet sessions
+              - generic [ref=e303]: Merged
+        - article [ref=e304]:
+          - heading "Unity Wallet Adapter - merged" [level=3] [ref=e305]
+          - link "#275 WebGL single-wallet auto-select UX fix Merged" [ref=e307] [cursor=pointer]:
+            - /url: https://github.com/magicblock-labs/Solana.Unity-SDK/pull/275
+            - generic [ref=e308]: "#275"
+            - generic [ref=e309]: WebGL single-wallet auto-select UX fix
+            - generic [ref=e310]: Merged
+    - generic [ref=e313]:
+      - generic [ref=e314]:
+        - paragraph [ref=e315]: What I work with
+        - heading "TypeScript, JavaScript, React, Node.js, Python, FastAPI, Pydantic, DuckDB, Polars, Express, PostgreSQL, Prisma, Redis, WebSockets, Swift, Kotlin, Java, C#, C++, Capacitor, Unity, Unreal, Godot, Cocos, SDKs, CLI tools, MCP, Vercel AI SDK." [level=2] [ref=e316]
+        - generic "Focus areas" [ref=e317]:
+          - generic [ref=e318]: Full-Stack Products
+          - generic [ref=e319]: AI Systems
+          - generic [ref=e320]: Real-Time Systems
+          - generic [ref=e321]: Reliability Tooling
+          - generic [ref=e322]: Eval Integrity
+          - generic [ref=e323]: Workflow Automation
+          - generic [ref=e324]: SDK Engineering
+          - generic [ref=e325]: Mobile Apps
+          - generic [ref=e326]: Developer Tools
+      - generic "Contact links" [ref=e327]:
+        - link "Resume HTML" [ref=e328] [cursor=pointer]:
+          - /url: Mathew_Stevens_Resume.html
+        - link "SolPulse" [ref=e332] [cursor=pointer]:
+          - /url: https://solpulse.trade
+        - link "Agentic" [ref=e335] [cursor=pointer]:
+          - /url: https://agentic-signer.com
+  - contentinfo [ref=e339]:
+    - generic [ref=e340]:
+      - generic [ref=e341]: Mathew Stevens - Full-stack engineer - Bay Area / Remote
+      - generic [ref=e342]:
+        - link "GitHub" [ref=e343] [cursor=pointer]:
+          - /url: https://github.com/mstevens843
+        - text: /
+        - link "LinkedIn" [ref=e344] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/mathewbradleystevens/
+        - text: /
+        - link "X" [ref=e345] [cursor=pointer]:
+          - /url: https://x.com/mattinfra
+  - status

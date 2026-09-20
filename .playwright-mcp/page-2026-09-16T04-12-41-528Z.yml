@@ -1,0 +1,542 @@
+- generic [ref=f91e1]:
+  - link [aria-hidden] [ref=f91e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - text: Skip to main content
+  - banner [aria-hidden] [ref=f91e3]:
+    - navigation [ref=f91e4]:
+      - link [ref=f91e5] [cursor=pointer]:
+        - /url: /?trk=public_jobs_nav-header-logo
+        - generic [ref=f91e6]: LinkedIn
+      - generic [ref=f91e19]:
+        - button [ref=f91e21] [cursor=pointer]:
+          - generic [ref=f91e22]: Jobs
+        - tabpanel [ref=f91e23]:
+          - search [ref=f91e24]:
+            - generic [ref=f91e25]:
+              - combobox [ref=f91e26]: Software Engineer, Product
+              - button [ref=f91e27] [cursor=pointer]:
+                - generic [ref=f91e28]: Clear text
+            - generic [ref=f91e34]:
+              - combobox [ref=f91e35]: San Pablo, CA
+              - button [ref=f91e36] [cursor=pointer]:
+                - generic [ref=f91e37]: Clear text
+            - button [ref=f91e43] [cursor=pointer]
+        - status [ref=f91e47]
+      - generic [ref=f91e48]:
+        - link [ref=f91e49] [cursor=pointer]:
+          - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&fromSignIn=true&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fsoftware-engineer-product-at-pylon-4438856059&trk=public_jobs_nav-header-signin
+          - text: Sign in
+        - link [ref=f91e50] [cursor=pointer]:
+          - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fsoftware-engineer-product-at-pylon-4438856059&trk=public_jobs_nav-header-join
+          - text: Join now
+  - main [aria-hidden] [ref=f91e51]:
+    - generic [ref=f91e53]:
+      - generic [ref=f91e55]:
+        - link [ref=f91e56] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/usepylon?trk=public_jobs_topcard_logo
+        - generic [ref=f91e59]:
+          - heading [level=1] [ref=f91e60]: Software Engineer, Product
+          - heading [level=4] [ref=f91e61]:
+            - generic [ref=f91e62]:
+              - link [ref=f91e64] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/usepylon?trk=public_jobs_topcard-org-name
+                - text: Pylon
+              - text: · San Francisco, CA
+            - generic [ref=f91e65]:
+              - text: 2 days ago
+              - figure [ref=f91e66]: · Over 200 applicants
+            - link [ref=f91e68] [cursor=pointer]:
+              - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D89946459%26title%3DSoftware%2BEngineer&emailAddress=&fromSignIn=&trk=public_jobs_see-who-was-hired_people-search-link_face-pile-cta
+              - paragraph [ref=f91e71]: See who Pylon has hired for this role
+          - generic [ref=f91e72]:
+            - button [ref=f91e73] [cursor=pointer]: Apply
+            - button [ref=f91e74] [cursor=pointer]: Save
+        - button [ref=f91e77] [cursor=pointer]
+        - generic [ref=f91e79]:
+          - heading [level=3] [ref=f91e80]: Use AI to assess how you fit
+          - paragraph [ref=f91e81]: Get AI-powered advice on this job and more exclusive features.
+          - generic [ref=f91e82]:
+            - button [ref=f91e83] [cursor=pointer]
+            - button [ref=f91e85] [cursor=pointer]:
+              - generic [ref=f91e87]: Am I a good fit for this job?
+            - button [ref=f91e88] [cursor=pointer]:
+              - generic [ref=f91e90]: Tailor my resume
+      - generic [ref=f91e91]:
+        - generic [ref=f91e92]:
+          - heading [level=2] [ref=f91e93]: Pylon provided pay range
+          - generic [ref=f91e94]:
+            - paragraph [ref=f91e95]: This range is provided by Pylon. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+            - generic [ref=f91e96]:
+              - heading [level=3] [ref=f91e97]: Base pay range
+              - generic [ref=f91e98]: $180,000.00/yr - $280,000.00/yr
+        - generic [ref=f91e100]:
+          - generic [ref=f91e102]:
+            - generic [ref=f91e103]:
+              - text: "Pylon — the agentic support platform purpose-built for B2B. Pylon is the only agentic support platform, purpose-built for B2B companies. For leaders scaling AI-native support teams, Pylon lets humans and agents collaborate on customer work – investigating, resolving, and acting on every signal across every channel that matters. Unlike platforms built before the AI era, Pylon enriches every interaction with deep account-level context, automates the low impact customer work, and surfaces answers before your team even has to ask. The result: faster responses, happier customers, and a system that continuously improves itself. We're backed by a16z, BCV, General Catalyst, and Y Combinator. More than 1,500 companies including Linear, Cognition (makers of Devin), Modal Labs, and Incident.io run their support and customer success workflows on Pylon. We're also featured on the Enterprise Tech 30 List. What You'll Do"
+              - list [ref=f91e104]:
+                - listitem [ref=f91e105]: Build features so our customers in post-Sales roles (Customer Support & Customer Success) run their operations more efficiently by leveraging AI
+                - listitem [ref=f91e106]: Build prototypes, work independently, iterate quickly, and ship fast
+                - listitem [ref=f91e107]: Have high autonomy, own things end to end, and project manage your own work
+                - listitem [ref=f91e108]: Work with PMs, designers, and other engineers in a highly collaborative, non-waterfall way
+                - listitem [ref=f91e109]: Collaborate with a strong technical team of senior engineers from places like Samsara, Affinity, Airbnb, and Meta
+              - text: What We’re Looking For
+              - list [ref=f91e110]:
+                - listitem [ref=f91e111]: You have 3+ years building product features and a demonstration of strong full-stack fundamentals
+                - listitem [ref=f91e112]: You highly leverage AI for software development and can juggle multiple workstreams at the same time.
+                - listitem [ref=f91e113]: You’ve worked at startups previously and navigated ambiguous environments.
+                - listitem [ref=f91e114]: You have a strong product sense and are able to quickly translate customer requirements into technical decisions in our codebase.
+                - listitem [ref=f91e115]: You have a growth mindset, want to constantly improve, and want to receive feedback.
+                - listitem [ref=f91e116]: You're in SF or you're willing to relocate, you love working in-person, and you're serious about joining us to build a culture we'll all love
+                - listitem [ref=f91e117]: (Bonus) You have experience with our tech stack (React, Golang, GraphQL, and AWS).
+                - listitem [ref=f91e118]: (Bonus) You have experience with building agentic products in production.
+              - strong [ref=f91e119]: Our Perks
+              - text: 🚆 Commuter benefits 🌱 Parental leave 🏝️ 14 company holidays + unlimited PTO 🗺️ Annual offsite 🍽 Lunch, dinner, and snacks at the office 🏋️ Fitness stipend
+              - strong [ref=f91e120]: More About Pylon
+              - strong [ref=f91e121]: "Funding:"
+              - text: Series B led by a16z and BCV ($51M total raised)
+              - strong [ref=f91e122]: "Founders:"
+              - text: Advith Chelikani, Robert Eng, and Marty Kausas
+              - strong [ref=f91e123]: "Team:"
+              - text: Currently 100+ and growing!
+              - strong [ref=f91e124]: Additional Job Details
+              - text: "The base salary range for this position is $180k - $280k annually. Compensation may vary outside of this range depending on a number of factors, including a candidate’s qualifications, skills, competencies and experience. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work at Pylon. This role is eligible for stock options, as well as a comprehensive benefits package. Compensation Range: $180K - $280K"
+            - button [ref=f91e125] [cursor=pointer]: Show more
+          - list [ref=f91e127]:
+            - listitem [ref=f91e128]:
+              - heading [level=3] [ref=f91e129]: Seniority level
+              - text: Mid-Senior level
+            - listitem [ref=f91e130]:
+              - heading [level=3] [ref=f91e131]: Employment type
+              - text: Full-time
+            - listitem [ref=f91e132]:
+              - heading [level=3] [ref=f91e133]: Job function
+              - text: Engineering and Information Technology
+            - listitem [ref=f91e134]:
+              - heading [level=3] [ref=f91e135]: Industries
+              - text: Software Development
+        - generic [ref=f91e140]:
+          - paragraph [ref=f91e141]: Referrals increase your chances of interviewing at Pylon by 2x
+          - link [ref=f91e142] [cursor=pointer]:
+            - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D89946459&emailAddress=&fromSignIn=&trk=public_jobs_find-a-referral-cta
+            - text: See who you know
+      - generic [ref=f91e145]:
+        - paragraph [ref=f91e146]:
+          - text: Get notified about new Software Engineer jobs in
+          - strong [ref=f91e147]: San Francisco, CA
+          - text: .
+        - link [ref=f91e148] [cursor=pointer]:
+          - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fsoftware-engineer-product-at-pylon-4438856059&trk=public_jobs_job-alert-guest-redirect-cta
+          - text: Sign in to create job alert
+      - navigation [ref=f91e149]:
+        - list [ref=f91e150]:
+          - listitem [ref=f91e151]:
+            - link [ref=f91e152] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/
+              - text: Jobs
+            - text: /
+          - listitem [ref=f91e153]:
+            - link [ref=f91e154] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/j2ee-developer-jobs
+              - text: J2Ee Developer jobs
+            - text: /
+          - listitem [ref=f91e155]:
+            - generic [ref=f91e156]: Software Engineer, Product
+      - generic [ref=f91e157]:
+        - heading [level=2] [ref=f91e158]: Similar jobs
+        - generic [ref=f91e160]:
+          - list [ref=f91e161]:
+            - listitem [ref=f91e162]:
+              - generic [ref=f91e163]:
+                - link [ref=f91e164] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/software-engineer-product-at-sim-4466160536?refId=EWJF97SgPsE%2Fmv5vr5p47A%3D%3D&trackingId=%2BhiEb61CFrZePdDiRQog2A%3D%3D
+                  - generic [ref=f91e165]: Software Engineer, Product
+                - generic [ref=f91e166]:
+                  - heading [level=3] [ref=f91e167]: Software Engineer, Product
+                  - heading [level=4] [ref=f91e168]:
+                    - link [ref=f91e169] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/simdotai?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Sim
+                  - generic [ref=f91e170]:
+                    - generic [ref=f91e171]: San Francisco, CA
+                    - generic [ref=f91e172]: $210,000 - $260,000
+                    - time [ref=f91e173]: 1 day ago
+            - listitem [ref=f91e174]:
+              - generic [ref=f91e175]:
+                - link [ref=f91e176] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/product-engineer-at-artie-4461656344?refId=EWJF97SgPsE%2Fmv5vr5p47A%3D%3D&trackingId=YNEDB34IxOjdAWuCCqR8GA%3D%3D
+                  - generic [ref=f91e177]: Product Engineer
+                - generic [ref=f91e178]:
+                  - heading [level=3] [ref=f91e179]: Product Engineer
+                  - heading [level=4] [ref=f91e180]:
+                    - link [ref=f91e181] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/artie-labs?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Artie
+                  - generic [ref=f91e182]:
+                    - generic [ref=f91e183]: San Francisco, CA
+                    - generic [ref=f91e184]: $150,000 - $250,000
+                    - time [ref=f91e185]: 1 week ago
+            - listitem [ref=f91e186]:
+              - generic [ref=f91e187]:
+                - link [ref=f91e188] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/software-engineer-product-at-lassie-4422692673?refId=EWJF97SgPsE%2Fmv5vr5p47A%3D%3D&trackingId=db01YiZ%2B8lXh%2B5%2Bc5bYwrg%3D%3D
+                  - generic [ref=f91e189]: Software Engineer, Product
+                - generic [ref=f91e190]:
+                  - heading [level=3] [ref=f91e191]: Software Engineer, Product
+                  - heading [level=4] [ref=f91e192]:
+                    - link [ref=f91e193] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/lassie?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Lassie
+                  - generic [ref=f91e194]:
+                    - generic [ref=f91e195]: San Francisco, CA
+                    - time [ref=f91e196]: 3 months ago
+            - listitem [ref=f91e197]:
+              - generic [ref=f91e198]:
+                - link [ref=f91e199] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/software-engineer-product-at-numeric-4366251464?refId=EWJF97SgPsE%2Fmv5vr5p47A%3D%3D&trackingId=NJHwt2aU143RpOkYOcmPUg%3D%3D
+                  - generic [ref=f91e200]: Software Engineer, Product
+                - generic [ref=f91e201]:
+                  - heading [level=3] [ref=f91e202]: Software Engineer, Product
+                  - heading [level=4] [ref=f91e203]:
+                    - link [ref=f91e204] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/numeric-io?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Numeric
+                  - generic [ref=f91e205]:
+                    - generic [ref=f91e206]: San Francisco, CA
+                    - generic [ref=f91e207]: $125,000 - $250,000
+                    - time [ref=f91e208]: 2 weeks ago
+            - listitem [ref=f91e209]:
+              - generic [ref=f91e210]:
+                - link [ref=f91e211] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/product-engineer-at-stable-4368847143?refId=EWJF97SgPsE%2Fmv5vr5p47A%3D%3D&trackingId=CMq1QawIMD2Sefzj0mhJDQ%3D%3D
+                  - generic [ref=f91e212]: Product Engineer
+                - generic [ref=f91e213]:
+                  - heading [level=3] [ref=f91e214]: Product Engineer
+                  - heading [level=4] [ref=f91e215]:
+                    - link [ref=f91e216] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/usestable?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Stable
+                  - generic [ref=f91e217]:
+                    - generic [ref=f91e218]: San Francisco, CA
+                    - generic [ref=f91e219]: $160,000 - $240,000
+                    - time [ref=f91e220]: 7 months ago
+            - listitem [ref=f91e221]:
+              - generic [ref=f91e222]:
+                - link [ref=f91e223] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/product-engineer-at-namespace-4398226887?refId=EWJF97SgPsE%2Fmv5vr5p47A%3D%3D&trackingId=bSHHPPyQ5R9erm5OuBw4RQ%3D%3D
+                  - generic [ref=f91e224]: Product Engineer
+                - generic [ref=f91e225]:
+                  - heading [level=3] [ref=f91e226]: Product Engineer
+                  - heading [level=4] [ref=f91e227]:
+                    - link [ref=f91e228] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/namespace?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Namespace
+                  - generic [ref=f91e229]:
+                    - generic [ref=f91e230]: San Francisco, CA
+                    - generic [ref=f91e231]: $150,000 - $225,000
+                    - time [ref=f91e232]: 5 months ago
+          - button [ref=f91e233] [cursor=pointer]: Show more jobs like this
+    - generic [ref=f91e235]:
+      - generic [ref=f91e236]:
+        - heading [level=2] [ref=f91e237]: People also viewed
+        - list [ref=f91e239]:
+          - listitem [ref=f91e240]:
+            - generic [ref=f91e241]:
+              - link [ref=f91e242] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-replo-4200374843?refId=EWJF97SgPsE%2Fmv5vr5p47A%3D%3D&trackingId=1TmtBB8Ifs8gLlfuTrxh%2Bg%3D%3D
+                - generic [ref=f91e243]: Software Engineer (Full-Stack)
+              - generic [ref=f91e244]:
+                - heading [level=3] [ref=f91e245]: Software Engineer (Full-Stack)
+                - paragraph [ref=f91e246]:
+                  - link [ref=f91e247] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/replohq?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Replo
+                - generic [ref=f91e248]:
+                  - generic [ref=f91e249]: San Francisco, CA
+                  - time [ref=f91e250]: 1 year ago
+          - listitem [ref=f91e251]:
+            - generic [ref=f91e252]:
+              - link [ref=f91e253] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-growth-monetization-at-figma-4239982493?refId=EWJF97SgPsE%2Fmv5vr5p47A%3D%3D&trackingId=A3QpGa8KxhzrW0sbQEIJ%2BQ%3D%3D
+                - generic [ref=f91e254]: Software Engineer - Growth & Monetization
+              - generic [ref=f91e255]:
+                - heading [level=3] [ref=f91e256]: Software Engineer - Growth & Monetization
+                - paragraph [ref=f91e257]:
+                  - link [ref=f91e258] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/figma?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Figma
+                - generic [ref=f91e259]:
+                  - generic [ref=f91e260]: San Francisco, CA
+                  - time [ref=f91e261]: 1 week ago
+          - listitem [ref=f91e262]:
+            - generic [ref=f91e263]:
+              - link [ref=f91e264] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-at-nuna-inc-4447212950?refId=EWJF97SgPsE%2Fmv5vr5p47A%3D%3D&trackingId=swr4dWUZzI%2FNuZNxh7CpcA%3D%3D
+                - generic [ref=f91e265]: Software Engineer
+              - generic [ref=f91e266]:
+                - heading [level=3] [ref=f91e267]: Software Engineer
+                - paragraph [ref=f91e268]:
+                  - link [ref=f91e269] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/nuna-inc?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Nuna Inc.
+                - generic [ref=f91e270]:
+                  - generic [ref=f91e271]: San Francisco, CA
+                  - time [ref=f91e272]: 3 days ago
+          - listitem [ref=f91e273]:
+            - generic [ref=f91e274]:
+              - link [ref=f91e275] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-at-harmonic-4464966820?refId=EWJF97SgPsE%2Fmv5vr5p47A%3D%3D&trackingId=nhrTgJFcfHPkL1XW5vmnCA%3D%3D
+                - generic [ref=f91e276]: Software Engineer
+              - generic [ref=f91e277]:
+                - heading [level=3] [ref=f91e278]: Software Engineer
+                - paragraph [ref=f91e279]:
+                  - link [ref=f91e280] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/harmonicmath?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Harmonic
+                - generic [ref=f91e281]:
+                  - generic [ref=f91e282]: Palo Alto, CA
+                  - time [ref=f91e283]: 6 days ago
+          - listitem [ref=f91e284]:
+            - generic [ref=f91e285]:
+              - link [ref=f91e286] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/product-engineer-at-two-dots-4418586962?refId=EWJF97SgPsE%2Fmv5vr5p47A%3D%3D&trackingId=5kUg68WqM5ZlXjj98m3dPw%3D%3D
+                - generic [ref=f91e287]: Product Engineer
+              - generic [ref=f91e288]:
+                - heading [level=3] [ref=f91e289]: Product Engineer
+                - paragraph [ref=f91e290]:
+                  - link [ref=f91e291] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/two-dots-financial?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Two Dots
+                - generic [ref=f91e292]:
+                  - generic [ref=f91e293]: San Francisco, CA
+                  - generic [ref=f91e294]: $175,000 - $225,000
+                  - time [ref=f91e295]: 3 months ago
+          - listitem [ref=f91e296]:
+            - generic [ref=f91e297]:
+              - link [ref=f91e298] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-capacity-at-baseten-4428308068?refId=EWJF97SgPsE%2Fmv5vr5p47A%3D%3D&trackingId=JjR%2BLb1Pmbv6AceDLrycYg%3D%3D
+                - generic [ref=f91e299]: Software Engineer - Capacity
+              - generic [ref=f91e300]:
+                - heading [level=3] [ref=f91e301]: Software Engineer - Capacity
+                - paragraph [ref=f91e302]:
+                  - link [ref=f91e303] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/baseten?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Baseten
+                - generic [ref=f91e304]:
+                  - generic [ref=f91e305]: San Francisco, CA
+                  - generic [ref=f91e306]: $220,000 - $285,000
+                  - time [ref=f91e307]: 3 months ago
+          - listitem [ref=f91e308]:
+            - generic [ref=f91e309]:
+              - link [ref=f91e310] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-at-gem-4378347944?refId=EWJF97SgPsE%2Fmv5vr5p47A%3D%3D&trackingId=fOF%2F%2FFjpXG23sOTkPAMqeg%3D%3D
+                - generic [ref=f91e311]: Software Engineer
+              - generic [ref=f91e312]:
+                - heading [level=3] [ref=f91e313]: Software Engineer
+                - paragraph [ref=f91e314]:
+                  - link [ref=f91e315] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/gem-recruiting-software?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Gem
+                - generic [ref=f91e316]:
+                  - generic [ref=f91e317]: San Francisco, CA
+                  - time [ref=f91e318]: 3 days ago
+          - listitem [ref=f91e319]:
+            - generic [ref=f91e320]:
+              - link [ref=f91e321] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-at-simple-ai-4462472257?refId=EWJF97SgPsE%2Fmv5vr5p47A%3D%3D&trackingId=vMn%2BaDqSIp0XEY%2F8SNDQMA%3D%3D
+                - generic [ref=f91e322]: Software Engineer
+              - generic [ref=f91e323]:
+                - heading [level=3] [ref=f91e324]: Software Engineer
+                - paragraph [ref=f91e325]:
+                  - link [ref=f91e326] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/simple-ai-lab?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Simple AI
+                - generic [ref=f91e327]:
+                  - generic [ref=f91e328]: San Francisco, CA
+                  - generic [ref=f91e329]: $130,000 - $280,000
+                  - time [ref=f91e330]: 1 week ago
+          - listitem [ref=f91e331]:
+            - generic [ref=f91e332]:
+              - link [ref=f91e333] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-enterprise-product-at-ramp-4404915019?refId=EWJF97SgPsE%2Fmv5vr5p47A%3D%3D&trackingId=Klcr6PIGlPgDnLVhs%2FDUJA%3D%3D
+                - generic [ref=f91e334]: Software Engineer, Enterprise Product
+              - generic [ref=f91e335]:
+                - heading [level=3] [ref=f91e336]: Software Engineer, Enterprise Product
+                - paragraph [ref=f91e337]:
+                  - link [ref=f91e338] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/ramp?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Ramp
+                - generic [ref=f91e339]:
+                  - generic [ref=f91e340]: San Francisco, CA
+                  - time [ref=f91e341]: 2 weeks ago
+          - listitem [ref=f91e342]:
+            - generic [ref=f91e343]:
+              - link [ref=f91e344] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/product-engineer-at-rowspace-4402754551?refId=EWJF97SgPsE%2Fmv5vr5p47A%3D%3D&trackingId=EyzfAx68VMaALuyja0aXxQ%3D%3D
+                - generic [ref=f91e345]: Product Engineer
+              - generic [ref=f91e346]:
+                - heading [level=3] [ref=f91e347]: Product Engineer
+                - paragraph [ref=f91e348]:
+                  - link [ref=f91e349] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/rowspaceai?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Rowspace
+                - generic [ref=f91e350]:
+                  - generic [ref=f91e351]: San Francisco, CA
+                  - time [ref=f91e352]: 5 months ago
+      - generic [ref=f91e353]:
+        - heading [level=2] [ref=f91e354]: Similar Searches
+        - generic [ref=f91e356]:
+          - list [ref=f91e357]:
+            - listitem [ref=f91e358]:
+              - link [ref=f91e359] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/j2ee-developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f91e360]:
+                  - heading [level=3] [ref=f91e361]: J2Ee Developer jobs
+                  - generic [ref=f91e362]: 13,921 open jobs
+            - listitem [ref=f91e363]:
+              - link [ref=f91e364] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/software-engineer-intern-jobs?trk=public_jobs_full-click
+                - generic [ref=f91e365]:
+                  - heading [level=3] [ref=f91e366]: Software Engineer Intern jobs
+                  - generic [ref=f91e367]: 1,941 open jobs
+            - listitem [ref=f91e368]:
+              - link [ref=f91e369] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/computer-software-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f91e370]:
+                  - heading [level=3] [ref=f91e371]: Computer Software Engineer jobs
+                  - generic [ref=f91e372]: 224,521 open jobs
+            - listitem [ref=f91e373]:
+              - link [ref=f91e374] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/web-development-specialist-jobs?trk=public_jobs_full-click
+                - generic [ref=f91e375]:
+                  - heading [level=3] [ref=f91e376]: Web Development Specialist jobs
+                  - generic [ref=f91e377]: 227,596 open jobs
+            - listitem [ref=f91e378]:
+              - link [ref=f91e379] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/software-intern-jobs?trk=public_jobs_full-click
+                - generic [ref=f91e380]:
+                  - heading [level=3] [ref=f91e381]: Software Intern jobs
+                  - generic [ref=f91e382]: 3,845 open jobs
+            - listitem [ref=f91e383]:
+              - link [ref=f91e384] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/web-programmer-jobs?trk=public_jobs_full-click
+                - generic [ref=f91e385]:
+                  - heading [level=3] [ref=f91e386]: Web Programmer jobs
+                  - generic [ref=f91e387]: 4,657 open jobs
+            - listitem [ref=f91e388]:
+              - link [ref=f91e389] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/back-end-developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f91e390]:
+                  - heading [level=3] [ref=f91e391]: Back End Developer jobs
+                  - generic [ref=f91e392]: 51,032 open jobs
+            - listitem [ref=f91e393]:
+              - link [ref=f91e394] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/junior-software-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f91e395]:
+                  - heading [level=3] [ref=f91e396]: Junior Software Engineer jobs
+                  - generic [ref=f91e397]: 233,545 open jobs
+            - listitem [ref=f91e398]:
+              - link [ref=f91e399] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/graduate-software-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f91e400]:
+                  - heading [level=3] [ref=f91e401]: Graduate Software Engineer jobs
+                  - generic [ref=f91e402]: 221,089 open jobs
+            - listitem [ref=f91e403]:
+              - link [ref=f91e404] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/game-programmer-jobs?trk=public_jobs_full-click
+                - generic [ref=f91e405]:
+                  - heading [level=3] [ref=f91e406]: Game Programmer jobs
+                  - generic [ref=f91e407]: 958 open jobs
+            - listitem [ref=f91e408]:
+              - link [ref=f91e409] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/student-software-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f91e410]:
+                  - heading [level=3] [ref=f91e411]: Student Software Engineer jobs
+                  - generic [ref=f91e412]: 5,569 open jobs
+            - listitem [ref=f91e413]:
+              - link [ref=f91e414] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/developer-internship-jobs?trk=public_jobs_full-click
+                - generic [ref=f91e415]:
+                  - heading [level=3] [ref=f91e416]: Developer Internship jobs
+                  - generic [ref=f91e417]: 362 open jobs
+          - button [ref=f91e418] [cursor=pointer]: Show more
+      - generic [ref=f91e422]:
+        - heading [level=2] [ref=f91e424]: Explore top content on LinkedIn
+        - paragraph [ref=f91e425]: Find curated posts and insights for relevant topics all in one place.
+        - link [ref=f91e426] [cursor=pointer]:
+          - /url: https://www.linkedin.com/top-content/
+          - text: View top content
+  - button [ref=f91e431] [cursor=pointer]: More searches
+  - contentinfo [aria-hidden] [ref=f91e433]:
+    - list [ref=f91e434]:
+      - generic [ref=f91e435]: LinkedIn
+      - generic [ref=f91e437]: © 2026
+      - listitem [ref=f91e438]:
+        - link [ref=f91e439] [cursor=pointer]:
+          - /url: https://about.linkedin.com?trk=d_jobs_guest_details_footer-about
+          - text: About
+      - listitem [ref=f91e440]:
+        - link [ref=f91e441] [cursor=pointer]:
+          - /url: https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility
+          - text: Accessibility
+      - listitem [ref=f91e442]:
+        - link [ref=f91e443] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/user-agreement?trk=d_jobs_guest_details_footer-user-agreement
+          - text: User Agreement
+      - listitem [ref=f91e444]:
+        - link [ref=f91e445] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/privacy-policy?trk=d_jobs_guest_details_footer-privacy-policy
+          - text: Privacy Policy
+      - listitem [ref=f91e446]:
+        - link [ref=f91e447] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/california-privacy-disclosure?trk=d_jobs_guest_details_footer-california-privacy-rights-act
+          - text: Your California Privacy Choices
+      - listitem [ref=f91e448]:
+        - link [ref=f91e449] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/cookie-policy?trk=d_jobs_guest_details_footer-cookie-policy
+          - text: Cookie Policy
+      - listitem [ref=f91e450]:
+        - link [ref=f91e451] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/copyright-policy?trk=d_jobs_guest_details_footer-copyright-policy
+          - text: Copyright Policy
+      - listitem [ref=f91e452]:
+        - link [ref=f91e453] [cursor=pointer]:
+          - /url: https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy
+          - text: Brand Policy
+      - listitem [ref=f91e454]:
+        - link [ref=f91e455] [cursor=pointer]:
+          - /url: https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls
+          - text: Guest Controls
+      - listitem [ref=f91e456]:
+        - link [ref=f91e457] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/professional-community-policies?trk=d_jobs_guest_details_footer-community-guide
+          - text: Community Guidelines
+      - listitem [ref=f91e458]:
+        - button [ref=f91e460]: Language
+  - dialog [active] [ref=f91e463]:
+    - button "Dismiss" [ref=f91e464] [cursor=pointer]
+    - generic [ref=f91e466]:
+      - heading "Sign in to see who you already know at Pylon" [level=2] [ref=f91e468]
+      - generic [ref=f91e469]:
+        - generic:
+          - generic:
+            - button "Continue with google"
+        - button "Sign in with Email" [ref=f91e470] [cursor=pointer]
+        - paragraph [ref=f91e474]: or
+        - generic:
+          - generic:
+            - button "Continue with google"
+        - paragraph [ref=f91e475]:
+          - text: New to LinkedIn?
+          - link "Join now" [ref=f91e476] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&trk=public_jobs_contextual-sign-in-modal_join-link
+        - paragraph [ref=f91e477]:
+          - text: By clicking Continue to join or sign in, you agree to LinkedIn’s
+          - link "User Agreement" [ref=f91e478] [cursor=pointer]:
+            - /url: /legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement
+          - text: ","
+          - link "Privacy Policy" [ref=f91e479] [cursor=pointer]:
+            - /url: /legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy
+          - text: ", and"
+          - link "Cookie Policy" [ref=f91e480] [cursor=pointer]:
+            - /url: /legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy
+          - text: .

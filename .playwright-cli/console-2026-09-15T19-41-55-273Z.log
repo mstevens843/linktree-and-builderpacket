@@ -1,0 +1,5 @@
+[     636ms] Unexpected end of input
+[    1144ms] TypeError: Cannot read properties of null (reading 'appendChild')
+    at https://www.github.careers/careers-home/jobs?keywords=Secret%20Scanning:1143:16
+[    1351ms] Unexpected end of input
+[    1352ms] [LOG] gdpr module loaded {apply_consent: undefined, pixel_consent: undefined} {enabled: true, pixel_consent: Object, apply_consent: Object, ttl: 2592000000} @ https://www.github.careers/dist/js/gdpr/gdpr.js?v=5.4.52:110

@@ -1,0 +1,1000 @@
+- generic [ref=f157e1]:
+  - generic [aria-hidden] [ref=f157e2]:
+    - link [ref=f157e3] [cursor=pointer]:
+      - /url: "#main-content"
+      - text: Skip to main content
+    - banner [ref=f157e4]:
+      - navigation [ref=f157e5]:
+        - link [ref=f157e6] [cursor=pointer]:
+          - /url: /?trk=public_jobs_nav-header-logo
+          - generic [ref=f157e7]: LinkedIn
+        - generic [ref=f157e20]:
+          - button [ref=f157e22] [cursor=pointer]:
+            - generic [ref=f157e23]: Jobs
+          - tabpanel [ref=f157e24]:
+            - search [ref=f157e25]:
+              - generic [ref=f157e26]:
+                - combobox [ref=f157e27]: Product Engineer
+                - button [ref=f157e28] [cursor=pointer]:
+                  - generic [ref=f157e29]: Clear text
+              - generic [ref=f157e35]:
+                - combobox [ref=f157e36]: San Francisco Bay Area
+                - button [ref=f157e37] [cursor=pointer]:
+                  - generic [ref=f157e38]: Clear text
+              - button [ref=f157e44] [cursor=pointer]
+          - status [ref=f157e48]
+        - generic [ref=f157e49]:
+          - link [ref=f157e50] [cursor=pointer]:
+            - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&fromSignIn=true&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fsearch-results%3Fkeywords%3Dproduct%2Bengineer%26f_TPR%3Dr604800&trk=public_jobs_nav-header-signin
+            - text: Sign in
+          - link [ref=f157e51] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fsearch-results%3Fkeywords%3Dproduct%2Bengineer%26f_TPR%3Dr604800&trk=public_jobs_nav-header-join
+            - text: Join now
+    - generic [ref=f157e54]:
+      - list [ref=f157e58]:
+        - listitem [ref=f157e59]:
+          - button [ref=f157e62] [cursor=pointer]: Past week
+        - listitem [ref=f157e66]:
+          - button [ref=f157e69] [cursor=pointer]: Company
+        - listitem [ref=f157e73]:
+          - link [ref=f157e74] [cursor=pointer]:
+            - /url: https://www.linkedin.com/jobs/search/?keywords=product+engineer&location=San+Francisco+Bay+Area&f_E=2%2C3&f_WT=2%2C3&f_TPR=r604800&sortBy=DD&f_AL=true&trk=public_jobs_filters_f_AL
+            - text: Easy Apply
+        - listitem [ref=f157e75]:
+          - link [ref=f157e76] [cursor=pointer]:
+            - /url: https://www.linkedin.com/jobs/search/?keywords=product+engineer&location=San+Francisco+Bay+Area&f_E=2%2C3&f_WT=2%2C3&f_TPR=r604800&sortBy=DD&f_EA=true&trk=public_jobs_filters_f_EA
+            - text: Under 10 applicants
+      - button [ref=f157e78] [cursor=pointer]: Where are the filters?
+    - main [ref=f157e83]:
+      - generic [ref=f157e90]:
+        - paragraph [ref=f157e91]:
+          - text: Get notified about new Product Engineer jobs in
+          - strong [ref=f157e92]: San Francisco Bay Area
+          - text: .
+        - link [ref=f157e93] [cursor=pointer]:
+          - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fsearch-results%3Fkeywords%3Dproduct%2Bengineer%26f_TPR%3Dr604800&trk=public_jobs_job-alert-guest-redirect-cta
+          - text: Sign in to create job alert
+      - heading [level=1] [ref=f157e95]: 6,000+ Product Engineer Jobs in San Francisco Bay Area
+      - list [ref=f157e97]:
+        - listitem [ref=f157e98]:
+          - generic [ref=f157e99]:
+            - link [ref=f157e100] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/sr-product-design-engineer-hardware-development-at-amazon-lab126-4456772596?position=1&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=UogNk%2BAF%2FYeyh7x8z6Uomg%3D%3D
+              - generic [ref=f157e101]: Sr. Product Design Engineer, Hardware Development
+            - generic [ref=f157e103]:
+              - heading [level=3] [ref=f157e104]: Sr. Product Design Engineer, Hardware Development
+              - heading [level=4] [ref=f157e105]:
+                - link [ref=f157e106] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/lab126?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Amazon Lab126
+              - generic [ref=f157e107]:
+                - generic [ref=f157e108]: Sunnyvale, CA
+                - time [ref=f157e109]: 4 days ago
+        - listitem [ref=f157e110]:
+          - generic [ref=f157e111]:
+            - link [ref=f157e112] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/product-engineer-at-upcore-solutions-4466818173?position=2&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=YsoOBY0%2BS%2Bu4kzrWlisYZw%3D%3D
+              - generic [ref=f157e113]: Product Engineer
+            - generic [ref=f157e115]:
+              - heading [level=3] [ref=f157e116]: Product Engineer
+              - heading [level=4] [ref=f157e117]:
+                - link [ref=f157e118] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/up-coresolutions?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: UpCore Solutions
+              - generic [ref=f157e119]:
+                - generic [ref=f157e120]: San Francisco, CA
+                - generic [ref=f157e121]: Be an early applicant
+                - time [ref=f157e126]: 1 hour ago
+        - listitem [ref=f157e127]:
+          - generic [ref=f157e128]:
+            - link [ref=f157e129] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/ai-product-engineer-nexus-at-fireworks-ai-4456413140?position=3&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=mDK3qlol9DUqklP20TVNAQ%3D%3D
+              - generic [ref=f157e130]: AI Product Engineer - Nexus
+            - generic [ref=f157e132]:
+              - heading [level=3] [ref=f157e133]: AI Product Engineer - Nexus
+              - heading [level=4] [ref=f157e134]:
+                - link [ref=f157e135] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/fireworks-ai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Fireworks AI
+              - generic [ref=f157e136]:
+                - generic [ref=f157e137]: San Mateo, CA
+                - time [ref=f157e138]: 5 days ago
+        - listitem [ref=f157e139]:
+          - generic [ref=f157e140]:
+            - link [ref=f157e141] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/npd-engineer-at-intuitive-4467407863?position=4&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=4nur8BqTPT3%2FrCzRQIEfAg%3D%3D
+              - generic [ref=f157e142]: NPD Engineer
+            - generic [ref=f157e144]:
+              - heading [level=3] [ref=f157e145]: NPD Engineer
+              - heading [level=4] [ref=f157e146]:
+                - link [ref=f157e147] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/intuitivesurgical?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Intuitive
+              - generic [ref=f157e148]:
+                - generic [ref=f157e149]: Sunnyvale, CA
+                - time [ref=f157e150]: 1 day ago
+        - listitem [ref=f157e151]:
+          - generic [ref=f157e152]:
+            - link [ref=f157e153] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-product-design-engineer-at-mill-4411215041?position=5&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=jY1n%2BEXGNumJJEB%2FRJ%2FEWw%3D%3D
+              - generic [ref=f157e154]: Senior Product Design Engineer
+            - generic [ref=f157e156]:
+              - heading [level=3] [ref=f157e157]: Senior Product Design Engineer
+              - heading [level=4] [ref=f157e158]:
+                - link [ref=f157e159] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/mill?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Mill
+              - generic [ref=f157e160]:
+                - generic [ref=f157e161]: San Bruno, CA
+                - time [ref=f157e162]: 1 day ago
+        - listitem [ref=f157e163]:
+          - generic [ref=f157e164]:
+            - link [ref=f157e165] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-mechanical-engineer-at-bellwether-coffee-4466430657?position=6&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=LtPS2fARcNdv9sVKUXJA%2FQ%3D%3D
+              - generic [ref=f157e166]: Senior Mechanical Engineer
+            - generic [ref=f157e168]:
+              - heading [level=3] [ref=f157e169]: Senior Mechanical Engineer
+              - heading [level=4] [ref=f157e170]:
+                - link [ref=f157e171] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/bellwethercoffee?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Bellwether Coffee
+              - generic [ref=f157e172]:
+                - generic [ref=f157e173]: Berkeley, CA
+                - generic [ref=f157e174]: Be an early applicant
+                - time [ref=f157e179]: 4 days ago
+        - listitem [ref=f157e180]:
+          - generic [ref=f157e181]:
+            - link [ref=f157e182] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-product-engineer-fullstack-at-together-ai-4443243391?position=7&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=8NBhiegjrrWKTgm34oImOA%3D%3D
+              - generic [ref=f157e183]: Senior Product Engineer, Fullstack
+            - generic [ref=f157e185]:
+              - heading [level=3] [ref=f157e186]: Senior Product Engineer, Fullstack
+              - heading [level=4] [ref=f157e187]:
+                - link [ref=f157e188] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/togethercomputer?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Together AI
+              - generic [ref=f157e189]:
+                - generic [ref=f157e190]: San Francisco, CA
+                - time [ref=f157e191]: 6 days ago
+        - listitem [ref=f157e192]:
+          - generic [ref=f157e193]:
+            - link [ref=f157e194] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/lead-mechanical-engineer-at-investigo-4465331290?position=8&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=TOkCYuGpcfj0iuyXEW5ZDQ%3D%3D
+              - generic [ref=f157e195]: Lead Mechanical Engineer
+            - generic [ref=f157e197]:
+              - heading [level=3] [ref=f157e198]: Lead Mechanical Engineer
+              - heading [level=4] [ref=f157e199]:
+                - link [ref=f157e200] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/investigo?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Investigo
+              - generic [ref=f157e201]:
+                - generic [ref=f157e202]: San Francisco, CA
+                - time [ref=f157e203]: 6 days ago
+        - listitem [ref=f157e204]:
+          - generic [ref=f157e205]:
+            - link [ref=f157e206] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/principal-optical-product-engineer-at-marvell-technology-4423186104?position=9&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=smjGZuzQlh4gUZAXgCrcrw%3D%3D
+              - generic [ref=f157e207]: Principal Optical Product Engineer
+            - generic [ref=f157e209]:
+              - heading [level=3] [ref=f157e210]: Principal Optical Product Engineer
+              - heading [level=4] [ref=f157e211]:
+                - link [ref=f157e212] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/marvell?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Marvell Technology
+              - generic [ref=f157e213]:
+                - generic [ref=f157e214]: Santa Clara, CA
+                - generic [ref=f157e215]: Be an early applicant
+                - time [ref=f157e218]: 12 hours ago
+        - listitem [ref=f157e219]:
+          - generic [ref=f157e220]:
+            - link [ref=f157e221] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/pic-product-engineer-at-nokia-4409640437?position=10&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=tMbHkJxcgdY2hlEv8mxogA%3D%3D
+              - generic [ref=f157e222]: PIC Product Engineer
+            - generic [ref=f157e224]:
+              - heading [level=3] [ref=f157e225]: PIC Product Engineer
+              - heading [level=4] [ref=f157e226]:
+                - link [ref=f157e227] [cursor=pointer]:
+                  - /url: https://fi.linkedin.com/company/nokia?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Nokia
+              - generic [ref=f157e228]:
+                - generic [ref=f157e229]: Sunnyvale, CA
+                - time [ref=f157e230]: 3 days ago
+        - listitem [ref=f157e231]:
+          - generic [ref=f157e232]:
+            - link [ref=f157e233] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/product-engineer-enterprise-at-wispr-flow-4464246865?position=11&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=WH%2BCzR3a%2FwuHDzoj3R5dXQ%3D%3D
+              - generic [ref=f157e234]: Product Engineer, Enterprise
+            - generic [ref=f157e236]:
+              - heading [level=3] [ref=f157e237]: Product Engineer, Enterprise
+              - heading [level=4] [ref=f157e238]:
+                - link [ref=f157e239] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/wisprflow?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Wispr Flow
+              - generic [ref=f157e240]:
+                - generic [ref=f157e241]: San Francisco, CA
+                - time [ref=f157e242]: 4 days ago
+        - listitem [ref=f157e243]:
+          - generic [ref=f157e244]:
+            - link [ref=f157e245] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/staff-mechanical-engineer-at-element-science-inc-4454125958?position=12&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=f1%2FMRWeT3o3NCk%2BAdFgPJw%3D%3D
+              - generic [ref=f157e246]: Staff Mechanical Engineer
+            - generic [ref=f157e248]:
+              - heading [level=3] [ref=f157e249]: Staff Mechanical Engineer
+              - heading [level=4] [ref=f157e250]:
+                - link [ref=f157e251] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/element-science-inc-?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Element Science, Inc.
+              - generic [ref=f157e252]:
+                - generic [ref=f157e253]: Redwood City, CA
+                - generic [ref=f157e254]: Be an early applicant +7 benefits
+                - time [ref=f157e257]: 4 days ago
+        - listitem [ref=f157e258]:
+          - generic [ref=f157e259]:
+            - link [ref=f157e260] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-design-engineer-at-amphenol-4464794873?position=13&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=aX6nQfNUOS5C7mLMy5Uwzw%3D%3D
+              - generic [ref=f157e261]: Senior Design Engineer
+            - generic [ref=f157e263]:
+              - heading [level=3] [ref=f157e264]: Senior Design Engineer
+              - heading [level=4] [ref=f157e265]:
+                - link [ref=f157e266] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/amphenol?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Amphenol
+              - generic [ref=f157e267]:
+                - generic [ref=f157e268]: Milpitas, CA
+                - generic [ref=f157e269]: Be an early applicant +4 benefits
+                - time [ref=f157e272]: 1 day ago
+        - listitem [ref=f157e273]:
+          - generic [ref=f157e274]:
+            - link [ref=f157e275] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/product-engineer-at-trust-in-soda-4463859439?position=14&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=VvUmEnx7O9fSHRL3J64vyQ%3D%3D
+              - generic [ref=f157e276]: Product Engineer
+            - generic [ref=f157e278]:
+              - heading [level=3] [ref=f157e279]: Product Engineer
+              - heading [level=4] [ref=f157e280]:
+                - link [ref=f157e281] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/trust-in-soda?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Trust In SODA
+              - generic [ref=f157e282]:
+                - generic [ref=f157e283]: San Francisco, CA
+                - generic [ref=f157e284]: Medical insurance +3 benefits
+                - time [ref=f157e287]: 6 days ago
+        - listitem [ref=f157e288]:
+          - generic [ref=f157e289]:
+            - link [ref=f157e290] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-staff-product-development-engineer-at-sandisk-4467917847?position=15&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=pAbbDmf1bDCl2QgqdQh9aQ%3D%3D
+              - generic [ref=f157e291]: Senior Staff Product Development Engineer
+            - generic [ref=f157e293]:
+              - heading [level=3] [ref=f157e294]: Senior Staff Product Development Engineer
+              - heading [level=4] [ref=f157e295]:
+                - link [ref=f157e296] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/sandisk?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Sandisk
+              - generic [ref=f157e297]:
+                - generic [ref=f157e298]: Milpitas, CA
+                - generic [ref=f157e299]: Be an early applicant
+                - time [ref=f157e302]: 2 hours ago
+        - listitem [ref=f157e303]:
+          - generic [ref=f157e304]:
+            - link [ref=f157e305] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-at-tarro-4465041222?position=16&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=l0kJR68JWxfjqLXF55GEvA%3D%3D
+              - generic [ref=f157e306]: Software Engineer
+            - generic [ref=f157e308]:
+              - heading [level=3] [ref=f157e309]: Software Engineer
+              - heading [level=4] [ref=f157e310]:
+                - link [ref=f157e311] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/teamtarro?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Tarro
+              - generic [ref=f157e312]:
+                - generic [ref=f157e313]: San Mateo, CA
+                - time [ref=f157e314]: 6 days ago
+        - listitem [ref=f157e315]:
+          - generic [ref=f157e316]:
+            - link [ref=f157e317] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/product-engineer-at-supermicro-4466755590?position=17&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=3O%2BHf00QuEr8Qb1DBbxG9Q%3D%3D
+              - generic [ref=f157e318]: Product Engineer
+            - generic [ref=f157e320]:
+              - heading [level=3] [ref=f157e321]: Product Engineer
+              - heading [level=4] [ref=f157e322]:
+                - link [ref=f157e323] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/supermicro?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Supermicro
+              - generic [ref=f157e324]:
+                - generic [ref=f157e325]: San Jose, CA
+                - generic [ref=f157e326]: Be an early applicant
+                - time [ref=f157e329]: 3 days ago
+        - listitem [ref=f157e330]:
+          - generic [ref=f157e331]:
+            - link [ref=f157e332] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-design-engineer-at-onanon-an-amphenol-company-4467795066?position=18&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=AK%2BHhilYmUWRs5yKcequsw%3D%3D
+              - generic [ref=f157e333]: Senior Design Engineer
+            - generic [ref=f157e335]:
+              - heading [level=3] [ref=f157e336]: Senior Design Engineer
+              - heading [level=4] [ref=f157e337]:
+                - link [ref=f157e338] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/onanon-inc?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Onanon - an Amphenol company
+              - generic [ref=f157e339]:
+                - generic [ref=f157e340]: Milpitas, CA
+                - generic [ref=f157e341]: Be an early applicant
+                - time [ref=f157e344]: 6 hours ago
+        - listitem [ref=f157e345]:
+          - generic [ref=f157e346]:
+            - link [ref=f157e347] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/product-design-engineer-amazon-devices-hardware-at-amazon-lab126-4455904190?position=19&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=nEiekXOnJTrgQQlWNaUZ3Q%3D%3D
+              - generic [ref=f157e348]: Product Design Engineer, Amazon Devices-Hardware
+            - generic [ref=f157e350]:
+              - heading [level=3] [ref=f157e351]: Product Design Engineer, Amazon Devices-Hardware
+              - heading [level=4] [ref=f157e352]:
+                - link [ref=f157e353] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/lab126?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Amazon Lab126
+              - generic [ref=f157e354]:
+                - generic [ref=f157e355]: Sunnyvale, CA
+                - time [ref=f157e356]: 6 days ago
+        - listitem [ref=f157e357]:
+          - generic [ref=f157e358]:
+            - link [ref=f157e359] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-staff-engineer-product-at-makers-fund-4465586215?position=20&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=St9yr%2FPk7Hyo6mbdAXJYXQ%3D%3D
+              - generic [ref=f157e360]: Senior/Staff Engineer, Product
+            - generic [ref=f157e362]:
+              - heading [level=3] [ref=f157e363]: Senior/Staff Engineer, Product
+              - heading [level=4] [ref=f157e364]:
+                - link [ref=f157e365] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/makersfund?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Makers Fund
+              - generic [ref=f157e366]:
+                - generic [ref=f157e367]: Palo Alto, CA
+                - generic [ref=f157e368]: Be an early applicant
+                - time [ref=f157e371]: 11 hours ago
+        - listitem [ref=f157e372]:
+          - generic [ref=f157e373]:
+            - link [ref=f157e374] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-design-engineer-at-intuitive-4467238467?position=21&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=XJ36z2k1ZtPAtdRQGtjB%2Bg%3D%3D
+              - generic [ref=f157e375]: Senior Design Engineer
+            - generic [ref=f157e377]:
+              - heading [level=3] [ref=f157e378]: Senior Design Engineer
+              - heading [level=4] [ref=f157e379]:
+                - link [ref=f157e380] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/intuitivesurgical?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Intuitive
+              - generic [ref=f157e381]:
+                - generic [ref=f157e382]: Sunnyvale, CA
+                - generic [ref=f157e383]: Be an early applicant
+                - time [ref=f157e386]: 1 day ago
+        - listitem [ref=f157e387]:
+          - generic [ref=f157e388]:
+            - link [ref=f157e389] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/product-engineer-knowledge-intelligence-pod-at-multiplier-holdings-4465018737?position=22&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=n0m%2FVjPtXaVj3Z451bA1LQ%3D%3D
+              - generic [ref=f157e390]: Product Engineer - Knowledge Intelligence Pod
+            - generic [ref=f157e392]:
+              - heading [level=3] [ref=f157e393]: Product Engineer - Knowledge Intelligence Pod
+              - heading [level=4] [ref=f157e394]:
+                - link [ref=f157e395] [cursor=pointer]:
+                  - /url: https://sg.linkedin.com/company/multiplier-holdings?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Multiplier Holdings
+              - generic [ref=f157e396]:
+                - generic [ref=f157e397]: San Francisco Bay Area
+                - generic [ref=f157e398]: Be an early applicant
+                - time [ref=f157e401]: 6 days ago
+        - listitem [ref=f157e402]:
+          - generic [ref=f157e403]:
+            - link [ref=f157e404] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/product-development-engineer-semiconductor-capital-equipment-at-kla-4436637990?position=23&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=tLFi0T8LuIIYWbYOQwSCPg%3D%3D
+              - generic [ref=f157e405]: Product Development Engineer (semiconductor/capital equipment)
+            - generic [ref=f157e407]:
+              - heading [level=3] [ref=f157e408]: Product Development Engineer (semiconductor/capital equipment)
+              - heading [level=4] [ref=f157e409]:
+                - link [ref=f157e410] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/klacorp?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: KLA
+              - generic [ref=f157e411]:
+                - generic [ref=f157e412]: Milpitas, CA
+                - time [ref=f157e413]: 2 days ago
+        - listitem [ref=f157e414]:
+          - generic [ref=f157e415]:
+            - link [ref=f157e416] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/hardware-product-engineer-at-penguin-solutions-4447734739?position=24&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=hTgif6F%2Bh8wQ%2F8Y46bSiUw%3D%3D
+              - generic [ref=f157e417]: Hardware Product Engineer
+            - generic [ref=f157e419]:
+              - heading [level=3] [ref=f157e420]: Hardware Product Engineer
+              - heading [level=4] [ref=f157e421]:
+                - link [ref=f157e422] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/penguinsolutions?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Penguin Solutions
+              - generic [ref=f157e423]:
+                - generic [ref=f157e424]: Newark, CA
+                - generic [ref=f157e425]: Be an early applicant
+                - time [ref=f157e428]: 3 days ago
+        - listitem [ref=f157e429]:
+          - generic [ref=f157e430]:
+            - link [ref=f157e431] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/product-engineer-at-anything-4331956083?position=25&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=JGzv%2Fb4AJwdYq3bZNfAK5g%3D%3D
+              - generic [ref=f157e432]: Product Engineer
+            - generic [ref=f157e434]:
+              - heading [level=3] [ref=f157e435]: Product Engineer
+              - heading [level=4] [ref=f157e436]:
+                - link [ref=f157e437] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/anythingai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Anything
+              - generic [ref=f157e438]:
+                - generic [ref=f157e439]: San Francisco, CA
+                - time [ref=f157e440]: 6 days ago
+        - listitem [ref=f157e441]:
+          - generic [ref=f157e442]:
+            - link [ref=f157e443] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/product-engineer-at-jack-4464881484?position=26&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=AZcAl73P8L9Ri85h%2BWhXnQ%3D%3D
+              - generic [ref=f157e444]: Product Engineer
+            - generic [ref=f157e446]:
+              - heading [level=3] [ref=f157e447]: Product Engineer
+              - heading [level=4] [ref=f157e448]:
+                - link [ref=f157e449] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/searchwithjack?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Jack
+              - generic [ref=f157e450]:
+                - generic [ref=f157e451]: San Francisco Bay Area
+                - generic [ref=f157e452]: Medical insurance +2 benefits
+                - time [ref=f157e455]: 4 days ago
+        - listitem [ref=f157e456]:
+          - generic [ref=f157e457]:
+            - link [ref=f157e458] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-process-development-engineer-at-lucid-motors-4464158395?position=27&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=Esv4TKvYonqtX9CesdKWIQ%3D%3D
+              - generic [ref=f157e459]: Senior Process Development Engineer
+            - generic [ref=f157e461]:
+              - heading [level=3] [ref=f157e462]: Senior Process Development Engineer
+              - heading [level=4] [ref=f157e463]:
+                - link [ref=f157e464] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/lucidmotors?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Lucid Motors
+              - generic [ref=f157e465]:
+                - generic [ref=f157e466]: Newark, CA
+                - generic [ref=f157e467]: Be an early applicant
+                - time [ref=f157e470]: 6 days ago
+        - listitem [ref=f157e471]:
+          - generic [ref=f157e472]:
+            - link [ref=f157e473] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/product-design-engineer-at-goertek-electronics-4466568872?position=28&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=m2IOdLqbU15JIz2hI09HHA%3D%3D
+              - generic [ref=f157e474]: Product Design Engineer
+            - generic [ref=f157e476]:
+              - heading [level=3] [ref=f157e477]: Product Design Engineer
+              - heading [level=4] [ref=f157e478]:
+                - link [ref=f157e479] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/goertek-electronics?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Goertek Electronics
+              - generic [ref=f157e480]:
+                - generic [ref=f157e481]: Santa Clara, CA
+                - generic [ref=f157e482]: Be an early applicant +6 benefits
+                - time [ref=f157e485]: 6 hours ago
+        - listitem [ref=f157e486]:
+          - generic [ref=f157e487]:
+            - link [ref=f157e488] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/staff-mechanical-engineer-hardware-engineering-at-form-energy-4466019431?position=29&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=1xNHubceMWBGVNFVt3nsNg%3D%3D
+              - generic [ref=f157e489]: Staff Mechanical Engineer, Hardware Engineering
+            - generic [ref=f157e491]:
+              - heading [level=3] [ref=f157e492]: Staff Mechanical Engineer, Hardware Engineering
+              - heading [level=4] [ref=f157e493]:
+                - link [ref=f157e494] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/form-energy?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Form Energy
+              - generic [ref=f157e495]:
+                - generic [ref=f157e496]: Berkeley, CA
+                - generic [ref=f157e497]: Be an early applicant
+                - time [ref=f157e500]: 4 days ago
+        - listitem [ref=f157e501]:
+          - generic [ref=f157e502]:
+            - link [ref=f157e503] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/sr-staff-engineer-mechanical-design-at-bloom-energy-4446879591?position=30&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=jGQaootIhjKqDn9sernSIw%3D%3D
+              - generic [ref=f157e504]: Sr. Staff Engineer, Mechanical Design
+            - generic [ref=f157e506]:
+              - heading [level=3] [ref=f157e507]: Sr. Staff Engineer, Mechanical Design
+              - heading [level=4] [ref=f157e508]:
+                - link [ref=f157e509] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/bloom-energy?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Bloom Energy
+              - generic [ref=f157e510]:
+                - generic [ref=f157e511]: San Jose, CA
+                - time [ref=f157e512]: 5 days ago
+        - listitem [ref=f157e513]:
+          - generic [ref=f157e514]:
+            - link [ref=f157e515] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-mechanical-engineer-hardware-engineering-at-form-energy-4410229758?position=31&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=5R%2F2aVpWU%2FfFIzRuJ%2BgpXw%3D%3D
+              - generic [ref=f157e516]: Senior Mechanical Engineer, Hardware Engineering
+            - generic [ref=f157e518]:
+              - heading [level=3] [ref=f157e519]: Senior Mechanical Engineer, Hardware Engineering
+              - heading [level=4] [ref=f157e520]:
+                - link [ref=f157e521] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/form-energy?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Form Energy
+              - generic [ref=f157e522]:
+                - generic [ref=f157e523]: Berkeley, CA
+                - time [ref=f157e524]: 4 days ago
+        - listitem [ref=f157e525]:
+          - generic [ref=f157e526]:
+            - link [ref=f157e527] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/ai-product-engineer-forward-deployed-engineer-fde-at-carnaby-fox-4465494081?position=32&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=B7oVLI5sIPThkxqJ78VyQg%3D%3D
+              - generic [ref=f157e528]: AI Product Engineer / Forward Deployed Engineer (FDE)
+            - generic [ref=f157e530]:
+              - heading [level=3] [ref=f157e531]: AI Product Engineer / Forward Deployed Engineer (FDE)
+              - heading [level=4] [ref=f157e532]:
+                - link [ref=f157e533] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/carnaby-fox?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Carnaby Fox
+              - generic [ref=f157e534]:
+                - generic [ref=f157e535]: San Francisco, CA
+                - time [ref=f157e536]: 2 days ago
+        - listitem [ref=f157e537]:
+          - generic [ref=f157e538]:
+            - link [ref=f157e539] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-mechanical-engineer-at-heirloom-4448398348?position=33&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=kTPDm0gIcRFs0%2FHrrU6T1A%3D%3D
+              - generic [ref=f157e540]: Senior Mechanical Engineer
+            - generic [ref=f157e542]:
+              - heading [level=3] [ref=f157e543]: Senior Mechanical Engineer
+              - heading [level=4] [ref=f157e544]:
+                - link [ref=f157e545] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/heirloom-carbon?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Heirloom
+              - generic [ref=f157e546]:
+                - generic [ref=f157e547]: Brisbane, CA
+                - time [ref=f157e548]: 12 hours ago
+        - listitem [ref=f157e549]:
+          - generic [ref=f157e550]:
+            - link [ref=f157e551] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-product-engineer-full-stack-at-doctronic-4465394287?position=34&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=U3CkoL0QUTMkyWuRSvUTJg%3D%3D
+              - generic [ref=f157e552]: Senior Product Engineer (Full Stack)
+            - generic [ref=f157e554]:
+              - heading [level=3] [ref=f157e555]: Senior Product Engineer (Full Stack)
+              - heading [level=4] [ref=f157e556]:
+                - link [ref=f157e557] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/doctronic-ai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Doctronic
+              - generic [ref=f157e558]:
+                - generic [ref=f157e559]: San Francisco, CA
+                - time [ref=f157e560]: 6 days ago
+        - listitem [ref=f157e561]:
+          - generic [ref=f157e562]:
+            - link [ref=f157e563] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/principal-product-engineer-optics-at-marvell-technology-4464241232?position=35&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=mwdKTg3G2rUlSxL5Yupx7A%3D%3D
+              - generic [ref=f157e564]: Principal Product Engineer, Optics
+            - generic [ref=f157e566]:
+              - heading [level=3] [ref=f157e567]: Principal Product Engineer, Optics
+              - heading [level=4] [ref=f157e568]:
+                - link [ref=f157e569] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/marvell?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Marvell Technology
+              - generic [ref=f157e570]:
+                - generic [ref=f157e571]: Santa Clara, CA
+                - generic [ref=f157e572]: Be an early applicant
+                - time [ref=f157e575]: 4 days ago
+        - listitem [ref=f157e576]:
+          - generic [ref=f157e577]:
+            - link [ref=f157e578] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-product-engineer-at-develop-health-4457516854?position=36&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=xwPhLN%2Ffog8ZoLiT%2FnF3xg%3D%3D
+              - generic [ref=f157e579]: Senior Product Engineer
+            - generic [ref=f157e581]:
+              - heading [level=3] [ref=f157e582]: Senior Product Engineer
+              - heading [level=4] [ref=f157e583]:
+                - link [ref=f157e584] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/develop-health?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Develop Health
+              - generic [ref=f157e585]:
+                - generic [ref=f157e586]: Menlo Park, CA
+                - time [ref=f157e587]: 11 hours ago
+        - listitem [ref=f157e588]:
+          - generic [ref=f157e589]:
+            - link [ref=f157e590] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/principal-engineer-silicon-photonics-at-lumilens-4418564592?position=37&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=Ai%2B4LuM9RSfmpwgsJY8Dvw%3D%3D
+              - generic [ref=f157e591]: Principal Engineer Silicon Photonics
+            - generic [ref=f157e593]:
+              - heading [level=3] [ref=f157e594]: Principal Engineer Silicon Photonics
+              - heading [level=4] [ref=f157e595]:
+                - link [ref=f157e596] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/lumilens?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Lumilens
+              - generic [ref=f157e597]:
+                - generic [ref=f157e598]: San Jose, CA
+                - time [ref=f157e599]: 5 days ago
+        - listitem [ref=f157e600]:
+          - generic [ref=f157e601]:
+            - link [ref=f157e602] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/product-engineer-multiplieros-pod-at-multiplier-holdings-4465019732?position=38&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=%2FqlWrHra59VkTqdbyeMjNg%3D%3D
+              - generic [ref=f157e603]: Product Engineer - MultiplierOS Pod
+            - generic [ref=f157e605]:
+              - heading [level=3] [ref=f157e606]: Product Engineer - MultiplierOS Pod
+              - heading [level=4] [ref=f157e607]:
+                - link [ref=f157e608] [cursor=pointer]:
+                  - /url: https://sg.linkedin.com/company/multiplier-holdings?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Multiplier Holdings
+              - generic [ref=f157e609]:
+                - generic [ref=f157e610]: San Francisco Bay Area
+                - generic [ref=f157e611]: Be an early applicant
+                - time [ref=f157e614]: 6 days ago
+        - listitem [ref=f157e615]:
+          - generic [ref=f157e616]:
+            - link [ref=f157e617] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/lead-mechanical-product-design-engineer-at-investigo-4465809302?position=39&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=2Qk7Dns5mOt%2BGlXl%2B8F4hA%3D%3D
+              - generic [ref=f157e618]: Lead Mechanical/Product Design Engineer
+            - generic [ref=f157e620]:
+              - heading [level=3] [ref=f157e621]: Lead Mechanical/Product Design Engineer
+              - heading [level=4] [ref=f157e622]:
+                - link [ref=f157e623] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/investigo?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Investigo
+              - generic [ref=f157e624]:
+                - generic [ref=f157e625]: San Francisco Bay Area
+                - generic [ref=f157e626]: Be an early applicant
+                - time [ref=f157e629]: 5 days ago
+        - listitem [ref=f157e630]:
+          - generic [ref=f157e631]:
+            - link [ref=f157e632] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/member-of-technical-staff-product-at-sieve-4429585798?position=40&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=Pbivydo6Zs74oNs1Bi%2F7ow%3D%3D
+              - generic [ref=f157e633]: Member of Technical Staff, Product
+            - generic [ref=f157e635]:
+              - heading [level=3] [ref=f157e636]: Member of Technical Staff, Product
+              - heading [level=4] [ref=f157e637]:
+                - link [ref=f157e638] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/sievedata?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Sieve
+              - generic [ref=f157e639]:
+                - generic [ref=f157e640]: San Francisco, CA
+                - time [ref=f157e641]: 4 days ago
+        - listitem [ref=f157e642]:
+          - generic [ref=f157e643]:
+            - link [ref=f157e644] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/sr-product-design-engineer-amazon-devices-hardware-at-amazon-4455907177?position=41&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=n5iQYMC2W9nxR1QREC5ytg%3D%3D
+              - generic [ref=f157e645]: Sr. Product Design Engineer, Amazon Devices-Hardware
+            - generic [ref=f157e647]:
+              - heading [level=3] [ref=f157e648]: Sr. Product Design Engineer, Amazon Devices-Hardware
+              - heading [level=4] [ref=f157e649]:
+                - link [ref=f157e650] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/amazon?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Amazon
+              - generic [ref=f157e651]:
+                - generic [ref=f157e652]: Sunnyvale, CA
+                - time [ref=f157e653]: 6 days ago
+        - listitem [ref=f157e654]:
+          - generic [ref=f157e655]:
+            - link [ref=f157e656] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-ai-product-engineer-ii-at-harnham-4466100812?position=42&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=w9ZppZ3H0rkRS9rjHn0LMQ%3D%3D
+              - generic [ref=f157e657]: Senior AI Product Engineer II
+            - generic [ref=f157e659]:
+              - heading [level=3] [ref=f157e660]: Senior AI Product Engineer II
+              - heading [level=4] [ref=f157e661]:
+                - link [ref=f157e662] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/harnham?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Harnham
+              - generic [ref=f157e663]:
+                - generic [ref=f157e664]: San Francisco County, CA
+                - generic [ref=f157e665]: Be an early applicant
+                - time [ref=f157e668]: 1 day ago
+        - listitem [ref=f157e669]:
+          - generic [ref=f157e670]:
+            - link [ref=f157e671] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-mechanical-engineer-at-solopoint-solutions-4467440197?position=43&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=f3Y%2F9qaUKDKRbJP%2B8DLflg%3D%3D
+              - generic [ref=f157e672]: Senior Mechanical Engineer
+            - generic [ref=f157e674]:
+              - heading [level=3] [ref=f157e675]: Senior Mechanical Engineer
+              - heading [level=4] [ref=f157e676]:
+                - link [ref=f157e677] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/solopoint-solutions?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: SoloPoint Solutions
+              - generic [ref=f157e678]:
+                - generic [ref=f157e679]: Santa Clara, CA
+                - generic [ref=f157e680]: Be an early applicant
+                - time [ref=f157e683]: 1 day ago
+        - listitem [ref=f157e684]:
+          - generic [ref=f157e685]:
+            - link [ref=f157e686] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/mechanical-design-engineer-powertrain-at-tau-4447709140?position=44&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=C9oz9UdwAQFIIBfjIH7Blg%3D%3D
+              - generic [ref=f157e687]: Mechanical Design Engineer, Powertrain
+            - generic [ref=f157e689]:
+              - heading [level=3] [ref=f157e690]: Mechanical Design Engineer, Powertrain
+              - heading [level=4] [ref=f157e691]:
+                - link [ref=f157e692] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/taumotors?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Tau
+              - generic [ref=f157e693]:
+                - generic [ref=f157e694]: Redwood City, CA
+                - time [ref=f157e695]: 2 days ago
+        - listitem [ref=f157e696]:
+          - generic [ref=f157e697]:
+            - link [ref=f157e698] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/product-engineer-5-at-lam-research-4466817365?position=45&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=dcjothBOJYM0LP4UGmYCeA%3D%3D
+              - generic [ref=f157e699]: Product Engineer 5
+            - generic [ref=f157e701]:
+              - heading [level=3] [ref=f157e702]: Product Engineer 5
+              - heading [level=4] [ref=f157e703]:
+                - link [ref=f157e704] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/lam-research?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Lam Research
+              - generic [ref=f157e705]:
+                - generic [ref=f157e706]: Fremont, CA
+                - generic [ref=f157e707]: Be an early applicant
+                - time [ref=f157e710]: 19 minutes ago
+        - listitem [ref=f157e711]:
+          - generic [ref=f157e712]:
+            - link [ref=f157e713] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/product-engineer-at-reducto-4339004693?position=46&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=Hg%2FbBx76zB2kTCK09Iu7ww%3D%3D
+              - generic [ref=f157e714]: Product Engineer
+            - generic [ref=f157e716]:
+              - heading [level=3] [ref=f157e717]: Product Engineer
+              - heading [level=4] [ref=f157e718]:
+                - link [ref=f157e719] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/reducto-ai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Reducto
+              - generic [ref=f157e720]:
+                - generic [ref=f157e721]: San Francisco, CA
+                - time [ref=f157e722]: 3 days ago
+        - listitem [ref=f157e723]:
+          - generic [ref=f157e724]:
+            - link [ref=f157e725] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/lead-hardware-engineer-at-talently-4458544076?position=47&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=FLGD%2FP5L56gKRg2wU36kqA%3D%3D
+              - generic [ref=f157e726]: Lead Hardware Engineer
+            - generic [ref=f157e728]:
+              - heading [level=3] [ref=f157e729]: Lead Hardware Engineer
+              - heading [level=4] [ref=f157e730]:
+                - link [ref=f157e731] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/talently-recruiting?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Talently
+              - generic [ref=f157e732]:
+                - generic [ref=f157e733]: Sunnyvale, CA
+                - generic [ref=f157e734]: Medical insurance +3 benefits
+                - time [ref=f157e737]: 2 days ago
+        - listitem [ref=f157e738]:
+          - generic [ref=f157e739]:
+            - link [ref=f157e740] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-enterprise-ai-at-handshake-4410283682?position=48&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=prduGZtRpH%2BGPIH8pm6JJA%3D%3D
+              - generic [ref=f157e741]: Software Engineer, Enterprise AI
+            - generic [ref=f157e743]:
+              - heading [level=3] [ref=f157e744]: Software Engineer, Enterprise AI
+              - heading [level=4] [ref=f157e745]:
+                - link [ref=f157e746] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/team-handshake?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Handshake
+              - generic [ref=f157e747]:
+                - generic [ref=f157e748]: San Francisco, CA
+                - time [ref=f157e749]: 5 days ago
+        - listitem [ref=f157e750]:
+          - generic [ref=f157e751]:
+            - link [ref=f157e752] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/hardware-engineer-electronics-packaging-vehicle-integration-at-doordash-4464236850?position=49&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=EdJkT1ajjtrhxhKM4WeAxw%3D%3D
+              - generic [ref=f157e753]: Hardware Engineer - Electronics Packaging & Vehicle Integration
+            - generic [ref=f157e755]:
+              - heading [level=3] [ref=f157e756]: Hardware Engineer - Electronics Packaging & Vehicle Integration
+              - heading [level=4] [ref=f157e757]:
+                - link [ref=f157e758] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/doordash?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: DoorDash
+              - generic [ref=f157e759]:
+                - generic [ref=f157e760]: Oakland, CA
+                - time [ref=f157e761]: 4 days ago
+        - listitem [ref=f157e762]:
+          - generic [ref=f157e763]:
+            - link [ref=f157e764] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/hardware-development-engineer-ii-aws-mainstream-compute-at-amazon-web-services-aws-4455919439?position=50&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=K7WA1Iulv4qri%2FUh3AWuWQ%3D%3D
+              - generic [ref=f157e765]: Hardware Development Engineer II, AWS Mainstream Compute
+            - generic [ref=f157e767]:
+              - heading [level=3] [ref=f157e768]: Hardware Development Engineer II, AWS Mainstream Compute
+              - heading [level=4] [ref=f157e769]:
+                - link [ref=f157e770] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/amazon-web-services?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Amazon Web Services (AWS)
+              - generic [ref=f157e771]:
+                - generic [ref=f157e772]: Cupertino, CA
+                - generic [ref=f157e773]: Be an early applicant
+                - time [ref=f157e776]: 6 days ago
+        - listitem [ref=f157e777]:
+          - generic [ref=f157e778]:
+            - link [ref=f157e779] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-product-engineer-at-mintlify-4465846655?position=51&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=UuGdXF21jsrmNY2WjlAjcQ%3D%3D
+              - generic [ref=f157e780]: Senior Product Engineer
+            - generic [ref=f157e782]:
+              - heading [level=3] [ref=f157e783]: Senior Product Engineer
+              - heading [level=4] [ref=f157e784]:
+                - link [ref=f157e785] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/mintlify?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Mintlify
+              - generic [ref=f157e786]:
+                - generic [ref=f157e787]: San Francisco, CA
+                - time [ref=f157e788]: 5 days ago
+        - listitem [ref=f157e789]:
+          - generic [ref=f157e790]:
+            - link [ref=f157e791] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/product-engineer-at-recruiting-from-scratch-4465728547?position=52&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=vBhjXtU8F2qhs%2FiKSN4TqQ%3D%3D
+              - generic [ref=f157e792]: Product Engineer
+            - generic [ref=f157e794]:
+              - heading [level=3] [ref=f157e795]: Product Engineer
+              - heading [level=4] [ref=f157e796]:
+                - link [ref=f157e797] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/recruiting-from-scratch?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Recruiting from Scratch
+              - generic [ref=f157e798]:
+                - generic [ref=f157e799]: San Francisco Bay Area
+                - time [ref=f157e800]: 1 day ago
+        - listitem [ref=f157e801]:
+          - generic [ref=f157e802]:
+            - link [ref=f157e803] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-mechanical-engineer-at-sofar-ocean-4457018705?position=53&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=kwnqfY%2B56%2FN1AV%2FXPG3mjw%3D%3D
+              - generic [ref=f157e804]: Senior Mechanical Engineer
+            - generic [ref=f157e806]:
+              - heading [level=3] [ref=f157e807]: Senior Mechanical Engineer
+              - heading [level=4] [ref=f157e808]:
+                - link [ref=f157e809] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/sofar-ocean?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Sofar Ocean
+              - generic [ref=f157e810]:
+                - generic [ref=f157e811]: San Francisco, CA
+                - time [ref=f157e812]: 4 days ago
+        - listitem [ref=f157e813]:
+          - generic [ref=f157e814]:
+            - link [ref=f157e815] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/product-software-engineer-at-storm2-4463331131?position=54&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=nPGQduespjoBhdLKxavabA%3D%3D
+              - generic [ref=f157e816]: Product Software Engineer
+            - generic [ref=f157e818]:
+              - heading [level=3] [ref=f157e819]: Product Software Engineer
+              - heading [level=4] [ref=f157e820]:
+                - link [ref=f157e821] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/storm2?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Storm2
+              - generic [ref=f157e822]:
+                - generic [ref=f157e823]: San Francisco Bay Area
+                - generic [ref=f157e824]: Medical insurance +3 benefits
+                - time [ref=f157e827]: 1 day ago
+        - listitem [ref=f157e828]:
+          - generic [ref=f157e829]:
+            - link [ref=f157e830] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-ai-engineer-product-engineering-at-you-com-4429102013?position=55&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=PKC4BHrQT9RbLj3WgvTc1w%3D%3D
+              - generic [ref=f157e831]: Senior AI Engineer, Product Engineering
+            - generic [ref=f157e833]:
+              - heading [level=3] [ref=f157e834]: Senior AI Engineer, Product Engineering
+              - heading [level=4] [ref=f157e835]:
+                - link [ref=f157e836] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/youdotcom?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: You.com
+              - generic [ref=f157e837]:
+                - generic [ref=f157e838]: San Francisco, CA
+                - time [ref=f157e839]: 5 days ago
+        - listitem [ref=f157e840]:
+          - generic [ref=f157e841]:
+            - link [ref=f157e842] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/semiconductor-product-engineer-mmics-and-packaged-products-at-keysight-technologies-4464218848?position=56&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=l33%2FhrDCePU34UaNMmgm7Q%3D%3D
+              - generic [ref=f157e843]: "Semiconductor Product Engineer: MMICs and Packaged Products"
+            - generic [ref=f157e845]:
+              - heading [level=3] [ref=f157e846]: "Semiconductor Product Engineer: MMICs and Packaged Products"
+              - heading [level=4] [ref=f157e847]:
+                - link [ref=f157e848] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/keysight-technologies?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Keysight Technologies
+              - generic [ref=f157e849]:
+                - generic [ref=f157e850]: Santa Rosa, CA
+                - generic [ref=f157e851]: Be an early applicant
+                - time [ref=f157e854]: 4 days ago
+        - listitem [ref=f157e855]:
+          - generic [ref=f157e856]:
+            - link [ref=f157e857] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-ai-product-engineer-i-at-harnham-4466101817?position=57&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=NJoT5YQtOMwzqcK55YEAvg%3D%3D
+              - generic [ref=f157e858]: Senior AI Product Engineer I
+            - generic [ref=f157e860]:
+              - heading [level=3] [ref=f157e861]: Senior AI Product Engineer I
+              - heading [level=4] [ref=f157e862]:
+                - link [ref=f157e863] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/harnham?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Harnham
+              - generic [ref=f157e864]:
+                - generic [ref=f157e865]: San Francisco County, CA
+                - time [ref=f157e866]: 1 day ago
+        - listitem [ref=f157e867]:
+          - generic [ref=f157e868]:
+            - link [ref=f157e869] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/mechanical-engineer-product-development-at-waymo-4465400887?position=58&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=67WWDxxK7T93MDyQip3MkA%3D%3D
+              - generic [ref=f157e870]: Mechanical Engineer, Product Development
+            - generic [ref=f157e872]:
+              - heading [level=3] [ref=f157e873]: Mechanical Engineer, Product Development
+              - heading [level=4] [ref=f157e874]:
+                - link [ref=f157e875] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/waymo?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Waymo
+              - generic [ref=f157e876]:
+                - generic [ref=f157e877]: Mountain View, CA
+                - time [ref=f157e878]: 3 days ago
+        - listitem [ref=f157e879]:
+          - generic [ref=f157e880]:
+            - link [ref=f157e881] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/staff-software-engineer-product-at-replit-4411246143?position=59&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=FjYb9SGm9xs5T7ur5m27IA%3D%3D
+              - generic [ref=f157e882]: Staff Software Engineer, Product
+            - generic [ref=f157e884]:
+              - heading [level=3] [ref=f157e885]: Staff Software Engineer, Product
+              - heading [level=4] [ref=f157e886]:
+                - link [ref=f157e887] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/repl-it?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Replit
+              - generic [ref=f157e888]:
+                - generic [ref=f157e889]: Foster City, CA
+                - time [ref=f157e890]: 2 days ago
+        - listitem [ref=f157e891]:
+          - generic [ref=f157e892]:
+            - link [ref=f157e893] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/product-engineer-personal-ai-at-river-ai-4467927613?position=60&pageNum=0&refId=ALsBPBUIpS0gWrTLI7rfMQ%3D%3D&trackingId=h5ODCcp9R1RfwpX79ty5Qg%3D%3D
+              - generic [ref=f157e894]: Product Engineer, Personal AI
+            - generic [ref=f157e896]:
+              - heading [level=3] [ref=f157e897]: Product Engineer, Personal AI
+              - heading [level=4] [ref=f157e898]:
+                - link [ref=f157e899] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/river-ai-official?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: River AI
+              - generic [ref=f157e900]:
+                - generic [ref=f157e901]: Palo Alto, CA
+                - generic [ref=f157e902]: Be an early applicant +6 benefits
+                - time [ref=f157e905]: 2 hours ago
+    - contentinfo [ref=f157e908]:
+      - list [ref=f157e909]:
+        - generic [ref=f157e910]: LinkedIn
+        - generic [ref=f157e912]: © 2026
+        - listitem [ref=f157e913]:
+          - link [ref=f157e914] [cursor=pointer]:
+            - /url: https://about.linkedin.com?trk=public_jobs_footer-about
+            - text: About
+        - listitem [ref=f157e915]:
+          - link [ref=f157e916] [cursor=pointer]:
+            - /url: https://www.linkedin.com/accessibility?trk=public_jobs_footer-accessibility
+            - text: Accessibility
+        - listitem [ref=f157e917]:
+          - link [ref=f157e918] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/user-agreement?trk=public_jobs_footer-user-agreement
+            - text: User Agreement
+        - listitem [ref=f157e919]:
+          - link [ref=f157e920] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/privacy-policy?trk=public_jobs_footer-privacy-policy
+            - text: Privacy Policy
+        - listitem [ref=f157e921]:
+          - link [ref=f157e922] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/california-privacy-disclosure?trk=public_jobs_footer-california-privacy-rights-act
+            - text: Your California Privacy Choices
+        - listitem [ref=f157e923]:
+          - link [ref=f157e924] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/cookie-policy?trk=public_jobs_footer-cookie-policy
+            - text: Cookie Policy
+        - listitem [ref=f157e925]:
+          - link [ref=f157e926] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/copyright-policy?trk=public_jobs_footer-copyright-policy
+            - text: Copyright Policy
+        - listitem [ref=f157e927]:
+          - link [ref=f157e928] [cursor=pointer]:
+            - /url: https://brand.linkedin.com/policies?trk=public_jobs_footer-brand-policy
+            - text: Brand Policy
+        - listitem [ref=f157e929]:
+          - link [ref=f157e930] [cursor=pointer]:
+            - /url: https://www.linkedin.com/psettings/guest-controls?trk=public_jobs_footer-guest-controls
+            - text: Guest Controls
+        - listitem [ref=f157e931]:
+          - link [ref=f157e932] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/professional-community-policies?trk=public_jobs_footer-community-guide
+            - text: Community Guidelines
+        - listitem [ref=f157e933]:
+          - button [ref=f157e935]: Language
+  - dialog [active] [ref=f157e938]:
+    - button "Dismiss" [ref=f157e939] [cursor=pointer]
+    - generic [ref=f157e944]:
+      - heading "Sign in to view more jobs" [level=2] [ref=f157e946]
+      - generic [ref=f157e947]:
+        - generic:
+          - generic:
+            - button "Continue with google"
+        - button "Sign in with Email" [ref=f157e948] [cursor=pointer]
+        - paragraph [ref=f157e954]: or
+        - generic:
+          - generic:
+            - button "Continue with google"
+        - paragraph [ref=f157e955]:
+          - text: New to LinkedIn?
+          - link "Join now" [ref=f157e956] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&trk=public_jobs_contextual-sign-in-modal_join-link
+        - paragraph [ref=f157e957]:
+          - text: By clicking Continue to join or sign in, you agree to LinkedIn’s
+          - link "User Agreement" [ref=f157e958] [cursor=pointer]:
+            - /url: /legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement
+          - text: ","
+          - link "Privacy Policy" [ref=f157e959] [cursor=pointer]:
+            - /url: /legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy
+          - text: ", and"
+          - link "Cookie Policy" [ref=f157e960] [cursor=pointer]:
+            - /url: /legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy
+          - text: .

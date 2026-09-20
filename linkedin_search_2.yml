@@ -1,0 +1,1092 @@
+- generic [ref=f131e1]:
+  - generic [aria-hidden] [ref=f131e2]:
+    - link [ref=f131e3] [cursor=pointer]:
+      - /url: "#main-content"
+      - text: Skip to main content
+    - banner [ref=f131e4]:
+      - navigation [ref=f131e5]:
+        - link [ref=f131e6] [cursor=pointer]:
+          - /url: /?trk=public_jobs_nav-header-logo
+          - generic [ref=f131e7]: LinkedIn
+        - generic [ref=f131e20]:
+          - button [ref=f131e22] [cursor=pointer]:
+            - generic [ref=f131e23]: Jobs
+          - tabpanel [ref=f131e24]:
+            - search [ref=f131e25]:
+              - generic [ref=f131e26]:
+                - combobox [ref=f131e27]: Software Engineer
+                - button [ref=f131e28] [cursor=pointer]:
+                  - generic [ref=f131e29]: Clear text
+              - generic [ref=f131e35]:
+                - combobox [ref=f131e36]: San Francisco Bay Area
+                - button [ref=f131e37] [cursor=pointer]:
+                  - generic [ref=f131e38]: Clear text
+              - button [ref=f131e44] [cursor=pointer]
+          - status [ref=f131e48]
+        - generic [ref=f131e49]:
+          - link [ref=f131e50] [cursor=pointer]:
+            - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&fromSignIn=true&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fsearch-results%3Fkeywords%3Dsoftware%2Bengineer%26f_TPR%3Dr604800&trk=public_jobs_nav-header-signin
+            - text: Sign in
+          - link [ref=f131e51] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fsearch-results%3Fkeywords%3Dsoftware%2Bengineer%26f_TPR%3Dr604800&trk=public_jobs_nav-header-join
+            - text: Join now
+    - generic [ref=f131e54]:
+      - list [ref=f131e58]:
+        - listitem [ref=f131e59]:
+          - button [ref=f131e62] [cursor=pointer]: Past week
+        - listitem [ref=f131e66]:
+          - button [ref=f131e69] [cursor=pointer]: Company
+        - listitem [ref=f131e73]:
+          - link [ref=f131e74] [cursor=pointer]:
+            - /url: https://www.linkedin.com/jobs/search/?keywords=software+engineer&location=San+Francisco+Bay+Area&f_E=2%2C3&f_WT=2%2C3&f_TPR=r604800&sortBy=DD&f_AL=true&trk=public_jobs_filters_f_AL
+            - text: Easy Apply
+        - listitem [ref=f131e75]:
+          - link [ref=f131e76] [cursor=pointer]:
+            - /url: https://www.linkedin.com/jobs/search/?keywords=software+engineer&location=San+Francisco+Bay+Area&f_E=2%2C3&f_WT=2%2C3&f_TPR=r604800&sortBy=DD&f_EA=true&trk=public_jobs_filters_f_EA
+            - text: Under 10 applicants
+      - button [ref=f131e78] [cursor=pointer]: Where are the filters?
+    - generic [ref=f131e82]:
+      - main [ref=f131e83]:
+        - generic [ref=f131e90]:
+          - paragraph [ref=f131e91]:
+            - text: Get notified about new Software Engineer jobs in
+            - strong [ref=f131e92]: San Francisco Bay Area
+            - text: .
+          - link [ref=f131e93] [cursor=pointer]:
+            - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fsearch-results%3Fkeywords%3Dsoftware%2Bengineer%26f_TPR%3Dr604800&trk=public_jobs_job-alert-guest-redirect-cta
+            - text: Sign in to create job alert
+        - heading [level=1] [ref=f131e95]: 6,000+ Software Engineer Jobs in San Francisco Bay Area
+        - list [ref=f131e97]:
+          - listitem [ref=f131e98]:
+            - generic [ref=f131e99]:
+              - link [ref=f131e100] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-go-golang-at-general-motors-4419973506?position=1&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=d%2F4bVg7WOesleqE62FeFCw%3D%3D
+                - generic [ref=f131e101]: Senior Software Engineer – Go (Golang)
+              - generic [ref=f131e103]:
+                - heading [level=3] [ref=f131e104]: Senior Software Engineer – Go (Golang)
+                - heading [level=4] [ref=f131e105]:
+                  - link [ref=f131e106] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/general-motors?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: General Motors
+                - generic [ref=f131e107]:
+                  - generic [ref=f131e108]: Mountain View, CA
+                  - time [ref=f131e109]: 2 days ago
+          - listitem [ref=f131e110]:
+            - generic [ref=f131e111]:
+              - link [ref=f131e112] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-google-cloud-security-command-center-at-google-4456217431?position=2&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=40ueiIpTY1zS1RTOA8tYIQ%3D%3D
+                - generic [ref=f131e113]: Senior Software Engineer, Google Cloud Security Command Center
+              - generic [ref=f131e115]:
+                - heading [level=3] [ref=f131e116]: Senior Software Engineer, Google Cloud Security Command Center
+                - heading [level=4] [ref=f131e117]:
+                  - link [ref=f131e118] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/google?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Google
+                - generic [ref=f131e119]:
+                  - generic [ref=f131e120]: Sunnyvale, CA
+                  - generic [ref=f131e121]: Be an early applicant
+                  - time [ref=f131e126]: 4 days ago
+          - listitem [ref=f131e127]:
+            - generic [ref=f131e128]:
+              - link [ref=f131e129] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-backend-at-plaid-4410265188?position=3&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=yzNOm9VZ9jd84MOtogwlcQ%3D%3D
+                - generic [ref=f131e130]: Software Engineer, Backend
+              - generic [ref=f131e132]:
+                - heading [level=3] [ref=f131e133]: Software Engineer, Backend
+                - heading [level=4] [ref=f131e134]:
+                  - link [ref=f131e135] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/plaid-?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Plaid
+                - generic [ref=f131e136]:
+                  - generic [ref=f131e137]: San Francisco Bay Area
+                  - time [ref=f131e138]: 5 days ago
+          - listitem [ref=f131e139]:
+            - generic [ref=f131e140]:
+              - link [ref=f131e141] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/staff-software-engineer-%E2%80%93-golang-at-general-motors-4467901129?position=4&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=KQOtpKvRSN8J%2BjE5gxL2jA%3D%3D
+                - generic [ref=f131e142]: Staff Software Engineer – Golang
+              - generic [ref=f131e144]:
+                - heading [level=3] [ref=f131e145]: Staff Software Engineer – Golang
+                - heading [level=4] [ref=f131e146]:
+                  - link [ref=f131e147] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/general-motors?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: General Motors
+                - generic [ref=f131e148]:
+                  - generic [ref=f131e149]: Mountain View, CA
+                  - generic [ref=f131e150]: Be an early applicant
+                  - time [ref=f131e155]: 6 hours ago
+          - listitem [ref=f131e156]:
+            - generic [ref=f131e157]:
+              - link [ref=f131e158] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-python-at-venmo-4465604021?position=5&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=ddUk4qU%2FwpPQgZkL2lOXIA%3D%3D
+                - generic [ref=f131e159]: Senior Software Engineer - Python
+              - generic [ref=f131e161]:
+                - heading [level=3] [ref=f131e162]: Senior Software Engineer - Python
+                - heading [level=4] [ref=f131e163]:
+                  - link [ref=f131e164] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/venmo?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Venmo
+                - generic [ref=f131e165]:
+                  - generic [ref=f131e166]: San Jose, CA
+                  - time [ref=f131e167]: 5 days ago
+          - listitem [ref=f131e168]:
+            - generic [ref=f131e169]:
+              - link [ref=f131e170] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-development-engineer-aurora-cp-global-databases-at-amazon-web-services-aws-4455785968?position=6&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=JAIdGoICZJBQnqcNQxxZUw%3D%3D
+                - generic [ref=f131e171]: Software Development Engineer, Aurora CP - Global Databases
+              - generic [ref=f131e173]:
+                - heading [level=3] [ref=f131e174]: Software Development Engineer, Aurora CP - Global Databases
+                - heading [level=4] [ref=f131e175]:
+                  - link [ref=f131e176] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/amazon-web-services?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Amazon Web Services (AWS)
+                - generic [ref=f131e177]:
+                  - generic [ref=f131e178]: East Palo Alto, CA
+                  - generic [ref=f131e179]: Be an early applicant
+                  - time [ref=f131e184]: 6 days ago
+          - listitem [ref=f131e185]:
+            - generic [ref=f131e186]:
+              - link [ref=f131e187] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/usa-software-engineer-iii-at-walmart-4455014557?position=7&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=mbVT8Iq08c6axFowDaYS7A%3D%3D
+                - generic [ref=f131e188]: (USA) Software Engineer III
+              - generic [ref=f131e190]:
+                - heading [level=3] [ref=f131e191]: (USA) Software Engineer III
+                - heading [level=4] [ref=f131e192]:
+                  - link [ref=f131e193] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/walmart?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Walmart
+                - generic [ref=f131e194]:
+                  - generic [ref=f131e195]: Sunnyvale, CA
+                  - time [ref=f131e196]: 3 days ago
+          - listitem [ref=f131e197]:
+            - generic [ref=f131e198]:
+              - link [ref=f131e199] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-backend-at-walmart-global-tech-4463085319?position=8&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=C6yIxt6E6tXZQ76YYlE83A%3D%3D
+                - generic [ref=f131e200]: Senior, Software Engineer (Backend)
+              - generic [ref=f131e202]:
+                - heading [level=3] [ref=f131e203]: Senior, Software Engineer (Backend)
+                - heading [level=4] [ref=f131e204]:
+                  - link [ref=f131e205] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/walmartglobaltech?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Walmart Global Tech
+                - generic [ref=f131e206]:
+                  - generic [ref=f131e207]: Sunnyvale, CA
+                  - time [ref=f131e208]: 6 days ago
+          - listitem [ref=f131e209]:
+            - generic [ref=f131e210]:
+              - link [ref=f131e211] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-development-engineer-amazon-redshift-query-processing-at-amazon-web-services-aws-4467243234?position=9&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=z4ZBhsuxpLjcils0yqrYLA%3D%3D
+                - generic [ref=f131e212]: Software Development Engineer - Amazon Redshift, Query Processing
+              - generic [ref=f131e214]:
+                - heading [level=3] [ref=f131e215]: Software Development Engineer - Amazon Redshift, Query Processing
+                - heading [level=4] [ref=f131e216]:
+                  - link [ref=f131e217] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/amazon-web-services?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Amazon Web Services (AWS)
+                - generic [ref=f131e218]:
+                  - generic [ref=f131e219]: East Palo Alto, CA
+                  - generic [ref=f131e220]: Be an early applicant
+                  - time [ref=f131e223]: 1 day ago
+          - listitem [ref=f131e224]:
+            - generic [ref=f131e225]:
+              - link [ref=f131e226] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-software-development-engineer-at-adobe-4437566747?position=10&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=PG8hq3P%2Bk1fmPfEIpfiG4Q%3D%3D
+                - generic [ref=f131e227]: Senior Software Development Engineer
+              - generic [ref=f131e229]:
+                - heading [level=3] [ref=f131e230]: Senior Software Development Engineer
+                - heading [level=4] [ref=f131e231]:
+                  - link [ref=f131e232] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/adobe?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Adobe
+                - generic [ref=f131e233]:
+                  - generic [ref=f131e234]: San Jose, CA
+                  - time [ref=f131e235]: 3 days ago
+          - listitem [ref=f131e236]:
+            - generic [ref=f131e237]:
+              - link [ref=f131e238] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-backend-software-engineer-tapestry-at-x-the-moonshot-factory-4456259516?position=11&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=nuDrlV0ntC8AdZckxjgOOQ%3D%3D
+                - generic [ref=f131e239]: Senior Backend Software Engineer, Tapestry
+              - generic [ref=f131e241]:
+                - heading [level=3] [ref=f131e242]: Senior Backend Software Engineer, Tapestry
+                - heading [level=4] [ref=f131e243]:
+                  - link [ref=f131e244] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/x?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: X, The Moonshot Factory
+                - generic [ref=f131e245]:
+                  - generic [ref=f131e246]: Mountain View, CA
+                  - time [ref=f131e247]: 1 day ago
+          - listitem [ref=f131e248]:
+            - generic [ref=f131e249]:
+              - link [ref=f131e250] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/sr-software-engineer-sde-iii-core-search-at-amazon-4455781840?position=12&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=2gJy0qDPADIqMw%2BChqSfLw%3D%3D
+                - generic [ref=f131e251]: Sr Software Engineer (SDE-III), Core Search
+              - generic [ref=f131e253]:
+                - heading [level=3] [ref=f131e254]: Sr Software Engineer (SDE-III), Core Search
+                - heading [level=4] [ref=f131e255]:
+                  - link [ref=f131e256] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/amazon?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Amazon
+                - generic [ref=f131e257]:
+                  - generic [ref=f131e258]: Palo Alto, CA
+                  - generic [ref=f131e259]: Be an early applicant
+                  - time [ref=f131e262]: 6 days ago
+          - listitem [ref=f131e263]:
+            - generic [ref=f131e264]:
+              - link [ref=f131e265] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-cuda-c%2B%2B-core-libraries-at-nvidia-4437936153?position=13&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=6yv4BaE%2FdN7ULH92gn2nBw%3D%3D
+                - generic [ref=f131e266]: Senior Software Engineer, CUDA C++ Core Libraries
+              - generic [ref=f131e268]:
+                - heading [level=3] [ref=f131e269]: Senior Software Engineer, CUDA C++ Core Libraries
+                - heading [level=4] [ref=f131e270]:
+                  - link [ref=f131e271] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/nvidia?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: NVIDIA
+                - generic [ref=f131e272]:
+                  - generic [ref=f131e273]: Santa Clara, CA
+                  - time [ref=f131e274]: 4 days ago
+          - listitem [ref=f131e275]:
+            - generic [ref=f131e276]:
+              - link [ref=f131e277] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/staff-software-engineer-be-python-at-venmo-4465388942?position=14&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=m8LtfDLrTFV9McsudnW7rA%3D%3D
+                - generic [ref=f131e278]: Staff Software Engineer - BE Python
+              - generic [ref=f131e280]:
+                - heading [level=3] [ref=f131e281]: Staff Software Engineer - BE Python
+                - heading [level=4] [ref=f131e282]:
+                  - link [ref=f131e283] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/venmo?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Venmo
+                - generic [ref=f131e284]:
+                  - generic [ref=f131e285]: San Jose, CA
+                  - generic [ref=f131e286]: Be an early applicant
+                  - time [ref=f131e289]: 5 days ago
+          - listitem [ref=f131e290]:
+            - generic [ref=f131e291]:
+              - link [ref=f131e292] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-infrastructure-google-cloud-security-and-privacy-at-google-4444145746?position=15&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=vLC%2BWEda77nqbTJNxcW%2BZA%3D%3D
+                - generic [ref=f131e293]: Senior Software Engineer, Infrastructure, Google Cloud Security and Privacy
+              - generic [ref=f131e295]:
+                - heading [level=3] [ref=f131e296]: Senior Software Engineer, Infrastructure, Google Cloud Security and Privacy
+                - heading [level=4] [ref=f131e297]:
+                  - link [ref=f131e298] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/google?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Google
+                - generic [ref=f131e299]:
+                  - generic [ref=f131e300]: San Francisco, CA
+                  - generic [ref=f131e301]: Be an early applicant
+                  - time [ref=f131e304]: 5 days ago
+          - listitem [ref=f131e305]:
+            - generic [ref=f131e306]:
+              - link [ref=f131e307] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-backend-engineer-core-product-at-scribe-4365159736?position=16&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=3t8OZZQTswrmx24wW7ZZZA%3D%3D
+                - generic [ref=f131e308]: Senior Backend Engineer, Core Product
+              - generic [ref=f131e310]:
+                - heading [level=3] [ref=f131e311]: Senior Backend Engineer, Core Product
+                - heading [level=4] [ref=f131e312]:
+                  - link [ref=f131e313] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/scribehow?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Scribe
+                - generic [ref=f131e314]:
+                  - generic [ref=f131e315]: San Francisco, CA
+                  - time [ref=f131e316]: 12 hours ago
+          - listitem [ref=f131e317]:
+            - generic [ref=f131e318]:
+              - link [ref=f131e319] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-backend-at-snowflake-4214694436?position=17&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=dWb3tBxsFacKcTpN4rsSMQ%3D%3D
+                - generic [ref=f131e320]: Software Engineer - Backend
+              - generic [ref=f131e322]:
+                - heading [level=3] [ref=f131e323]: Software Engineer - Backend
+                - heading [level=4] [ref=f131e324]:
+                  - link [ref=f131e325] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/snowflake-computing?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Snowflake
+                - generic [ref=f131e326]:
+                  - generic [ref=f131e327]: Menlo Park, CA
+                  - time [ref=f131e328]: 4 days ago
+          - listitem [ref=f131e329]:
+            - generic [ref=f131e330]:
+              - link [ref=f131e331] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/usa-senior-software-engineer-at-walmart-4454133738?position=18&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=gBNiWfWahmD6nMycyfyhdA%3D%3D
+                - generic [ref=f131e332]: (USA) Senior, Software Engineer
+              - generic [ref=f131e334]:
+                - heading [level=3] [ref=f131e335]: (USA) Senior, Software Engineer
+                - heading [level=4] [ref=f131e336]:
+                  - link [ref=f131e337] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/walmart?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Walmart
+                - generic [ref=f131e338]:
+                  - generic [ref=f131e339]: Sunnyvale, CA
+                  - time [ref=f131e340]: 4 days ago
+          - listitem [ref=f131e341]:
+            - generic [ref=f131e342]:
+              - link [ref=f131e343] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-identity-platform-at-commure-4443005542?position=19&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=rfkRmrJ0jEQ0YTnfCvB9ew%3D%3D
+                - generic [ref=f131e344]: Senior Software Engineer, Identity Platform
+              - generic [ref=f131e346]:
+                - heading [level=3] [ref=f131e347]: Senior Software Engineer, Identity Platform
+                - heading [level=4] [ref=f131e348]:
+                  - link [ref=f131e349] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/commure?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Commure
+                - generic [ref=f131e350]:
+                  - generic [ref=f131e351]: San Francisco, CA
+                  - time [ref=f131e352]: 10 hours ago
+          - listitem [ref=f131e353]:
+            - generic [ref=f131e354]:
+              - link [ref=f131e355] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-sunnyvale-on-site-hiring-event-at-walmart-global-tech-4409228472?position=20&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=y5zN%2FZ2qTc%2FDJgMiT8%2Fl9A%3D%3D
+                - generic [ref=f131e356]: Senior, Software Engineer (Sunnyvale - On-Site Hiring Event)
+              - generic [ref=f131e358]:
+                - heading [level=3] [ref=f131e359]: Senior, Software Engineer (Sunnyvale - On-Site Hiring Event)
+                - heading [level=4] [ref=f131e360]:
+                  - link [ref=f131e361] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/walmartglobaltech?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Walmart Global Tech
+                - generic [ref=f131e362]:
+                  - generic [ref=f131e363]: Sunnyvale, CA
+                  - time [ref=f131e364]: 3 days ago
+          - listitem [ref=f131e365]:
+            - generic [ref=f131e366]:
+              - link [ref=f131e367] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-full-stack-product-engineering-at-baton-4465092585?position=21&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=XoyWgBOC3Y%2BkUBb79IPFQw%3D%3D
+                - generic [ref=f131e368]: Software Engineer - Full Stack, Product Engineering
+              - generic [ref=f131e370]:
+                - heading [level=3] [ref=f131e371]: Software Engineer - Full Stack, Product Engineering
+                - heading [level=4] [ref=f131e372]:
+                  - link [ref=f131e373] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/baton-trucking?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Baton
+                - generic [ref=f131e374]:
+                  - generic [ref=f131e375]: San Francisco, CA
+                  - time [ref=f131e376]: 6 days ago
+          - listitem [ref=f131e377]:
+            - generic [ref=f131e378]:
+              - link [ref=f131e379] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-identity-platform-at-commure-4443001770?position=22&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=b3oo%2Bp4rLZK8sHMdVdYTFg%3D%3D
+                - generic [ref=f131e380]: Senior Software Engineer, Identity Platform
+              - generic [ref=f131e382]:
+                - heading [level=3] [ref=f131e383]: Senior Software Engineer, Identity Platform
+                - heading [level=4] [ref=f131e384]:
+                  - link [ref=f131e385] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/commure?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Commure
+                - generic [ref=f131e386]:
+                  - generic [ref=f131e387]: Mountain View, CA
+                  - time [ref=f131e388]: 10 hours ago
+          - listitem [ref=f131e389]:
+            - generic [ref=f131e390]:
+              - link [ref=f131e391] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-backend-at-plaid-4410255594?position=23&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=cfDHxA9nKEBySwziJwBIgg%3D%3D
+                - generic [ref=f131e392]: Senior Software Engineer, Backend
+              - generic [ref=f131e394]:
+                - heading [level=3] [ref=f131e395]: Senior Software Engineer, Backend
+                - heading [level=4] [ref=f131e396]:
+                  - link [ref=f131e397] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/plaid-?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Plaid
+                - generic [ref=f131e398]:
+                  - generic [ref=f131e399]: San Francisco Bay Area
+                  - time [ref=f131e400]: 5 days ago
+          - listitem [ref=f131e401]:
+            - generic [ref=f131e402]:
+              - link [ref=f131e403] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-backend-partner-16-partner-18-at-andreessen-horowitz-4458251161?position=24&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=Ifimx9PJpDLfbnijomF5mg%3D%3D
+                - generic [ref=f131e404]: Software Engineer, Backend (Partner 16, Partner 18)
+              - generic [ref=f131e406]:
+                - heading [level=3] [ref=f131e407]: Software Engineer, Backend (Partner 16, Partner 18)
+                - heading [level=4] [ref=f131e408]:
+                  - link [ref=f131e409] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/a16z?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Andreessen Horowitz
+                - generic [ref=f131e410]:
+                  - generic [ref=f131e411]: San Francisco, CA
+                  - time [ref=f131e412]: 14 hours ago
+          - listitem [ref=f131e413]:
+            - generic [ref=f131e414]:
+              - link [ref=f131e415] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-backend-platform-at-rippling-4466492101?position=25&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=FG%2F9aatd1E4%2FaOnYYYJAKg%3D%3D
+                - generic [ref=f131e416]: Senior Software Engineer, Backend - Platform
+              - generic [ref=f131e418]:
+                - heading [level=3] [ref=f131e419]: Senior Software Engineer, Backend - Platform
+                - heading [level=4] [ref=f131e420]:
+                  - link [ref=f131e421] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/rippling?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Rippling
+                - generic [ref=f131e422]:
+                  - generic [ref=f131e423]: San Francisco, CA
+                  - time [ref=f131e424]: 3 days ago
+          - listitem [ref=f131e425]:
+            - generic [ref=f131e426]:
+              - link [ref=f131e427] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-backend-at-robinhood-4443622465?position=26&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=77n31grz%2FdipIRstftXECQ%3D%3D
+                - generic [ref=f131e428]: Software Engineer, Backend
+              - generic [ref=f131e430]:
+                - heading [level=3] [ref=f131e431]: Software Engineer, Backend
+                - heading [level=4] [ref=f131e432]:
+                  - link [ref=f131e433] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/robinhood?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Robinhood
+                - generic [ref=f131e434]:
+                  - generic [ref=f131e435]: Menlo Park, CA
+                  - time [ref=f131e436]: 5 days ago
+          - listitem [ref=f131e437]:
+            - generic [ref=f131e438]:
+              - link [ref=f131e439] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/staff-software-engineer-core-experience-at-rippling-4458526715?position=27&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=MLOA2BgBdy2k%2Bq%2FtmGRDsw%3D%3D
+                - generic [ref=f131e440]: Staff Software Engineer - Core Experience
+              - generic [ref=f131e442]:
+                - heading [level=3] [ref=f131e443]: Staff Software Engineer - Core Experience
+                - heading [level=4] [ref=f131e444]:
+                  - link [ref=f131e445] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/rippling?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Rippling
+                - generic [ref=f131e446]:
+                  - generic [ref=f131e447]: San Francisco, CA
+                  - time [ref=f131e448]: 14 hours ago
+          - listitem [ref=f131e449]:
+            - generic [ref=f131e450]:
+              - link [ref=f131e451] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-tech-foundations-at-airbnb-4467787219?position=28&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=Utzz9ST0CajCcJbgjouFaw%3D%3D
+                - generic [ref=f131e452]: Senior Software Engineer, Tech Foundations
+              - generic [ref=f131e454]:
+                - heading [level=3] [ref=f131e455]: Senior Software Engineer, Tech Foundations
+                - heading [level=4] [ref=f131e456]:
+                  - link [ref=f131e457] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/airbnb?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Airbnb
+                - generic [ref=f131e458]:
+                  - generic [ref=f131e459]: San Francisco, CA
+                  - time [ref=f131e460]: 8 hours ago
+          - listitem [ref=f131e461]:
+            - generic [ref=f131e462]:
+              - link [ref=f131e463] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-ads-pangle-usds-at-tiktok-usds-joint-venture-4466789366?position=29&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=UR54wkYBMBG68ddd%2BwSyaQ%3D%3D
+                - generic [ref=f131e464]: Senior Software Engineer, Ads Pangle - USDS
+              - generic [ref=f131e466]:
+                - heading [level=3] [ref=f131e467]: Senior Software Engineer, Ads Pangle - USDS
+                - heading [level=4] [ref=f131e468]:
+                  - link [ref=f131e469] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/tiktokusdsjv?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: TikTok USDS Joint Venture
+                - generic [ref=f131e470]:
+                  - generic [ref=f131e471]: San Jose, CA
+                  - time [ref=f131e472]: 2 days ago
+          - listitem [ref=f131e473]:
+            - generic [ref=f131e474]:
+              - link [ref=f131e475] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-ai-experiences-copilot-at-microsoft-4456721274?position=30&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=x7YH%2BTG6MQxTMk75aLeIFA%3D%3D
+                - generic [ref=f131e476]: Senior Software Engineer - AI Experiences, Copilot
+              - generic [ref=f131e478]:
+                - heading [level=3] [ref=f131e479]: Senior Software Engineer - AI Experiences, Copilot
+                - heading [level=4] [ref=f131e480]:
+                  - link [ref=f131e481] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/microsoft?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Microsoft
+                - generic [ref=f131e482]:
+                  - generic [ref=f131e483]: Mountain View, CA
+                  - time [ref=f131e484]: 5 days ago
+          - listitem [ref=f131e485]:
+            - generic [ref=f131e486]:
+              - link [ref=f131e487] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-at-autodesk-4456893654?position=31&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=QVrEkpTJAcvUK%2BZofU7rOA%3D%3D
+                - generic [ref=f131e488]: Software Engineer
+              - generic [ref=f131e490]:
+                - heading [level=3] [ref=f131e491]: Software Engineer
+                - heading [level=4] [ref=f131e492]:
+                  - link [ref=f131e493] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/autodesk?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Autodesk
+                - generic [ref=f131e494]:
+                  - generic [ref=f131e495]: San Francisco, CA
+                  - time [ref=f131e496]: 18 hours ago
+          - listitem [ref=f131e497]:
+            - generic [ref=f131e498]:
+              - link [ref=f131e499] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-backend-partner-merchant-interface-at-affirm-4464103952?position=32&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=sKbkiQYJPOFbntw0KLNpSA%3D%3D
+                - generic [ref=f131e500]: Senior Software Engineer, Backend (Partner Merchant Interface)
+              - generic [ref=f131e502]:
+                - heading [level=3] [ref=f131e503]: Senior Software Engineer, Backend (Partner Merchant Interface)
+                - heading [level=4] [ref=f131e504]:
+                  - link [ref=f131e505] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/affirm?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Affirm
+                - generic [ref=f131e506]:
+                  - generic [ref=f131e507]: San Francisco, CA
+                  - generic [ref=f131e508]: Be an early applicant
+                  - time [ref=f131e511]: 6 days ago
+          - listitem [ref=f131e512]:
+            - generic [ref=f131e513]:
+              - link [ref=f131e514] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-backend-partner-merchant-interface-at-affirm-4464115317?position=33&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=8BYDND1F%2B5RlMULDaMepvw%3D%3D
+                - generic [ref=f131e515]: Senior Software Engineer, Backend (Partner Merchant Interface)
+              - generic [ref=f131e517]:
+                - heading [level=3] [ref=f131e518]: Senior Software Engineer, Backend (Partner Merchant Interface)
+                - heading [level=4] [ref=f131e519]:
+                  - link [ref=f131e520] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/affirm?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Affirm
+                - generic [ref=f131e521]:
+                  - generic [ref=f131e522]: San Jose, CA
+                  - generic [ref=f131e523]: Be an early applicant
+                  - time [ref=f131e526]: 6 days ago
+          - listitem [ref=f131e527]:
+            - generic [ref=f131e528]:
+              - link [ref=f131e529] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-vehicle-access-cloud-at-rivian-and-volkswagen-group-technologies-4415997765?position=34&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=NUpxZKBWAGaEHM8foKEAuw%3D%3D
+                - generic [ref=f131e530]: Senior Software Engineer, Vehicle Access Cloud
+              - generic [ref=f131e532]:
+                - heading [level=3] [ref=f131e533]: Senior Software Engineer, Vehicle Access Cloud
+                - heading [level=4] [ref=f131e534]:
+                  - link [ref=f131e535] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/rivian-and-vw-group-technologies?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Rivian and Volkswagen Group Technologies
+                - generic [ref=f131e536]:
+                  - generic [ref=f131e537]: Palo Alto, CA
+                  - time [ref=f131e538]: 1 day ago
+          - listitem [ref=f131e539]:
+            - generic [ref=f131e540]:
+              - link [ref=f131e541] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/staff-backend-engineer-core-product-at-scribe-4365154832?position=35&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=rD6XZBD3ECYVMRIaxywCkg%3D%3D
+                - generic [ref=f131e542]: Staff Backend Engineer, Core Product
+              - generic [ref=f131e544]:
+                - heading [level=3] [ref=f131e545]: Staff Backend Engineer, Core Product
+                - heading [level=4] [ref=f131e546]:
+                  - link [ref=f131e547] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/scribehow?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Scribe
+                - generic [ref=f131e548]:
+                  - generic [ref=f131e549]: San Francisco, CA
+                  - time [ref=f131e550]: 1 day ago
+          - listitem [ref=f131e551]:
+            - generic [ref=f131e552]:
+              - link [ref=f131e553] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-android-at-zoox-4411755461?position=36&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=lZpMoSTKUR1RDRXlN7wnbw%3D%3D
+                - generic [ref=f131e554]: Software Engineer, Android
+              - generic [ref=f131e556]:
+                - heading [level=3] [ref=f131e557]: Software Engineer, Android
+                - heading [level=4] [ref=f131e558]:
+                  - link [ref=f131e559] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/zoox-inc?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Zoox
+                - generic [ref=f131e560]:
+                  - generic [ref=f131e561]: Foster City, CA
+                  - time [ref=f131e562]: 1 day ago
+          - listitem [ref=f131e563]:
+            - generic [ref=f131e564]:
+              - link [ref=f131e565] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-development-engineer-security-platform-at-twitch-4456606613?position=37&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=JOKFcSRBMpdpqvfEPGodQg%3D%3D
+                - generic [ref=f131e566]: Software Development Engineer, Security Platform
+              - generic [ref=f131e568]:
+                - heading [level=3] [ref=f131e569]: Software Development Engineer, Security Platform
+                - heading [level=4] [ref=f131e570]:
+                  - link [ref=f131e571] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/twitch-tv?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Twitch
+                - generic [ref=f131e572]:
+                  - generic [ref=f131e573]: San Francisco, CA
+                  - time [ref=f131e574]: 3 days ago
+          - listitem [ref=f131e575]:
+            - generic [ref=f131e576]:
+              - link [ref=f131e577] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-windows-365-link-at-microsoft-4457326081?position=38&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=KUX2OTlVCc%2Ff%2FLLHIy3a8Q%3D%3D
+                - generic [ref=f131e578]: Senior Software Engineer - Windows 365 Link
+              - generic [ref=f131e580]:
+                - heading [level=3] [ref=f131e581]: Senior Software Engineer - Windows 365 Link
+                - heading [level=4] [ref=f131e582]:
+                  - link [ref=f131e583] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/microsoft?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Microsoft
+                - generic [ref=f131e584]:
+                  - generic [ref=f131e585]: San Francisco, CA
+                  - time [ref=f131e586]: 4 days ago
+          - listitem [ref=f131e587]:
+            - generic [ref=f131e588]:
+              - link [ref=f131e589] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-software-development-engineer-full-stack-agent-factory-at-workday-4465913103?position=39&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=vUAUTe9X1q%2BNxZe7uh0elw%3D%3D
+                - generic [ref=f131e590]: Senior Software Development Engineer (Full Stack) - Agent Factory
+              - generic [ref=f131e592]:
+                - heading [level=3] [ref=f131e593]: Senior Software Development Engineer (Full Stack) - Agent Factory
+                - heading [level=4] [ref=f131e594]:
+                  - link [ref=f131e595] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/workday?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Workday
+                - generic [ref=f131e596]:
+                  - generic [ref=f131e597]: Pleasanton, CA
+                  - generic [ref=f131e598]: Be an early applicant
+                  - time [ref=f131e601]: 8 hours ago
+          - listitem [ref=f131e602]:
+            - generic [ref=f131e603]:
+              - link [ref=f131e604] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-backend-software-engineer-%E2%80%94-iot-platform-at-e-space-4454172241?position=40&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=og%2FIiWVKvqVBrMQ2%2F0xaeg%3D%3D
+                - generic [ref=f131e605]: Senior Backend Software Engineer — IoT Platform
+              - generic [ref=f131e607]:
+                - heading [level=3] [ref=f131e608]: Senior Backend Software Engineer — IoT Platform
+                - heading [level=4] [ref=f131e609]:
+                  - link [ref=f131e610] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/e-space-group?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: E-Space
+                - generic [ref=f131e611]:
+                  - generic [ref=f131e612]: Saratoga, CA
+                  - time [ref=f131e613]: 4 days ago
+          - listitem [ref=f131e614]:
+            - generic [ref=f131e615]:
+              - link [ref=f131e616] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-fullstack-engineer-product-platform-engineering-at-pivotal-health-4464881917?position=41&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=MivoEyv7x%2BMwXmhwrmAo2w%3D%3D
+                - generic [ref=f131e617]: Senior Fullstack Engineer - Product Platform Engineering
+              - generic [ref=f131e619]:
+                - heading [level=3] [ref=f131e620]: Senior Fullstack Engineer - Product Platform Engineering
+                - heading [level=4] [ref=f131e621]:
+                  - link [ref=f131e622] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/pivotal-health-ai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Pivotal Health
+                - generic [ref=f131e623]:
+                  - generic [ref=f131e624]: San Francisco, CA
+                  - generic [ref=f131e625]: Be an early applicant
+                  - time [ref=f131e628]: 4 days ago
+          - listitem [ref=f131e629]:
+            - generic [ref=f131e630]:
+              - link [ref=f131e631] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-5-member-commerce-games-engineering-at-netflix-4219576591?position=42&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=yrVygy%2FoKqQDkMvf7g7Zcw%3D%3D
+                - generic [ref=f131e632]: Software Engineer 5 - Member, Commerce & Games Engineering
+              - generic [ref=f131e634]:
+                - heading [level=3] [ref=f131e635]: Software Engineer 5 - Member, Commerce & Games Engineering
+                - heading [level=4] [ref=f131e636]:
+                  - link [ref=f131e637] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/netflix?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Netflix
+                - generic [ref=f131e638]:
+                  - generic [ref=f131e639]: Los Gatos, CA
+                  - time [ref=f131e640]: 3 days ago
+          - listitem [ref=f131e641]:
+            - generic [ref=f131e642]:
+              - link [ref=f131e643] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-tokenization-at-robinhood-4463482563?position=43&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=elOi%2B9miQgYzgW9TxNsmvQ%3D%3D
+                - generic [ref=f131e644]: Senior Software Engineer, Tokenization
+              - generic [ref=f131e646]:
+                - heading [level=3] [ref=f131e647]: Senior Software Engineer, Tokenization
+                - heading [level=4] [ref=f131e648]:
+                  - link [ref=f131e649] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/robinhood?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Robinhood
+                - generic [ref=f131e650]:
+                  - generic [ref=f131e651]: Menlo Park, CA
+                  - time [ref=f131e652]: 5 days ago
+          - listitem [ref=f131e653]:
+            - generic [ref=f131e654]:
+              - link [ref=f131e655] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-data-protection-software-engineering-at-dell-technologies-4465408383?position=44&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=oHbMQW%2BewOI0%2BP3iwvM8aw%3D%3D
+                - generic [ref=f131e656]: Software Engineer - Data Protection Software Engineering
+              - generic [ref=f131e658]:
+                - heading [level=3] [ref=f131e659]: Software Engineer - Data Protection Software Engineering
+                - heading [level=4] [ref=f131e660]:
+                  - link [ref=f131e661] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/delltechnologies?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Dell Technologies
+                - generic [ref=f131e662]:
+                  - generic [ref=f131e663]: Santa Clara, CA
+                  - time [ref=f131e664]: 3 days ago
+          - listitem [ref=f131e665]:
+            - generic [ref=f131e666]:
+              - link [ref=f131e667] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-database-engineering-at-snowflake-4446548594?position=45&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=oBpOSOmP0rfDeZiPP5CEEA%3D%3D
+                - generic [ref=f131e668]: Software Engineer - Database Engineering
+              - generic [ref=f131e670]:
+                - heading [level=3] [ref=f131e671]: Software Engineer - Database Engineering
+                - heading [level=4] [ref=f131e672]:
+                  - link [ref=f131e673] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/snowflake-computing?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Snowflake
+                - generic [ref=f131e674]:
+                  - generic [ref=f131e675]: Menlo Park, CA
+                  - time [ref=f131e676]: 5 days ago
+          - listitem [ref=f131e677]:
+            - generic [ref=f131e678]:
+              - link [ref=f131e679] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-backend-at-grow-therapy-4427398705?position=46&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=zv46vvSymYKA6Qw8PTbhJw%3D%3D
+                - generic [ref=f131e680]: Senior Software Engineer, Backend
+              - generic [ref=f131e682]:
+                - heading [level=3] [ref=f131e683]: Senior Software Engineer, Backend
+                - heading [level=4] [ref=f131e684]:
+                  - link [ref=f131e685] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/grow-therapy?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Grow Therapy
+                - generic [ref=f131e686]:
+                  - generic [ref=f131e687]: San Francisco, CA
+                  - time [ref=f131e688]: 4 days ago
+          - listitem [ref=f131e689]:
+            - generic [ref=f131e690]:
+              - link [ref=f131e691] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-3-search-systems-replication-routing-at-mongodb-4391100797?position=47&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=W3me3cBVXnOn9wXC8JKwng%3D%3D
+                - generic [ref=f131e692]: Software Engineer 3, Search Systems Replication & Routing
+              - generic [ref=f131e694]:
+                - heading [level=3] [ref=f131e695]: Software Engineer 3, Search Systems Replication & Routing
+                - heading [level=4] [ref=f131e696]:
+                  - link [ref=f131e697] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/mongodbinc?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: MongoDB
+                - generic [ref=f131e698]:
+                  - generic [ref=f131e699]: San Francisco, CA
+                  - time [ref=f131e700]: 2 days ago
+          - listitem [ref=f131e701]:
+            - generic [ref=f131e702]:
+              - link [ref=f131e703] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-at-paypal-4466393169?position=48&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=dKqKzzgAz7gz0UYNTDkoyg%3D%3D
+                - generic [ref=f131e704]: Software Engineer
+              - generic [ref=f131e706]:
+                - heading [level=3] [ref=f131e707]: Software Engineer
+                - heading [level=4] [ref=f131e708]:
+                  - link [ref=f131e709] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/paypal?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: PayPal
+                - generic [ref=f131e710]:
+                  - generic [ref=f131e711]: San Jose, CA
+                  - time [ref=f131e712]: 4 days ago
+          - listitem [ref=f131e713]:
+            - generic [ref=f131e714]:
+              - link [ref=f131e715] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-north-for-finance-at-cohere-4428410424?position=49&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=fTkYkDfnjVYkMarYy89Cpg%3D%3D
+                - generic [ref=f131e716]: Software Engineer, North for Finance
+              - generic [ref=f131e718]:
+                - heading [level=3] [ref=f131e719]: Software Engineer, North for Finance
+                - heading [level=4] [ref=f131e720]:
+                  - link [ref=f131e721] [cursor=pointer]:
+                    - /url: https://ca.linkedin.com/company/cohere-ai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Cohere
+                - generic [ref=f131e722]:
+                  - generic [ref=f131e723]: San Francisco, CA
+                  - time [ref=f131e724]: 4 days ago
+          - listitem [ref=f131e725]:
+            - generic [ref=f131e726]:
+              - link [ref=f131e727] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/staff-software-engineer-vehicle-access-cloud-at-rivian-and-volkswagen-group-technologies-4419581443?position=50&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=YHP897EgIkt3vnW2bhUt9g%3D%3D
+                - generic [ref=f131e728]: Staff Software Engineer, Vehicle Access Cloud
+              - generic [ref=f131e730]:
+                - heading [level=3] [ref=f131e731]: Staff Software Engineer, Vehicle Access Cloud
+                - heading [level=4] [ref=f131e732]:
+                  - link [ref=f131e733] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/rivian-and-vw-group-technologies?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Rivian and Volkswagen Group Technologies
+                - generic [ref=f131e734]:
+                  - generic [ref=f131e735]: Palo Alto, CA
+                  - time [ref=f131e736]: 3 days ago
+          - listitem [ref=f131e737]:
+            - generic [ref=f131e738]:
+              - link [ref=f131e739] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-android-at-world-4243129195?position=51&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=Htfa3%2FeP8zorrZhGHWgt3g%3D%3D
+                - generic [ref=f131e740]: Senior Software Engineer, Android
+              - generic [ref=f131e742]:
+                - heading [level=3] [ref=f131e743]: Senior Software Engineer, Android
+                - heading [level=4] [ref=f131e744]:
+                  - link [ref=f131e745] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/worldofficial?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: World
+                - generic [ref=f131e746]:
+                  - generic [ref=f131e747]: San Francisco, CA
+                  - time [ref=f131e748]: 1 day ago
+          - listitem [ref=f131e749]:
+            - generic [ref=f131e750]:
+              - link [ref=f131e751] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-datacenter-at-intel-4466147741?position=52&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=%2B%2BlSfboZI25jKrmQFZiPrw%3D%3D
+                - generic [ref=f131e752]: Software Engineer – Datacenter
+              - generic [ref=f131e754]:
+                - heading [level=3] [ref=f131e755]: Software Engineer – Datacenter
+                - heading [level=4] [ref=f131e756]:
+                  - link [ref=f131e757] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/intel-corporation?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Intel
+                - generic [ref=f131e758]:
+                  - generic [ref=f131e759]: Santa Clara, CA
+                  - time [ref=f131e760]: 1 day ago
+          - listitem [ref=f131e761]:
+            - generic [ref=f131e762]:
+              - link [ref=f131e763] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-at-tanium-4466580517?position=53&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=Xr%2F8yqSVouEmP8y%2BSiU1eA%3D%3D
+                - generic [ref=f131e764]: Senior Software Engineer
+              - generic [ref=f131e766]:
+                - heading [level=3] [ref=f131e767]: Senior Software Engineer
+                - heading [level=4] [ref=f131e768]:
+                  - link [ref=f131e769] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/tanium?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Tanium
+                - generic [ref=f131e770]:
+                  - generic [ref=f131e771]: Emeryville, CA
+                  - generic [ref=f131e772]: Be an early applicant
+                  - time [ref=f131e775]: 8 hours ago
+          - listitem [ref=f131e776]:
+            - generic [ref=f131e777]:
+              - link [ref=f131e778] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-messaging-platform-at-whatnot-4445760480?position=54&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=GonjJ1e2dFd%2B4PjyXOAPTA%3D%3D
+                - generic [ref=f131e779]: Software Engineer, Messaging Platform
+              - generic [ref=f131e781]:
+                - heading [level=3] [ref=f131e782]: Software Engineer, Messaging Platform
+                - heading [level=4] [ref=f131e783]:
+                  - link [ref=f131e784] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/whatnot-inc?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Whatnot
+                - generic [ref=f131e785]:
+                  - generic [ref=f131e786]: San Francisco, CA
+                  - time [ref=f131e787]: 5 days ago
+          - listitem [ref=f131e788]:
+            - generic [ref=f131e789]:
+              - link [ref=f131e790] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-attestation-services-dgx-cloud-at-nvidia-4455476233?position=55&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=or0FVIahYUA9sYQpiZ6xmA%3D%3D
+                - generic [ref=f131e791]: Senior Software Engineer, Attestation Services - DGX Cloud
+              - generic [ref=f131e793]:
+                - heading [level=3] [ref=f131e794]: Senior Software Engineer, Attestation Services - DGX Cloud
+                - heading [level=4] [ref=f131e795]:
+                  - link [ref=f131e796] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/nvidia?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: NVIDIA
+                - generic [ref=f131e797]:
+                  - generic [ref=f131e798]: Santa Clara, CA
+                  - time [ref=f131e799]: 5 days ago
+          - listitem [ref=f131e800]:
+            - generic [ref=f131e801]:
+              - link [ref=f131e802] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-backend-at-turo-4465805527?position=56&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=wNuunnUwhi8r8rzcLo9jlw%3D%3D
+                - generic [ref=f131e803]: Senior Software Engineer, Backend
+              - generic [ref=f131e805]:
+                - heading [level=3] [ref=f131e806]: Senior Software Engineer, Backend
+                - heading [level=4] [ref=f131e807]:
+                  - link [ref=f131e808] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/turo?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Turo
+                - generic [ref=f131e809]:
+                  - generic [ref=f131e810]: San Francisco, CA
+                  - time [ref=f131e811]: 5 days ago
+          - listitem [ref=f131e812]:
+            - generic [ref=f131e813]:
+              - link [ref=f131e814] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-development-engineer-music-search-retrieval-technology-at-amazon-music-4467228355?position=57&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=b9alhU2pxbqNNYLVATtEQw%3D%3D
+                - generic [ref=f131e815]: Software Development Engineer, Music Search Retrieval Technology
+              - generic [ref=f131e817]:
+                - heading [level=3] [ref=f131e818]: Software Development Engineer, Music Search Retrieval Technology
+                - heading [level=4] [ref=f131e819]:
+                  - link [ref=f131e820] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/amazon-music?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Amazon Music
+                - generic [ref=f131e821]:
+                  - generic [ref=f131e822]: Sunnyvale, CA
+                  - time [ref=f131e823]: 1 day ago
+          - listitem [ref=f131e824]:
+            - generic [ref=f131e825]:
+              - link [ref=f131e826] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-e2-at-lockheed-martin-4463988436?position=58&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=F8fks9jAdoLwI1NBe%2F9cEg%3D%3D
+                - generic [ref=f131e827]: Software Engineer - E2
+              - generic [ref=f131e829]:
+                - heading [level=3] [ref=f131e830]: Software Engineer - E2
+                - heading [level=4] [ref=f131e831]:
+                  - link [ref=f131e832] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/lockheed-martin?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Lockheed Martin
+                - generic [ref=f131e833]:
+                  - generic [ref=f131e834]: Sunnyvale, CA
+                  - time [ref=f131e835]: 4 days ago
+          - listitem [ref=f131e836]:
+            - generic [ref=f131e837]:
+              - link [ref=f131e838] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/usa-senior-software-engineer-at-walmart-connect-4454161930?position=59&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=L2UNTto3AV5LWiJDYZdTYQ%3D%3D
+                - generic [ref=f131e839]: (USA) Senior, Software Engineer
+              - generic [ref=f131e841]:
+                - heading [level=3] [ref=f131e842]: (USA) Senior, Software Engineer
+                - heading [level=4] [ref=f131e843]:
+                  - link [ref=f131e844] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/walmart-connect?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Walmart Connect
+                - generic [ref=f131e845]:
+                  - generic [ref=f131e846]: Sunnyvale, CA
+                  - time [ref=f131e847]: 4 days ago
+          - listitem [ref=f131e848]:
+            - generic [ref=f131e849]:
+              - link [ref=f131e850] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/sr-software-engineer-planpoint-at-intuitive-4448397155?position=60&pageNum=0&refId=0eL%2FZOabR4BptJdlJ8LFzg%3D%3D&trackingId=CnZI9hDN%2Ff0gnL1wjNEMfA%3D%3D
+                - generic [ref=f131e851]: Sr Software Engineer, PlanPoint
+              - generic [ref=f131e853]:
+                - heading [level=3] [ref=f131e854]: Sr Software Engineer, PlanPoint
+                - heading [level=4] [ref=f131e855]:
+                  - link [ref=f131e856] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/intuitivesurgical?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Intuitive
+                - generic [ref=f131e857]:
+                  - generic [ref=f131e858]: Sunnyvale, CA
+                  - time [ref=f131e859]: 19 hours ago
+      - generic [ref=f131e915]:
+        - generic [ref=f131e917]:
+          - link [ref=f131e918] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/general-motors?trk=public_jobs_topcard_logo
+          - generic [ref=f131e921]:
+            - link [ref=f131e922] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-go-golang-at-general-motors-4419973506?trk=public_jobs_topcard-title
+              - heading [level=2] [ref=f131e923]: Senior Software Engineer – Go (Golang)
+            - heading [level=4] [ref=f131e924]:
+              - generic [ref=f131e925]:
+                - link [ref=f131e927] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/general-motors?trk=public_jobs_topcard-org-name
+                  - text: General Motors
+                - text: · Mountain View, CA
+              - generic [ref=f131e928]: 2 days ago · 197 applicants
+              - link [ref=f131e929] [cursor=pointer]:
+                - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D1472&emailAddress=&fromSignIn=&trk=public_jobs_see-who-was-hired_people-search-link_face-pile-cta
+                - paragraph [ref=f131e932]: See who General Motors has hired for this role
+            - generic [ref=f131e933]:
+              - button [ref=f131e934] [cursor=pointer]: Apply
+              - button [ref=f131e938] [cursor=pointer]: Save
+          - button [ref=f131e941] [cursor=pointer]
+          - generic [ref=f131e946]:
+            - heading [level=3] [ref=f131e952]: Use AI to assess how you fit
+            - paragraph [ref=f131e953]: Get AI-powered advice on this job and more exclusive features.
+            - generic [ref=f131e954]:
+              - button [ref=f131e955] [cursor=pointer]
+              - button [ref=f131e959] [cursor=pointer]:
+                - generic [ref=f131e963]: Am I a good fit for this job?
+              - button [ref=f131e964] [cursor=pointer]:
+                - generic [ref=f131e968]: Tailor my resume
+        - generic [ref=f131e969]:
+          - generic [ref=f131e971]:
+            - generic [ref=f131e973]:
+              - generic [ref=f131e974]:
+                - strong [ref=f131e975]: Job Description
+                - text: As a Senior Software Engineer – Go (Golang), you will design, develop, and deliver high-performance middleware and application software solutions supporting GM’s next-generation in-vehicle infotainment platforms and connected vehicle systems. You will play a critical role in building scalable, reliable, and efficient systems that enable advanced user experiences, vehicle integration, and cloud-connected capabilities. This role requires strong technical expertise, ownership, and the ability to collaborate effectively across cross-functional teams.
+                - strong [ref=f131e976]: "What You'll Do:"
+                - list [ref=f131e977]:
+                  - listitem [ref=f131e978]: Design, develop, and maintain high-performance backend services, middleware, and platform applications for GM infotainment and connected systems
+                  - listitem [ref=f131e979]: Write clean, maintainable, and high-performance Go code; ensure scalability, fault tolerance, and resiliency
+                  - listitem [ref=f131e980]: Build high-throughput systems optimized for memory efficiency, low latency, and overall performance
+                  - listitem [ref=f131e981]: Contribute to system architecture and design, driving technical solutions aligned with platform and product requirements
+                  - listitem [ref=f131e982]: Own the end-to-end defect lifecycle, including root cause analysis, resolution, validation, and continuous improvement
+                  - listitem [ref=f131e983]: Collaborate with cross-functional teams (Systems, Integration, Product, Platform, Design) to deliver robust and integrated software solutions
+                  - listitem [ref=f131e984]: Lead and participate in design reviews, code reviews, and technical discussions to ensure high-quality, maintainable solutions
+                  - listitem [ref=f131e985]: Mentor and coach engineers, promoting best practices in coding, testing, and system design
+                  - listitem [ref=f131e986]: Utilize Agile development processes, including Sprint Planning, Daily Stand-Ups, and Retrospectives
+                  - listitem [ref=f131e987]: Adhere to GM’s software development processes, ensuring quality and alignment with architectural standards.
+                - strong [ref=f131e988]: "Your Skills & Abilities (Qualifications):"
+                - list [ref=f131e989]:
+                  - listitem [ref=f131e990]: Bachelor’s degree in Computer Science, Electrical Engineering, or a related field
+                  - listitem [ref=f131e991]: 5+ years of software development experience
+                  - listitem [ref=f131e992]: Strong proficiency in Go fundamentals (structs, interfaces, channels, goroutines) and deep understanding of concurrency and parallel processing
+                  - listitem [ref=f131e993]: Experience designing and developing RESTful APIs, gRPC services, and backend systems
+                  - listitem [ref=f131e994]: Experience designing and building distributed systems or microservices architectures
+                  - listitem [ref=f131e995]: Experience with CI/CD pipelines, Git-based workflows, and modern development tools
+                  - listitem [ref=f131e996]: Experience with SQL and/or NoSQL databases and data-driven applications
+                  - listitem [ref=f131e997]: Strong analytical and problem-solving skills, with the ability to diagnose and resolve complex system issues
+                  - listitem [ref=f131e998]: Excellent communication skills and ability to collaborate across distributed teams.
+                - listitem [ref=f131e999]
+                - strong [ref=f131e1000]: "What Will Give You a Competitive Edge (Preferred Qualifications):"
+                - list [ref=f131e1001]:
+                  - listitem [ref=f131e1002]: Experience in automotive software development, particularly infotainment systems, clusters, or vehicle middleware
+                  - listitem [ref=f131e1003]: Understanding of the Vehicle Development Process (VDP) or similar automotive lifecycle processes
+                  - listitem [ref=f131e1004]: Experience with system observability (logging, monitoring, tracing) and production support
+                  - listitem [ref=f131e1005]: Exposure to safety-critical or real-time systems.
+                - text: "Compensation: The compensation information is a good faith estimate only. It is based on what a successful applicant might be paid in accordance with applicable state laws."
+                - strong [ref=f131e1006]: The compensation may not be representative for positions located outside of the California Bay Area
+                - text: ". The salary range for this role is $160,000 and $200,000. The actual base salary a successful candidate will be offered within this range will vary based on factors relevant to the position. Bonus Potential: An incentive pay program offers payouts based on company performance, job level, and individual performance. Benefits: GM offers a variety of health and wellbeing benefit programs. Benefit options include medical, dental, vision, Health Savings Account, Flexible Spending Accounts, retirement savings plan, sickness and accident benefits, life insurance, paid vacation & holidays, tuition assistance programs, employee assistance program, GM vehicle discounts and more. This role is categorized as hybrid. This means the selected candidate is expected to report to a specific location at least 3 times a week {or other frequency dictated by their manager}. This job may be eligible for relocation benefits."
+                - strong [ref=f131e1007]: About GM
+                - text: Our vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world better, safer and more equitable for all.
+                - strong [ref=f131e1008]: Why Join Us
+                - text: We believe we all must make a choice every day – individually and collectively – to drive meaningful change through our words, our deeds and our culture. Every day, we want every employee to feel they belong to one General Motors team.
+                - strong [ref=f131e1009]: Benefits Overview
+                - text: From day one, we're looking out for your well-being–at work and at home–so you can focus on realizing your ambitions. Learn how GM supports a rewarding career that rewards you personally by visiting
+                - strong [ref=f131e1010]: Total Rewards resources
+                - text: .
+                - strong [ref=f131e1011]: Non-Discrimination and Equal Employment Opportunities (U.S.)
+                - text: General Motors is committed to being a workplace that is not only free of unlawful discrimination, but one that genuinely fosters inclusion and belonging. We strongly believe that providing an inclusive workplace creates an environment in which our employees can thrive and develop better products for our customers. All employment decisions are made on a non-discriminatory basis without regard to sex, race, color, national origin, citizenship status, religion, age, disability, pregnancy or maternity status, sexual orientation, gender identity, status as a veteran or protected veteran, or any other similarly protected status in accordance with federal, state and local laws. We encourage interested candidates to review the key responsibilities and qualifications for each role and apply for any positions that match their skills and capabilities. Applicants in the recruitment process may be required, where applicable, to successfully complete a role-related assessment(s) and/or a pre-employment screening prior to beginning employment. To learn more, visit
+                - strong [ref=f131e1012]: How we Hire
+                - text: .
+                - strong [ref=f131e1013]: Accommodations
+                - text: General Motors offers opportunities to all job seekers including individuals with disabilities. If you need a reasonable accommodation to assist with your job search or application for employment,
+                - strong [ref=f131e1014]: email
+                - text: us or call us at 1-800-865-7580. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.
+              - button [ref=f131e1015] [cursor=pointer]: Show more
+            - list [ref=f131e1019]:
+              - listitem [ref=f131e1020]:
+                - heading [level=3] [ref=f131e1021]: Seniority level
+                - text: Not Applicable
+              - listitem [ref=f131e1022]:
+                - heading [level=3] [ref=f131e1023]: Employment type
+                - text: Full-time
+              - listitem [ref=f131e1024]:
+                - heading [level=3] [ref=f131e1025]: Job function
+                - text: Engineering and Information Technology
+              - listitem [ref=f131e1026]:
+                - heading [level=3] [ref=f131e1027]: Industries
+                - text: Motor Vehicle Manufacturing, Appliances, Electrical, and Electronics Manufacturing, and IT Services and IT Consulting
+          - generic [ref=f131e1032]:
+            - paragraph [ref=f131e1033]: Referrals increase your chances of interviewing at General Motors by 2x
+            - link [ref=f131e1034] [cursor=pointer]:
+              - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D1472&emailAddress=&fromSignIn=&trk=public_jobs_find-a-referral-cta
+              - text: See who you know
+    - contentinfo [ref=f131e862]:
+      - list [ref=f131e863]:
+        - generic [ref=f131e864]: LinkedIn
+        - generic [ref=f131e866]: © 2026
+        - listitem [ref=f131e867]:
+          - link [ref=f131e868] [cursor=pointer]:
+            - /url: https://about.linkedin.com?trk=public_jobs_footer-about
+            - text: About
+        - listitem [ref=f131e869]:
+          - link [ref=f131e870] [cursor=pointer]:
+            - /url: https://www.linkedin.com/accessibility?trk=public_jobs_footer-accessibility
+            - text: Accessibility
+        - listitem [ref=f131e871]:
+          - link [ref=f131e872] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/user-agreement?trk=public_jobs_footer-user-agreement
+            - text: User Agreement
+        - listitem [ref=f131e873]:
+          - link [ref=f131e874] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/privacy-policy?trk=public_jobs_footer-privacy-policy
+            - text: Privacy Policy
+        - listitem [ref=f131e875]:
+          - link [ref=f131e876] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/california-privacy-disclosure?trk=public_jobs_footer-california-privacy-rights-act
+            - text: Your California Privacy Choices
+        - listitem [ref=f131e877]:
+          - link [ref=f131e878] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/cookie-policy?trk=public_jobs_footer-cookie-policy
+            - text: Cookie Policy
+        - listitem [ref=f131e879]:
+          - link [ref=f131e880] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/copyright-policy?trk=public_jobs_footer-copyright-policy
+            - text: Copyright Policy
+        - listitem [ref=f131e881]:
+          - link [ref=f131e882] [cursor=pointer]:
+            - /url: https://brand.linkedin.com/policies?trk=public_jobs_footer-brand-policy
+            - text: Brand Policy
+        - listitem [ref=f131e883]:
+          - link [ref=f131e884] [cursor=pointer]:
+            - /url: https://www.linkedin.com/psettings/guest-controls?trk=public_jobs_footer-guest-controls
+            - text: Guest Controls
+        - listitem [ref=f131e885]:
+          - link [ref=f131e886] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/professional-community-policies?trk=public_jobs_footer-community-guide
+            - text: Community Guidelines
+        - listitem [ref=f131e887]:
+          - button [ref=f131e889]: Language
+  - dialog [active] [ref=f131e892]:
+    - button "Dismiss" [ref=f131e893] [cursor=pointer]
+    - generic [ref=f131e898]:
+      - heading "Sign in to view more jobs" [level=2] [ref=f131e900]
+      - generic [ref=f131e901]:
+        - button "Continue with google" [ref=f131e1037]:
+          - iframe [ref=f131e1039]:
+            - button "Continue with Google. Opens in new tab" [ref=f134e3] [cursor=pointer]:
+              - generic [ref=f134e5]: Continue with Google
+        - button "Sign in with Email" [ref=f131e902] [cursor=pointer]
+        - paragraph [ref=f131e908]: or
+        - button "Continue with google" [ref=f131e1041]:
+          - iframe [ref=f131e1043]:
+            - button "Continue with Google. Opens in new tab" [ref=f135e3] [cursor=pointer]:
+              - generic [ref=f135e5]: Continue with Google
+        - paragraph [ref=f131e909]:
+          - text: New to LinkedIn?
+          - link "Join now" [ref=f131e910] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&trk=public_jobs_contextual-sign-in-modal_join-link
+        - paragraph [ref=f131e911]:
+          - text: By clicking Continue to join or sign in, you agree to LinkedIn’s
+          - link "User Agreement" [ref=f131e912] [cursor=pointer]:
+            - /url: /legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement
+          - text: ","
+          - link "Privacy Policy" [ref=f131e913] [cursor=pointer]:
+            - /url: /legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy
+          - text: ", and"
+          - link "Cookie Policy" [ref=f131e914] [cursor=pointer]:
+            - /url: /legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy
+          - text: .

@@ -1,0 +1,450 @@
+- generic [active] [ref=f54e1]:
+  - generic [ref=f54e2]:
+    - banner [ref=f54e3]:
+      - paragraph [ref=f54e8]:
+        - text: Fireblocks launches the Agentic Payments Suite, powering agent-initiated payments for PSPs and Fintechs.
+        - strong [ref=f54e9]:
+          - generic [ref=f54e10]:
+            - link "Learn more" [ref=f54e11] [cursor=pointer]:
+              - /url: /blog/agentic-payments-suite-psp-fintech
+            - text: .
+      - banner [ref=f54e12]:
+        - generic [ref=f54e15]:
+          - link [ref=f54e18] [cursor=pointer]:
+            - /url: https://www.fireblocks.com/
+            - img "Fireblocks" [ref=f54e20]
+          - generic [ref=f54e21]:
+            - button "Select language" [ref=f54e23] [cursor=pointer]
+            - button "Toggle Menu" [ref=f54e27] [cursor=pointer]
+    - generic [ref=f54e28]:
+      - generic [ref=f54e30]:
+        - generic [ref=f54e32]:
+          - heading [level=1] [ref=f54e33]:
+            - text: Join the team powering
+            - mark [ref=f54e34]: financial possibility.
+          - paragraph [ref=f54e35]: Be part of the team defining the next era of on-chain finance — where innovation meets scale, security, and industry-shaping leadership.
+          - link "See open roles" [ref=f54e38] [cursor=pointer]:
+            - /url: "#open-roles"
+        - figure [ref=f54e42]
+      - generic [ref=f54e49]:
+        - heading "Company values" [level=2] [ref=f54e50]
+        - generic [ref=f54e52]:
+          - generic [ref=f54e54]:
+            - figure [ref=f54e55]
+            - heading "Obsess over customers" [level=4] [ref=f54e56]
+            - paragraph [ref=f54e57]: Customer trust and success guide every decision we make.
+          - generic [ref=f54e59]:
+            - figure [ref=f54e60]
+            - heading "Operate with trust" [level=4] [ref=f54e61]
+            - paragraph [ref=f54e62]: We assume good intent and collaborate with openness and respect.
+          - generic [ref=f54e64]:
+            - figure [ref=f54e65]
+            - heading "Challenge the Status Quo" [level=4] [ref=f54e66]
+            - paragraph [ref=f54e67]: We experiment, learn fast, and keep raising the bar.
+        - generic [ref=f54e69]:
+          - generic [ref=f54e72]:
+            - figure [ref=f54e73]
+            - heading "Own it" [level=4] [ref=f54e74]
+            - paragraph [ref=f54e75]: We step forward and contribute boldly to make a real difference.
+          - generic [ref=f54e77]:
+            - figure [ref=f54e78]
+            - heading "Refuse to lose" [level=4] [ref=f54e79]
+            - paragraph [ref=f54e80]: We go beyond expectations and win together, no matter the challenge.
+      - generic [ref=f54e86]:
+        - generic [ref=f54e88]:
+          - heading "The benefits of working with us" [level=2] [ref=f54e89]
+          - paragraph [ref=f54e90]: Joining our team means accessing innovative solutions designed for your success. Experience a workplace that values your vision and actively supports your growth.
+        - generic [ref=f54e92]:
+          - generic [ref=f54e93]:
+            - figure [ref=f54e94]
+            - paragraph [ref=f54e95]: Competitive salary and equity
+          - generic [ref=f54e96]:
+            - figure [ref=f54e97]
+            - paragraph [ref=f54e98]: Generous and flexible PTO
+          - generic [ref=f54e99]:
+            - figure [ref=f54e100]
+            - paragraph [ref=f54e101]: Paid parental leave and family forming reimbursement
+          - generic [ref=f54e102]:
+            - figure [ref=f54e103]
+            - paragraph [ref=f54e104]: Premium medical and health coverage
+          - generic [ref=f54e105]:
+            - figure [ref=f54e106]
+            - paragraph [ref=f54e107]: Professional development resources
+          - generic [ref=f54e108]:
+            - figure [ref=f54e109]
+            - paragraph [ref=f54e110]: “Work where you’re best” hybrid model
+          - generic [ref=f54e111]:
+            - figure [ref=f54e112]
+            - paragraph [ref=f54e113]: Vibrant, high-energy work spaces
+      - generic [ref=f54e120]:
+        - heading "Open Positions" [level=2] [ref=f54e121]
+        - generic [ref=f54e123]:
+          - generic [ref=f54e124]:
+            - generic [ref=f54e125]:
+              - generic [ref=f54e126]: Search
+              - textbox "Search" [ref=f54e127]:
+                - /placeholder: Search by job title...
+            - generic [ref=f54e128]:
+              - generic [ref=f54e129]: Location
+              - combobox "Location" [ref=f54e130] [cursor=pointer]:
+                - option "Where would you like to apply?" [selected]
+                - option "Argentina; Mexico City"
+                - option "Australia"
+                - option "Berlin"
+                - option "Bogotá"
+                - option "Brazil; Toronto"
+                - option "Buenos Aires"
+                - option "California"
+                - option "Canada"
+                - option "Colombia; Buenos Aires"
+                - option "District of Columbia"
+                - option "Dubai"
+                - option "Florida"
+                - option "Germany"
+                - option "Germany; Netherlands"
+                - option "Hong Kong"
+                - option "Israel"
+                - option "Japan"
+                - option "London"
+                - option "London; United Kingdom"
+                - option "Mexico City"
+                - option "Mexico; São Paulo"
+                - option "Miami"
+                - option "Netherlands"
+                - option "Netherlands; Zürich"
+                - option "New York"
+                - option "Ontario"
+                - option "San Francisco"
+                - option "Seattle"
+                - option "Seoul"
+                - option "Singapore"
+                - option "South Korea"
+                - option "Switzerland"
+                - option "São Paulo"
+                - option "Tel Aviv District"
+                - option "Tel Aviv-Yafo"
+                - option "Tokyo Prefecture"
+                - option "United Kingdom"
+                - option "United States"
+                - option "United States; New York; United States"
+                - option "Washington"
+                - option "Zürich"
+          - generic [ref=f54e131]:
+            - button "Customer Operations 12" [ref=f54e133] [cursor=pointer]:
+              - generic [ref=f54e134]:
+                - text: Customer Operations
+                - generic [ref=f54e135]: "12"
+            - button "Finance 1" [ref=f54e140] [cursor=pointer]:
+              - generic [ref=f54e141]:
+                - text: Finance
+                - generic [ref=f54e142]: "1"
+            - button "Financial Services 2" [ref=f54e147] [cursor=pointer]:
+              - generic [ref=f54e148]:
+                - text: Financial Services
+                - generic [ref=f54e149]: "2"
+            - button "Legal & Compliance 5" [ref=f54e154] [cursor=pointer]:
+              - generic [ref=f54e155]:
+                - text: Legal & Compliance
+                - generic [ref=f54e156]: "5"
+            - button "Marketing 5" [ref=f54e161] [cursor=pointer]:
+              - generic [ref=f54e162]:
+                - text: Marketing
+                - generic [ref=f54e163]: "5"
+            - button "People 1" [ref=f54e168] [cursor=pointer]:
+              - generic [ref=f54e169]:
+                - text: People
+                - generic [ref=f54e170]: "1"
+            - button "R&D 8" [ref=f54e175] [cursor=pointer]:
+              - generic [ref=f54e176]:
+                - text: R&D
+                - generic [ref=f54e177]: "8"
+            - button "Sales 27" [ref=f54e182] [cursor=pointer]:
+              - generic [ref=f54e183]:
+                - text: Sales
+                - generic [ref=f54e184]: "27"
+            - button "Security 8" [ref=f54e189] [cursor=pointer]:
+              - generic [ref=f54e190]:
+                - text: Security
+                - generic [ref=f54e191]: "8"
+            - button "Technology & Product 2" [ref=f54e196] [cursor=pointer]:
+              - generic [ref=f54e197]:
+                - text: Technology & Product
+                - generic [ref=f54e198]: "2"
+    - contentinfo [ref=f54e202]:
+      - generic [ref=f54e204]:
+        - generic [ref=f54e206]:
+          - generic [ref=f54e207]:
+            - figure [ref=f54e208]
+            - paragraph [ref=f54e209]: Fireblocks is the world’s most trusted digital asset and stablecoin infrastructure company, empowering organizations of all sizes to build, manage and grow their business on the blockchain.
+            - paragraph [ref=f54e210]:
+              - link "info@fireblocks.com" [ref=f54e211] [cursor=pointer]:
+                - /url: mailto:info@fireblocks.com
+            - list [ref=f54e212]:
+              - listitem [ref=f54e213]:
+                - link "X" [ref=f54e214] [cursor=pointer]:
+                  - /url: https://twitter.com/FireblocksHQ
+              - listitem [ref=f54e218]:
+                - link "LinkedIn" [ref=f54e219] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/fireblocks
+            - generic [ref=f54e223]:
+              - link "Live chat" [ref=f54e225] [cursor=pointer]:
+                - /url: https://start-chat.com/slack/fireblocks/p40AzH?UID=b9298867-801a-45e2-be8a-aa68629602b1.1789524137244
+              - link "Live chat" [ref=f54e227] [cursor=pointer]:
+                - /url: https://start-chat.com/tg/fireblocks/rqaBUr?UID=b9298867-801a-45e2-be8a-aa68629602b1.1789524137244
+          - paragraph [ref=f54e228]: Fireblocks © 2026 All Rights Reserved
+        - generic [ref=f54e230]:
+          - generic [ref=f54e231]:
+            - paragraph [ref=f54e232]: Wallets
+            - navigation [ref=f54e234]:
+              - list [ref=f54e236]:
+                - listitem [ref=f54e237]:
+                  - link "Treasury management" [ref=f54e239] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/products/treasury-management
+                - listitem [ref=f54e240]:
+                  - link "Wallet-as-a-service" [ref=f54e242] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/products/wallets-as-a-service
+                - listitem [ref=f54e243]:
+                  - link "Embedded wallets" [ref=f54e245] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/products/embedded-wallets
+                - listitem [ref=f54e246]:
+                  - link "Wallet connectors" [ref=f54e248] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/products/wallet-connectors
+                - listitem [ref=f54e249]:
+                  - link "Qualified custody" [ref=f54e251] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/trustco
+                - listitem [ref=f54e252]:
+                  - link "Cold wallets" [ref=f54e254] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/products/cold-wallet
+          - generic [ref=f54e255]:
+            - paragraph [ref=f54e256]:
+              - link "Payments" [ref=f54e257] [cursor=pointer]:
+                - /url: https://www.fireblocks.com/products/payments
+            - navigation [ref=f54e259]:
+              - list [ref=f54e261]:
+                - listitem [ref=f54e262]:
+                  - link "Network for Payments" [ref=f54e264] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/platforms/fireblocks-network/directory
+                - listitem [ref=f54e265]:
+                  - link "Agentic Payments" [ref=f54e267] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/products/agentic-payments
+                - listitem [ref=f54e268]:
+                  - link "Flow" [ref=f54e270] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/products/flow
+          - generic [ref=f54e271]:
+            - paragraph [ref=f54e272]: Operations
+            - navigation [ref=f54e274]:
+              - list [ref=f54e276]:
+                - listitem [ref=f54e277]:
+                  - link "Automation" [ref=f54e279] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/products/automation
+                - listitem [ref=f54e280]:
+                  - link "AI suite" [ref=f54e282] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/platforms/ai-suite
+          - generic [ref=f54e283]:
+            - paragraph [ref=f54e284]: Security & governance
+            - navigation [ref=f54e286]:
+              - list [ref=f54e288]:
+                - listitem [ref=f54e289]:
+                  - link "Policy Engine" [ref=f54e291] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/platforms/governance-and-policies
+                - listitem [ref=f54e292]:
+                  - link "Security Posture Management" [ref=f54e294] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/products/security-posture-management
+                - listitem [ref=f54e295]:
+                  - link "DeFi security suite" [ref=f54e297] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/platforms/defi
+          - generic [ref=f54e298]:
+            - paragraph [ref=f54e299]: Financial applications
+            - navigation [ref=f54e301]:
+              - list [ref=f54e303]:
+                - listitem [ref=f54e304]:
+                  - link "Tokenization" [ref=f54e306] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/products/tokenization
+                - listitem [ref=f54e307]:
+                  - link "Earn" [ref=f54e309] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/products/earn
+                - listitem [ref=f54e310]:
+                  - link "Staking" [ref=f54e312] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/products/staking
+                - listitem [ref=f54e313]:
+                  - link "Off Exchange" [ref=f54e315] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/platforms/off-exchange
+          - generic [ref=f54e316]:
+            - paragraph [ref=f54e317]: Reconciliation & compliance
+            - navigation [ref=f54e319]:
+              - list [ref=f54e321]:
+                - listitem [ref=f54e322]:
+                  - link "Compliance integrations" [ref=f54e324] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/platforms/compliance
+                - listitem [ref=f54e325]:
+                  - link "COR Compliance" [ref=f54e327] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/fireblocks-cyber-operational-resilience-cor-compliance-package
+                - listitem [ref=f54e328]:
+                  - link "Financial Data" [ref=f54e330] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/products/financial-data
+        - generic [ref=f54e332]:
+          - generic [ref=f54e333]:
+            - paragraph [ref=f54e334]: Solutions
+            - navigation [ref=f54e336]:
+              - list [ref=f54e338]:
+                - listitem [ref=f54e339]:
+                  - link "Digital asset infrastructure" [ref=f54e341] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/solutions/digital-asset-infrastructure
+                - listitem [ref=f54e342]:
+                  - link "Stablecoin infrastructure" [ref=f54e344] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/solutions/stablecoin-infrastructure
+                - listitem [ref=f54e345]:
+                  - link "Agentic infrastructure" [ref=f54e347] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/solutions/agentic-digital-asset-infrastructure
+          - generic [ref=f54e348]:
+            - paragraph [ref=f54e349]: Industries
+            - navigation [ref=f54e351]:
+              - list [ref=f54e353]:
+                - listitem [ref=f54e354]:
+                  - link "Trading firms" [ref=f54e356] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/industry/trading-firms
+                - listitem [ref=f54e357]:
+                  - link "Fintechs & exchanges" [ref=f54e359] [cursor=pointer]:
+                    - /url: /industry/fintechs-and-exchanges
+                - listitem [ref=f54e360]:
+                  - link "Payments" [ref=f54e362] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/industry/payments
+                - listitem [ref=f54e363]:
+                  - link "Financial institutions" [ref=f54e365] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/industry/banks
+                - listitem [ref=f54e366]:
+                  - link "Web3" [ref=f54e368] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/industry/web3-companies
+          - generic [ref=f54e369]:
+            - paragraph [ref=f54e370]: Ecosystem
+            - navigation [ref=f54e372]:
+              - list [ref=f54e374]:
+                - listitem [ref=f54e375]:
+                  - link "Partners" [ref=f54e377] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/solutions/partners
+                - listitem [ref=f54e378]:
+                  - link "Professional Services" [ref=f54e380] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/solutions/professional-services
+                - listitem [ref=f54e381]:
+                  - link "Support" [ref=f54e383] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/solutions/global-platinum-support
+                - listitem [ref=f54e384]:
+                  - link "Flexible deployment" [ref=f54e386] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/solutions/flexible-deployment
+                - listitem [ref=f54e387]:
+                  - link "Blockchain Integrations" [ref=f54e389] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/blockchain-integrations
+                - listitem [ref=f54e390]:
+                  - link "Supported Assets" [ref=f54e392] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/supported-assets
+          - generic [ref=f54e393]:
+            - paragraph [ref=f54e394]: Developer
+            - navigation [ref=f54e396]:
+              - list [ref=f54e398]:
+                - listitem [ref=f54e399]:
+                  - link "Documentation" [ref=f54e401] [cursor=pointer]:
+                    - /url: https://developers.fireblocks.com/
+                - listitem [ref=f54e402]:
+                  - link "API Reference" [ref=f54e404] [cursor=pointer]:
+                    - /url: https://developers.fireblocks.com/reference/api-overview
+                - listitem [ref=f54e405]:
+                  - link "Status" [ref=f54e407] [cursor=pointer]:
+                    - /url: https://status.fireblocks.com/
+                - listitem [ref=f54e408]:
+                  - link "API Changelog" [ref=f54e410] [cursor=pointer]:
+                    - /url: https://developers.fireblocks.com/changelog
+                - listitem [ref=f54e411]:
+                  - link "Help Center" [ref=f54e413] [cursor=pointer]:
+                    - /url: https://support.fireblocks.io/hc/en-us/
+        - generic [ref=f54e415]:
+          - generic [ref=f54e416]:
+            - paragraph [ref=f54e417]: Learn
+            - navigation [ref=f54e419]:
+              - list [ref=f54e421]:
+                - listitem [ref=f54e422]:
+                  - link "Blog" [ref=f54e424] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/resources/blog
+                - listitem [ref=f54e425]:
+                  - link "Customer stories" [ref=f54e427] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/customers
+                - listitem [ref=f54e428]:
+                  - link "Reports and guides" [ref=f54e430] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/resources
+                - listitem [ref=f54e431]:
+                  - link "Webinars" [ref=f54e433] [cursor=pointer]:
+                    - /url: https://events.fireblocks.com/webinars/
+                - listitem [ref=f54e434]:
+                  - link "Fireblocks academy" [ref=f54e436] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/academy
+                - listitem [ref=f54e437]:
+                  - link "Glossary" [ref=f54e439] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/glossary
+          - generic [ref=f54e440]:
+            - paragraph [ref=f54e441]: Company
+            - navigation [ref=f54e443]:
+              - list [ref=f54e445]:
+                - listitem [ref=f54e446]:
+                  - link "Executive team" [ref=f54e448] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/team
+                - listitem [ref=f54e449]:
+                  - link "Culture and careers" [ref=f54e451] [cursor=pointer]:
+                    - /url: https://www.fireblocks.com/careers
+          - navigation [ref=f54e453]:
+            - list [ref=f54e455]:
+              - listitem [ref=f54e456]:
+                - link "Pricing" [ref=f54e458] [cursor=pointer]:
+                  - /url: https://www.fireblocks.com/pricing
+              - listitem [ref=f54e459]:
+                - link "Brand Kit" [ref=f54e461] [cursor=pointer]:
+                  - /url: https://www.fireblocks.com/brandkit
+              - listitem [ref=f54e462]:
+                - link "Bug bounty" [ref=f54e464] [cursor=pointer]:
+                  - /url: https://hackerone.com/fireblocks_mpc
+              - listitem [ref=f54e465]:
+                - link "Login" [ref=f54e467] [cursor=pointer]:
+                  - /url: https://console.fireblocks.io/
+      - generic [ref=f54e469]:
+        - navigation [ref=f54e473]:
+          - list [ref=f54e475]:
+            - listitem [ref=f54e476]:
+              - link "Privacy Policy" [ref=f54e478] [cursor=pointer]:
+                - /url: https://www.fireblocks.com/privacy-policy
+            - listitem [ref=f54e479]:
+              - link "Cookie Policy" [ref=f54e481] [cursor=pointer]:
+                - /url: https://www.fireblocks.com/cookie-policy
+            - listitem [ref=f54e482]: Cookies Settings
+            - listitem [ref=f54e483]:
+              - link "Terms of Use" [ref=f54e485] [cursor=pointer]:
+                - /url: https://www.fireblocks.com/terms-of-use
+            - listitem [ref=f54e486]:
+              - link "Fireblocks Regulated Entities" [ref=f54e488] [cursor=pointer]:
+                - /url: https://www.fireblocks.com/regulated-entities
+        - figure [ref=f54e491]
+      - generic: ✕
+      - generic: ✕
+      - generic: ✕
+      - generic: ✕
+      - generic: ✕
+      - generic: ✕
+      - generic: ✕
+  - generic [ref=f54e492]:
+    - iframe
+  - generic:
+    - generic "Privacy" [ref=f54e493]:
+      - dialog "Privacy" [ref=f54e494]:
+        - generic [ref=f54e495]:
+          - generic [ref=f54e497]:
+            - text: We use cookies and similar technologies to operate our website, improve functionality, analyze website usage, and support our marketing activities. Strictly necessary cookies are always active because they are required for the website to function. We will only use analytics, functionality, targeting, social media, and other non-essential cookies if you choose to enable them. You can accept all cookies, reject non-essential cookies, or manage your preferences at any time by selecting "Cookie Settings." For more information, please review our
+            - link "Cookie Notice" [ref=f54e498] [cursor=pointer]:
+              - /url: https://www.fireblocks.com/cookie-policy
+            - text: and
+            - link "Privacy Notice" [ref=f54e499] [cursor=pointer]:
+              - /url: https://www.fireblocks.com/privacy-policy
+            - text: .
+          - generic [ref=f54e501]:
+            - generic [ref=f54e502]:
+              - button "Accept All" [ref=f54e503] [cursor=pointer]
+              - button "Reject Non-Essential" [ref=f54e504] [cursor=pointer]
+            - button "Cookies Settings, Opens the preference center dialog" [ref=f54e505] [cursor=pointer]: Cookies Settings
+          - button "Close" [ref=f54e507] [cursor=pointer]
+    - text: Cookies Settings

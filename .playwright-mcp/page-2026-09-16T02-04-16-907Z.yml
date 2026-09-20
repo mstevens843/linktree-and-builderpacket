@@ -1,0 +1,100 @@
+- generic [active] [ref=f18e1]:
+  - generic [ref=f18e4]:
+    - generic [ref=f18e6]:
+      - link "Skip to content" [ref=f18e8] [cursor=pointer]:
+        - /url: "#main"
+      - generic [ref=f18e12]:
+        - banner [ref=f18e13]:
+          - generic [ref=f18e15]:
+            - generic [ref=f18e16]:
+              - link "Drift Career Opportunities" [ref=f18e18] [cursor=pointer]:
+                - /url: /Drift-Career-Opportunities-45de6a825f264388b13cd866b707d157?pvs=18
+              - generic [aria-hidden] [ref=f18e22]: /
+              - button "Drift - Infrastructure Engineer" [disabled] [ref=f18e23]
+            - generic [ref=f18e25]:
+              - button "Close panel" [ref=f18e27] [cursor=pointer]
+              - generic [ref=f18e31]:
+                - button [ref=f18e32] [cursor=pointer]
+                - button "Share site to socials" [ref=f18e37] [cursor=pointer]
+                - button "More actions" [ref=f18e42] [cursor=pointer]
+                - button "Get Notion free" [ref=f18e45] [cursor=pointer]
+        - main [ref=f18e46]:
+          - generic [ref=f18e51]:
+            - heading "Drift - Infrastructure Engineer" [level=1] [ref=f18e65]
+            - generic [ref=f18e67]:
+              - generic [ref=f18e68]: "Last edited: 28 December 2023"
+              - generic [ref=f18e80]: 💼 Mid-Level 🌎 Remote / Sydney / San Francisco / New York / Singapore 📃 Infrastructure Engineer - Drift Protocol 💵 120-170k package
+              - generic [ref=f18e92]: About Drift Labs
+              - generic [ref=f18e98]: Drift Labs is the core contributor to Drift Protocol, the largest perpetuals DEX on Solana. Drift Protocol’s goal is to make DEXs the best way to trade derivatives. Despite the decentralized nature of crypto, centralized derivatives exchanges still remain dominant - they're already fast, familiar and reliable however lack immutability and transparency.
+              - generic [ref=f18e110]: Drift’s vision is to create a centralised user experience built on decentralised rails. We’re backed by Multicoin Capital, Polychain Ventures, Ethereal and many more. The team is made up of experienced traders and builders from DeFi and traditional finance working to make this a reality.
+              - generic [ref=f18e122]: The Opportunity
+              - generic [ref=f18e128]: Drift is looking for an Infrastructure Engineer to be a core member of our engineering team. You will build and maintain our decentralized perpetual futures platform across our back end and off-chain infrastructure. You’ll help determine the back end strategy as well as implement it, enabling our back end infrastructure technology that revolutionizes the way we trade digital assets.
+              - generic [ref=f18e134]: Drift Labs pays a competitive salary with upside potential.
+              - generic [ref=f18e146]: Your Role
+              - generic [ref=f18e155]:
+                - generic [ref=f18e156]: •
+                - generic [ref=f18e158]: "Off-chain services: Design, build and maintain efficient and reliable off-chain web services that are optimised for speed (e.g. liquidators and arbitrage bots, indexing transaction history, etc)"
+              - generic [ref=f18e164]:
+                - generic [ref=f18e165]: •
+                - generic [ref=f18e167]: "Back-End Infrastructure Processes: Operationalize existing off-chain web services by improving processes and implementing operational strategies around monitoring, alarming, etc"
+              - generic [ref=f18e173]:
+                - generic [ref=f18e174]: •
+                - generic [ref=f18e176]: "Infrastructure Management: Manage upkeep for the Solana RPC and validators, in addition to developing a deep understanding of the Solana RPC and validator design to influence the future development of the protocol"
+              - generic [ref=f18e185]: Your Experience
+              - generic [ref=f18e194]:
+                - generic [ref=f18e195]: •
+                - generic [ref=f18e197]: 2+ years of experience in building and maintaining scalable data systems
+              - generic [ref=f18e203]:
+                - generic [ref=f18e204]: •
+                - generic [ref=f18e206]: Ability to go from design concepts to implementation fast
+              - generic [ref=f18e212]:
+                - generic [ref=f18e213]: •
+                - generic [ref=f18e215]: Passion for blockchain technology and decentralized finance
+              - generic [ref=f18e224]: Nice to Have
+              - generic [ref=f18e233]:
+                - generic [ref=f18e234]: •
+                - generic [ref=f18e236]: Experience with any blockchain at the protocol level
+              - generic [ref=f18e242]:
+                - generic [ref=f18e243]: •
+                - generic [ref=f18e245]: Experience running blockchain infrastructure
+              - generic [ref=f18e251]:
+                - generic [ref=f18e252]: •
+                - generic [ref=f18e254]: Understanding of perpetual futures, options, margin trading and derivatives products
+              - generic [ref=f18e260]:
+                - generic [ref=f18e261]: •
+                - generic [ref=f18e263]: Familiarity with the Solana blockchain and building applications on Solana
+              - generic [ref=f18e269]:
+                - generic [ref=f18e270]: •
+                - generic [ref=f18e272]: BSc in Computer Science, Mathematics, Statistics or relevant discipline
+              - generic [ref=f18e281]: Drift's Development Stack
+              - generic [ref=f18e290]:
+                - generic [ref=f18e291]: •
+                - generic [ref=f18e293]: "Frontend: Typescript + React"
+              - generic [ref=f18e299]:
+                - generic [ref=f18e300]: •
+                - generic [ref=f18e302]: "Smart Contracts: Rust (using Anchor framework)"
+              - generic [ref=f18e308]:
+                - generic [ref=f18e309]: •
+                - generic [ref=f18e311]: "Backend: MySQL"
+              - generic [ref=f18e317]:
+                - generic [ref=f18e318]: •
+                - generic [ref=f18e320]: "Infrastructure: AWS"
+              - generic [ref=f18e329]: Perks
+              - generic [ref=f18e338]:
+                - generic [ref=f18e339]: •
+                - generic [ref=f18e341]: Remote first - work from anywhere
+              - generic [ref=f18e347]:
+                - generic [ref=f18e348]: •
+                - generic [ref=f18e350]: International team meets
+              - generic [ref=f18e356]:
+                - generic [ref=f18e357]: •
+                - generic [ref=f18e359]: Stipend for laptop
+              - generic [ref=f18e368]: Drift is an equal opportunity employer and we value diversity at our company. All aspects of employment are based on merit, performance, and business needs. We do not discriminate based upon race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+              - generic [ref=f18e385]:
+                - text: To apply, go to
+                - link "this link." [ref=f18e386] [cursor=pointer]:
+                  - /url: https://forms.gle/berpcUH4BQ76UCDv8
+        - region [aria-hidden] [ref=f18e395]
+    - status [ref=f18e396]
+    - alert [ref=f18e397]
+  - iframe [aria-hidden] [ref=f18e398]

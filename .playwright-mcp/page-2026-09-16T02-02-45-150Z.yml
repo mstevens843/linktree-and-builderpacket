@@ -1,0 +1,1295 @@
+- generic [active] [ref=f7e1]:
+  - generic [ref=f7e3]:
+    - banner [ref=f7e4]:
+      - generic [ref=f7e5]:
+        - link "Wellfound" [ref=f7e6] [cursor=pointer]:
+          - /url: /
+        - navigation [ref=f7e11]:
+          - generic [ref=f7e12]:
+            - link "Discover" [ref=f7e13] [cursor=pointer]:
+              - /url: /discover
+            - link "Find Jobs" [ref=f7e14] [cursor=pointer]:
+              - /url: /jobs
+            - link "For Recruiters" [ref=f7e15] [cursor=pointer]:
+              - /url: /recruit/overview
+          - generic [ref=f7e16]:
+            - button "Log In" [ref=f7e18] [cursor=pointer]
+            - button "Sign Up" [ref=f7e20] [cursor=pointer]
+      - iframe
+    - generic [ref=f7e21]:
+      - generic [ref=f7e22]:
+        - generic [ref=f7e24]:
+          - banner [ref=f7e25]: Show me
+          - generic [ref=f7e26]:
+            - generic [ref=f7e30]:
+              - generic [ref=f7e31]: Software Engineer
+              - textbox [ref=f7e34]
+            - banner [ref=f7e42]: roles,
+          - generic [ref=f7e43]:
+            - generic [ref=f7e44]:
+              - banner [ref=f7e45]: hiring in
+              - generic [ref=f7e49]:
+                - generic [ref=f7e50]: San Francisco Bay Area
+                - textbox [ref=f7e53]
+            - button "Search" [ref=f7e61] [cursor=pointer]
+        - generic [ref=f7e62]:
+          - generic [ref=f7e63]:
+            - heading "Software Engineer Jobs in San Francisco Bay Area" [level=1] [ref=f7e64]
+            - heading "1210 results total" [level=4] [ref=f7e65]
+          - heading "Page 1 of 21" [level=4] [ref=f7e67]
+      - generic [ref=f7e68]:
+        - generic [ref=f7e70]:
+          - generic [ref=f7e71]:
+            - generic [ref=f7e72]:
+              - generic [ref=f7e74]:
+                - link [ref=f7e75] [cursor=pointer]:
+                  - /url: /company/checkr
+                  - img "Checkr company logo" [ref=f7e77]
+                - generic [ref=f7e78]:
+                  - generic [ref=f7e79]:
+                    - link [ref=f7e80] [cursor=pointer]:
+                      - /url: /company/checkr
+                      - heading "Checkr" [level=2] [ref=f7e81]
+                    - generic [ref=f7e82]: Actively Hiring
+                  - generic [ref=f7e84]: The only background check company using artificial intelligence and machine learning
+                  - generic [ref=f7e85]: 501-1000 Employees
+              - list [ref=f7e87]:
+                - listitem [ref=f7e88]:
+                  - generic [ref=f7e89]: Responds within three weeks
+                - listitem [ref=f7e93]:
+                  - generic [ref=f7e94]: B2B
+                - listitem [ref=f7e96]:
+                  - generic [ref=f7e97]: Scale Stage
+                - listitem [ref=f7e101]: "+6"
+            - generic [ref=f7e102]:
+              - generic [ref=f7e103]:
+                - generic [ref=f7e104]:
+                  - generic [ref=f7e105]:
+                    - link "Senior Software Engineer, Trust" [ref=f7e106] [cursor=pointer]:
+                      - /url: /jobs/4656937-senior-software-engineer-trust
+                    - generic [ref=f7e107]: Full-time
+                  - generic [ref=f7e108]:
+                    - generic [ref=f7e109]: $185k – $218k
+                    - generic [ref=f7e114]: San Francisco
+                - generic [ref=f7e119]:
+                  - generic [ref=f7e120]: 2 weeks ago
+                  - button "Save" [ref=f7e121] [cursor=pointer]
+                  - button "Apply" [ref=f7e123] [cursor=pointer]
+              - generic [ref=f7e124]:
+                - generic [ref=f7e125]:
+                  - generic [ref=f7e126]:
+                    - link "Software Engineer" [ref=f7e127] [cursor=pointer]:
+                      - /url: /jobs/4639821-software-engineer
+                    - generic [ref=f7e128]: Full-time
+                  - generic [ref=f7e129]:
+                    - generic [ref=f7e130]: $150k – $176k
+                    - generic [ref=f7e139]:
+                      - text: Denver
+                      - generic [ref=f7e140]: "+1"
+                - generic [ref=f7e141]:
+                  - generic [ref=f7e142]: 2 weeks ago
+                  - button "Save" [ref=f7e143] [cursor=pointer]
+                  - button "Apply" [ref=f7e145] [cursor=pointer]
+              - generic [ref=f7e146]:
+                - generic [ref=f7e147]:
+                  - generic [ref=f7e148]:
+                    - link "Senior Staff Software Engineer" [ref=f7e149] [cursor=pointer]:
+                      - /url: /jobs/4152278-senior-staff-software-engineer
+                    - generic [ref=f7e150]: Full-time
+                  - generic [ref=f7e151]:
+                    - generic [ref=f7e152]: $257k – $302k
+                    - generic [ref=f7e157]: San Francisco
+                - generic [ref=f7e162]:
+                  - generic [ref=f7e163]: 1 month ago
+                  - button "Save" [ref=f7e164] [cursor=pointer]
+                  - button "Apply" [ref=f7e166] [cursor=pointer]
+          - generic [ref=f7e167]:
+            - generic [ref=f7e168]:
+              - generic [ref=f7e170]:
+                - link [ref=f7e171] [cursor=pointer]:
+                  - /url: /company/confidentlims
+                  - img "Confident LIMS company logo" [ref=f7e173]
+                - generic [ref=f7e174]:
+                  - generic [ref=f7e175]:
+                    - link [ref=f7e176] [cursor=pointer]:
+                      - /url: /company/confidentlims
+                      - heading "Confident LIMS" [level=2] [ref=f7e177]
+                    - generic [ref=f7e178]: Actively Hiring
+                  - generic [ref=f7e180]: The easiest way to test
+                  - generic [ref=f7e181]: 11-50 Employees
+              - list [ref=f7e183]:
+                - listitem [ref=f7e184]:
+                  - generic [ref=f7e185]: Top 1% of responders
+                - listitem [ref=f7e189]:
+                  - generic [ref=f7e190]: Responds within a day
+                - listitem [ref=f7e194]:
+                  - generic [ref=f7e195]: B2B
+                - listitem [ref=f7e197]: "+3"
+            - generic [ref=f7e199]:
+              - generic [ref=f7e200]:
+                - generic [ref=f7e201]:
+                  - link "Senior Software Engineer" [ref=f7e202] [cursor=pointer]:
+                    - /url: /jobs/4697947-senior-software-engineer
+                  - generic [ref=f7e203]: Full-time
+                - generic [ref=f7e204]:
+                  - generic [ref=f7e205]: $100k – $180k • 0.05% – 0.25%
+                  - generic [ref=f7e214]:
+                    - text: Remote only • Canada
+                    - generic [ref=f7e215]: "+3"
+                  - generic [ref=f7e217]: 5 years of exp
+              - generic [ref=f7e221]:
+                - generic [ref=f7e222]: 5 days ago
+                - button "Save" [ref=f7e223] [cursor=pointer]
+                - button "Apply" [ref=f7e225] [cursor=pointer]
+          - generic [ref=f7e226]:
+            - generic [ref=f7e227]:
+              - generic [ref=f7e229]:
+                - link [ref=f7e230] [cursor=pointer]:
+                  - /url: /company/nextdoor
+                  - img "Nextdoor company logo" [ref=f7e232]
+                - generic [ref=f7e233]:
+                  - generic [ref=f7e234]:
+                    - link [ref=f7e235] [cursor=pointer]:
+                      - /url: /company/nextdoor
+                      - heading "Nextdoor" [level=2] [ref=f7e236]
+                    - generic [ref=f7e237]: Actively Hiring
+                  - generic [ref=f7e239]: Nextdoor is the private social network for your neighborhood
+                  - generic [ref=f7e240]: 501-1000 Employees
+              - list [ref=f7e242]:
+                - listitem [ref=f7e243]:
+                  - generic [ref=f7e244]: B2C
+                - listitem [ref=f7e246]:
+                  - generic [ref=f7e247]: Public Stage
+                - listitem [ref=f7e251]:
+                  - generic [ref=f7e252]: Top Investors
+                - listitem [ref=f7e256]: "+1"
+            - generic [ref=f7e257]:
+              - generic [ref=f7e258]:
+                - generic [ref=f7e259]:
+                  - generic [ref=f7e260]:
+                    - link "Software Engineer - Fullstack" [ref=f7e261] [cursor=pointer]:
+                      - /url: /jobs/4716589-software-engineer-fullstack
+                    - generic [ref=f7e262]: Full-time
+                  - generic [ref=f7e263]:
+                    - generic [ref=f7e264]: $135k – $200k
+                    - generic [ref=f7e269]: San Francisco
+                - generic [ref=f7e274]:
+                  - generic [ref=f7e275]: yesterday
+                  - button "Save" [ref=f7e276] [cursor=pointer]
+                  - button "Apply" [ref=f7e278] [cursor=pointer]
+              - generic [ref=f7e279]:
+                - generic [ref=f7e280]:
+                  - generic [ref=f7e281]:
+                    - link "Software Engineer" [ref=f7e282] [cursor=pointer]:
+                      - /url: /jobs/4692045-software-engineer
+                    - generic [ref=f7e283]: Full-time
+                  - generic [ref=f7e284]:
+                    - generic [ref=f7e285]: $185k – $210k
+                    - generic [ref=f7e290]: San Francisco
+                - generic [ref=f7e295]:
+                  - generic [ref=f7e296]: 6 days ago
+                  - button "Save" [ref=f7e297] [cursor=pointer]
+                  - button "Apply" [ref=f7e299] [cursor=pointer]
+              - generic [ref=f7e300]:
+                - generic [ref=f7e301]:
+                  - generic [ref=f7e302]:
+                    - link "Senior Software Engineer - Backend" [ref=f7e303] [cursor=pointer]:
+                      - /url: /jobs/1487622-senior-software-engineer-backend
+                    - generic [ref=f7e304]: Full-time
+                  - generic [ref=f7e305]:
+                    - generic [ref=f7e306]: $165k – $250k
+                    - generic [ref=f7e311]: San Francisco
+                - generic [ref=f7e316]:
+                  - generic [ref=f7e317]: 1 year ago
+                  - button "Save" [ref=f7e318] [cursor=pointer]
+                  - button "Apply" [ref=f7e320] [cursor=pointer]
+          - generic [ref=f7e321]:
+            - generic [ref=f7e322]:
+              - generic [ref=f7e324]:
+                - link [ref=f7e325] [cursor=pointer]:
+                  - /url: /company/ethos
+                  - img "Ethos company logo" [ref=f7e327]
+                - generic [ref=f7e328]:
+                  - generic [ref=f7e329]:
+                    - link [ref=f7e330] [cursor=pointer]:
+                      - /url: /company/ethos
+                      - heading "Ethos" [level=2] [ref=f7e331]
+                    - generic [ref=f7e332]: Actively Hiring
+                  - generic [ref=f7e334]: Ethos is using technology to reinvent life insurance with today’s families in mind
+                  - generic [ref=f7e335]: 201-500 Employees
+              - list [ref=f7e337]:
+                - listitem [ref=f7e338]:
+                  - generic [ref=f7e339]: B2C
+                - listitem [ref=f7e341]:
+                  - generic [ref=f7e342]: Scale Stage
+                - listitem [ref=f7e346]:
+                  - generic [ref=f7e347]: Top Investors
+                - listitem [ref=f7e351]: "+2"
+            - generic [ref=f7e352]:
+              - generic [ref=f7e353]:
+                - generic [ref=f7e354]:
+                  - generic [ref=f7e355]:
+                    - link "Software Engineer" [ref=f7e356] [cursor=pointer]:
+                      - /url: /jobs/4670578-software-engineer
+                    - generic [ref=f7e357]: Full-time
+                  - generic [ref=f7e358]:
+                    - generic [ref=f7e359]: $96k – $169k
+                    - generic [ref=f7e368]:
+                      - text: Onsite or remote • San Francisco Bay Area
+                      - generic [ref=f7e369]: "+1"
+                - generic [ref=f7e370]:
+                  - generic [ref=f7e371]: 1 week ago
+                  - button "Save" [ref=f7e372] [cursor=pointer]
+                  - button "Apply" [ref=f7e374] [cursor=pointer]
+              - generic [ref=f7e375]:
+                - generic [ref=f7e376]:
+                  - generic [ref=f7e377]:
+                    - link "Software Engineer" [ref=f7e378] [cursor=pointer]:
+                      - /url: /jobs/4670515-software-engineer
+                    - generic [ref=f7e379]: Full-time
+                  - generic [ref=f7e380]:
+                    - generic [ref=f7e381]: $96k – $169k
+                    - generic [ref=f7e386]: San Francisco Bay Area
+                - generic [ref=f7e391]:
+                  - generic [ref=f7e392]: 1 week ago
+                  - button "Save" [ref=f7e393] [cursor=pointer]
+                  - button "Apply" [ref=f7e395] [cursor=pointer]
+          - generic [ref=f7e396]:
+            - generic [ref=f7e397]:
+              - generic [ref=f7e399]:
+                - link [ref=f7e400] [cursor=pointer]:
+                  - /url: /company/oklo
+                  - img "Oklo company logo" [ref=f7e402]
+                - generic [ref=f7e403]:
+                  - generic [ref=f7e404]:
+                    - link [ref=f7e405] [cursor=pointer]:
+                      - /url: /company/oklo
+                      - heading "Oklo" [level=2] [ref=f7e406]
+                    - generic [ref=f7e407]: Actively Hiring
+                  - generic [ref=f7e409]: Making reactors people want
+                  - generic [ref=f7e410]: 201-500 Employees
+              - list [ref=f7e412]:
+                - listitem [ref=f7e413]:
+                  - generic [ref=f7e414]: B2B
+                - listitem [ref=f7e416]:
+                  - generic [ref=f7e417]: Growth Stage
+                - listitem [ref=f7e421]:
+                  - generic [ref=f7e422]: Top Investors
+                - listitem [ref=f7e426]: "+2"
+            - generic [ref=f7e427]:
+              - generic [ref=f7e428]:
+                - generic [ref=f7e429]:
+                  - generic [ref=f7e430]:
+                    - link "Software Engineer (Applied AI/ML)" [ref=f7e431] [cursor=pointer]:
+                      - /url: /jobs/4617952-software-engineer-applied-ai-ml
+                    - generic [ref=f7e432]: Full-time
+                  - generic [ref=f7e433]:
+                    - generic [ref=f7e434]: $200k – $250k
+                    - generic [ref=f7e443]:
+                      - text: Onsite or remote • Santa Clara
+                      - generic [ref=f7e444]: "+1"
+                - generic [ref=f7e445]:
+                  - generic [ref=f7e446]: 3 weeks ago
+                  - button "Save" [ref=f7e447] [cursor=pointer]
+                  - button "Apply" [ref=f7e449] [cursor=pointer]
+              - generic [ref=f7e450]:
+                - generic [ref=f7e451]:
+                  - generic [ref=f7e452]:
+                    - link "Software Engineer" [ref=f7e453] [cursor=pointer]:
+                      - /url: /jobs/4579450-software-engineer
+                    - generic [ref=f7e454]: Full-time
+                  - generic [ref=f7e455]:
+                    - generic [ref=f7e456]: $110k – $200k
+                    - generic [ref=f7e461]: Remote • Santa Clara
+                - generic [ref=f7e466]:
+                  - generic [ref=f7e467]: 1 month ago
+                  - button "Save" [ref=f7e468] [cursor=pointer]
+                  - button "Apply" [ref=f7e470] [cursor=pointer]
+              - generic [ref=f7e471]:
+                - generic [ref=f7e472]:
+                  - generic [ref=f7e473]:
+                    - link "Senior Software Engineer" [ref=f7e474] [cursor=pointer]:
+                      - /url: /jobs/3685218-senior-software-engineer
+                    - generic [ref=f7e475]: Full-time
+                  - generic [ref=f7e476]:
+                    - generic [ref=f7e477]: $200k – $250k
+                    - generic [ref=f7e482]: Remote • Santa Clara
+                - generic [ref=f7e487]:
+                  - generic [ref=f7e488]: 5 months ago
+                  - button "Save" [ref=f7e489] [cursor=pointer]
+                  - button "Apply" [ref=f7e491] [cursor=pointer]
+          - generic [ref=f7e492]:
+            - generic [ref=f7e493]:
+              - generic [ref=f7e495]:
+                - link [ref=f7e496] [cursor=pointer]:
+                  - /url: /company/annex-risk
+                  - img "Annex Risk company logo" [ref=f7e498]
+                - generic [ref=f7e499]:
+                  - generic [ref=f7e500]:
+                    - link [ref=f7e501] [cursor=pointer]:
+                      - /url: /company/annex-risk
+                      - heading "Annex Risk" [level=2] [ref=f7e502]
+                    - generic [ref=f7e503]: Actively Hiring
+                  - generic [ref=f7e505]: Infrastructure enabling the sale of mass-market natural catastrophe insurance
+                  - generic [ref=f7e506]: 11-50 Employees
+              - list [ref=f7e508]:
+                - listitem [ref=f7e509]:
+                  - generic [ref=f7e510]: B2C
+                - listitem [ref=f7e512]:
+                  - generic [ref=f7e513]: Early Stage
+            - generic [ref=f7e517]:
+              - generic [ref=f7e518]:
+                - generic [ref=f7e519]:
+                  - generic [ref=f7e520]:
+                    - link "Software Engineer" [ref=f7e521] [cursor=pointer]:
+                      - /url: /jobs/4630118-software-engineer-backend-clone
+                    - generic [ref=f7e522]: Full-time
+                  - generic [ref=f7e523]:
+                    - generic [ref=f7e524]: $140k – $200k
+                    - generic [ref=f7e529]: In office • San Francisco Bay Area
+                    - generic [ref=f7e535]: 5 years of exp
+                - generic [ref=f7e539]:
+                  - generic [ref=f7e540]: 3 weeks ago
+                  - button "Save" [ref=f7e541] [cursor=pointer]
+                  - button "Apply" [ref=f7e543] [cursor=pointer]
+              - generic [ref=f7e544]:
+                - generic [ref=f7e545]:
+                  - generic [ref=f7e546]:
+                    - link "Software Engineer - Full-Stack" [ref=f7e547] [cursor=pointer]:
+                      - /url: /jobs/4130991-software-engineer-full-stack
+                    - generic [ref=f7e548]: Full-time
+                  - generic [ref=f7e549]:
+                    - generic [ref=f7e550]: $140k – $200k
+                    - generic [ref=f7e555]: In office • San Francisco Bay Area
+                    - generic [ref=f7e561]: 5 years of exp
+                - generic [ref=f7e565]:
+                  - generic [ref=f7e566]: 4 months ago
+                  - button "Save" [ref=f7e567] [cursor=pointer]
+                  - button "Apply" [ref=f7e569] [cursor=pointer]
+          - generic [ref=f7e570]:
+            - generic [ref=f7e571]:
+              - generic [ref=f7e573]:
+                - link [ref=f7e574] [cursor=pointer]:
+                  - /url: /company/sydecar-2
+                  - img "Sydecar company logo" [ref=f7e576]
+                - generic [ref=f7e577]:
+                  - generic [ref=f7e578]:
+                    - link [ref=f7e579] [cursor=pointer]:
+                      - /url: /company/sydecar-2
+                      - heading "Sydecar" [level=2] [ref=f7e580]
+                    - generic [ref=f7e581]: Actively Hiring
+                  - generic [ref=f7e583]: Sydecar is on a mission to transform the world of private markets
+                  - generic [ref=f7e584]: 51-200 Employees
+              - list [ref=f7e586]:
+                - listitem [ref=f7e587]:
+                  - generic [ref=f7e588]: B2B
+                - listitem [ref=f7e590]:
+                  - generic [ref=f7e591]: Growth Stage
+            - generic [ref=f7e595]:
+              - generic [ref=f7e596]:
+                - generic [ref=f7e597]:
+                  - generic [ref=f7e598]:
+                    - link "Software Engineer" [ref=f7e599] [cursor=pointer]:
+                      - /url: /jobs/3748205-software-engineer
+                    - generic [ref=f7e600]: Full-time
+                  - generic [ref=f7e601]:
+                    - generic [ref=f7e602]: $150k – $170k
+                    - generic [ref=f7e611]:
+                      - text: Onsite or remote • San Francisco
+                      - generic [ref=f7e612]: "+1"
+                - generic [ref=f7e613]:
+                  - generic [ref=f7e614]: 5 days ago
+                  - button "Save" [ref=f7e615] [cursor=pointer]
+                  - button "Apply" [ref=f7e617] [cursor=pointer]
+              - generic [ref=f7e618]:
+                - generic [ref=f7e619]:
+                  - generic [ref=f7e620]:
+                    - link "Senior Software Engineer" [ref=f7e621] [cursor=pointer]:
+                      - /url: /jobs/3748202-senior-software-engineer
+                    - generic [ref=f7e622]: Full-time
+                  - generic [ref=f7e623]:
+                    - generic [ref=f7e624]: $190k – $255k
+                    - generic [ref=f7e629]: In office • San Francisco
+                - generic [ref=f7e634]:
+                  - generic [ref=f7e635]: 3 months ago
+                  - button "Save" [ref=f7e636] [cursor=pointer]
+                  - button "Apply" [ref=f7e638] [cursor=pointer]
+              - generic [ref=f7e639]:
+                - generic [ref=f7e640]:
+                  - generic [ref=f7e641]:
+                    - link "Staff Software Engineer" [ref=f7e642] [cursor=pointer]:
+                      - /url: /jobs/3756999-staff-software-engineer
+                    - generic [ref=f7e643]: Full-time
+                  - generic [ref=f7e644]:
+                    - generic [ref=f7e645]: $225k – $310k
+                    - generic [ref=f7e654]:
+                      - text: Remote • New York City
+                      - generic [ref=f7e655]: "+1"
+                - generic [ref=f7e656]:
+                  - generic [ref=f7e657]: 8 months ago
+                  - button "Save" [ref=f7e658] [cursor=pointer]
+                  - button "Apply" [ref=f7e660] [cursor=pointer]
+          - generic [ref=f7e661]:
+            - generic [ref=f7e662]:
+              - generic [ref=f7e664]:
+                - link [ref=f7e665] [cursor=pointer]:
+                  - /url: /company/agave-api
+                  - img "Agave API company logo" [ref=f7e667]
+                - generic [ref=f7e668]:
+                  - generic [ref=f7e669]:
+                    - link [ref=f7e670] [cursor=pointer]:
+                      - /url: /company/agave-api
+                      - heading "Agave API" [level=2] [ref=f7e671]
+                    - generic [ref=f7e672]: Actively Hiring
+                  - generic [ref=f7e674]: Field and finance, finally in sync
+                  - generic [ref=f7e675]: 11-50 Employees
+              - list [ref=f7e677]:
+                - listitem [ref=f7e678]:
+                  - generic [ref=f7e679]: Top 5% of responders
+                - listitem [ref=f7e683]:
+                  - generic [ref=f7e684]: Responds within a few days
+                - listitem [ref=f7e688]:
+                  - generic [ref=f7e689]: Early Stage
+                - listitem [ref=f7e693]: "+3"
+            - generic [ref=f7e694]:
+              - generic [ref=f7e695]:
+                - generic [ref=f7e696]:
+                  - generic [ref=f7e697]:
+                    - link "Software Engineer" [ref=f7e698] [cursor=pointer]:
+                      - /url: /jobs/3272257-software-engineer
+                    - generic [ref=f7e699]: Full-time
+                  - generic [ref=f7e700]:
+                    - generic [ref=f7e701]: $130k – $210k • 0.05% – 0.2%
+                    - generic [ref=f7e706]: In office • San Francisco
+                    - generic [ref=f7e712]: 1 year of exp
+                - generic [ref=f7e716]:
+                  - generic [ref=f7e717]: 3 weeks ago
+                  - button "Save" [ref=f7e718] [cursor=pointer]
+                  - button "Apply" [ref=f7e720] [cursor=pointer]
+              - generic [ref=f7e721]:
+                - generic [ref=f7e722]:
+                  - generic [ref=f7e723]:
+                    - link "Product Analyst" [ref=f7e724] [cursor=pointer]:
+                      - /url: /jobs/4540155-product-analyst
+                    - generic [ref=f7e725]: Full-time
+                  - generic [ref=f7e726]:
+                    - generic [ref=f7e727]: $100k – $150k • 0.01% – 0.1%
+                    - generic [ref=f7e732]: San Francisco
+                - generic [ref=f7e737]:
+                  - generic [ref=f7e738]: 1 month ago
+                  - button "Save" [ref=f7e739] [cursor=pointer]
+                  - button "Apply" [ref=f7e741] [cursor=pointer]
+              - generic [ref=f7e742]:
+                - generic [ref=f7e743]:
+                  - generic [ref=f7e744]:
+                    - link "Customer Solutions Engineer (CSE)" [ref=f7e745] [cursor=pointer]:
+                      - /url: /jobs/4496288-customer-solutions-engineer-cse
+                    - generic [ref=f7e746]: Full-time
+                  - generic [ref=f7e747]:
+                    - generic [ref=f7e748]: $130k – $180k • 0.01% – 0.1%
+                    - generic [ref=f7e753]: San Francisco
+                - generic [ref=f7e758]:
+                  - generic [ref=f7e759]: 1 month ago
+                  - button "Save" [ref=f7e760] [cursor=pointer]
+                  - button "Apply" [ref=f7e762] [cursor=pointer]
+          - generic [ref=f7e763]:
+            - generic [ref=f7e764]:
+              - generic [ref=f7e766]:
+                - link [ref=f7e767] [cursor=pointer]:
+                  - /url: /company/hourglass-financial
+                  - img "Hourglass company logo" [ref=f7e769]
+                - generic [ref=f7e770]:
+                  - generic [ref=f7e771]:
+                    - link [ref=f7e772] [cursor=pointer]:
+                      - /url: /company/hourglass-financial
+                      - heading "Hourglass" [level=2] [ref=f7e773]
+                    - generic [ref=f7e774]: Actively Hiring
+                  - generic [ref=f7e776]: Business moves fast. Money should too
+                  - generic [ref=f7e777]: 1-10 Employees
+              - list [ref=f7e779]:
+                - listitem [ref=f7e780]:
+                  - generic [ref=f7e781]: B2B
+                - listitem [ref=f7e783]:
+                  - generic [ref=f7e784]: Early Stage
+            - generic [ref=f7e789]:
+              - generic [ref=f7e790]:
+                - generic [ref=f7e791]:
+                  - link "Senior Software Engineer" [ref=f7e792] [cursor=pointer]:
+                    - /url: /jobs/4716549-senior-software-engineer
+                  - generic [ref=f7e793]: Full-time
+                - generic [ref=f7e794]:
+                  - generic [ref=f7e795]: $175k – $225k • 0.5% – 1.0%
+                  - generic [ref=f7e804]:
+                    - text: In office • New York City
+                    - generic [ref=f7e805]: "+1"
+                  - generic [ref=f7e807]: 5 years of exp
+              - generic [ref=f7e811]:
+                - generic [ref=f7e812]: yesterday
+                - button "Save" [ref=f7e813] [cursor=pointer]
+                - button "Apply" [ref=f7e815] [cursor=pointer]
+          - generic [ref=f7e816]:
+            - generic [ref=f7e819]:
+              - link [ref=f7e820] [cursor=pointer]:
+                - /url: /company/springcraft
+                - img "Springcraft company logo" [ref=f7e822]
+              - generic [ref=f7e823]:
+                - generic [ref=f7e824]:
+                  - link [ref=f7e825] [cursor=pointer]:
+                    - /url: /company/springcraft
+                    - heading "Springcraft" [level=2] [ref=f7e826]
+                  - generic [ref=f7e827]: Actively Hiring
+                - generic [ref=f7e829]: Springcraft is building the platform for physical AI
+                - generic [ref=f7e830]: 1-10 Employees
+            - generic [ref=f7e832]:
+              - generic [ref=f7e833]:
+                - generic [ref=f7e834]:
+                  - link "Software Engineer" [ref=f7e835] [cursor=pointer]:
+                    - /url: /jobs/4004366-software-engineer
+                  - generic [ref=f7e836]: Full-time
+                - generic [ref=f7e837]:
+                  - generic [ref=f7e838]: $120k – $190k
+                  - generic [ref=f7e843]: In office • Palo Alto
+                  - generic [ref=f7e849]: 2 years of exp
+              - generic [ref=f7e853]:
+                - generic [ref=f7e854]: 1 week ago
+                - button "Save" [ref=f7e855] [cursor=pointer]
+                - button "Apply" [ref=f7e857] [cursor=pointer]
+          - generic [ref=f7e858]:
+            - generic [ref=f7e859]:
+              - generic [ref=f7e861]:
+                - link [ref=f7e862] [cursor=pointer]:
+                  - /url: /company/earnin
+                  - img "EarnIn company logo" [ref=f7e864]
+                - generic [ref=f7e865]:
+                  - generic [ref=f7e866]:
+                    - link [ref=f7e867] [cursor=pointer]:
+                      - /url: /company/earnin
+                      - heading "EarnIn" [level=2] [ref=f7e868]
+                    - generic [ref=f7e869]: Actively Hiring
+                  - generic [ref=f7e871]: You worked today. Get paid today. Why wait for money you’ve already earned?
+                  - generic [ref=f7e872]: 501-1000 Employees
+              - list [ref=f7e874]:
+                - listitem [ref=f7e875]:
+                  - generic [ref=f7e876]: B2C
+                - listitem [ref=f7e878]:
+                  - generic [ref=f7e879]: Scale Stage
+                - listitem [ref=f7e883]:
+                  - generic [ref=f7e884]: Top Investors
+                - listitem [ref=f7e888]: "+3"
+            - generic [ref=f7e889]:
+              - generic [ref=f7e890]:
+                - generic [ref=f7e891]:
+                  - generic [ref=f7e892]:
+                    - link "Senior Software Engineer" [ref=f7e893] [cursor=pointer]:
+                      - /url: /jobs/4696262-senior-software-engineer
+                    - generic [ref=f7e894]: Full-time
+                  - generic [ref=f7e895]:
+                    - generic [ref=f7e896]: $197k – $250k
+                    - generic [ref=f7e901]: Mountain View
+                - generic [ref=f7e906]:
+                  - generic [ref=f7e907]: 5 days ago
+                  - button "Save" [ref=f7e908] [cursor=pointer]
+                  - button "Apply" [ref=f7e910] [cursor=pointer]
+              - generic [ref=f7e911]:
+                - generic [ref=f7e912]:
+                  - generic [ref=f7e913]:
+                    - link "Software Engineer (Gen AI)" [ref=f7e914] [cursor=pointer]:
+                      - /url: /jobs/4191925-software-engineer-gen-ai
+                    - generic [ref=f7e915]: Full-time
+                  - generic [ref=f7e916]: Mountain View
+                - generic [ref=f7e922]:
+                  - generic [ref=f7e923]: 3 weeks ago
+                  - button "Save" [ref=f7e924] [cursor=pointer]
+                  - button "Apply" [ref=f7e926] [cursor=pointer]
+              - generic [ref=f7e927]:
+                - generic [ref=f7e928]:
+                  - generic [ref=f7e929]:
+                    - link "Senior Staff Software Engineer" [ref=f7e930] [cursor=pointer]:
+                      - /url: /jobs/4602553-senior-staff-software-engineer
+                    - generic [ref=f7e931]: Full-time
+                  - generic [ref=f7e932]:
+                    - generic [ref=f7e933]: $279k – $341k
+                    - generic [ref=f7e938]: Mountain View
+                - generic [ref=f7e943]:
+                  - generic [ref=f7e944]: 4 weeks ago
+                  - button "Save" [ref=f7e945] [cursor=pointer]
+                  - button "Apply" [ref=f7e947] [cursor=pointer]
+          - generic [ref=f7e948]:
+            - generic [ref=f7e949]:
+              - generic [ref=f7e951]:
+                - link [ref=f7e952] [cursor=pointer]:
+                  - /url: /company/just-appraised
+                  - img "Just Appraised company logo" [ref=f7e954]
+                - generic [ref=f7e955]:
+                  - generic [ref=f7e956]:
+                    - link [ref=f7e957] [cursor=pointer]:
+                      - /url: /company/just-appraised
+                      - heading "Just Appraised" [level=2] [ref=f7e958]
+                    - generic [ref=f7e959]: Actively Hiring
+                  - generic [ref=f7e961]: Modern software for the public sector, powered by AI & purpose-built for local government
+                  - generic [ref=f7e962]: 51-200 Employees
+              - list [ref=f7e964]:
+                - listitem [ref=f7e965]:
+                  - generic [ref=f7e966]: B2B
+                - listitem [ref=f7e968]:
+                  - generic [ref=f7e969]: Growth Stage
+                - listitem [ref=f7e973]:
+                  - generic [ref=f7e974]: Top Investors
+                - listitem [ref=f7e978]: "+1"
+            - generic [ref=f7e979]:
+              - generic [ref=f7e980]:
+                - generic [ref=f7e981]:
+                  - generic [ref=f7e982]:
+                    - link "Software Engineer - Implementation" [ref=f7e983] [cursor=pointer]:
+                      - /url: /jobs/3921291-software-engineer-implementation
+                    - generic [ref=f7e984]: Full-time
+                  - generic [ref=f7e985]:
+                    - generic [ref=f7e986]: $100k – $150k
+                    - generic [ref=f7e995]:
+                      - text: Remote only • Canada
+                      - generic [ref=f7e996]: "+1"
+                - generic [ref=f7e997]:
+                  - generic [ref=f7e998]: 2 weeks ago
+                  - button "Save" [ref=f7e999] [cursor=pointer]
+                  - button "Apply" [ref=f7e1001] [cursor=pointer]
+              - generic [ref=f7e1002]:
+                - generic [ref=f7e1003]:
+                  - generic [ref=f7e1004]:
+                    - link "Engineering Manager" [ref=f7e1005] [cursor=pointer]:
+                      - /url: /jobs/3965727-engineering-manager
+                    - generic [ref=f7e1006]: Full-time
+                  - generic [ref=f7e1007]:
+                    - generic [ref=f7e1008]: $165k – $205k
+                    - generic [ref=f7e1017]:
+                      - text: Remote only • Canada
+                      - generic [ref=f7e1018]: "+1"
+                    - generic [ref=f7e1020]: 6 years of exp
+                - generic [ref=f7e1024]:
+                  - generic [ref=f7e1025]: 3 months ago
+                  - button "Save" [ref=f7e1026] [cursor=pointer]
+                  - button "Apply" [ref=f7e1028] [cursor=pointer]
+          - generic [ref=f7e1029]:
+            - generic [ref=f7e1032]:
+              - link [ref=f7e1033] [cursor=pointer]:
+                - /url: /company/swara-1
+                - img "SWARA company logo" [ref=f7e1035]
+              - generic [ref=f7e1036]:
+                - generic [ref=f7e1037]:
+                  - link [ref=f7e1038] [cursor=pointer]:
+                    - /url: /company/swara-1
+                    - heading "SWARA" [level=2] [ref=f7e1039]
+                  - generic [ref=f7e1040]: Actively Hiring
+                - generic [ref=f7e1042]: SWARA aggregates jobs, scores fit, and highlights your best opportunities
+                - generic [ref=f7e1043]: 1-10 Employees
+            - generic [ref=f7e1045]:
+              - generic [ref=f7e1046]:
+                - generic [ref=f7e1047]:
+                  - link "Software Engineer" [ref=f7e1048] [cursor=pointer]:
+                    - /url: /jobs/4670353-software-engineer-clone
+                  - generic [ref=f7e1049]: Full-time
+                - generic [ref=f7e1050]:
+                  - generic [ref=f7e1051]: $80k – $90k • 5.0% – 10.0%
+                  - generic [ref=f7e1060]:
+                    - text: Remote only • Atlanta, Georgia
+                    - generic [ref=f7e1061]: "+129"
+                  - generic [ref=f7e1063]: 0 years of exp
+              - generic [ref=f7e1067]:
+                - generic [ref=f7e1068]: 1 week ago
+                - button "Save" [ref=f7e1069] [cursor=pointer]
+                - button "Apply" [ref=f7e1071] [cursor=pointer]
+          - generic [ref=f7e1072]:
+            - generic [ref=f7e1073]:
+              - generic [ref=f7e1075]:
+                - link [ref=f7e1076] [cursor=pointer]:
+                  - /url: /company/astranis
+                  - img "Astranis company logo" [ref=f7e1078]
+                - generic [ref=f7e1079]:
+                  - generic [ref=f7e1080]:
+                    - link [ref=f7e1081] [cursor=pointer]:
+                      - /url: /company/astranis
+                      - heading "Astranis" [level=2] [ref=f7e1082]
+                    - generic [ref=f7e1083]: Actively Hiring
+                  - generic [ref=f7e1085]: Building next-generation internet satellites to get the world online
+                  - generic [ref=f7e1086]: 201-500 Employees
+              - list [ref=f7e1088]:
+                - listitem [ref=f7e1089]:
+                  - generic [ref=f7e1090]: B2B
+                - listitem [ref=f7e1092]:
+                  - generic [ref=f7e1093]: Scale Stage
+                - listitem [ref=f7e1097]:
+                  - generic [ref=f7e1098]: Top Investors
+                - listitem [ref=f7e1102]: "+5"
+            - generic [ref=f7e1103]:
+              - generic [ref=f7e1104]:
+                - generic [ref=f7e1105]:
+                  - generic [ref=f7e1106]:
+                    - link "Senior Embedded Software Engineer" [ref=f7e1107] [cursor=pointer]:
+                      - /url: /jobs/2974203-senior-embedded-software-engineer
+                    - generic [ref=f7e1108]: Full-time
+                  - generic [ref=f7e1109]:
+                    - generic [ref=f7e1110]: $180k – $235k
+                    - generic [ref=f7e1115]: San Francisco
+                - generic [ref=f7e1120]:
+                  - generic [ref=f7e1121]: 3 weeks ago
+                  - button "Save" [ref=f7e1122] [cursor=pointer]
+                  - button "Apply" [ref=f7e1124] [cursor=pointer]
+              - generic [ref=f7e1125]:
+                - generic [ref=f7e1126]:
+                  - generic [ref=f7e1127]:
+                    - link "Hardware Test Software Engineer" [ref=f7e1128] [cursor=pointer]:
+                      - /url: /jobs/2717254-hardware-test-software-engineer
+                    - generic [ref=f7e1129]: Full-time
+                  - generic [ref=f7e1130]:
+                    - generic [ref=f7e1131]: $115k – $150k
+                    - generic [ref=f7e1136]: San Francisco
+                - generic [ref=f7e1141]:
+                  - generic [ref=f7e1142]: 1 month ago
+                  - button "Save" [ref=f7e1143] [cursor=pointer]
+                  - button "Apply" [ref=f7e1145] [cursor=pointer]
+              - generic [ref=f7e1146]:
+                - generic [ref=f7e1147]:
+                  - generic [ref=f7e1148]:
+                    - link "Flight Software Engineer" [ref=f7e1149] [cursor=pointer]:
+                      - /url: /jobs/2983722-flight-software-engineer
+                    - generic [ref=f7e1150]: Full-time
+                  - generic [ref=f7e1151]:
+                    - generic [ref=f7e1152]: $130k – $175k
+                    - generic [ref=f7e1157]: San Francisco
+                - generic [ref=f7e1162]:
+                  - generic [ref=f7e1163]: 3 months ago
+                  - button "Save" [ref=f7e1164] [cursor=pointer]
+                  - button "Apply" [ref=f7e1166] [cursor=pointer]
+          - generic [ref=f7e1167]:
+            - generic [ref=f7e1168]:
+              - generic [ref=f7e1170]:
+                - link [ref=f7e1171] [cursor=pointer]:
+                  - /url: /company/elasticdash
+                  - img "ElasticDash company logo" [ref=f7e1173]
+                - generic [ref=f7e1174]:
+                  - generic [ref=f7e1175]:
+                    - link [ref=f7e1176] [cursor=pointer]:
+                      - /url: /company/elasticdash
+                      - heading "ElasticDash" [level=2] [ref=f7e1177]
+                    - generic [ref=f7e1178]: Actively Hiring
+                  - generic [ref=f7e1180]: Self-host open source in your own cloud. We install, upgrade, patch and run it. Free to deploy
+                  - generic [ref=f7e1181]: 11-50 Employees
+              - list [ref=f7e1183]:
+                - listitem [ref=f7e1184]:
+                  - generic [ref=f7e1185]: Growing fast
+            - generic [ref=f7e1189]:
+              - generic [ref=f7e1190]:
+                - generic [ref=f7e1191]:
+                  - generic [ref=f7e1192]:
+                    - link "Software Engineer" [ref=f7e1193] [cursor=pointer]:
+                      - /url: /jobs/4664430-software-engineer
+                    - generic [ref=f7e1194]: Full-time
+                  - generic [ref=f7e1195]:
+                    - generic [ref=f7e1196]: $140k – $180k • No equity
+                    - generic [ref=f7e1201]: In office • San Francisco Bay Area
+                    - generic [ref=f7e1207]: 5 years of exp
+                - generic [ref=f7e1211]:
+                  - generic [ref=f7e1212]: 1 week ago
+                  - button "Save" [ref=f7e1213] [cursor=pointer]
+                  - button "Apply" [ref=f7e1215] [cursor=pointer]
+              - generic [ref=f7e1216]:
+                - generic [ref=f7e1217]:
+                  - generic [ref=f7e1218]:
+                    - link "Software Engineer (Early Career)" [ref=f7e1219] [cursor=pointer]:
+                      - /url: /jobs/4664435-software-engineer-early-career-pax
+                    - generic [ref=f7e1220]: Full-time
+                  - generic [ref=f7e1221]:
+                    - generic [ref=f7e1222]: $130k – $160k • 0.1% – 0.4%
+                    - generic [ref=f7e1227]: In office • San Francisco Bay Area
+                    - generic [ref=f7e1233]: 0 years of exp
+                - generic [ref=f7e1237]:
+                  - generic [ref=f7e1238]: 1 week ago
+                  - button "Save" [ref=f7e1239] [cursor=pointer]
+                  - button "Apply" [ref=f7e1241] [cursor=pointer]
+              - generic [ref=f7e1242]:
+                - generic [ref=f7e1243]:
+                  - generic [ref=f7e1244]:
+                    - link "Forward Deployed Engineer" [ref=f7e1245] [cursor=pointer]:
+                      - /url: /jobs/4597593-forward-deployed-engineer
+                    - generic [ref=f7e1246]: Full-time
+                  - generic [ref=f7e1247]:
+                    - generic [ref=f7e1248]: $200k – $250k • 0.5% – 1.0%
+                    - generic [ref=f7e1257]:
+                      - text: Onsite or remote • San Francisco Bay Area
+                      - generic [ref=f7e1258]: "+1"
+                    - generic [ref=f7e1260]: 5 years of exp
+                - generic [ref=f7e1264]:
+                  - generic [ref=f7e1265]: 4 weeks ago
+                  - button "Save" [ref=f7e1266] [cursor=pointer]
+                  - button "Apply" [ref=f7e1268] [cursor=pointer]
+          - generic [ref=f7e1269]:
+            - generic [ref=f7e1270]:
+              - generic [ref=f7e1272]:
+                - link [ref=f7e1273] [cursor=pointer]:
+                  - /url: /company/nova-credit
+                  - img "Nova Credit company logo" [ref=f7e1275]
+                - generic [ref=f7e1276]:
+                  - generic [ref=f7e1277]:
+                    - link [ref=f7e1278] [cursor=pointer]:
+                      - /url: /company/nova-credit
+                      - heading "Nova Credit" [level=2] [ref=f7e1279]
+                    - generic [ref=f7e1280]: Actively Hiring
+                  - generic [ref=f7e1282]: On a mission to power a fair and inclusive financial system for the world
+                  - generic [ref=f7e1283]: 51-200 Employees
+              - list [ref=f7e1285]:
+                - listitem [ref=f7e1286]:
+                  - generic [ref=f7e1287]: B2B
+                - listitem [ref=f7e1289]:
+                  - generic [ref=f7e1290]: Growth Stage
+                - listitem [ref=f7e1294]:
+                  - generic [ref=f7e1295]: Top Investors
+                - listitem [ref=f7e1299]: "+3"
+            - generic [ref=f7e1301]:
+              - generic [ref=f7e1302]:
+                - generic [ref=f7e1303]:
+                  - link "Senior Software Engineer" [ref=f7e1304] [cursor=pointer]:
+                    - /url: /jobs/3538839-senior-software-engineer
+                  - generic [ref=f7e1305]: Full-time
+                - generic [ref=f7e1306]:
+                  - generic [ref=f7e1307]: $192k – $234k
+                  - generic [ref=f7e1316]:
+                    - text: Onsite or remote • California
+                    - generic [ref=f7e1317]: "+18"
+                  - generic [ref=f7e1319]: 5 years of exp
+              - generic [ref=f7e1323]:
+                - generic [ref=f7e1324]: 1 week ago
+                - button "Save" [ref=f7e1325] [cursor=pointer]
+                - button "Apply" [ref=f7e1327] [cursor=pointer]
+          - generic [ref=f7e1328]:
+            - generic [ref=f7e1329]:
+              - generic [ref=f7e1331]:
+                - link [ref=f7e1332] [cursor=pointer]:
+                  - /url: /company/paramark-hq
+                  - img "Paramark company logo" [ref=f7e1334]
+                - generic [ref=f7e1335]:
+                  - generic [ref=f7e1336]:
+                    - link [ref=f7e1337] [cursor=pointer]:
+                      - /url: /company/paramark-hq
+                      - heading "Paramark" [level=2] [ref=f7e1338]
+                    - generic [ref=f7e1339]: Actively Hiring
+                  - generic [ref=f7e1341]: Marketing measurement, experimentation, and forecasting for fast-growing businesses
+                  - generic [ref=f7e1342]: 11-50 Employees
+              - list [ref=f7e1344]:
+                - listitem [ref=f7e1345]:
+                  - generic [ref=f7e1346]: Early Stage
+            - generic [ref=f7e1350]:
+              - generic [ref=f7e1351]:
+                - generic [ref=f7e1352]:
+                  - generic [ref=f7e1353]:
+                    - link "Software Engineer (Remote)" [ref=f7e1354] [cursor=pointer]:
+                      - /url: /jobs/4607322-software-engineer-remote
+                    - generic [ref=f7e1355]: Full-time
+                  - generic [ref=f7e1356]:
+                    - generic [ref=f7e1357]: $199k – $249k
+                    - generic [ref=f7e1362]: Remote only • Everywhere
+                    - generic [ref=f7e1368]: 8 years of exp
+                - generic [ref=f7e1372]:
+                  - generic [ref=f7e1373]: 3 weeks ago
+                  - button "Save" [ref=f7e1374] [cursor=pointer]
+                  - button "Apply" [ref=f7e1376] [cursor=pointer]
+              - generic [ref=f7e1377]:
+                - generic [ref=f7e1378]:
+                  - generic [ref=f7e1379]:
+                    - link "Software Engineer" [ref=f7e1380] [cursor=pointer]:
+                      - /url: /jobs/4607318-software-engineer
+                    - generic [ref=f7e1381]: Full-time
+                  - generic [ref=f7e1382]:
+                    - generic [ref=f7e1383]: $199k – $249k
+                    - generic [ref=f7e1388]: In office • San Francisco Bay Area
+                    - generic [ref=f7e1394]: 8 years of exp
+                - generic [ref=f7e1398]:
+                  - generic [ref=f7e1399]: 3 weeks ago
+                  - button "Save" [ref=f7e1400] [cursor=pointer]
+                  - button "Apply" [ref=f7e1402] [cursor=pointer]
+          - generic [ref=f7e1403]:
+            - generic [ref=f7e1404]:
+              - generic [ref=f7e1406]:
+                - link [ref=f7e1407] [cursor=pointer]:
+                  - /url: /company/code-for-america
+                  - img "Code for America company logo" [ref=f7e1409]
+                - generic [ref=f7e1410]:
+                  - generic [ref=f7e1411]:
+                    - link [ref=f7e1412] [cursor=pointer]:
+                      - /url: /company/code-for-america
+                      - heading "Code for America" [level=2] [ref=f7e1413]
+                    - generic [ref=f7e1414]: Actively Hiring
+                  - generic [ref=f7e1416]: Government can and should work well for everyone
+                  - generic [ref=f7e1417]: 51-200 Employees
+              - list [ref=f7e1419]:
+                - listitem [ref=f7e1420]:
+                  - generic [ref=f7e1421]: Growth Stage
+                - listitem [ref=f7e1425]:
+                  - generic [ref=f7e1426]:
+                    - generic [ref=f7e1431]: "4.1"
+                    - generic [ref=f7e1432]: Work / Life Balance
+            - generic [ref=f7e1433]:
+              - generic [ref=f7e1434]:
+                - generic [ref=f7e1435]:
+                  - generic [ref=f7e1436]:
+                    - link "Engineering Manager" [ref=f7e1437] [cursor=pointer]:
+                      - /url: /jobs/4704066-engineering-manager
+                    - generic [ref=f7e1438]: Full-time
+                  - generic [ref=f7e1439]:
+                    - generic [ref=f7e1440]: $129k – $158k • No equity
+                    - generic [ref=f7e1445]: Remote only • United States
+                    - generic [ref=f7e1451]: 7 years of exp
+                - generic [ref=f7e1455]:
+                  - generic [ref=f7e1456]: 4 days ago
+                  - button "Save" [ref=f7e1457] [cursor=pointer]
+                  - button "Apply" [ref=f7e1459] [cursor=pointer]
+              - generic [ref=f7e1460]:
+                - generic [ref=f7e1461]:
+                  - generic [ref=f7e1462]:
+                    - link "Principal Software Engineer" [ref=f7e1463] [cursor=pointer]:
+                      - /url: /jobs/4704065-principal-software-engineer
+                    - generic [ref=f7e1464]: Full-time
+                  - generic [ref=f7e1465]:
+                    - generic [ref=f7e1466]: $144k – $176k • No equity
+                    - generic [ref=f7e1471]: Remote only • United States
+                    - generic [ref=f7e1477]: 10 years of exp
+                - generic [ref=f7e1481]:
+                  - generic [ref=f7e1482]: 4 days ago
+                  - button "Save" [ref=f7e1483] [cursor=pointer]
+                  - button "Apply" [ref=f7e1485] [cursor=pointer]
+              - generic [ref=f7e1486]:
+                - generic [ref=f7e1487]:
+                  - generic [ref=f7e1488]:
+                    - link "Staff Solutions Engineer" [ref=f7e1489] [cursor=pointer]:
+                      - /url: /jobs/4361870-staff-solutions-engineer
+                    - generic [ref=f7e1490]: Full-time
+                  - generic [ref=f7e1491]:
+                    - generic [ref=f7e1492]: $129k – $158k • No equity
+                    - generic [ref=f7e1497]: Remote only • United States
+                    - generic [ref=f7e1503]: 7 years of exp
+                - generic [ref=f7e1507]:
+                  - generic [ref=f7e1508]: 2 months ago
+                  - button "Save" [ref=f7e1509] [cursor=pointer]
+                  - button "Apply" [ref=f7e1511] [cursor=pointer]
+          - generic [ref=f7e1512]:
+            - generic [ref=f7e1513]:
+              - generic [ref=f7e1515]:
+                - link [ref=f7e1516] [cursor=pointer]:
+                  - /url: /company/moderntreasury
+                  - img "Modern Treasury company logo" [ref=f7e1518]
+                - generic [ref=f7e1519]:
+                  - generic [ref=f7e1520]:
+                    - link [ref=f7e1521] [cursor=pointer]:
+                      - /url: /company/moderntreasury
+                      - heading "Modern Treasury" [level=2] [ref=f7e1522]
+                    - generic [ref=f7e1523]: Actively Hiring
+                  - generic [ref=f7e1525]: Modern Treasury builds payments operations solutions
+                  - generic [ref=f7e1526]: 51-200 Employees
+              - list [ref=f7e1528]:
+                - listitem [ref=f7e1529]:
+                  - generic [ref=f7e1530]: Top 10% of responders
+                - listitem [ref=f7e1534]:
+                  - generic [ref=f7e1535]: Responds within two weeks
+                - listitem [ref=f7e1539]:
+                  - generic [ref=f7e1540]: B2B
+                - listitem [ref=f7e1542]: "+4"
+            - generic [ref=f7e1543]:
+              - generic [ref=f7e1544]:
+                - generic [ref=f7e1545]:
+                  - generic [ref=f7e1546]:
+                    - link "Software Engineer - Infrastructure" [ref=f7e1547] [cursor=pointer]:
+                      - /url: /jobs/3852615-software-engineer-infrastructure
+                    - generic [ref=f7e1548]: Full-time
+                  - generic [ref=f7e1549]:
+                    - generic [ref=f7e1550]: $150k – $250k
+                    - generic [ref=f7e1555]: Remote • San Francisco
+                - generic [ref=f7e1560]:
+                  - generic [ref=f7e1561]: 2 months ago
+                  - button "Save" [ref=f7e1562] [cursor=pointer]
+                  - button "Apply" [ref=f7e1564] [cursor=pointer]
+              - generic [ref=f7e1565]:
+                - generic [ref=f7e1566]:
+                  - generic [ref=f7e1567]:
+                    - link "Software Engineer" [ref=f7e1568] [cursor=pointer]:
+                      - /url: /jobs/3627530-software-engineer
+                    - generic [ref=f7e1569]: Full-time
+                  - generic [ref=f7e1570]:
+                    - generic [ref=f7e1571]: $120k – $240k
+                    - generic [ref=f7e1576]: San Francisco
+                - generic [ref=f7e1581]:
+                  - generic [ref=f7e1582]: 3 months ago
+                  - button "Save" [ref=f7e1583] [cursor=pointer]
+                  - button "Apply" [ref=f7e1585] [cursor=pointer]
+          - generic [ref=f7e1586]:
+            - generic [ref=f7e1587]:
+              - generic [ref=f7e1589]:
+                - link [ref=f7e1590] [cursor=pointer]:
+                  - /url: /company/kipsi
+                  - img "Kipsi company logo" [ref=f7e1592]
+                - generic [ref=f7e1593]:
+                  - generic [ref=f7e1594]:
+                    - link [ref=f7e1595] [cursor=pointer]:
+                      - /url: /company/kipsi
+                      - heading "Kipsi" [level=2] [ref=f7e1596]
+                    - generic [ref=f7e1597]: Actively Hiring
+                  - generic [ref=f7e1599]: AI & automation built for accounting and tax consulting firms
+                  - generic [ref=f7e1600]: 11-50 Employees
+              - list [ref=f7e1602]:
+                - listitem [ref=f7e1603]:
+                  - generic [ref=f7e1604]: Top 10% of responders
+                - listitem [ref=f7e1608]:
+                  - generic [ref=f7e1609]: Responds within a week
+                - listitem [ref=f7e1613]:
+                  - generic [ref=f7e1614]: B2B
+                - listitem [ref=f7e1616]: "+1"
+            - generic [ref=f7e1618]:
+              - generic [ref=f7e1619]:
+                - generic [ref=f7e1620]:
+                  - link "Backend Software Engineer" [ref=f7e1621] [cursor=pointer]:
+                    - /url: /jobs/4639782-backend-software-engineer
+                  - generic [ref=f7e1622]: Full-time
+                - generic [ref=f7e1623]:
+                  - generic [ref=f7e1624]: $150k – $180k
+                  - generic [ref=f7e1633]:
+                    - text: Onsite or remote • Austin
+                    - generic [ref=f7e1634]: "+2"
+                  - generic [ref=f7e1636]: 5 years of exp
+              - generic [ref=f7e1640]:
+                - generic [ref=f7e1641]: 2 weeks ago
+                - button "Save" [ref=f7e1642] [cursor=pointer]
+                - button "Apply" [ref=f7e1644] [cursor=pointer]
+        - navigation "Pagination Navigation" [ref=f7e1645]:
+          - list [ref=f7e1646]:
+            - listitem [ref=f7e1647]:
+              - link "Page 1, current page" [ref=f7e1648] [cursor=pointer]:
+                - /url: /role/l/software-engineer/san-francisco-bay-area
+                - text: "1"
+            - listitem [ref=f7e1649]:
+              - link "Go to page 2" [ref=f7e1650] [cursor=pointer]:
+                - /url: /role/l/software-engineer/san-francisco-bay-area?page=2
+                - text: "2"
+            - listitem [ref=f7e1651]:
+              - link "Go to page 3" [ref=f7e1652] [cursor=pointer]:
+                - /url: /role/l/software-engineer/san-francisco-bay-area?page=3
+                - text: "3"
+            - listitem [ref=f7e1653]:
+              - link "Go to page 4" [ref=f7e1654] [cursor=pointer]:
+                - /url: /role/l/software-engineer/san-francisco-bay-area?page=4
+                - text: "4"
+            - listitem [ref=f7e1655]:
+              - link "Go to page 5" [ref=f7e1656] [cursor=pointer]:
+                - /url: /role/l/software-engineer/san-francisco-bay-area?page=5
+                - text: "5"
+            - generic [ref=f7e1657]: ...
+            - listitem [ref=f7e1658]:
+              - link "Go to page 19" [ref=f7e1659] [cursor=pointer]:
+                - /url: /role/l/software-engineer/san-francisco-bay-area?page=19
+                - text: "19"
+            - listitem [ref=f7e1660]:
+              - link "Go to page 20" [ref=f7e1661] [cursor=pointer]:
+                - /url: /role/l/software-engineer/san-francisco-bay-area?page=20
+                - text: "20"
+            - listitem [ref=f7e1662]:
+              - link "Go to page 21" [ref=f7e1663] [cursor=pointer]:
+                - /url: /role/l/software-engineer/san-francisco-bay-area?page=21
+                - text: "21"
+            - listitem [ref=f7e1664]:
+              - link "Next page" [ref=f7e1665] [cursor=pointer]:
+                - /url: /role/l/software-engineer/san-francisco-bay-area?page=2
+                - text: Next
+      - generic [ref=f7e1668]:
+        - heading "Explore other jobs in San Francisco Bay Area" [level=3] [ref=f7e1670]
+        - generic [ref=f7e1671]:
+          - link "Account Executive in San Francisco Bay Area" [ref=f7e1672] [cursor=pointer]:
+            - /url: https://wellfound.com/role/l/account-executive/san-francisco-bay-area
+          - link "Backend Engineer in San Francisco Bay Area" [ref=f7e1673] [cursor=pointer]:
+            - /url: https://wellfound.com/role/l/backend-engineer/san-francisco-bay-area
+          - link "Data Scientist in San Francisco Bay Area" [ref=f7e1674] [cursor=pointer]:
+            - /url: https://wellfound.com/role/l/data-scientist/san-francisco-bay-area
+          - link "Engineering Manager in San Francisco Bay Area" [ref=f7e1675] [cursor=pointer]:
+            - /url: https://wellfound.com/role/l/engineering-manager/san-francisco-bay-area
+          - link "Finance in San Francisco Bay Area" [ref=f7e1676] [cursor=pointer]:
+            - /url: https://wellfound.com/role/l/finance/san-francisco-bay-area
+          - link "Growth Hacker in San Francisco Bay Area" [ref=f7e1677] [cursor=pointer]:
+            - /url: https://wellfound.com/role/l/growth-hacker/san-francisco-bay-area
+          - link "Hardware Engineer in San Francisco Bay Area" [ref=f7e1678] [cursor=pointer]:
+            - /url: https://wellfound.com/role/l/hardware-engineer/san-francisco-bay-area
+          - link "Machine Learning Engineer in San Francisco Bay Area" [ref=f7e1679] [cursor=pointer]:
+            - /url: https://wellfound.com/role/l/machine-learning-engineer/san-francisco-bay-area
+          - link "Marketing Manager in San Francisco Bay Area" [ref=f7e1680] [cursor=pointer]:
+            - /url: https://wellfound.com/role/l/marketing-manager/san-francisco-bay-area
+          - link "Operations Manager in San Francisco Bay Area" [ref=f7e1681] [cursor=pointer]:
+            - /url: https://wellfound.com/role/l/operations-manager/san-francisco-bay-area
+          - link "Product Designer in San Francisco Bay Area" [ref=f7e1682] [cursor=pointer]:
+            - /url: https://wellfound.com/role/l/product-designer/san-francisco-bay-area
+          - link "Product Manager in San Francisco Bay Area" [ref=f7e1683] [cursor=pointer]:
+            - /url: https://wellfound.com/role/l/product-manager/san-francisco-bay-area
+          - link "Project Manager in San Francisco Bay Area" [ref=f7e1684] [cursor=pointer]:
+            - /url: https://wellfound.com/role/l/project-manager/san-francisco-bay-area
+          - link "Recruiter in San Francisco Bay Area" [ref=f7e1685] [cursor=pointer]:
+            - /url: https://wellfound.com/role/l/recruiter/san-francisco-bay-area
+          - link "Sales in San Francisco Bay Area" [ref=f7e1686] [cursor=pointer]:
+            - /url: https://wellfound.com/role/l/sales/san-francisco-bay-area
+        - heading "Explore remote jobs" [level=3] [ref=f7e1688]
+        - generic [ref=f7e1689]:
+          - link "Technical Assistance Specialist Remote" [ref=f7e1690] [cursor=pointer]:
+            - /url: https://wellfound.com/role/r/technical-assistance-specialist
+          - link "Operations Manager Remote" [ref=f7e1691] [cursor=pointer]:
+            - /url: https://wellfound.com/role/r/operations-manager
+          - link "Business Consultant Remote" [ref=f7e1692] [cursor=pointer]:
+            - /url: https://wellfound.com/role/r/business-consultant
+          - link "SEM Director Remote" [ref=f7e1693] [cursor=pointer]:
+            - /url: https://wellfound.com/role/r/sem-director
+          - link "Network Infrastructure Specialist Remote" [ref=f7e1694] [cursor=pointer]:
+            - /url: https://wellfound.com/role/r/network-infrastructure-specialist
+          - link ".NET Developer Remote" [ref=f7e1695] [cursor=pointer]:
+            - /url: https://wellfound.com/role/r/.net-developer
+          - link "SEO Director Remote" [ref=f7e1696] [cursor=pointer]:
+            - /url: https://wellfound.com/role/r/seo-director
+          - link "Mechanical Design Engineer Remote" [ref=f7e1697] [cursor=pointer]:
+            - /url: https://wellfound.com/role/r/mechanical-design-engineer
+          - link "Digital Marketing Director Remote" [ref=f7e1698] [cursor=pointer]:
+            - /url: https://wellfound.com/role/r/digital-marketing-director
+          - link "Director of Product Design Remote" [ref=f7e1699] [cursor=pointer]:
+            - /url: https://wellfound.com/role/r/director-of-product-design
+          - link "Information Security Engineer Remote" [ref=f7e1700] [cursor=pointer]:
+            - /url: https://wellfound.com/role/r/information-security-engineer
+          - link "Lead Programmer Remote" [ref=f7e1701] [cursor=pointer]:
+            - /url: https://wellfound.com/role/r/lead-programmer
+          - link "Application Security Engineer Remote" [ref=f7e1702] [cursor=pointer]:
+            - /url: https://wellfound.com/role/r/application-security-engineer
+          - link "SEM Manager Remote" [ref=f7e1703] [cursor=pointer]:
+            - /url: https://wellfound.com/role/r/sem-manager
+          - link "HTML Developer Remote" [ref=f7e1704] [cursor=pointer]:
+            - /url: https://wellfound.com/role/r/html-developer
+        - heading "Explore tech jobs in other locations" [level=3] [ref=f7e1706]
+        - generic [ref=f7e1707]:
+          - link "San Francisco" [ref=f7e1708] [cursor=pointer]:
+            - /url: https://wellfound.com/location/san-francisco
+          - link "Los Angeles" [ref=f7e1709] [cursor=pointer]:
+            - /url: https://wellfound.com/location/los-angeles
+          - link "Boston" [ref=f7e1710] [cursor=pointer]:
+            - /url: https://wellfound.com/location/boston
+          - link "Chicago" [ref=f7e1711] [cursor=pointer]:
+            - /url: https://wellfound.com/location/chicago
+          - link "Seattle" [ref=f7e1712] [cursor=pointer]:
+            - /url: https://wellfound.com/location/seattle
+          - link "Austin" [ref=f7e1713] [cursor=pointer]:
+            - /url: https://wellfound.com/location/austin
+          - link "New York" [ref=f7e1714] [cursor=pointer]:
+            - /url: https://wellfound.com/location/new-york
+          - link "Denver" [ref=f7e1715] [cursor=pointer]:
+            - /url: https://wellfound.com/location/denver
+          - link "District of Columbia" [ref=f7e1716] [cursor=pointer]:
+            - /url: https://wellfound.com/location/district-of-columbia
+    - generic [ref=f7e1717]:
+      - button "Featured Lists" [ref=f7e1718] [cursor=pointer]
+      - button "Remote Jobs" [ref=f7e1722] [cursor=pointer]
+      - button "Jobs by Location" [ref=f7e1726] [cursor=pointer]
+      - button "Jobs by Role" [ref=f7e1730] [cursor=pointer]
+      - button "Jobs by Role & Location" [ref=f7e1734] [cursor=pointer]
+    - contentinfo [ref=f7e1738]:
+      - generic [ref=f7e1739]:
+        - generic [ref=f7e1740]:
+          - link [ref=f7e1741] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f7e1756]:
+            - link [ref=f7e1757] [cursor=pointer]:
+              - /url: http://twitter.com/wellfoundhq
+            - link [ref=f7e1760] [cursor=pointer]:
+              - /url: https://instagram.com/wellfoundhq
+        - generic [ref=f7e1764]:
+          - list [ref=f7e1765]:
+            - listitem [ref=f7e1766]:
+              - heading "For Candidates" [level=4] [ref=f7e1767]
+            - listitem [ref=f7e1768]:
+              - link "Overview" [ref=f7e1769] [cursor=pointer]:
+                - /url: /candidates/overview
+            - listitem [ref=f7e1770]:
+              - link "Startup Jobs" [ref=f7e1771] [cursor=pointer]:
+                - /url: /jobs
+            - listitem [ref=f7e1772]:
+              - link "Web3 Jobs" [ref=f7e1773] [cursor=pointer]:
+                - /url: /web3
+            - listitem [ref=f7e1774]:
+              - link "Featured" [ref=f7e1775] [cursor=pointer]:
+                - /url: /candidates/featured
+            - listitem [ref=f7e1776]:
+              - link "Startup Hiring Data" [ref=f7e1777] [cursor=pointer]:
+                - /url: /hiring-data
+            - listitem [ref=f7e1778]:
+              - link "Tech Startups" [ref=f7e1779] [cursor=pointer]:
+                - /url: /startups
+            - listitem [ref=f7e1780]:
+              - link "Remote" [ref=f7e1781] [cursor=pointer]:
+                - /url: /candidates/remote
+          - list [ref=f7e1782]:
+            - listitem [ref=f7e1783]:
+              - heading "For Recruiters" [level=4] [ref=f7e1784]
+            - listitem [ref=f7e1785]:
+              - link "Overview" [ref=f7e1786] [cursor=pointer]:
+                - /url: /recruit/overview
+            - listitem [ref=f7e1787]:
+              - link "Recruit Pro" [ref=f7e1788] [cursor=pointer]:
+                - /url: /recruit/products/recruit-pro
+            - listitem [ref=f7e1789]:
+              - link "Curated" [ref=f7e1790] [cursor=pointer]:
+                - /url: /recruit/products/curated
+            - listitem [ref=f7e1791]:
+              - link "Wellfound:ai" [ref=f7e1792] [cursor=pointer]:
+                - /url: /recruit/products/recruiter-cloud
+            - listitem [ref=f7e1793]:
+              - link "Hire Developers" [ref=f7e1794] [cursor=pointer]:
+                - /url: /hire
+            - listitem [ref=f7e1795]:
+              - link "Pricing" [ref=f7e1796] [cursor=pointer]:
+                - /url: /recruit/pricing
+          - list [ref=f7e1797]:
+            - listitem [ref=f7e1798]:
+              - heading "Company" [level=4] [ref=f7e1799]
+            - listitem [ref=f7e1800]:
+              - link "About" [ref=f7e1801] [cursor=pointer]:
+                - /url: https://wellfound.com
+            - listitem [ref=f7e1802]:
+              - link "Help" [ref=f7e1803] [cursor=pointer]:
+                - /url: https://help.wellfound.com/
+            - listitem [ref=f7e1804]:
+              - link "Blog" [ref=f7e1805] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=f7e1806]:
+              - link "Terms & Risks" [ref=f7e1807] [cursor=pointer]:
+                - /url: /terms
+            - listitem [ref=f7e1808]:
+              - link "Privacy & Cookies" [ref=f7e1809] [cursor=pointer]:
+                - /url: /privacy
+            - listitem [ref=f7e1810]:
+              - link "Trust" [ref=f7e1811] [cursor=pointer]:
+                - /url: https://trust.wellfound.ai
+            - listitem [ref=f7e1812]:
+              - link "Platform Status" [ref=f7e1813] [cursor=pointer]:
+                - /url: https://status.wellfound.com
+      - generic [ref=f7e1814]:
+        - generic [ref=f7e1815]:
+          - paragraph [ref=f7e1816]: Copyright © 2026 Wellfound. All rights reserved.
+          - generic [ref=f7e1817] [cursor=pointer]: Cookie Preferences
+        - paragraph [ref=f7e1818]:
+          - text: "Browse by:"
+          - link "Jobs" [ref=f7e1819] [cursor=pointer]:
+            - /url: /browse/tech-jobs
+          - text: ","
+          - link "Remote Jobs" [ref=f7e1820] [cursor=pointer]:
+            - /url: /browse/remote-tech-jobs
+          - text: ","
+          - link "Locations" [ref=f7e1821] [cursor=pointer]:
+            - /url: /browse/tech-job-locations
+          - text: ","
+          - link "Startups" [ref=f7e1822] [cursor=pointer]:
+            - /url: /browse/tech-startups
+          - text: ","
+          - link "Startups Hiring" [ref=f7e1823] [cursor=pointer]:
+            - /url: /browse/startups-hiring
+          - text: ","
+          - link "Industries" [ref=f7e1824] [cursor=pointer]:
+            - /url: /browse/tech-industries
+          - text: ","
+          - link "Tech Hubs" [ref=f7e1825] [cursor=pointer]:
+            - /url: /browse/tech-hubs
+  - alert [ref=f7e1826]

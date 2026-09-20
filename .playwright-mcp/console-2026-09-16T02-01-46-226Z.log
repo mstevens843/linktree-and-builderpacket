@@ -1,0 +1,2 @@
+[    1161ms] TypeError: Cannot read properties of null (reading 'addEventListener')
+    at https://www.dynamic.xyz/careers:245:59

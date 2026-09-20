@@ -1,0 +1,621 @@
+- generic [ref=f267e1]:
+  - link [aria-hidden] [ref=f267e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - text: Skip to main content
+  - banner [aria-hidden] [ref=f267e3]:
+    - navigation [ref=f267e4]:
+      - link [ref=f267e5] [cursor=pointer]:
+        - /url: /?trk=public_jobs_nav-header-logo
+        - generic [ref=f267e6]: LinkedIn
+      - generic [ref=f267e19]:
+        - button [ref=f267e21] [cursor=pointer]:
+          - generic [ref=f267e22]: Jobs
+        - tabpanel [ref=f267e23]:
+          - search [ref=f267e24]:
+            - generic [ref=f267e25]:
+              - combobox [ref=f267e26]: Junior Full Stack Software Engineer
+              - button [ref=f267e27] [cursor=pointer]:
+                - generic [ref=f267e28]: Clear text
+            - generic [ref=f267e34]:
+              - combobox [ref=f267e35]: San Pablo, CA
+              - button [ref=f267e36] [cursor=pointer]:
+                - generic [ref=f267e37]: Clear text
+            - button [ref=f267e43] [cursor=pointer]
+        - status [ref=f267e47]
+      - generic [ref=f267e48]:
+        - link [ref=f267e49] [cursor=pointer]:
+          - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&fromSignIn=true&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fjunior-full-stack-software-engineer-at-lumion-4466559276&trk=public_jobs_nav-header-signin
+          - text: Sign in
+        - link [ref=f267e50] [cursor=pointer]:
+          - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fjunior-full-stack-software-engineer-at-lumion-4466559276&trk=public_jobs_nav-header-join
+          - text: Join now
+  - main [aria-hidden] [ref=f267e51]:
+    - generic [ref=f267e53]:
+      - generic [ref=f267e55]:
+        - link [ref=f267e56] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/joinlumion?trk=public_jobs_topcard_logo
+        - generic [ref=f267e59]:
+          - heading [level=1] [ref=f267e60]: Junior Full Stack Software Engineer
+          - heading [level=4] [ref=f267e61]:
+            - generic [ref=f267e62]:
+              - link [ref=f267e64] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/joinlumion?trk=public_jobs_topcard-org-name
+                - text: Lumion
+              - text: · South Jordan, UT
+            - generic [ref=f267e65]: 11 hours ago · 144 applicants
+            - link [ref=f267e66] [cursor=pointer]:
+              - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D38131774%26title%3DFull%2BStack%2BEngineer&emailAddress=&fromSignIn=&trk=public_jobs_see-who-was-hired_people-search-link_face-pile-cta
+              - paragraph [ref=f267e69]: See who Lumion has hired for this role
+          - generic [ref=f267e70]:
+            - button [ref=f267e71] [cursor=pointer]: Apply
+            - button [ref=f267e72] [cursor=pointer]: Save
+        - button [ref=f267e75] [cursor=pointer]
+        - generic [ref=f267e77]:
+          - heading [level=3] [ref=f267e78]: Use AI to assess how you fit
+          - paragraph [ref=f267e79]: Get AI-powered advice on this job and more exclusive features.
+          - generic [ref=f267e80]:
+            - button [ref=f267e81] [cursor=pointer]
+            - button [ref=f267e83] [cursor=pointer]:
+              - generic [ref=f267e85]: Am I a good fit for this job?
+            - button [ref=f267e86] [cursor=pointer]:
+              - generic [ref=f267e88]: Tailor my resume
+      - generic [ref=f267e89]:
+        - generic [ref=f267e91]:
+          - generic [ref=f267e93]:
+            - generic [ref=f267e94]:
+              - paragraph [ref=f267e95]:
+                - strong [ref=f267e96]: "Location:"
+                - text: Fully Remote (USA) · Timezone-aligned
+                - strong [ref=f267e97]: "Compensation:"
+                - text: 80k–100k + Equity + Quarterly Performance Bonuses
+              - paragraph [ref=f267e98]
+              - paragraph [ref=f267e99]:
+                - strong [ref=f267e100]: "The Mission: Transforming Businesses for the AI Age"
+              - paragraph [ref=f267e101]: Many businesses still depend on disconnected software, spreadsheets, manual processes, and knowledge trapped inside individual employees’ heads. Lumion brings those systems and processes together so organizations can operate more intelligently and efficiently.
+              - paragraph [ref=f267e102]
+              - paragraph [ref=f267e103]: We are starting with trade and technical schools. Our platform powers the entire institution, from the first lead through enrollment, tuition payments, compliance reporting, graduation, and career tracking.
+              - paragraph [ref=f267e104]
+              - paragraph [ref=f267e105]: These schools prepare electricians, welders, nurses, technicians, and other skilled professionals who keep the country moving. By modernizing their operations, Lumion helps them serve more students and strengthen the skilled workforce.
+              - paragraph [ref=f267e106]
+              - paragraph [ref=f267e107]:
+                - strong [ref=f267e108]: "The Opportunity: Learn How Software Will Be Built in the Future"
+              - paragraph [ref=f267e109]: This is a place to launch your career at the cutting edge of software development. You will learn how coding will be done in the future and become part of the wave changing how software is created.
+              - paragraph [ref=f267e110]
+              - paragraph [ref=f267e111]: Our stack and development processes are AI First. Claude Code and Codex are part of our normal workflow, with access to the latest frontier models without having to ration tokens or worry about usage limits. You will learn the workflows, judgment, and verification practices required to use these systems effectively and become a 100x developer.
+              - paragraph [ref=f267e112]
+              - paragraph [ref=f267e113]: Working at a startup also gives you the opportunity to wear different hats and see problems from engineering, product, customer, and business perspectives. You will gain experience that is difficult to find when working inside one narrow area of a larger company.
+              - paragraph [ref=f267e114]
+              - paragraph [ref=f267e115]: If you want a fast moving environment, the excitement of solving new problems, and the chance to look back proudly on helping build something significant, this is that opportunity.
+              - paragraph [ref=f267e116]
+              - paragraph [ref=f267e117]:
+                - strong [ref=f267e118]: "The Role: Code at the Speed of Thought"
+              - paragraph [ref=f267e119]: Your work will span backend business logic, data models, APIs, integrations, administrative workflows, customer facing interfaces, and automated tests.
+              - paragraph [ref=f267e120]
+              - paragraph [ref=f267e121]: You will be a full member of the engineering team from day one and trusted with meaningful production work. Important assignments are not reserved for people with longer résumés. You will be held to the same standards for quality, communication, and follow through as every other engineer at Lumion.
+              - paragraph [ref=f267e122]
+              - paragraph [ref=f267e123]:
+                - strong [ref=f267e124]: What We’re Looking For
+              - paragraph [ref=f267e125]: Professional software engineering experience is not required.
+              - list [ref=f267e126]:
+                - listitem [ref=f267e127]:
+                  - strong [ref=f267e128]: A Bachelor’s degree in Computer Science is required.
+                  - text: The degree must be completed before your employment begins. Current students may apply if they will graduate before their start date.
+                - listitem [ref=f267e129]:
+                  - strong [ref=f267e130]: Evidence that you have put your programming skills into practice.
+                  - text: This can come from a capstone, internship, personal project, open source contribution, research project, freelance engagement, or another hands on project. We want to understand what you worked on, what you personally contributed, and what you learned.
+                - listitem [ref=f267e131]:
+                  - strong [ref=f267e132]: Confidence in at least one programming language.
+                  - text: You can build with it, debug it, and explain the logic behind your decisions. The language does not need to be PHP, and prior Laravel experience is not required.
+                - listitem [ref=f267e133]:
+                  - strong [ref=f267e134]: An understanding of web development fundamentals.
+                  - text: You are familiar with concepts such as HTTP, APIs, authentication, databases, browser interfaces, version control, and automated testing.
+                - listitem [ref=f267e135]:
+                  - strong [ref=f267e136]: Logical problem solving.
+                  - text: You can break an unfamiliar problem into manageable parts, investigate failures systematically, and work toward the underlying cause.
+                - listitem [ref=f267e137]:
+                  - strong [ref=f267e138]: Product judgment.
+                  - text: You consider the person using the software and connect technical decisions to the problem being solved.
+              - paragraph [ref=f267e139]
+              - paragraph [ref=f267e140]:
+                - strong [ref=f267e141]: How We Work
+              - paragraph [ref=f267e142]: Lumion is a high trust team. We share context openly, keep our egos low, raise risks early, and ask questions when something does not make sense.
+              - paragraph [ref=f267e143]: To show that you read the entire posting, tell us in your application what you would do with a golden banana. There are no wrong answers except not answering.
+              - paragraph [ref=f267e144]
+              - paragraph [ref=f267e145]:
+                - strong [ref=f267e146]: The Stack
+              - paragraph [ref=f267e147]: "Our current application stack includes:"
+              - list [ref=f267e148]:
+                - listitem [ref=f267e149]:
+                  - strong [ref=f267e150]: "Application:"
+                  - text: PHP 8.4+, Laravel 12+, Livewire, Filament, Blade, JavaScript, and Tailwind CSS
+                - listitem [ref=f267e151]:
+                  - strong [ref=f267e152]: "Data:"
+                  - text: MySQL, Redis, pgvector, and Pinecone
+                - listitem [ref=f267e153]:
+                  - strong [ref=f267e154]: "Testing:"
+                  - text: Pest PHP
+              - paragraph [ref=f267e155]
+              - paragraph [ref=f267e156]:
+                - strong [ref=f267e157]: Why Join Lumion Now?
+              - paragraph [ref=f267e158]: Lumion closed a $10.7 million seed round backed by TTV Capital and Tusk Venture Partners. More than 400 career schools use our platform to support over 150,000 students across 48 states and 29 industries.
+              - paragraph [ref=f267e159]
+              - paragraph [ref=f267e160]: Schools using Lumion see 47% more completed applications, a 73.6% application to enrollment rate, 91% on time tuition collection, and 21% higher student retention.
+              - paragraph [ref=f267e161]: We have the capital and momentum to build something that lasts while remaining early enough for every engineer to influence the product and company.
+              - paragraph [ref=f267e162]
+              - paragraph [ref=f267e163]:
+                - strong [ref=f267e164]: Remote First
+              - paragraph [ref=f267e165]: This is a full time remote position. You must reside in and be authorized to work in the United States. Your normal workday must overlap by at least six hours with our Salt Lake City team.
+              - paragraph [ref=f267e166]
+              - paragraph [ref=f267e167]:
+                - strong [ref=f267e168]: Compensation and Benefits
+              - list [ref=f267e169]:
+                - listitem [ref=f267e170]:
+                  - strong [ref=f267e171]: "Salary:"
+                  - text: $80,000 to $100,000 USD
+                - listitem [ref=f267e172]:
+                  - strong [ref=f267e173]: "Equity:"
+                  - text: Meaningful stock options
+                - listitem [ref=f267e174]:
+                  - strong [ref=f267e175]: "Bonuses:"
+                  - text: Quarterly performance based cash bonuses
+                - listitem [ref=f267e176]:
+                  - strong [ref=f267e177]: "Time Off:"
+                  - text: Unlimited paid time off
+                - listitem [ref=f267e178]:
+                  - strong [ref=f267e179]: "Retirement:"
+                  - text: 401(k)
+                - listitem [ref=f267e180]:
+                  - strong [ref=f267e181]: "Health:"
+                  - text: Health, dental, and vision reimbursement up to $537.50 per month
+                - listitem [ref=f267e182]:
+                  - strong [ref=f267e183]: "Technology:"
+                  - text: $200 monthly technology stipend
+                - listitem [ref=f267e184]:
+                  - strong [ref=f267e185]: "Wellness:"
+                  - text: $100 monthly wellness stipend
+              - paragraph [ref=f267e186]
+            - button [ref=f267e187] [cursor=pointer]: Show more
+          - list [ref=f267e189]:
+            - listitem [ref=f267e190]:
+              - heading [level=3] [ref=f267e191]: Seniority level
+              - text: Entry level
+            - listitem [ref=f267e192]:
+              - heading [level=3] [ref=f267e193]: Employment type
+              - text: Full-time
+            - listitem [ref=f267e194]:
+              - heading [level=3] [ref=f267e195]: Job function
+              - text: Engineering and Information Technology
+            - listitem [ref=f267e196]:
+              - heading [level=3] [ref=f267e197]: Industries
+              - text: Software Development
+        - generic [ref=f267e202]:
+          - paragraph [ref=f267e203]: Referrals increase your chances of interviewing at Lumion by 2x
+          - link [ref=f267e204] [cursor=pointer]:
+            - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D38131774&emailAddress=&fromSignIn=&trk=public_jobs_find-a-referral-cta
+            - text: See who you know
+        - generic [ref=f267e205]:
+          - heading [level=2] [ref=f267e206]: Featured Benefits
+          - heading [level=3] [ref=f267e207]: Inferred from the description for this job
+          - list [ref=f267e209]:
+            - listitem [ref=f267e210]:
+              - generic [ref=f267e211]: 401(k)
+            - listitem [ref=f267e214]:
+              - generic [ref=f267e215]: Medical insurance
+            - listitem [ref=f267e218]:
+              - generic [ref=f267e219]: Paid maternity leave
+            - listitem [ref=f267e222]:
+              - generic [ref=f267e223]: Paid paternity leave
+      - generic [ref=f267e228]:
+        - paragraph [ref=f267e229]:
+          - text: Get notified about new Full Stack Engineer jobs in
+          - strong [ref=f267e230]: South Jordan, UT
+          - text: .
+        - link [ref=f267e231] [cursor=pointer]:
+          - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fjunior-full-stack-software-engineer-at-lumion-4466559276&trk=public_jobs_job-alert-guest-redirect-cta
+          - text: Sign in to create job alert
+      - navigation [ref=f267e232]:
+        - list [ref=f267e233]:
+          - listitem [ref=f267e234]:
+            - link [ref=f267e235] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/
+              - text: Jobs
+            - text: /
+          - listitem [ref=f267e236]:
+            - link [ref=f267e237] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/javascript-developer-jobs
+              - text: Javascript Developer jobs
+            - text: /
+          - listitem [ref=f267e238]:
+            - generic [ref=f267e239]: Junior Full Stack Software Engineer
+      - generic [ref=f267e240]:
+        - heading [level=2] [ref=f267e241]: Similar jobs
+        - generic [ref=f267e243]:
+          - list [ref=f267e244]:
+            - listitem [ref=f267e245]:
+              - generic [ref=f267e246]:
+                - link [ref=f267e247] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/software-engineer-i-at-incomm-payments-4434750014?refId=JOClUDdi0SfzKlekzL%2FeZg%3D%3D&trackingId=IYsLBmIdCbWSDE7p0xs8rg%3D%3D
+                  - generic [ref=f267e248]: Software Engineer I
+                - generic [ref=f267e249]:
+                  - heading [level=3] [ref=f267e250]: Software Engineer I
+                  - heading [level=4] [ref=f267e251]:
+                    - link [ref=f267e252] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/incommpayments?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: InComm Payments
+                  - generic [ref=f267e253]:
+                    - generic [ref=f267e254]: Sandy, UT
+                    - time [ref=f267e255]: 9 hours ago
+            - listitem [ref=f267e256]:
+              - generic [ref=f267e257]:
+                - link [ref=f267e258] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/software-development-engineer-at-university-of-utah-4464979195?refId=JOClUDdi0SfzKlekzL%2FeZg%3D%3D&trackingId=qsKrWfaOvIueaKx9WZDS%2BA%3D%3D
+                  - generic [ref=f267e259]: Software Development Engineer
+                - generic [ref=f267e260]:
+                  - heading [level=3] [ref=f267e261]: Software Development Engineer
+                  - heading [level=4] [ref=f267e262]:
+                    - link [ref=f267e263] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/school/university-of-utah/?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: University of Utah
+                  - generic [ref=f267e264]:
+                    - generic [ref=f267e265]: Salt Lake City, UT
+                    - time [ref=f267e266]: 1 week ago
+            - listitem [ref=f267e267]:
+              - generic [ref=f267e268]:
+                - link [ref=f267e269] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/service-delivery-center-full-stack-developer-financial-services-analyst-raleigh-dallas-san-antonio-at-ey-4439455118?refId=JOClUDdi0SfzKlekzL%2FeZg%3D%3D&trackingId=hD14t8EVl01Vuup4804gKQ%3D%3D
+                  - generic [ref=f267e270]: "Service Delivery Center-Full Stack Developer: Financial Services-Analyst-Raleigh,Dallas, San Antonio"
+                - generic [ref=f267e271]:
+                  - heading [level=3] [ref=f267e272]: "Service Delivery Center-Full Stack Developer: Financial Services-Analyst-Raleigh,Dallas, San Antonio"
+                  - heading [level=4] [ref=f267e273]:
+                    - link [ref=f267e274] [cursor=pointer]:
+                      - /url: https://uk.linkedin.com/company/ernstandyoung?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: EY
+                  - generic [ref=f267e275]:
+                    - generic [ref=f267e276]: Salt Lake City, UT
+                    - time [ref=f267e277]: 10 hours ago
+            - listitem [ref=f267e278]:
+              - generic [ref=f267e279]:
+                - link [ref=f267e280] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/software-engineer-at-neighbor-4464901212?refId=JOClUDdi0SfzKlekzL%2FeZg%3D%3D&trackingId=JT3NwD%2Fgj0sXEfJ1uy7ECQ%3D%3D
+                  - generic [ref=f267e281]: Software Engineer
+                - generic [ref=f267e282]:
+                  - heading [level=3] [ref=f267e283]: Software Engineer
+                  - heading [level=4] [ref=f267e284]:
+                    - link [ref=f267e285] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/neighbor?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Neighbor
+                  - generic [ref=f267e286]:
+                    - generic [ref=f267e287]: Lehi, UT
+                    - time [ref=f267e288]: 2 weeks ago
+            - listitem [ref=f267e289]:
+              - generic [ref=f267e290]:
+                - link [ref=f267e291] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/software-engineer-technical-associate-onsite-at-braintrust-4459875827?refId=JOClUDdi0SfzKlekzL%2FeZg%3D%3D&trackingId=h%2BwhBLOb9gFwx9YbgJg18Q%3D%3D
+                  - generic [ref=f267e292]: Software Engineer / Technical Associate - Onsite
+                - generic [ref=f267e293]:
+                  - heading [level=3] [ref=f267e294]: Software Engineer / Technical Associate - Onsite
+                  - heading [level=4] [ref=f267e295]:
+                    - link [ref=f267e296] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/usebraintrust?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Braintrust
+                  - generic [ref=f267e297]:
+                    - generic [ref=f267e298]: Salt Lake City, UT
+                    - time [ref=f267e299]: 2 weeks ago
+            - listitem [ref=f267e300]:
+              - generic [ref=f267e301]:
+                - link [ref=f267e302] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/software-development-engineer-i-%E2%80%93-iii-at-cambia-health-solutions-4464804877?refId=JOClUDdi0SfzKlekzL%2FeZg%3D%3D&trackingId=0hwUJgqQIXJj3eKqnrm21A%3D%3D
+                  - generic [ref=f267e303]: Software Development Engineer I – III
+                - generic [ref=f267e304]:
+                  - heading [level=3] [ref=f267e305]: Software Development Engineer I – III
+                  - heading [level=4] [ref=f267e306]:
+                    - link [ref=f267e307] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/cambia-health-solutions?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Cambia Health Solutions
+                  - generic [ref=f267e308]:
+                    - generic [ref=f267e309]: Salt Lake City, UT
+                    - time [ref=f267e310]: 5 days ago
+          - button [ref=f267e311] [cursor=pointer]: Show more jobs like this
+    - generic [ref=f267e313]:
+      - generic [ref=f267e314]:
+        - heading [level=2] [ref=f267e315]: People also viewed
+        - list [ref=f267e317]:
+          - listitem [ref=f267e318]:
+            - generic [ref=f267e319]:
+              - link [ref=f267e320] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/intermediate-full-stack-laravel-developer-at-frogtummy-4464814629?refId=JOClUDdi0SfzKlekzL%2FeZg%3D%3D&trackingId=99mW7WrdhOoe9gc4cPf4uQ%3D%3D
+                - generic [ref=f267e321]: Intermediate Full-Stack Laravel Developer
+              - generic [ref=f267e322]:
+                - heading [level=3] [ref=f267e323]: Intermediate Full-Stack Laravel Developer
+                - paragraph [ref=f267e324]:
+                  - link [ref=f267e325] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/frogtummy?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: FROGTUMMY
+                - generic [ref=f267e326]:
+                  - generic [ref=f267e327]: Kaysville, UT
+                  - time [ref=f267e328]: 5 days ago
+          - listitem [ref=f267e329]:
+            - generic [ref=f267e330]:
+              - link [ref=f267e331] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-ai-at-lightspeed-dms-4438098680?refId=JOClUDdi0SfzKlekzL%2FeZg%3D%3D&trackingId=HWR5Avg8RQGwzMj93%2FHQAg%3D%3D
+                - generic [ref=f267e332]: Software Engineer - AI
+              - generic [ref=f267e333]:
+                - heading [level=3] [ref=f267e334]: Software Engineer - AI
+                - paragraph [ref=f267e335]:
+                  - link [ref=f267e336] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/lightspeed-dms?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Lightspeed DMS
+                - generic [ref=f267e337]:
+                  - generic [ref=f267e338]: South Jordan, UT
+                  - time [ref=f267e339]: 2 weeks ago
+          - listitem [ref=f267e340]:
+            - generic [ref=f267e341]:
+              - link [ref=f267e342] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-4%2B-years-of-experience-at-anrok-4369683994?refId=JOClUDdi0SfzKlekzL%2FeZg%3D%3D&trackingId=JleXxObNFiQoVSrci1%2Fa8Q%3D%3D
+                - generic [ref=f267e343]: Software Engineer (4+ years of experience)
+              - generic [ref=f267e344]:
+                - heading [level=3] [ref=f267e345]: Software Engineer (4+ years of experience)
+                - paragraph [ref=f267e346]:
+                  - link [ref=f267e347] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/anrok?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Anrok
+                - generic [ref=f267e348]:
+                  - generic [ref=f267e349]: Salt Lake City, UT
+                  - generic [ref=f267e350]: $140,000 - $220,000
+                  - time [ref=f267e351]: 5 days ago
+          - listitem [ref=f267e352]:
+            - generic [ref=f267e353]:
+              - link [ref=f267e354] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/junior-rust-engineer-at-carv-4467257684?refId=JOClUDdi0SfzKlekzL%2FeZg%3D%3D&trackingId=Rx7d%2Fq2a2NvmSqDA3DS1Og%3D%3D
+                - generic [ref=f267e355]: Junior Rust Engineer
+              - generic [ref=f267e356]:
+                - heading [level=3] [ref=f267e357]: Junior Rust Engineer
+                - paragraph [ref=f267e358]:
+                  - link [ref=f267e359] [cursor=pointer]:
+                    - /url: https://uk.linkedin.com/company/carvbymotionmetrics?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Carv
+                - generic [ref=f267e360]:
+                  - generic [ref=f267e361]: Park City, UT
+                  - time [ref=f267e362]: 1 day ago
+          - listitem [ref=f267e363]:
+            - generic [ref=f267e364]:
+              - link [ref=f267e365] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/seo-analyst-0-to-1%2B-year-experience-at-webomaze-technologies-private-limited-4440262308?refId=JOClUDdi0SfzKlekzL%2FeZg%3D%3D&trackingId=bA9%2FIgB%2BQViAiO6JHA%2B58w%3D%3D
+                - generic [ref=f267e366]: SEO Analyst - 0 to 1+ Year Experience
+              - generic [ref=f267e367]:
+                - heading [level=3] [ref=f267e368]: SEO Analyst - 0 to 1+ Year Experience
+                - paragraph [ref=f267e369]:
+                  - link [ref=f267e370] [cursor=pointer]:
+                    - /url: https://in.linkedin.com/company/webomazetechnologies?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Webomaze Technologies Private Limited
+                - generic [ref=f267e371]:
+                  - generic [ref=f267e372]: Orem, UT
+                  - time [ref=f267e373]: 2 months ago
+          - listitem [ref=f267e374]:
+            - generic [ref=f267e375]:
+              - link [ref=f267e376] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-quality-engineer-i-ii-facets-application-services-at-cambia-health-solutions-4461391690?refId=JOClUDdi0SfzKlekzL%2FeZg%3D%3D&trackingId=GrnXghGMbRJSLzKk8a31Pw%3D%3D
+                - generic [ref=f267e377]: Software Quality Engineer I - II (Facets Application Services)
+              - generic [ref=f267e378]:
+                - heading [level=3] [ref=f267e379]: Software Quality Engineer I - II (Facets Application Services)
+                - paragraph [ref=f267e380]:
+                  - link [ref=f267e381] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/cambia-health-solutions?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Cambia Health Solutions
+                - generic [ref=f267e382]:
+                  - generic [ref=f267e383]: Salt Lake City, UT
+                  - time [ref=f267e384]: 6 hours ago
+          - listitem [ref=f267e385]:
+            - generic [ref=f267e386]:
+              - link [ref=f267e387] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-iii-at-acima-4453734129?refId=JOClUDdi0SfzKlekzL%2FeZg%3D%3D&trackingId=tDi4Dm7YOOUfLMZTtFKNAQ%3D%3D
+                - generic [ref=f267e388]: Software Engineer III
+              - generic [ref=f267e389]:
+                - heading [level=3] [ref=f267e390]: Software Engineer III
+                - paragraph [ref=f267e391]:
+                  - link [ref=f267e392] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/acimaleasing?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Acima
+                - generic [ref=f267e393]:
+                  - generic [ref=f267e394]: Draper, UT
+                  - time [ref=f267e395]: 1 week ago
+          - listitem [ref=f267e396]:
+            - generic [ref=f267e397]:
+              - link [ref=f267e398] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-ii-at-sorenson-communications-4466120551?refId=JOClUDdi0SfzKlekzL%2FeZg%3D%3D&trackingId=4okfJZgspNfAsLr%2FIFZatw%3D%3D
+                - generic [ref=f267e399]: Software Engineer II
+              - generic [ref=f267e400]:
+                - heading [level=3] [ref=f267e401]: Software Engineer II
+                - paragraph [ref=f267e402]:
+                  - link [ref=f267e403] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/sorenson-communications?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Sorenson Communications
+                - generic [ref=f267e404]:
+                  - generic [ref=f267e405]: Salt Lake City, UT
+                  - time [ref=f267e406]: 1 day ago
+          - listitem [ref=f267e407]:
+            - generic [ref=f267e408]:
+              - link [ref=f267e409] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/front-end-engineer-at-place-4456276638?refId=JOClUDdi0SfzKlekzL%2FeZg%3D%3D&trackingId=Z%2Bdf8lvC5zhvL5lK9ebKEw%3D%3D
+                - generic [ref=f267e410]: Front End Engineer
+              - generic [ref=f267e411]:
+                - heading [level=3] [ref=f267e412]: Front End Engineer
+                - paragraph [ref=f267e413]:
+                  - link [ref=f267e414] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/placeinc?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: PLACE
+                - generic [ref=f267e415]:
+                  - generic [ref=f267e416]: Draper, UT
+                  - time [ref=f267e417]: 3 weeks ago
+          - listitem [ref=f267e418]:
+            - generic [ref=f267e419]:
+              - link [ref=f267e420] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-ai-at-nice-4463089019?refId=JOClUDdi0SfzKlekzL%2FeZg%3D%3D&trackingId=%2BJ3cQzlsulEOOKcEcPMQXQ%3D%3D
+                - generic [ref=f267e421]: Software Engineer, AI
+              - generic [ref=f267e422]:
+                - heading [level=3] [ref=f267e423]: Software Engineer, AI
+                - paragraph [ref=f267e424]:
+                  - link [ref=f267e425] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/nice-systems?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: NiCE
+                - generic [ref=f267e426]:
+                  - generic [ref=f267e427]: Sandy, UT
+                  - time [ref=f267e428]: 6 days ago
+      - generic [ref=f267e429]:
+        - heading [level=2] [ref=f267e430]: Similar Searches
+        - generic [ref=f267e432]:
+          - list [ref=f267e433]:
+            - listitem [ref=f267e434]:
+              - link [ref=f267e435] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/javascript-developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f267e436]:
+                  - heading [level=3] [ref=f267e437]: Javascript Developer jobs
+                  - generic [ref=f267e438]: 35,575 open jobs
+            - listitem [ref=f267e439]:
+              - link [ref=f267e440] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/java-software-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f267e441]:
+                  - heading [level=3] [ref=f267e442]: Java Software Engineer jobs
+                  - generic [ref=f267e443]: 36,180 open jobs
+            - listitem [ref=f267e444]:
+              - link [ref=f267e445] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f267e446]:
+                  - heading [level=3] [ref=f267e447]: Developer jobs
+                  - generic [ref=f267e448]: 258,935 open jobs
+            - listitem [ref=f267e449]:
+              - link [ref=f267e450] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/senior-web-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f267e451]:
+                  - heading [level=3] [ref=f267e452]: Senior Web Engineer jobs
+                  - generic [ref=f267e453]: 39,686 open jobs
+            - listitem [ref=f267e454]:
+              - link [ref=f267e455] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/coldfusion-developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f267e456]:
+                  - heading [level=3] [ref=f267e457]: Coldfusion Developer jobs
+                  - generic [ref=f267e458]: 23,224 open jobs
+            - listitem [ref=f267e459]:
+              - link [ref=f267e460] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/senior-software-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f267e461]:
+                  - heading [level=3] [ref=f267e462]: Senior Software Engineer jobs
+                  - generic [ref=f267e463]: 78,145 open jobs
+            - listitem [ref=f267e464]:
+              - link [ref=f267e465] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/php-developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f267e466]:
+                  - heading [level=3] [ref=f267e467]: PHP Developer jobs
+                  - generic [ref=f267e468]: 14,437 open jobs
+            - listitem [ref=f267e469]:
+              - link [ref=f267e470] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/contract-web-developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f267e471]:
+                  - heading [level=3] [ref=f267e472]: Contract Web Developer jobs
+                  - generic [ref=f267e473]: 354 open jobs
+            - listitem [ref=f267e474]:
+              - link [ref=f267e475] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/java-application-developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f267e476]:
+                  - heading [level=3] [ref=f267e477]: Java Application Developer jobs
+                  - generic [ref=f267e478]: 16,016 open jobs
+            - listitem [ref=f267e479]:
+              - link [ref=f267e480] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/senior-web-developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f267e481]:
+                  - heading [level=3] [ref=f267e482]: Senior Web Developer jobs
+                  - generic [ref=f267e483]: 46,615 open jobs
+            - listitem [ref=f267e484]:
+              - link [ref=f267e485] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/django-developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f267e486]:
+                  - heading [level=3] [ref=f267e487]: Django Developer jobs
+                  - generic [ref=f267e488]: 37,934 open jobs
+            - listitem [ref=f267e489]:
+              - link [ref=f267e490] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/associate-software-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f267e491]:
+                  - heading [level=3] [ref=f267e492]: Associate Software Engineer jobs
+                  - generic [ref=f267e493]: 223,979 open jobs
+          - button [ref=f267e494] [cursor=pointer]: Show more
+      - generic [ref=f267e498]:
+        - heading [level=2] [ref=f267e500]: Explore top content on LinkedIn
+        - paragraph [ref=f267e501]: Find curated posts and insights for relevant topics all in one place.
+        - link [ref=f267e502] [cursor=pointer]:
+          - /url: https://www.linkedin.com/top-content/
+          - text: View top content
+  - button [ref=f267e507] [cursor=pointer]: More searches
+  - contentinfo [aria-hidden] [ref=f267e509]:
+    - list [ref=f267e510]:
+      - generic [ref=f267e511]: LinkedIn
+      - generic [ref=f267e513]: © 2026
+      - listitem [ref=f267e514]:
+        - link [ref=f267e515] [cursor=pointer]:
+          - /url: https://about.linkedin.com?trk=d_jobs_guest_details_footer-about
+          - text: About
+      - listitem [ref=f267e516]:
+        - link [ref=f267e517] [cursor=pointer]:
+          - /url: https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility
+          - text: Accessibility
+      - listitem [ref=f267e518]:
+        - link [ref=f267e519] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/user-agreement?trk=d_jobs_guest_details_footer-user-agreement
+          - text: User Agreement
+      - listitem [ref=f267e520]:
+        - link [ref=f267e521] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/privacy-policy?trk=d_jobs_guest_details_footer-privacy-policy
+          - text: Privacy Policy
+      - listitem [ref=f267e522]:
+        - link [ref=f267e523] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/california-privacy-disclosure?trk=d_jobs_guest_details_footer-california-privacy-rights-act
+          - text: Your California Privacy Choices
+      - listitem [ref=f267e524]:
+        - link [ref=f267e525] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/cookie-policy?trk=d_jobs_guest_details_footer-cookie-policy
+          - text: Cookie Policy
+      - listitem [ref=f267e526]:
+        - link [ref=f267e527] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/copyright-policy?trk=d_jobs_guest_details_footer-copyright-policy
+          - text: Copyright Policy
+      - listitem [ref=f267e528]:
+        - link [ref=f267e529] [cursor=pointer]:
+          - /url: https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy
+          - text: Brand Policy
+      - listitem [ref=f267e530]:
+        - link [ref=f267e531] [cursor=pointer]:
+          - /url: https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls
+          - text: Guest Controls
+      - listitem [ref=f267e532]:
+        - link [ref=f267e533] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/professional-community-policies?trk=d_jobs_guest_details_footer-community-guide
+          - text: Community Guidelines
+      - listitem [ref=f267e534]:
+        - button [ref=f267e536]: Language
+  - dialog [active] [ref=f267e539]:
+    - button "Dismiss" [ref=f267e540] [cursor=pointer]
+    - generic [ref=f267e542]:
+      - heading "Sign in to see who you already know at Lumion" [level=2] [ref=f267e544]
+      - generic [ref=f267e545]:
+        - generic:
+          - generic:
+            - button "Continue with google"
+        - button "Sign in with Email" [ref=f267e546] [cursor=pointer]
+        - paragraph [ref=f267e550]: or
+        - generic:
+          - generic:
+            - button "Continue with google"
+        - paragraph [ref=f267e551]:
+          - text: New to LinkedIn?
+          - link "Join now" [ref=f267e552] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&trk=public_jobs_contextual-sign-in-modal_join-link
+        - paragraph [ref=f267e553]:
+          - text: By clicking Continue to join or sign in, you agree to LinkedIn’s
+          - link "User Agreement" [ref=f267e554] [cursor=pointer]:
+            - /url: /legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement
+          - text: ","
+          - link "Privacy Policy" [ref=f267e555] [cursor=pointer]:
+            - /url: /legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy
+          - text: ", and"
+          - link "Cookie Policy" [ref=f267e556] [cursor=pointer]:
+            - /url: /legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy
+          - text: .

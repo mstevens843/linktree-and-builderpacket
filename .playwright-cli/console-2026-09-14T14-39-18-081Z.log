@@ -1,0 +1,2 @@
+[    1851ms] [WARNING] Datadog Browser SDK: No storage available for session. We will not send any data. @ https://cdn.ashbyprd.com/frontend_non_user/9221a808904adba106225971a28859a951fbad56/assets/index-Bh4w_WrF.js:31
+[    2373ms] [ERROR] Permissions policy violation: accelerometer is not allowed in this document. @ https://cdn.ashbyprd.com/frontend_non_user/9221a808904adba106225971a28859a951fbad56/assets/index-Bh4w_WrF.js:254

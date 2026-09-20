@@ -1,0 +1,87 @@
+- generic [active] [ref=f27e1]:
+  - generic [ref=f27e4]:
+    - generic [ref=f27e6]:
+      - link "Skip to content" [ref=f27e8] [cursor=pointer]:
+        - /url: "#main"
+      - generic [ref=f27e12]:
+        - banner [ref=f27e13]:
+          - generic [ref=f27e15]:
+            - generic [ref=f27e16]:
+              - link "Drift Career Opportunities" [ref=f27e18] [cursor=pointer]:
+                - /url: /Drift-Career-Opportunities-45de6a825f264388b13cd866b707d157?pvs=18
+              - generic [aria-hidden] [ref=f27e22]: /
+              - button "Drift - Lead Mobile Engineer" [disabled] [ref=f27e23]
+            - generic [ref=f27e25]:
+              - button "Close panel" [ref=f27e27] [cursor=pointer]
+              - generic [ref=f27e31]:
+                - button [ref=f27e32] [cursor=pointer]
+                - button "Share site to socials" [ref=f27e37] [cursor=pointer]
+                - button "More actions" [ref=f27e42] [cursor=pointer]
+                - button "Get Notion free" [ref=f27e45] [cursor=pointer]
+        - main [ref=f27e46]:
+          - generic [ref=f27e51]:
+            - heading "Drift - Lead Mobile Engineer" [level=1] [ref=f27e70]
+            - generic [ref=f27e72]:
+              - heading "Company Background" [level=4] [ref=f27e77]
+              - generic [ref=f27e78]: Drift Labs is the core contributor to Drift Protocol, the largest perpetual swaps DEX on Solana. Drift Protocol’s goal is to make DEXs the best way to trade derivatives. Despite the decentralized nature of crypto, centralized derivatives exchanges still remain dominant - they're already fast, familiar and reliable however they lack immutability and transparency.
+              - generic [ref=f27e84]: Drift’s vision is to create a centralised user experience built on decentralised rails. We’re backed by Multicoin Capital, Polychain Ventures, Ethereal and many more. The team is made up of experienced traders and builders from DeFi and traditional finance working to make this a reality.
+              - heading "Job Title" [level=4] [ref=f27e100]
+              - generic [ref=f27e101]: Lead Mobile Engineer (React Native)
+              - heading "Job Responsibilities" [level=4] [ref=f27e117]
+              - generic [ref=f27e118]: "The role:"
+              - generic [ref=f27e127]:
+                - generic [ref=f27e128]: •
+                - generic [ref=f27e130]: Take the lead on a project at Drift to build a greenfield mobile DEX trading app.
+              - generic [ref=f27e136]:
+                - generic [ref=f27e137]: •
+                - generic [ref=f27e139]: Fully-Remote, working in the Asia timezone
+              - generic [ref=f27e142]: "Who you are:"
+              - generic [ref=f27e151]:
+                - generic [ref=f27e152]: •
+                - generic [ref=f27e154]:
+                  - generic [ref=f27e155]: Experienced React Native developer with confidence to lead a greenfield project in a competitive space.
+                  - generic [ref=f27e160]:
+                    - generic [ref=f27e161]: ◦
+                    - generic [ref=f27e163]: 3-5 years experience
+                  - generic [ref=f27e169]:
+                    - generic [ref=f27e170]: ◦
+                    - generic [ref=f27e172]: Startup experience preferred.
+                  - generic [ref=f27e178]:
+                    - generic [ref=f27e179]: ◦
+                    - generic [ref=f27e181]: Crypto experience preferred.
+              - generic [ref=f27e187]:
+                - generic [ref=f27e188]: •
+                - generic [ref=f27e190]:
+                  - generic [ref=f27e191]: Able to work closely with UI designers in the same time zone to create good product outcomes.
+                  - generic [ref=f27e196]:
+                    - generic [ref=f27e197]: ◦
+                    - generic [ref=f27e199]: This will require iteratively reaching solutions and tackling ambiguity.
+                  - generic [ref=f27e205]:
+                    - generic [ref=f27e206]: ◦
+                    - generic [ref=f27e208]: Will sometimes require using your own product sensibility and knowledge of tech limitations to help settle on solutions that align with designs quickly.
+              - generic [ref=f27e214]:
+                - generic [ref=f27e215]: •
+                - generic [ref=f27e217]: Understands security limitations of mobile libraries used.
+              - generic [ref=f27e223]:
+                - generic [ref=f27e224]: •
+                - generic [ref=f27e226]: Hungry and excited to work in a fast-moving and flat organisation. Drift has a tight-knit engineering team of 10, preferring quality over quantity. A scrappy and dynamic personality will succeed here.
+              - heading "Perks" [level=4] [ref=f27e239]
+              - generic [ref=f27e243]:
+                - generic [ref=f27e244]: •
+                - generic [ref=f27e246]: Remote first - work from anywhere
+              - generic [ref=f27e252]:
+                - generic [ref=f27e253]: •
+                - generic [ref=f27e255]: International team offsites
+              - generic [ref=f27e261]:
+                - generic [ref=f27e262]: •
+                - generic [ref=f27e264]: Stipend for technology costs
+              - generic [ref=f27e270]:
+                - generic [ref=f27e271]: •
+                - generic [ref=f27e273]: Leading compensation in the digital assets space
+              - generic [ref=f27e279]:
+                - generic [ref=f27e280]: •
+                - generic [ref=f27e282]: Leading equity ownership in the digital assets space
+        - region [aria-hidden] [ref=f27e287]
+    - status [ref=f27e288]
+    - alert [ref=f27e289]
+  - iframe [aria-hidden] [ref=f27e290]

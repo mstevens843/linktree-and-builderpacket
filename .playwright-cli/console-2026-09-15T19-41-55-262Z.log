@@ -1,0 +1,16 @@
+[    2703ms] [WARNING] {msg: An error has occurred checking the feature gate. Only the first occurrence of this error is logged., gateName: use_frontend_feature_encoding_sdk_platform, error: Error: Client must be initialized before using this method
+    at e.value (https://cdn.loom.com/ass…} @ https://cdn.loom.com/assets/js/vendor-656-1f9c642db13fa4a4.js:11
+[    2786ms] [WARNING] Multiple versions of FeatureGateClients found on the current page.
+      The currently bound version is 5.8.0 when module version 5.7.0 was loading. @ https://cdn.loom.com/assets/js/vendor-656-1f9c642db13fa4a4.js:11
+[    2807ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ chrome-extension://invalid/:0
+[    3080ms] [WARNING]   WARN  [Statsig] The user does not have the required id_type "tenantId" for Gate "platform_dst_scrollbar_harmonisation" @ https://cdn.loom.com/assets/js/vendor-656-1f9c642db13fa4a4.js:11
+[    3143ms] [WARNING]   WARN  [Statsig] The user does not have the required id_type "loomUserId" for Gate "enable_atlassian_feature_flag_short_circuit" @ https://cdn.loom.com/assets/js/vendor-656-1f9c642db13fa4a4.js:11
+[    3143ms] [WARNING]   WARN  [Statsig] The user does not have the required id_type "loomUserId" for Gate "rollout-limit-business-creator-lite" @ https://cdn.loom.com/assets/js/vendor-656-1f9c642db13fa4a4.js:11
+[    3143ms] [WARNING]   WARN  [Statsig] The user does not have the required id_type "loomUserId" for Gate "loom-agentic-overlays-ui" @ https://cdn.loom.com/assets/js/vendor-656-1f9c642db13fa4a4.js:11
+[    3150ms] [WARNING]   WARN  [Statsig] The user does not have the required id_type "loomWorkspaceId" for Gate "loom-use-tdp-os-seek-preview-signed-urls" @ https://cdn.loom.com/assets/js/vendor-656-1f9c642db13fa4a4.js:11
+[    3153ms] [WARNING]   WARN  [Statsig] The user does not have the required id_type "loomUserId" for Gate "enable-dev-tools" @ https://cdn.loom.com/assets/js/vendor-656-1f9c642db13fa4a4.js:11
+[    3154ms] [WARNING]   WARN  [Statsig] The user does not have the required id_type "loomUserId" for Gate "minimum_web_app_version" @ https://cdn.loom.com/assets/js/vendor-656-1f9c642db13fa4a4.js:11
+[    3154ms] [WARNING]   WARN  [Statsig] The user does not have the required id_type "loomUserId" for Gate "mwav_periodic_bad_builds_check" @ https://cdn.loom.com/assets/js/vendor-656-1f9c642db13fa4a4.js:11
+[    3155ms] [WARNING]   WARN  [Statsig] The user does not have the required id_type "loomWorkspaceId" for Gate "loom_unified_ai_instrumentation" @ https://cdn.loom.com/assets/js/vendor-656-1f9c642db13fa4a4.js:11
+[    3155ms] [WARNING]   WARN  [Statsig] The user does not have the required id_type "loomWorkspaceId" for Gate "loom-rovo-ai-smart-button" @ https://cdn.loom.com/assets/js/vendor-656-1f9c642db13fa4a4.js:11
+[    3170ms] [ERROR] Failed to load resource: net::ERR_BLOCKED_BY_CLIENT @ chrome-extension://invalid/:0

@@ -1,0 +1,547 @@
+- generic [ref=f111e1]:
+  - link [aria-hidden] [ref=f111e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - text: Skip to main content
+  - banner [aria-hidden] [ref=f111e3]:
+    - navigation [ref=f111e4]:
+      - link [ref=f111e5] [cursor=pointer]:
+        - /url: /?trk=public_jobs_nav-header-logo
+        - generic [ref=f111e6]: LinkedIn
+      - generic [ref=f111e19]:
+        - button [ref=f111e21] [cursor=pointer]:
+          - generic [ref=f111e22]: Jobs
+        - tabpanel [ref=f111e23]:
+          - search [ref=f111e24]:
+            - generic [ref=f111e25]:
+              - combobox [ref=f111e26]: Software Engineer, Forward Deployed (Entry - Senior Level)
+              - button [ref=f111e27] [cursor=pointer]:
+                - generic [ref=f111e28]: Clear text
+            - generic [ref=f111e34]:
+              - combobox [ref=f111e35]: San Pablo, CA
+              - button [ref=f111e36] [cursor=pointer]:
+                - generic [ref=f111e37]: Clear text
+            - button [ref=f111e43] [cursor=pointer]
+        - status [ref=f111e47]
+      - generic [ref=f111e48]:
+        - link [ref=f111e49] [cursor=pointer]:
+          - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&fromSignIn=true&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fsoftware-engineer-forward-deployed-entry-senior-level-at-zip-4466530957&trk=public_jobs_nav-header-signin
+          - text: Sign in
+        - link [ref=f111e50] [cursor=pointer]:
+          - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fsoftware-engineer-forward-deployed-entry-senior-level-at-zip-4466530957&trk=public_jobs_nav-header-join
+          - text: Join now
+  - main [aria-hidden] [ref=f111e51]:
+    - generic [ref=f111e53]:
+      - generic [ref=f111e55]:
+        - link [ref=f111e56] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/theziphq?trk=public_jobs_topcard_logo
+        - generic [ref=f111e59]:
+          - heading [level=1] [ref=f111e60]: Software Engineer, Forward Deployed (Entry - Senior Level)
+          - heading [level=4] [ref=f111e61]:
+            - generic [ref=f111e62]:
+              - link [ref=f111e64] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/theziphq?trk=public_jobs_topcard-org-name
+                - text: Zip
+              - text: · San Francisco, CA
+            - generic [ref=f111e65]:
+              - text: 11 hours ago
+              - figure [ref=f111e66]: · Over 200 applicants
+            - link [ref=f111e68] [cursor=pointer]:
+              - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D42784537%26title%3DSenior%2BSoftware%2BEngineer&emailAddress=&fromSignIn=&trk=public_jobs_see-who-was-hired_people-search-link_face-pile-cta
+              - paragraph [ref=f111e71]: See who Zip has hired for this role
+          - generic [ref=f111e72]:
+            - button [ref=f111e73] [cursor=pointer]: Apply
+            - button [ref=f111e77] [cursor=pointer]: Save
+        - button [ref=f111e80] [cursor=pointer]
+        - generic [ref=f111e85]:
+          - heading [level=3] [ref=f111e91]: Use AI to assess how you fit
+          - paragraph [ref=f111e92]: Get AI-powered advice on this job and more exclusive features.
+          - generic [ref=f111e93]:
+            - button [ref=f111e94] [cursor=pointer]
+            - button [ref=f111e96] [cursor=pointer]:
+              - generic [ref=f111e98]: Am I a good fit for this job?
+            - button [ref=f111e99] [cursor=pointer]:
+              - generic [ref=f111e101]: Tailor my resume
+      - generic [ref=f111e102]:
+        - generic [ref=f111e104]:
+          - generic [ref=f111e106]:
+            - generic [ref=f111e107]:
+              - strong [ref=f111e108]: About Zip
+              - text: Zip is the AI platform for enterprise procurement — built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before. The world’s most influential enterprises trust Zip, including T-Mobile, OpenAI, AMD, Mars, Dollar Tree, and more. Together they’ve saved over $8 billion and processed over $500 billion in spend. Zip’s team includes product leaders from Apple, Airbnb, and Meta, as well as former procurement leaders from United Health, Sanofi, MGM Resorts, Discover, and NASA. Backed by Adams Street, Alkeon, BOND, CRV, DST, Tiger Global, and Y Combinator, Zip has raised $371 million, most recently at a $2.2 billion valuation and has been recognized by Forbes Fintech 50, Fast Company's Most Innovative Companies, Inc. Best in Business, and LinkedIn Top Startups.
+              - strong [ref=f111e109]: Your role
+              - text: You'll join Zip's Forward Deployed Software Engineering team as a software engineer on some of the highest-impact product work at the company. You'll write and ship production code, partner directly with our most critical customers, and own the engineering on the deals that matter most to Zip. The team operates close to the customer, moves with urgency, and builds the features that determine whether the biggest deals close on time, whether our most demanding customers stay on the leading edge of the product, and what enterprise-grade looks like in our platform. If you've done Forward Deployed work elsewhere, this is a place to keep doing it - on real product, at scale, for some of the most recognizable companies in the world.
+              - strong [ref=f111e110]: You will
+              - list [ref=f111e111]:
+                - listitem [ref=f111e112]: Lead the engineering on critical customer projects. You'll own scope, sequencing, and delivery against the timelines that high-stakes deals demand, embedded in the implementation cadence alongside our Field PM and Solutions Consultants.
+                - listitem [ref=f111e113]: Ship high-impact features that move the most important strategic deals and renewals forward. The work this team takes on is what makes the platform enterprise-grade - net-new product capabilities, framework gaps (APIs, exports, notifications, etc), and targeted enhancements that ship in days or weeks.
+                - listitem [ref=f111e114]: Bring strong product sense to every decision. Partner with core product teams to decide what to build, what to push back on, and what to redirect. Strong opinions are welcome; strong opinions grounded in what you heard on a customer call are gold.
+                - listitem [ref=f111e115]: Shape Zip's long-term platform and roadmap. Features you ship land at our most critical customers first and compound into the platform, and the patterns you see first become next year's product investments.
+                - listitem [ref=f111e116]: Communicate directly with customers. You'll be on calls with procurement, finance, and IT teams, diagnose problems live against real deadlines, and translate trade-offs in language that lands with both engineers and executives.
+              - strong [ref=f111e117]: Your Qualifications
+              - list [ref=f111e118]:
+                - listitem [ref=f111e119]: "Strong software engineering skills. You've shipped non-trivial production systems and you can read and write code across the stack: Python on the backend and React/TypeScript on the frontend at Zip."
+                - listitem [ref=f111e120]: Product instincts and judgment. You're the engineer on your current team who pushes back on poorly scoped requirements, who notices when a feature is solving the wrong problem, and who's willing to say so.
+                - listitem [ref=f111e121]: Customer empathy and crisp communication. You can sit in a room with a Director of Procurement at a $50B company, hear what they're actually worried about, and translate it into a tech spec, and vice versa. If you've never done this before but the idea sounds energizing, that counts.
+                - listitem [ref=f111e122]: Speed and urgency with a high quality bar. You can move on a customer-driven timeline and still write code that holds up in production.
+                - listitem [ref=f111e123]: High ownership. You diagnose, build, and ship with minimal supervision. You're the kind of engineer who follows a problem upstream until it's actually fixed.
+              - strong [ref=f111e124]: Helpful, Not Required
+              - list [ref=f111e125]:
+                - listitem [ref=f111e126]: Prior experience as a product engineer or full-stack engineer on a team that owned features end-to-end, shipped frequently, and worked closely with users or customers.
+                - listitem [ref=f111e127]: Prior founder or early-employee experience. Many of the best FDEs are people who want to start a company someday and are using this role to build empathy for what enterprises actually buy and why.
+                - listitem [ref=f111e128]: Experience with procurement, finance, ERP, or AP automation systems.
+              - text: The base salary range for this role is $150,000 - $250,000. The salary for this position is determined based on a variety of job-related factors that may include location, relevant experience, education, or particular skills and expertise.
+              - strong [ref=f111e129]: Perks & Benefits
+              - text: At Zip, we’re committed to providing our employees with everything they need to do their best work.
+              - list [ref=f111e130]:
+                - listitem [ref=f111e131]: 📈 Start-up equity
+                - listitem [ref=f111e132]: 🦷 100% health, vision & dental coverage options
+                - listitem [ref=f111e133]: 🍽️ Catered breakfast, lunch, & dinner
+                - listitem [ref=f111e134]: 🌴 Flexible PTO
+                - listitem [ref=f111e135]: 🏋️‍♀️ ClassPass membership
+                - listitem [ref=f111e136]: 🚍 Monthly commuter benefit
+                - listitem [ref=f111e137]: 🚠 Team building events & happy hours
+                - listitem [ref=f111e138]: 💻 Home office stipend
+                - listitem [ref=f111e139]: 🛜 Phone/internet reimbursement
+                - listitem [ref=f111e140]: 🍼 Paid parental leave
+                - listitem [ref=f111e141]: 🧑‍🧑‍🧒‍🧒 Fertility stipend
+                - listitem [ref=f111e142]: 💸 401k plan
+                - listitem [ref=f111e143]: 🤖 Unlimited AI token usage
+              - emphasis [ref=f111e144]: We're looking to hire Zipsters and that means hiring people who take ownership, communicate openly, have an underdog mindset, and are excited to increase the pace of innovation for every business in the world. We encourage all candidates to apply even if your experience doesn't exactly match up to our job description. We are committed to building a diverse and inclusive workspace where everyone (regardless of age, religion, ethnicity, gender, sexual orientation, and more) feels like they belong. We look forward to hearing from you!
+            - button [ref=f111e145] [cursor=pointer]: Show more
+          - list [ref=f111e147]:
+            - listitem [ref=f111e148]:
+              - heading [level=3] [ref=f111e149]: Seniority level
+              - text: Mid-Senior level
+            - listitem [ref=f111e150]:
+              - heading [level=3] [ref=f111e151]: Employment type
+              - text: Full-time
+            - listitem [ref=f111e152]:
+              - heading [level=3] [ref=f111e153]: Job function
+              - text: Engineering and Information Technology
+            - listitem [ref=f111e154]:
+              - heading [level=3] [ref=f111e155]: Industries
+              - text: Software Development
+        - generic [ref=f111e160]:
+          - paragraph [ref=f111e161]: Referrals increase your chances of interviewing at Zip by 2x
+          - link [ref=f111e162] [cursor=pointer]:
+            - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D42784537&emailAddress=&fromSignIn=&trk=public_jobs_find-a-referral-cta
+            - text: See who you know
+      - generic [ref=f111e165]:
+        - paragraph [ref=f111e166]:
+          - text: Get notified about new Senior Software Engineer jobs in
+          - strong [ref=f111e167]: San Francisco, CA
+          - text: .
+        - link [ref=f111e168] [cursor=pointer]:
+          - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fsoftware-engineer-forward-deployed-entry-senior-level-at-zip-4466530957&trk=public_jobs_job-alert-guest-redirect-cta
+          - text: Sign in to create job alert
+      - navigation [ref=f111e169]:
+        - list [ref=f111e170]:
+          - listitem [ref=f111e171]:
+            - link [ref=f111e172] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/
+              - text: Jobs
+            - text: /
+          - listitem [ref=f111e173]:
+            - link [ref=f111e174] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/senior-developer-contract-jobs
+              - text: Senior Developer Contract jobs
+            - text: /
+          - listitem [ref=f111e175]:
+            - generic [ref=f111e176]: Software Engineer, Forward Deployed (Entry - Senior Level)
+      - generic [ref=f111e177]:
+        - heading [level=2] [ref=f111e178]: Similar jobs
+        - generic [ref=f111e180]:
+          - list [ref=f111e181]:
+            - listitem [ref=f111e182]:
+              - generic [ref=f111e183]:
+                - link [ref=f111e184] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-luma-4445268907?refId=s2fuJVE%2FgkQAY%2B68kL2FCg%3D%3D&trackingId=J5IZ%2BiZp%2BaNKvsSx0KpmIg%3D%3D
+                  - generic [ref=f111e185]: Forward Deployed Engineer
+                - generic [ref=f111e186]:
+                  - heading [level=3] [ref=f111e187]: Forward Deployed Engineer
+                  - heading [level=4] [ref=f111e188]:
+                    - link [ref=f111e189] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/lumalabsai?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Luma
+                  - generic [ref=f111e190]:
+                    - generic [ref=f111e191]: Redwood City, CA
+                    - generic [ref=f111e192]: $168,000 - $252,000
+                    - time [ref=f111e193]: 1 week ago
+            - listitem [ref=f111e194]:
+              - generic [ref=f111e195]:
+                - link [ref=f111e196] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-casca-4437135931?refId=s2fuJVE%2FgkQAY%2B68kL2FCg%3D%3D&trackingId=%2FCzta6xpwvHrDhHkNqunGQ%3D%3D
+                  - generic [ref=f111e197]: Forward Deployed Engineer
+                - generic [ref=f111e198]:
+                  - heading [level=3] [ref=f111e199]: Forward Deployed Engineer
+                  - heading [level=4] [ref=f111e200]:
+                    - link [ref=f111e201] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/cascading-ai?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Casca
+                  - generic [ref=f111e202]:
+                    - generic [ref=f111e203]: San Francisco, CA
+                    - time [ref=f111e204]: 1 week ago
+            - listitem [ref=f111e205]:
+              - generic [ref=f111e206]:
+                - link [ref=f111e207] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/forward-deployed-engineer-sf-at-doppel-4438137068?refId=s2fuJVE%2FgkQAY%2B68kL2FCg%3D%3D&trackingId=LR9KV8pY1RqkjcBg67tUpg%3D%3D
+                  - generic [ref=f111e208]: Forward Deployed Engineer (SF)
+                - generic [ref=f111e209]:
+                  - heading [level=3] [ref=f111e210]: Forward Deployed Engineer (SF)
+                  - heading [level=4] [ref=f111e211]:
+                    - link [ref=f111e212] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/doppelhq?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Doppel
+                  - generic [ref=f111e213]:
+                    - generic [ref=f111e214]: San Francisco, CA
+                    - time [ref=f111e215]: 6 days ago
+            - listitem [ref=f111e216]:
+              - generic [ref=f111e217]:
+                - link [ref=f111e218] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-coval-4395920277?refId=s2fuJVE%2FgkQAY%2B68kL2FCg%3D%3D&trackingId=jhpHIQKCQrXcEIgWzFzQdQ%3D%3D
+                  - generic [ref=f111e219]: Forward Deployed Engineer
+                - generic [ref=f111e220]:
+                  - heading [level=3] [ref=f111e221]: Forward Deployed Engineer
+                  - heading [level=4] [ref=f111e222]:
+                    - link [ref=f111e223] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/covaldev?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Coval
+                  - generic [ref=f111e224]:
+                    - generic [ref=f111e225]: San Francisco, CA
+                    - generic [ref=f111e226]: $100,000 - $250,000
+                    - time [ref=f111e227]: 5 months ago
+            - listitem [ref=f111e228]:
+              - generic [ref=f111e229]:
+                - link [ref=f111e230] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-tavus-4407862803?refId=s2fuJVE%2FgkQAY%2B68kL2FCg%3D%3D&trackingId=H2tk%2F%2FbdNgRjGa%2FLgzuA4w%3D%3D
+                  - generic [ref=f111e231]: Forward Deployed Engineer
+                - generic [ref=f111e232]:
+                  - heading [level=3] [ref=f111e233]: Forward Deployed Engineer
+                  - heading [level=4] [ref=f111e234]:
+                    - link [ref=f111e235] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/tavus-io?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Tavus
+                  - generic [ref=f111e236]:
+                    - generic [ref=f111e237]: San Francisco, CA
+                    - time [ref=f111e238]: 4 months ago
+            - listitem [ref=f111e239]:
+              - generic [ref=f111e240]:
+                - link [ref=f111e241] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-numeral-4440604676?refId=s2fuJVE%2FgkQAY%2B68kL2FCg%3D%3D&trackingId=pegDXfIMj%2B25p4q10ImLOQ%3D%3D
+                  - generic [ref=f111e242]: Forward Deployed Engineer
+                - generic [ref=f111e243]:
+                  - heading [level=3] [ref=f111e244]: Forward Deployed Engineer
+                  - heading [level=4] [ref=f111e245]:
+                    - link [ref=f111e246] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/numeralhq?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Numeral
+                  - generic [ref=f111e247]:
+                    - generic [ref=f111e248]: San Francisco, CA
+                    - time [ref=f111e249]: 2 months ago
+          - button [ref=f111e250] [cursor=pointer]: Show more jobs like this
+    - generic [ref=f111e252]:
+      - generic [ref=f111e253]:
+        - heading [level=2] [ref=f111e254]: People also viewed
+        - list [ref=f111e256]:
+          - listitem [ref=f111e257]:
+            - generic [ref=f111e258]:
+              - link [ref=f111e259] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/ai-native-forward-deployed-engineer-at-tread-4439393862?refId=s2fuJVE%2FgkQAY%2B68kL2FCg%3D%3D&trackingId=jIiOaNObDX9Fj5NMFPTjog%3D%3D
+                - generic [ref=f111e260]: AI-Native Forward Deployed Engineer
+              - generic [ref=f111e261]:
+                - heading [level=3] [ref=f111e262]: AI-Native Forward Deployed Engineer
+                - paragraph [ref=f111e263]:
+                  - link [ref=f111e264] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/treadai?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Tread
+                - generic [ref=f111e265]:
+                  - generic [ref=f111e266]: San Francisco, CA
+                  - generic [ref=f111e267]: $120,000 - $160,000
+                  - time [ref=f111e268]: 2 months ago
+          - listitem [ref=f111e269]:
+            - generic [ref=f111e270]:
+              - link [ref=f111e271] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-reducto-4338954885?refId=s2fuJVE%2FgkQAY%2B68kL2FCg%3D%3D&trackingId=gGEHx0ITSiA4PmB4fDDfrA%3D%3D
+                - generic [ref=f111e272]: Forward Deployed Engineer
+              - generic [ref=f111e273]:
+                - heading [level=3] [ref=f111e274]: Forward Deployed Engineer
+                - paragraph [ref=f111e275]:
+                  - link [ref=f111e276] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/reducto-ai?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Reducto
+                - generic [ref=f111e277]:
+                  - generic [ref=f111e278]: San Francisco, CA
+                  - time [ref=f111e279]: 2 weeks ago
+          - listitem [ref=f111e280]:
+            - generic [ref=f111e281]:
+              - link [ref=f111e282] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-synth-yc-s21-4415149388?refId=s2fuJVE%2FgkQAY%2B68kL2FCg%3D%3D&trackingId=wbAX2fZRiXHQEGKc4EGflQ%3D%3D
+                - generic [ref=f111e283]: Forward Deployed Engineer
+              - generic [ref=f111e284]:
+                - heading [level=3] [ref=f111e285]: Forward Deployed Engineer
+                - paragraph [ref=f111e286]:
+                  - link [ref=f111e287] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/synth-ai-labs?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Synth (YC S21)
+                - generic [ref=f111e288]:
+                  - generic [ref=f111e289]: San Francisco, CA
+                  - generic [ref=f111e290]: $110,000 - $180,000
+                  - time [ref=f111e291]: 4 months ago
+          - listitem [ref=f111e292]:
+            - generic [ref=f111e293]:
+              - link [ref=f111e294] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-taskrabbit-4453365741?refId=s2fuJVE%2FgkQAY%2B68kL2FCg%3D%3D&trackingId=ZEW8qdFF2%2F2sryBGIEOebQ%3D%3D
+                - generic [ref=f111e295]: Forward Deployed Engineer
+              - generic [ref=f111e296]:
+                - heading [level=3] [ref=f111e297]: Forward Deployed Engineer
+                - paragraph [ref=f111e298]:
+                  - link [ref=f111e299] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/taskrabbit?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Taskrabbit
+                - generic [ref=f111e300]:
+                  - generic [ref=f111e301]: San Francisco Bay Area
+                  - time [ref=f111e302]: 1 week ago
+          - listitem [ref=f111e303]:
+            - generic [ref=f111e304]:
+              - link [ref=f111e305] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-figma-4457662819?refId=s2fuJVE%2FgkQAY%2B68kL2FCg%3D%3D&trackingId=ClSI8FhnbV%2FVF6gsqbNG5Q%3D%3D
+                - generic [ref=f111e306]: Forward Deployed Engineer
+              - generic [ref=f111e307]:
+                - heading [level=3] [ref=f111e308]: Forward Deployed Engineer
+                - paragraph [ref=f111e309]:
+                  - link [ref=f111e310] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/figma?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Figma
+                - generic [ref=f111e311]:
+                  - generic [ref=f111e312]: San Francisco, CA
+                  - time [ref=f111e313]: 3 weeks ago
+          - listitem [ref=f111e314]:
+            - generic [ref=f111e315]:
+              - link [ref=f111e316] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-terra-api-4430333350?refId=s2fuJVE%2FgkQAY%2B68kL2FCg%3D%3D&trackingId=%2FhVGCGMd%2BJnwpDLzLTA9lA%3D%3D
+                - generic [ref=f111e317]: Forward Deployed Engineer
+              - generic [ref=f111e318]:
+                - heading [level=3] [ref=f111e319]: Forward Deployed Engineer
+                - paragraph [ref=f111e320]:
+                  - link [ref=f111e321] [cursor=pointer]:
+                    - /url: https://uk.linkedin.com/company/terraapi?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Terra API
+                - generic [ref=f111e322]:
+                  - generic [ref=f111e323]: San Francisco, CA
+                  - generic [ref=f111e324]: $100,000 - $180,000
+                  - time [ref=f111e325]: 2 months ago
+          - listitem [ref=f111e326]:
+            - generic [ref=f111e327]:
+              - link [ref=f111e328] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/forward-deployed-engineer-ai-at-scalr-4465501084?refId=s2fuJVE%2FgkQAY%2B68kL2FCg%3D%3D&trackingId=yloueCBQdQfvADe%2FwfieUg%3D%3D
+                - generic [ref=f111e329]: Forward Deployed Engineer (AI)
+              - generic [ref=f111e330]:
+                - heading [level=3] [ref=f111e331]: Forward Deployed Engineer (AI)
+                - paragraph [ref=f111e332]:
+                  - link [ref=f111e333] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/scalr-pro?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: scalr
+                - generic [ref=f111e334]:
+                  - generic [ref=f111e335]: San Francisco Bay Area
+                  - generic [ref=f111e336]: $200,000 - $300,000
+                  - time [ref=f111e337]: 23 hours ago
+          - listitem [ref=f111e338]:
+            - generic [ref=f111e339]:
+              - link [ref=f111e340] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/forward-deployed-software-engineer-at-candid-health-4318531770?refId=s2fuJVE%2FgkQAY%2B68kL2FCg%3D%3D&trackingId=KUjSQnS%2BFMBw9G0xi2BA5w%3D%3D
+                - generic [ref=f111e341]: Forward Deployed Software Engineer
+              - generic [ref=f111e342]:
+                - heading [level=3] [ref=f111e343]: Forward Deployed Software Engineer
+                - paragraph [ref=f111e344]:
+                  - link [ref=f111e345] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/candid-health?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Candid Health
+                - generic [ref=f111e346]:
+                  - generic [ref=f111e347]: San Francisco, CA
+                  - time [ref=f111e348]: 10 months ago
+          - listitem [ref=f111e349]:
+            - generic [ref=f111e350]:
+              - link [ref=f111e351] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/forward-deployed-software-engineer-at-cosmic-robotics-4456375792?refId=s2fuJVE%2FgkQAY%2B68kL2FCg%3D%3D&trackingId=cf7%2Ftbc%2Fw5daDaJ2iOVZLw%3D%3D
+                - generic [ref=f111e352]: Forward Deployed Software Engineer
+              - generic [ref=f111e353]:
+                - heading [level=3] [ref=f111e354]: Forward Deployed Software Engineer
+                - paragraph [ref=f111e355]:
+                  - link [ref=f111e356] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/cosmic-robotics?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Cosmic Robotics
+                - generic [ref=f111e357]:
+                  - generic [ref=f111e358]: San Francisco, CA
+                  - time [ref=f111e359]: 3 weeks ago
+          - listitem [ref=f111e360]:
+            - generic [ref=f111e361]:
+              - link [ref=f111e362] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/forward-deployed-engineer-at-kastle-4458337127?refId=s2fuJVE%2FgkQAY%2B68kL2FCg%3D%3D&trackingId=hPaeoCVgaTqdQ06Bs1oKTg%3D%3D
+                - generic [ref=f111e363]: Forward Deployed Engineer
+              - generic [ref=f111e364]:
+                - heading [level=3] [ref=f111e365]: Forward Deployed Engineer
+                - paragraph [ref=f111e366]:
+                  - link [ref=f111e367] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/kastleai?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Kastle
+                - generic [ref=f111e368]:
+                  - generic [ref=f111e369]: San Francisco, CA
+                  - generic [ref=f111e370]: $170,000 - $250,000
+                  - time [ref=f111e371]: 2 weeks ago
+      - generic [ref=f111e372]:
+        - heading [level=2] [ref=f111e373]: Similar Searches
+        - generic [ref=f111e375]:
+          - list [ref=f111e376]:
+            - listitem [ref=f111e377]:
+              - link [ref=f111e378] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/senior-developer-contract-jobs?trk=public_jobs_full-click
+                - generic [ref=f111e379]:
+                  - heading [level=3] [ref=f111e380]: Senior Developer Contract jobs
+                  - generic [ref=f111e381]: 40,451 open jobs
+            - listitem [ref=f111e382]:
+              - link [ref=f111e383] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/senior-software-engineer-contract-jobs?trk=public_jobs_full-click
+                - generic [ref=f111e384]:
+                  - heading [level=3] [ref=f111e385]: Senior Software Engineer Contract jobs
+                  - generic [ref=f111e386]: 38,212 open jobs
+            - listitem [ref=f111e387]:
+              - link [ref=f111e388] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/staff-software-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f111e389]:
+                  - heading [level=3] [ref=f111e390]: Staff Software Engineer jobs
+                  - generic [ref=f111e391]: 64,945 open jobs
+            - listitem [ref=f111e392]:
+              - link [ref=f111e393] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/lead-software-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f111e394]:
+                  - heading [level=3] [ref=f111e395]: Lead Software Engineer jobs
+                  - generic [ref=f111e396]: 68,215 open jobs
+            - listitem [ref=f111e397]:
+              - link [ref=f111e398] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/senior-software-engineer-technical-lead-jobs?trk=public_jobs_full-click
+                - generic [ref=f111e399]:
+                  - heading [level=3] [ref=f111e400]: Senior Software Engineer Technical Lead jobs
+                  - generic [ref=f111e401]: 45,622 open jobs
+            - listitem [ref=f111e402]:
+              - link [ref=f111e403] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/senior-software-engineer-team-lead-jobs?trk=public_jobs_full-click
+                - generic [ref=f111e404]:
+                  - heading [level=3] [ref=f111e405]: Senior Software Engineer Team Lead jobs
+                  - generic [ref=f111e406]: 46,589 open jobs
+            - listitem [ref=f111e407]:
+              - link [ref=f111e408] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/senior-lead-software-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f111e409]:
+                  - heading [level=3] [ref=f111e410]: Senior Lead Software Engineer jobs
+                  - generic [ref=f111e411]: 49,381 open jobs
+            - listitem [ref=f111e412]:
+              - link [ref=f111e413] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/principal-software-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f111e414]:
+                  - heading [level=3] [ref=f111e415]: Principal Software Engineer jobs
+                  - generic [ref=f111e416]: 73,845 open jobs
+            - listitem [ref=f111e417]:
+              - link [ref=f111e418] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/senior-java-software-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f111e419]:
+                  - heading [level=3] [ref=f111e420]: Senior Java Software Engineer jobs
+                  - generic [ref=f111e421]: 60,835 open jobs
+            - listitem [ref=f111e422]:
+              - link [ref=f111e423] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/senior-member-of-technical-staff-jobs?trk=public_jobs_full-click
+                - generic [ref=f111e424]:
+                  - heading [level=3] [ref=f111e425]: Senior Member of Technical Staff jobs
+                  - generic [ref=f111e426]: 8,067 open jobs
+            - listitem [ref=f111e427]:
+              - link [ref=f111e428] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/senior-software-specialist-jobs?trk=public_jobs_full-click
+                - generic [ref=f111e429]:
+                  - heading [level=3] [ref=f111e430]: Senior Software Specialist jobs
+                  - generic [ref=f111e431]: 56,122 open jobs
+            - listitem [ref=f111e432]:
+              - link [ref=f111e433] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/senior-staff-software-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f111e434]:
+                  - heading [level=3] [ref=f111e435]: Senior Staff Software Engineer jobs
+                  - generic [ref=f111e436]: 54,422 open jobs
+          - button [ref=f111e437] [cursor=pointer]: Show more
+      - generic [ref=f111e441]:
+        - heading [level=2] [ref=f111e443]: Explore top content on LinkedIn
+        - paragraph [ref=f111e444]: Find curated posts and insights for relevant topics all in one place.
+        - link [ref=f111e445] [cursor=pointer]:
+          - /url: https://www.linkedin.com/top-content/
+          - text: View top content
+  - button [ref=f111e450] [cursor=pointer]: More searches
+  - contentinfo [aria-hidden] [ref=f111e452]:
+    - list [ref=f111e453]:
+      - generic [ref=f111e454]: LinkedIn
+      - generic [ref=f111e456]: © 2026
+      - listitem [ref=f111e457]:
+        - link [ref=f111e458] [cursor=pointer]:
+          - /url: https://about.linkedin.com?trk=d_jobs_guest_details_footer-about
+          - text: About
+      - listitem [ref=f111e459]:
+        - link [ref=f111e460] [cursor=pointer]:
+          - /url: https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility
+          - text: Accessibility
+      - listitem [ref=f111e461]:
+        - link [ref=f111e462] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/user-agreement?trk=d_jobs_guest_details_footer-user-agreement
+          - text: User Agreement
+      - listitem [ref=f111e463]:
+        - link [ref=f111e464] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/privacy-policy?trk=d_jobs_guest_details_footer-privacy-policy
+          - text: Privacy Policy
+      - listitem [ref=f111e465]:
+        - link [ref=f111e466] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/california-privacy-disclosure?trk=d_jobs_guest_details_footer-california-privacy-rights-act
+          - text: Your California Privacy Choices
+      - listitem [ref=f111e467]:
+        - link [ref=f111e468] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/cookie-policy?trk=d_jobs_guest_details_footer-cookie-policy
+          - text: Cookie Policy
+      - listitem [ref=f111e469]:
+        - link [ref=f111e470] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/copyright-policy?trk=d_jobs_guest_details_footer-copyright-policy
+          - text: Copyright Policy
+      - listitem [ref=f111e471]:
+        - link [ref=f111e472] [cursor=pointer]:
+          - /url: https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy
+          - text: Brand Policy
+      - listitem [ref=f111e473]:
+        - link [ref=f111e474] [cursor=pointer]:
+          - /url: https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls
+          - text: Guest Controls
+      - listitem [ref=f111e475]:
+        - link [ref=f111e476] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/professional-community-policies?trk=d_jobs_guest_details_footer-community-guide
+          - text: Community Guidelines
+      - listitem [ref=f111e477]:
+        - button [ref=f111e479]: Language
+  - dialog [active] [ref=f111e482]:
+    - button "Dismiss" [ref=f111e483] [cursor=pointer]
+    - generic [ref=f111e485]:
+      - heading "Sign in to see who you already know at Zip" [level=2] [ref=f111e487]
+      - generic [ref=f111e488]:
+        - generic:
+          - generic:
+            - button "Continue with google"
+        - button "Sign in with Email" [ref=f111e489] [cursor=pointer]
+        - paragraph [ref=f111e493]: or
+        - generic:
+          - generic:
+            - button "Continue with google"
+        - paragraph [ref=f111e494]:
+          - text: New to LinkedIn?
+          - link "Join now" [ref=f111e495] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&trk=public_jobs_contextual-sign-in-modal_join-link
+        - paragraph [ref=f111e496]:
+          - text: By clicking Continue to join or sign in, you agree to LinkedIn’s
+          - link "User Agreement" [ref=f111e497] [cursor=pointer]:
+            - /url: /legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement
+          - text: ","
+          - link "Privacy Policy" [ref=f111e498] [cursor=pointer]:
+            - /url: /legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy
+          - text: ", and"
+          - link "Cookie Policy" [ref=f111e499] [cursor=pointer]:
+            - /url: /legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy
+          - text: .

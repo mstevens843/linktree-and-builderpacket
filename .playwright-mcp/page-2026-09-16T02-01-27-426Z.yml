@@ -1,0 +1,110 @@
+- generic [ref=f4e2]:
+  - list [ref=f4e4]:
+    - listitem [ref=f4e5]:
+      - link [ref=f4e6] [cursor=pointer]:
+        - /url: https://www.alchemy.com/
+        - img "Alchemy" [ref=f4e7]
+    - listitem [ref=f4e8]:
+      - link "Back to Alchemy’s Job Listings" [ref=f4e9] [cursor=pointer]:
+        - /url: /alchemy
+    - listitem
+  - generic [ref=f4e12]:
+    - heading "Software Engineer - Solutions" [level=1] [ref=f4e14]
+    - generic [ref=f4e15]:
+      - generic [ref=f4e16]:
+        - generic [ref=f4e17]:
+          - heading "Location" [level=2] [ref=f4e18]
+          - paragraph [ref=f4e19]: San Francisco; New York
+        - generic [ref=f4e20]:
+          - heading "Employment Type" [level=2] [ref=f4e21]
+          - paragraph [ref=f4e22]: Full time
+        - generic [ref=f4e23]:
+          - heading "Location Type" [level=2] [ref=f4e24]
+          - paragraph [ref=f4e25]: Hybrid
+        - generic [ref=f4e26]:
+          - heading "Department" [level=2] [ref=f4e27]
+          - paragraph [ref=f4e28]: Engineering
+        - generic [ref=f4e29]:
+          - heading "Compensation" [level=2] [ref=f4e30]
+          - list [ref=f4e31]:
+            - listitem [ref=f4e32]:
+              - generic [ref=f4e33]: $150K – $225K • Offers Equity • Offers Bonus
+      - generic [ref=f4e34]:
+        - tablist [ref=f4e35]:
+          - tab "Overview" [selected] [ref=f4e36] [cursor=pointer]
+          - tab "Application" [ref=f4e37] [cursor=pointer]
+        - tabpanel "Overview" [ref=f4e39]:
+          - generic [ref=f4e40]:
+            - paragraph [ref=f4e41]:
+              - strong [ref=f4e42]: The Role
+            - paragraph [ref=f4e43]:
+              - text: Alchemy powers the most innovative companies in crypto - from Robinhood and Coinbase to Worldcoin and Stripe. As a
+              - strong [ref=f4e44]
+              - text: Software Engineer focused on Solutions, you'll work directly with our most strategic customers to help them design scalable systems, optimize performance, and push the boundaries of what’s possible in blockchain infrastructure.
+            - paragraph [ref=f4e45]: You’ll be a strategic advisor, systems architect, and product collaborator rolled into one. You’ll bridge the gap between bleeding-edge use cases and robust infrastructure, shaping the future of Alchemy through your insights on real-world needs.
+            - paragraph [ref=f4e46]: Be the technical partner behind Web3’s most ambitious teams.
+            - paragraph [ref=f4e47]:
+              - strong [ref=f4e48]: What You’ll Do
+            - list [ref=f4e49]:
+              - listitem [ref=f4e50]:
+                - paragraph [ref=f4e51]: Write code to help users unlock the full potential of our stack.
+              - listitem [ref=f4e52]:
+                - paragraph [ref=f4e53]: Help top-tier teams design, scale, and optimize their use of Alchemy’s infrastructure - from smart contract automation to custom data pipelines.
+              - listitem [ref=f4e54]:
+                - paragraph [ref=f4e55]: Deeply understand customer goals and proactively help them onboard, integrate, and ship powerful products on top of our infrastructure.
+              - listitem [ref=f4e56]:
+                - paragraph [ref=f4e57]: Be the voice of our developer community - translate their needs into product insights and roadmap priorities.
+              - listitem [ref=f4e58]:
+                - paragraph [ref=f4e59]: Act as the technical point of contact for strategic accounts, navigating technical blockers, future planning, and success metrics.
+              - listitem [ref=f4e60]:
+                - paragraph [ref=f4e61]: Work across Product, Engineering, and BD to uplevel the full user experience and close feedback loops fast.
+            - paragraph [ref=f4e62]:
+              - strong [ref=f4e63]: What We’re Looking For
+            - list [ref=f4e64]:
+              - listitem [ref=f4e65]:
+                - paragraph [ref=f4e66]: 5+ years of experience in technical roles (Software Engineering, Forward Deployed Engineering, Solutions Engineering, or similar)
+              - listitem [ref=f4e67]:
+                - paragraph [ref=f4e68]: Strong foundation in systems design, APIs, and distributed architecture
+              - listitem [ref=f4e69]:
+                - paragraph [ref=f4e70]: Experience working directly with customers - ideally in B2B SaaS or infra
+              - listitem [ref=f4e71]:
+                - paragraph [ref=f4e72]: Comfortable writing and reading code - Python, TypeScript, or similar scripting languages
+              - listitem [ref=f4e73]:
+                - paragraph [ref=f4e74]: Stellar communicator who can translate technical concepts for both builders and execs
+              - listitem [ref=f4e75]:
+                - paragraph [ref=f4e76]: Passion for blockchain, crypto, and the infrastructure powering it - you don’t need to be a degen, but you’re curious and hungry to learn
+              - listitem [ref=f4e77]:
+                - paragraph [ref=f4e78]: "Bonus: experience at a high-growth startup or scaling a product in a fast-moving environment"
+            - paragraph [ref=f4e79]:
+              - strong [ref=f4e80]: Why This Role
+            - list [ref=f4e81]:
+              - listitem [ref=f4e82]:
+                - paragraph [ref=f4e83]: You'll operate at the intersection of product, engineering, and real-world adoption.
+              - listitem [ref=f4e84]:
+                - paragraph [ref=f4e85]: You’ll shape how top-tier crypto companies bring products to life.
+              - listitem [ref=f4e86]:
+                - paragraph [ref=f4e87]: You'll have massive scope and autonomy on a small, high-leverage team.
+              - listitem [ref=f4e88]:
+                - paragraph [ref=f4e89]: Define the customer experience for Web3’s infrastructure layer.
+            - paragraph [ref=f4e90]:
+              - strong [ref=f4e91]: Benefits and Perks
+            - paragraph [ref=f4e92]: 🩺 Medical, Dental, & Vision💪 Gym Reimbursement🖥️ Home Office Build-out Budget🥙 In-Office Group Meals🧘‍♂️ Wellbeing & Mental Health Perks📚 Learning & Development Stipend🎉 Company Sponsored Conferences & Events💸 HSA and FSA Plans🧬 Fertility Benefits
+            - paragraph [ref=f4e93]:
+              - strong [ref=f4e94]: More on the Role
+            - paragraph [ref=f4e95]:
+              - emphasis [ref=f4e96]: Alchemy is committed to offering competitive compensation, including base salary as well as equity. Additionally, Alchemy offers comprehensive medical, dental, and vision coverage, as well as other benefits such as 401k and unlimited flexible time off.
+          - link [ref=f4e97] [cursor=pointer]:
+            - /url: /alchemy/bb82379e-47be-42ef-b7e6-fef50d2a7682/application
+            - button "Apply for this Job" [ref=f4e98]
+  - contentinfo [ref=f4e99]:
+    - link "Learn more about Ashby" [ref=f4e100] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=f4e101]: Powered by
+      - img "Ashby" [ref=f4e102]
+    - paragraph [ref=f4e108]:
+      - link "Privacy Policy" [ref=f4e109] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=f4e110] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=f4e111] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

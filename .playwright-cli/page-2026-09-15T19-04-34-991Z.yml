@@ -1,0 +1,256 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e287]:
+    - generic [ref=e288]:
+      - generic [ref=e289]:
+        - 'heading "Application: Solutions Engineer (Early Career)" [level=6] [ref=e290]'
+        - button "Exit to job board" [ref=e292] [cursor=pointer]:
+          - generic [ref=e293]:
+            - generic [aria-hidden] [ref=e294]: 
+            - generic [ref=e295]: Exit to job board
+      - progressbar "Progress bar" [ref=e296]
+    - generic [ref=e300]:
+      - generic [ref=e301]:
+        - 'heading "Application: Solutions Engineer (Early Career)" [level=4] [ref=e302]'
+        - generic [ref=e303]:
+          - generic [ref=e304]: Résumé*
+          - generic [ref=e305]:
+            - generic [ref=e306]: Total 0 file selected
+            - generic "Total 0 file selected Résumé" [ref=e307] [cursor=pointer]:
+              - button "Drop or select (.doc / .docx / .pdf)" [ref=e308]
+            - generic [ref=e314]: The résumé will be parsed to fill in the application details
+        - generic [ref=e315]:
+          - generic [ref=e316]: First name*
+          - textbox "First name" [ref=e319]
+        - generic [ref=e321]:
+          - generic [ref=e322]: Last name*
+          - textbox "Last name" [ref=e325]
+        - generic [ref=e327]:
+          - generic [ref=e328]: Email*
+          - textbox "Email" [ref=e331]
+        - generic [ref=e333]:
+          - generic [ref=e334]: Pronouns
+          - generic [ref=e335]:
+            - generic [ref=e338] [cursor=pointer]:
+              - combobox "Pronouns" [ref=e342]
+              - generic [aria-hidden] [ref=e344]: 
+            - generic [ref=e346]: Add pronouns to your application so interviewers know how to refer to you when talking to or about you.
+        - generic [ref=e347]:
+          - generic [ref=e348]: Current company
+          - textbox "Current company" [ref=e351]
+        - generic [ref=e353]:
+          - generic [ref=e354]: Phone number*
+          - generic [ref=e356]:
+            - generic [ref=e362] [cursor=pointer]:
+              - combobox "Search" [ref=e366]: +1 US
+              - generic [aria-hidden] [ref=e368]: 
+            - textbox "Phone number" [ref=e371]
+        - generic [ref=e373]:
+          - generic [ref=e374]: Location*
+          - generic [ref=e378]:
+            - generic [aria-hidden] [ref=e380]: 
+            - textbox "Location" [ref=e381]
+        - generic [ref=e383]:
+          - generic [ref=e384]: Cover letter
+          - generic [ref=e385]:
+            - generic [ref=e386]: Total 0 file selected
+            - generic "Total 0 file selected Cover letter" [ref=e387] [cursor=pointer]:
+              - button "Drop or select (.doc / .docx / .pdf)" [ref=e388]
+        - generic [ref=e396]:
+          - paragraph [ref=e399]:
+            - text: How did you hear about Nerdio and this position?
+            - generic [ref=e400]: "*"
+          - generic [ref=e405] [cursor=pointer]:
+            - combobox "Select" [ref=e409]
+            - generic [aria-hidden] [ref=e411]: 
+          - button "Add comment" [ref=e416] [cursor=pointer]:
+            - generic [ref=e417]:
+              - generic [aria-hidden] [ref=e418]: 
+              - generic [ref=e419]: Add comment
+        - generic [ref=e420]:
+          - generic [ref=e421]:
+            - paragraph [ref=e423]:
+              - text: What is your current work situation?
+              - generic [ref=e424]: "*"
+            - generic [ref=e425]: Tell me about your current work situation and what precipitated your job search.
+          - textbox [ref=e430]
+        - generic [ref=e432]:
+          - generic [ref=e433]:
+            - paragraph [ref=e435]:
+              - text: What interests you in Nerdio and this position?
+              - generic [ref=e436]: "*"
+            - generic [ref=e437]: Why do you want to be part of our team?
+          - textbox [ref=e442]
+        - generic [ref=e444]:
+          - paragraph [ref=e447]:
+            - text: Do you currently work for a Nerdio partner, or does your company use Nerdio Manager for MSP (NMM) or Nerdio Manager for Enterprise (NME)? If yes, please explain or provide additional details.
+            - generic [ref=e448]: "*"
+          - radiogroup [ref=e451]:
+            - radio "Yes" [ref=e452] [cursor=pointer]:
+              - paragraph [ref=e458]: "Yes"
+            - radio "No" [ref=e459] [cursor=pointer]:
+              - paragraph [ref=e465]: "No"
+          - button "Clear selection" [ref=e469] [cursor=pointer]
+          - button "Add comment" [ref=e475] [cursor=pointer]:
+            - generic [ref=e476]:
+              - generic [aria-hidden] [ref=e477]: 
+              - generic [ref=e478]: Add comment
+        - generic [ref=e479]:
+          - paragraph [ref=e482]:
+            - text: Are you bound or limited by any employment contracts, non-compete agreements, or restricted covenants from my previous employers that would hinder you from being hired at Nerdio?
+            - generic [ref=e483]: "*"
+          - radiogroup [ref=e486]:
+            - radio "Yes" [ref=e487] [cursor=pointer]:
+              - paragraph [ref=e493]: "Yes"
+            - radio "No" [ref=e494] [cursor=pointer]:
+              - paragraph [ref=e500]: "No"
+          - button "Clear selection" [ref=e504] [cursor=pointer]
+          - button "Add comment" [ref=e510] [cursor=pointer]:
+            - generic [ref=e511]:
+              - generic [aria-hidden] [ref=e512]: 
+              - generic [ref=e513]: Add comment
+        - generic [ref=e514]:
+          - generic [ref=e515]:
+            - paragraph [ref=e517]:
+              - text: Does the posted salary for this role align with your requirements?
+              - generic [ref=e518]: "*"
+            - generic [ref=e519]: The range represents the total compensation package depending on experience. If this doesn't align with your requirements, please explain.
+          - textbox [ref=e524]
+        - generic [ref=e526]:
+          - generic [ref=e527]:
+            - paragraph [ref=e529]: Please provide 2-3 professional references.
+            - generic [ref=e530]: We may reach out to these references as part of our evaluation process.
+          - textbox [ref=e535]
+        - generic [ref=e537]:
+          - paragraph [ref=e540]:
+            - text: Are you legally authorized to work in the country you will be working from?
+            - generic [ref=e541]: "*"
+          - radiogroup [ref=e544]:
+            - radio "Yes" [ref=e545] [cursor=pointer]:
+              - paragraph [ref=e551]: "Yes"
+            - radio "No" [ref=e552] [cursor=pointer]:
+              - paragraph [ref=e558]: "No"
+          - button "Clear selection" [ref=e562] [cursor=pointer]
+        - generic [ref=e567]:
+          - paragraph [ref=e570]:
+            - text: What city and state will you be working from
+            - generic [ref=e571]: "*"
+          - textbox [ref=e575]
+        - generic [ref=e577]:
+          - paragraph [ref=e580]:
+            - text: Will you now of in the future require sponsorship
+            - generic [ref=e581]: "*"
+          - textbox [ref=e585]
+        - generic [ref=e587]:
+          - paragraph [ref=e590]:
+            - text: Please share your a little about your full-stack development experience across TypeScript/JavaScript and at least one scripting language (Python, PowerShell, or Bash).
+            - generic [ref=e591]: "*"
+          - textbox [ref=e595]
+        - generic [ref=e597]:
+          - paragraph [ref=e600]:
+            - text: Please share your experience designing and shipping AI-powered applications.
+            - generic [ref=e601]: "*"
+          - textbox [ref=e605]
+        - generic [ref=e607]:
+          - paragraph [ref=e610]: Please share your experience with internal developer platforms or productivity tooling.
+          - textbox [ref=e614]
+        - generic [ref=e618]:
+          - generic [ref=e620]:
+            - generic [ref=e621]:
+              - paragraph [ref=e623]: U.S. Equal Opportunity Employment Information (Completion is voluntary)
+              - paragraph [ref=e625]: Individuals seeking employment at our company are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, or sexual orientation. You are being given the opportunity to provide the following information in order to help us comply with federal and state Equal Employment Opportunity/Affirmative Action record keeping, reporting, and other legal requirements.Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+            - generic [ref=e627]:
+              - generic [ref=e628]: Gender
+              - generic [ref=e632] [cursor=pointer]:
+                - combobox "Gender" [ref=e634]:
+                  - paragraph [ref=e635]: Select...
+                - generic [aria-hidden] [ref=e637]: 
+            - generic [ref=e639]:
+              - generic [ref=e640]: Please identify your race
+              - generic [ref=e644] [cursor=pointer]:
+                - combobox "Please identify your race" [ref=e648]
+                - generic [aria-hidden] [ref=e650]: 
+            - generic [ref=e652]:
+              - generic [ref=e653]: Are you Hispanic/Latino?
+              - generic [ref=e657] [cursor=pointer]:
+                - combobox "Are you Hispanic/Latino?" [ref=e659]:
+                  - paragraph [ref=e660]: Select...
+                - generic [aria-hidden] [ref=e662]: 
+          - generic [ref=e665]:
+            - paragraph [ref=e668]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.A \"recently separated veteran\" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.An \"active duty wartime or campaign badge veteran\" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.An \"Armed forces service medal veteran\" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985."
+            - generic [ref=e673]:
+              - generic [ref=e674]: Veteran Status
+              - generic [ref=e678] [cursor=pointer]:
+                - combobox "Veteran Status" [ref=e680]:
+                  - paragraph [ref=e681]: Select...
+                - generic [aria-hidden] [ref=e683]: 
+          - generic [ref=e686]:
+            - generic [ref=e687]:
+              - paragraph [ref=e689]: Form CC-305OMB Control Number 1250-0005
+              - paragraph [ref=e692]: Voluntary Self-Identification of Disability
+              - paragraph [ref=e694]: Why are you being asked to complete this form?
+              - paragraph [ref=e695]: Because we do business with the government, we must reach out to, hire, and provide equal opportunity to qualified people with disabilities. To help us measure how well we are doing, we are asking you to tell us if you have a disability or if you ever had a disability.
+              - paragraph [ref=e697]: Completing this form is voluntary, but we hope that you will choose to fill it out. If you are applying for a job, any answer you give will be kept private and will not be used against you in any way. If you already work for us, your answer will not be used against you in any way.
+              - paragraph [ref=e699]: Because a person may become disabled at any time, we are required to ask all of our employees to update their information every five years. You may voluntarily self-identify as having a disability on this form without fear of any punishment because you did not identify as having a disability earlier.
+              - paragraph [ref=e702]: How do you know if you have a disability?
+              - paragraph [ref=e703]: You are considered to have a disability if you have a physical or mental impairment or medical condition that substantially limits a major life activity, or if you have a history or record of such an impairment or medical condition.
+              - paragraph [ref=e705]: "Disabilities include, but are not limited to:"
+              - list [ref=e707]:
+                - listitem [ref=e708]: Blindness
+                - listitem [ref=e709]: Deafness
+                - listitem [ref=e710]: Autism
+                - listitem [ref=e711]: Cancer
+                - listitem [ref=e712]: Diabetes
+                - listitem [ref=e713]: Epilepsy
+                - listitem [ref=e714]: HIV/AIDS
+                - listitem [ref=e715]: Schizophrenia
+                - listitem [ref=e716]: Muscular dystrophy
+                - listitem [ref=e717]: Cerebral palsy
+                - listitem [ref=e718]: Multiple sclerosis (MS)
+                - listitem [ref=e719]: Major depression
+                - listitem [ref=e720]: Bipolar disorder
+                - listitem [ref=e721]: Post-traumatic stress disorder (PTSD)
+                - listitem [ref=e722]: Obsessive compulsive disorder
+                - listitem [ref=e723]: Intellectual disability (previously called mental retardation)
+                - listitem [ref=e724]: Missing limbs or partially missing limbs
+                - listitem [ref=e725]: Impairments requiring the use of a wheelchair
+            - generic [ref=e726]:
+              - generic [ref=e727]: Disability Status
+              - generic [ref=e731] [cursor=pointer]:
+                - combobox "Disability Status" [ref=e733]:
+                  - paragraph [ref=e734]: Select...
+                - generic [aria-hidden] [ref=e736]: 
+            - paragraph [ref=e739]:
+              - text: Section 503 of the Rehabilitation Act of 1973, as amended. For more information about this form or the equal employment obligations of Federal contractors, visit the U.S. Department of Labor's Office of Federal Contract Compliance Programs (OFCCP) website at
+              - link "www.dol.gov/ofccp" [ref=e740] [cursor=pointer]:
+                - /url: https://www.dol.gov/ofccp
+              - text: ".PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+        - generic [ref=e742]:
+          - paragraph [ref=e743]:
+            - text: Check
+            - strong [ref=e744]: "Yes"
+            - text: or
+            - strong [ref=e745]: "No"
+            - text: to indicate your agreement to receive text message updates from Nerdio regarding your job application. Frequency may vary. Message and data rates may apply. Reply HELP for assistance. Reply STOP to opt out of future messaging.
+          - radiogroup [ref=e748]:
+            - radio "Yes - I consent to receiving text messages" [ref=e749] [cursor=pointer]:
+              - paragraph [ref=e755]: Yes - I consent to receiving text messages
+            - radio "No - I do not consent to receiving text messages" [ref=e756] [cursor=pointer]:
+              - paragraph [ref=e762]: No - I do not consent to receiving text messages
+      - generic [ref=e765]:
+        - paragraph [ref=e766]:
+          - text: By clicking "Apply" you agree to Rippling's
+          - link "Terms of Service" [ref=e767] [cursor=pointer]:
+            - /url: https://app.rippling.com/legal/user
+          - text: and
+          - link [ref=e768] [cursor=pointer]:
+            - /url: https://app.rippling.com/legal/privacy
+            - text: User Privacy Notice
+            - link "." [ref=e769]:
+              - /url: https://app.rippling.com/legal/privacy
+        - paragraph [ref=e771]:
+          - text: Nerdio uses AI to analyze applications. To learn more or opt out
+          - link "click here" [ref=e772] [cursor=pointer]:
+            - /url: "#"
+          - text: .
+      - button "Apply" [disabled] [ref=e782]
+  - alert [ref=e286]: Apply - Solutions Engineer (Early Career)

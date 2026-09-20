@@ -1,0 +1,597 @@
+- generic [ref=f51e1]:
+  - link [aria-hidden] [ref=f51e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - text: Skip to main content
+  - banner [aria-hidden] [ref=f51e3]:
+    - navigation [ref=f51e4]:
+      - link [ref=f51e5] [cursor=pointer]:
+        - /url: /?trk=public_jobs_nav-header-logo
+        - generic [ref=f51e6]: LinkedIn
+      - generic [ref=f51e19]:
+        - button [ref=f51e21] [cursor=pointer]:
+          - generic [ref=f51e22]: Jobs
+        - tabpanel [ref=f51e23]:
+          - search [ref=f51e24]:
+            - generic [ref=f51e25]:
+              - combobox [ref=f51e26]: Software Engineer (New Grad)
+              - button [ref=f51e27] [cursor=pointer]:
+                - generic [ref=f51e28]: Clear text
+            - generic [ref=f51e34]:
+              - combobox [ref=f51e35]: San Pablo, CA
+              - button [ref=f51e36] [cursor=pointer]:
+                - generic [ref=f51e37]: Clear text
+            - button [ref=f51e43] [cursor=pointer]
+        - status [ref=f51e47]
+      - generic [ref=f51e48]:
+        - link [ref=f51e49] [cursor=pointer]:
+          - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&fromSignIn=true&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fsoftware-engineer-new-grad-at-miter-4467265839&trk=public_jobs_nav-header-signin
+          - text: Sign in
+        - link [ref=f51e50] [cursor=pointer]:
+          - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fsoftware-engineer-new-grad-at-miter-4467265839&trk=public_jobs_nav-header-join
+          - text: Join now
+  - main [aria-hidden] [ref=f51e51]:
+    - generic [ref=f51e53]:
+      - generic [ref=f51e55]:
+        - link [ref=f51e56] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/miterhr?trk=public_jobs_topcard_logo
+        - generic [ref=f51e59]:
+          - heading [level=1] [ref=f51e60]: Software Engineer (New Grad)
+          - heading [level=4] [ref=f51e61]:
+            - generic [ref=f51e62]:
+              - link [ref=f51e64] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/miterhr?trk=public_jobs_topcard-org-name
+                - text: Miter
+              - text: · San Francisco, CA
+            - generic [ref=f51e65]:
+              - text: 1 day ago
+              - figure [ref=f51e66]: · Over 200 applicants
+            - link [ref=f51e68] [cursor=pointer]:
+              - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D72984250%26title%3DSoftware%2BEngineer&emailAddress=&fromSignIn=&trk=public_jobs_see-who-was-hired_people-search-link_face-pile-cta
+              - paragraph [ref=f51e71]: See who Miter has hired for this role
+          - generic [ref=f51e72]:
+            - button [ref=f51e73] [cursor=pointer]: Apply
+            - button [ref=f51e77] [cursor=pointer]: Save
+        - button [ref=f51e80] [cursor=pointer]
+        - generic [ref=f51e85]:
+          - heading [level=3] [ref=f51e91]: Use AI to assess how you fit
+          - paragraph [ref=f51e92]: Get AI-powered advice on this job and more exclusive features.
+          - generic [ref=f51e93]:
+            - button [ref=f51e94] [cursor=pointer]
+            - button [ref=f51e98] [cursor=pointer]:
+              - generic [ref=f51e102]: Am I a good fit for this job?
+            - button [ref=f51e103] [cursor=pointer]:
+              - generic [ref=f51e107]: Tailor my resume
+      - generic [ref=f51e108]:
+        - generic [ref=f51e109]:
+          - heading [level=2] [ref=f51e110]: Miter provided pay range
+          - generic [ref=f51e111]:
+            - paragraph [ref=f51e112]: This range is provided by Miter. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+            - generic [ref=f51e113]:
+              - heading [level=3] [ref=f51e114]: Base pay range
+              - generic [ref=f51e115]: $140,000.00/yr - $165,000.00/yr
+        - generic [ref=f51e117]:
+          - generic [ref=f51e119]:
+            - generic [ref=f51e120]:
+              - strong [ref=f51e121]: A Better Built World
+              - text: "At Miter, we’re on a mission to help construction contractors build with confidence. If we’re successful, we’ll make it easier and faster to build critical physical infrastructure - roads, bridges, utilities, data centers, housing, etc. For decades, construction and field services contractors have had to run their businesses on outdated software: clunky, on-premise systems created in the 1980s and 1990s. That’s where Miter comes in. We’re using AI and embedded payments to rebuild the core HR, finance, and operations systems that underpin our physical economy. Using Miter, contractors like Marathon Electrical, W.J. O’Neil, and Truebeck Construction are building stronger teams, controlling job costs, and accelerating jobsite execution. This idea is resonating. Since we launched in 2021, we’ve grown to thousands of customers and tens of millions in ARR, making us one of the fastest growing vertical software companies ever. To double-down on our momentum, we’ve raised $50M+ from top investors (Bessemer, Coatue, and Battery) who share our belief that we’re just getting started."
+              - strong [ref=f51e122]:
+                - strong [ref=f51e123]: "About the Team and How We Work:"
+              - text: Building the OS for the built world is no small feat. We’ll need to ship a LOT of high quality code in the coming years, and to do so, we’re building an engineering culture centered around craft, ownership, and collaboration. >25% of our engineers and product managers are ex-founders, and we hire for slope, not intercept. Being a place where
+              - emphasis [ref=f51e124]: you can just build things
+              - text: "requires talent density and some unique ways of doing things. A few ways we’re different:"
+              - list [ref=f51e125]:
+                - listitem [ref=f51e126]: "No rules…rules: Many engineering teams design processes and rules around the lowest common denominator. Not us! We trust brilliant engineers to deliver magical customer outcomes and introduce processes and rules only when necessary."
+                - listitem [ref=f51e127]: "Full-full-stack: Our technology stack (TypeScript everywhere!) and processes are designed to encourage engineers to run their projects end-to-end. This usually involves writing technical blueprints, implementing full-stack solutions, and talking to customers directly to get feedback."
+                - listitem [ref=f51e128]: "Lean and AI-native: AI is turning 10x engineers into 100x engineers. We believe lean, talent-dense, AI-native teams will outship much larger teams with less talent density."
+                - listitem [ref=f51e129]: "Blueprints and building blocks: One of our core Miter values is “build the blueprint”. Writing things down clarifies our thinking and aligns our teams. This also applies to building fundamental building blocks and abstractions that make developers’ lives easier."
+                - listitem [ref=f51e130]: "We feel our customers’ pain and celebrate their success: We encourage engineers to build direct relationships with customers, feel their pain, and celebrate their success. We love fast feedback loops."
+                - listitem [ref=f51e131]: "We’re meritocratic: We value results and hard work. We reward engineers who consistently ship and deliver for customers with increased scope and compensation."
+              - strong [ref=f51e132]:
+                - strong [ref=f51e133]: "What You'll Do:"
+              - list [ref=f51e134]:
+                - listitem [ref=f51e135]: Design, build, and maintain products/systems that power our core platform.
+                - listitem [ref=f51e136]: Collaborate with product managers and other engineers to deliver high-quality experiences.
+                - listitem [ref=f51e137]: Actively participate in blueprinting, code reviews, and technical documentation for your team.
+              - strong [ref=f51e138]:
+                - strong [ref=f51e139]: "What You'll Need:"
+              - list [ref=f51e140]:
+                - listitem [ref=f51e141]: 0-1 years of professional software development experience.
+                - listitem [ref=f51e142]: Strong problem-solving skills.
+                - listitem [ref=f51e143]: A growth mindset and curiosity to understand business context and user needs.
+                - listitem [ref=f51e144]: Strong work ethic and reliability when owning tasks and deliverables.
+                - listitem [ref=f51e145]: A team-oriented attitude with humility and openness to new ideas.
+              - strong [ref=f51e146]:
+                - strong [ref=f51e147]: "Our Tech Stack:"
+              - list [ref=f51e148]:
+                - listitem [ref=f51e149]: React + React Native
+                - listitem [ref=f51e150]: Node/Express
+                - listitem [ref=f51e151]: MongoDB
+                - listitem [ref=f51e152]: Render
+                - listitem [ref=f51e153]: Check
+                - listitem [ref=f51e154]: Stripe (Issuing, Treasury)
+                - listitem [ref=f51e155]: Typescript
+              - strong [ref=f51e156]:
+                - strong [ref=f51e157]: "Our Interview Process:"
+              - list [ref=f51e158]:
+                - listitem [ref=f51e159]: Recruiter Intro
+                - listitem [ref=f51e160]: A technical screen where we pair on a real-life problem
+                - listitem [ref=f51e161]: A (virtual) onsite!
+                - list [ref=f51e162]:
+                  - listitem [ref=f51e163]: Practical coding exercise
+                  - listitem [ref=f51e164]: Miter values with Engineering leader
+              - strong [ref=f51e165]:
+                - strong [ref=f51e166]: "Our Benefits:"
+              - list [ref=f51e167]:
+                - listitem [ref=f51e168]: "Competitive Compensation: We offer competitive (well above “market”) salary, commission, and equity packages."
+                - listitem [ref=f51e169]: "Medical Insurance: Comprehensive medical, dental, FSA, vision plans to suit you and your family’s needs."
+                - listitem [ref=f51e170]: "401(k) Retirement Plan: Company-matched contributions to help you plan for your future."
+                - listitem [ref=f51e171]: "Flexible PTO: Take the time you need to recharge and be your best self."
+                - listitem [ref=f51e172]: "Parental Leave: Generous 16-week paid leave for all parents, including adoptive and foster parents."
+                - listitem [ref=f51e173]: "Learning & Development: We offer every employee an annual educational allowance to explore external professional development."
+                - listitem [ref=f51e174]: "Office Extras: Snacks, coffee, lunch, and commuter benefits for in-office Mitosaurs."
+                - listitem [ref=f51e175]: "Community: Company-wide and team-specific off-sites per year."
+              - strong [ref=f51e176]:
+                - strong [ref=f51e177]: "Hybrid vs. Remote Approach:"
+              - text: We believe the magic of Miter comes from working side by side. We also believe in work flexibility. For roles that are listed as
+              - strong [ref=f51e178]: hybrid,
+              - text: our approach is 3 days a week in the office giving us the chance to connect, brainstorm, and build stronger relationships. If you live within a reasonable commute to either our New York City or San Francisco offices, we ask that you work in our hybrid approach. Otherwise, for roles listed as
+              - strong [ref=f51e179]: remote
+              - text: or in other cities where we don't have an office location, there is no requirement to work in our hybrid approach. We do travel a few times a year for onboarding, company-wide and team specific off-sites!
+              - strong [ref=f51e180]:
+                - strong [ref=f51e181]: Join our Talent Community
+              - text: Not seeing a role that matches your background right now?
+              - strong [ref=f51e182]: Apply to our Talent Community
+              - strong [ref=f51e183]: ","
+              - text: and we’ll reach out if a role opens up that aligns with your experience!
+              - strong [ref=f51e184]:
+                - strong [ref=f51e185]: "Equal Opportunity:"
+              - text: Miter provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, genetics, sexual orientation, gender identity, or gender expression. We are committed to a diverse and inclusive workforce and welcome people from all backgrounds, experiences, perspectives, and abilities.
+              - strong [ref=f51e186]:
+                - strong [ref=f51e187]: "Use of Artificial Intelligence in Our Hiring Process:"
+              - text: Miter uses AI-assisted tools as part of our hiring process to help our recruiting team manage and review applications more efficiently. We want to be transparent about how this works.
+              - emphasis [ref=f51e188]: "What the AI does:"
+              - text: When you apply to a role at Miter, an AI tool may review your application against the specific qualifications and requirements posted for that job. This tool identifies whether your experience appears to meet, partially meet, or not meet each stated requirement, and it provides supporting evidence from your application for every assessment it makes.
+              - emphasis [ref=f51e189]: "What the AI does not do:"
+              - text: The AI does not make hiring decisions. It does not reject, advance, or rank candidates on its own, and it does not assign you a numerical score. Every application is reviewed by a member of our recruiting team, who makes the final call on whether you move forward. The AI is a tool that helps our team prioritize their time across a high volume of applications. It is not a substitute for human judgment.
+              - emphasis [ref=f51e190]: "What information it uses:"
+              - text: The tool evaluates the application materials you submit (your resume and any other application content) against role-specific criteria our team has defined. It does not pull information from external sources such as social media or professional networking profiles, and personal identifying information is removed from your materials before any AI review takes place.
+              - emphasis [ref=f51e191]: "Human oversight:"
+              - text: "Our recruiting team periodically reviews how these tools are performing to check for unintended patterns in outcomes, and we retain the ability to override any AI-generated assessment at any time. Compensation Range: $140K - $165K"
+            - button [ref=f51e192] [cursor=pointer]: Show more
+          - list [ref=f51e194]:
+            - listitem [ref=f51e195]:
+              - heading [level=3] [ref=f51e196]: Seniority level
+              - text: Entry level
+            - listitem [ref=f51e197]:
+              - heading [level=3] [ref=f51e198]: Employment type
+              - text: Full-time
+            - listitem [ref=f51e199]:
+              - heading [level=3] [ref=f51e200]: Job function
+              - text: Engineering and Information Technology
+            - listitem [ref=f51e201]:
+              - heading [level=3] [ref=f51e202]: Industries
+              - text: Software Development
+        - generic [ref=f51e207]:
+          - paragraph [ref=f51e208]: Referrals increase your chances of interviewing at Miter by 2x
+          - link [ref=f51e209] [cursor=pointer]:
+            - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D72984250&emailAddress=&fromSignIn=&trk=public_jobs_find-a-referral-cta
+            - text: See who you know
+      - generic [ref=f51e212]:
+        - paragraph [ref=f51e213]:
+          - text: Get notified about new Software Engineer jobs in
+          - strong [ref=f51e214]: San Francisco, CA
+          - text: .
+        - link [ref=f51e215] [cursor=pointer]:
+          - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fview%2Fsoftware-engineer-new-grad-at-miter-4467265839&trk=public_jobs_job-alert-guest-redirect-cta
+          - text: Sign in to create job alert
+      - navigation [ref=f51e216]:
+        - list [ref=f51e217]:
+          - listitem [ref=f51e218]:
+            - link [ref=f51e219] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/
+              - text: Jobs
+            - text: /
+          - listitem [ref=f51e220]:
+            - link [ref=f51e221] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/j2ee-developer-jobs
+              - text: J2Ee Developer jobs
+            - text: /
+          - listitem [ref=f51e222]:
+            - generic [ref=f51e223]: Software Engineer (New Grad)
+      - generic [ref=f51e224]:
+        - heading [level=2] [ref=f51e225]: Similar jobs
+        - generic [ref=f51e227]:
+          - list [ref=f51e228]:
+            - listitem [ref=f51e229]:
+              - generic [ref=f51e230]:
+                - link [ref=f51e231] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-stripe-4462058112?refId=f8bq%2FeyORLSIfTntNPOUlA%3D%3D&trackingId=Czwg25bFAUDCXUUDtPjR5Q%3D%3D
+                  - generic [ref=f51e232]: Software Engineer, New Grad
+                - generic [ref=f51e233]:
+                  - heading [level=3] [ref=f51e234]: Software Engineer, New Grad
+                  - heading [level=4] [ref=f51e235]:
+                    - link [ref=f51e236] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/stripe?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Stripe
+                  - generic [ref=f51e237]:
+                    - generic [ref=f51e238]: San Francisco, CA
+                    - time [ref=f51e239]: 2 weeks ago
+            - listitem [ref=f51e240]:
+              - generic [ref=f51e241]:
+                - link [ref=f51e242] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/2027-software-engineer-early-career-at-roblox-4449138344?refId=f8bq%2FeyORLSIfTntNPOUlA%3D%3D&trackingId=OB2kiRiaFDNFVH2UAVhuww%3D%3D
+                  - generic [ref=f51e243]: "[2027] Software Engineer, Early Career"
+                - generic [ref=f51e244]:
+                  - heading [level=3] [ref=f51e245]: "[2027] Software Engineer, Early Career"
+                  - heading [level=4] [ref=f51e246]:
+                    - link [ref=f51e247] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/roblox?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Roblox
+                  - generic [ref=f51e248]:
+                    - generic [ref=f51e249]: San Mateo, CA
+                    - time [ref=f51e250]: 2 weeks ago
+            - listitem [ref=f51e251]:
+              - generic [ref=f51e252]:
+                - link [ref=f51e253] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/software-engineer-new-grad-2027-at-replit-4464163116?refId=f8bq%2FeyORLSIfTntNPOUlA%3D%3D&trackingId=B2%2BfUpQYN%2BRbw%2FjozcBBRw%3D%3D
+                  - generic [ref=f51e254]: Software Engineer - New Grad (2027)
+                - generic [ref=f51e255]:
+                  - heading [level=3] [ref=f51e256]: Software Engineer - New Grad (2027)
+                  - heading [level=4] [ref=f51e257]:
+                    - link [ref=f51e258] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/repl-it?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Replit
+                  - generic [ref=f51e259]:
+                    - generic [ref=f51e260]: Foster City, CA
+                    - generic [ref=f51e261]: $140,000 - $180,000
+                    - time [ref=f51e262]: 6 days ago
+            - listitem [ref=f51e263]:
+              - generic [ref=f51e264]:
+                - link [ref=f51e265] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/software-engineer-early-career-at-superhuman-4465272175?refId=f8bq%2FeyORLSIfTntNPOUlA%3D%3D&trackingId=1a897cLg3b32noSTBIMuuw%3D%3D
+                  - generic [ref=f51e266]: Software Engineer, Early Career
+                - generic [ref=f51e267]:
+                  - heading [level=3] [ref=f51e268]: Software Engineer, Early Career
+                  - heading [level=4] [ref=f51e269]:
+                    - link [ref=f51e270] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/superhumanhq?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Superhuman
+                  - generic [ref=f51e271]:
+                    - generic [ref=f51e272]: San Francisco, CA
+                    - generic [ref=f51e273]: $130,000 - $150,000
+                    - time [ref=f51e274]: 1 day ago
+            - listitem [ref=f51e275]:
+              - generic [ref=f51e276]:
+                - link [ref=f51e277] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/software-engineer-early-career-campus-at-google-4448752966?refId=f8bq%2FeyORLSIfTntNPOUlA%3D%3D&trackingId=JqwKWE36abJLXYIMkKgeVA%3D%3D
+                  - generic [ref=f51e278]: Software Engineer, Early Career, Campus
+                - generic [ref=f51e279]:
+                  - heading [level=3] [ref=f51e280]: Software Engineer, Early Career, Campus
+                  - heading [level=4] [ref=f51e281]:
+                    - link [ref=f51e282] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/google?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Google
+                  - generic [ref=f51e283]:
+                    - generic [ref=f51e284]: San Bruno, CA
+                    - time [ref=f51e285]: 2 weeks ago
+            - listitem [ref=f51e286]:
+              - generic [ref=f51e287]:
+                - link [ref=f51e288] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/jobs/view/software-engineer-early-career-campus-at-google-4448757704?refId=f8bq%2FeyORLSIfTntNPOUlA%3D%3D&trackingId=rTDAjvGLhnywKT%2F4IGtZ%2FQ%3D%3D
+                  - generic [ref=f51e289]: Software Engineer, Early Career, Campus
+                - generic [ref=f51e290]:
+                  - heading [level=3] [ref=f51e291]: Software Engineer, Early Career, Campus
+                  - heading [level=4] [ref=f51e292]:
+                    - link [ref=f51e293] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/google?trk=public_jobs_similar-jobs_main-jobs-card-subtitle
+                      - text: Google
+                  - generic [ref=f51e294]:
+                    - generic [ref=f51e295]: Mountain View, CA
+                    - time [ref=f51e296]: 2 weeks ago
+          - button [ref=f51e297] [cursor=pointer]: Show more jobs like this
+    - generic [ref=f51e299]:
+      - generic [ref=f51e300]:
+        - heading [level=2] [ref=f51e301]: People also viewed
+        - list [ref=f51e303]:
+          - listitem [ref=f51e304]:
+            - generic [ref=f51e305]:
+              - link [ref=f51e306] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/backend-software-engineer-graduate-platform-2027-start-at-bytedance-4448135804?refId=f8bq%2FeyORLSIfTntNPOUlA%3D%3D&trackingId=3rm8cAq%2Bqbjnz27pmE%2FA2g%3D%3D
+                - generic [ref=f51e307]: Backend Software Engineer Graduate (Platform) - 2027 Start
+              - generic [ref=f51e308]:
+                - heading [level=3] [ref=f51e309]: Backend Software Engineer Graduate (Platform) - 2027 Start
+                - paragraph [ref=f51e310]:
+                  - link [ref=f51e311] [cursor=pointer]:
+                    - /url: https://cn.linkedin.com/company/bytedance?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: ByteDance
+                - generic [ref=f51e312]:
+                  - generic [ref=f51e313]: San Jose, CA
+                  - time [ref=f51e314]: 1 week ago
+          - listitem [ref=f51e315]:
+            - generic [ref=f51e316]:
+              - link [ref=f51e317] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-pylon-4438850428?refId=f8bq%2FeyORLSIfTntNPOUlA%3D%3D&trackingId=zVZ7myiHtNAMpEDL9SLYhw%3D%3D
+                - generic [ref=f51e318]: Software Engineer, New Grad
+              - generic [ref=f51e319]:
+                - heading [level=3] [ref=f51e320]: Software Engineer, New Grad
+                - paragraph [ref=f51e321]:
+                  - link [ref=f51e322] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/usepylon?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Pylon
+                - generic [ref=f51e323]:
+                  - generic [ref=f51e324]: San Francisco, CA
+                  - generic [ref=f51e325]: $150,000 - $180,000
+                  - time [ref=f51e326]: 3 days ago
+          - listitem [ref=f51e327]:
+            - generic [ref=f51e328]:
+              - link [ref=f51e329] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-early-career-at-notion-4437461678?refId=f8bq%2FeyORLSIfTntNPOUlA%3D%3D&trackingId=%2BxTt0SgN8UNH58BgvEWuIQ%3D%3D
+                - generic [ref=f51e330]: Software Engineer, Early Career
+              - generic [ref=f51e331]:
+                - heading [level=3] [ref=f51e332]: Software Engineer, Early Career
+                - paragraph [ref=f51e333]:
+                  - link [ref=f51e334] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/notionhq?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Notion
+                - generic [ref=f51e335]:
+                  - generic [ref=f51e336]: San Francisco, CA
+                  - time [ref=f51e337]: 1 week ago
+          - listitem [ref=f51e338]:
+            - generic [ref=f51e339]:
+              - link [ref=f51e340] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-valon-4460676285?refId=f8bq%2FeyORLSIfTntNPOUlA%3D%3D&trackingId=NJSgr3R90YnyGuDZtDWGjg%3D%3D
+                - generic [ref=f51e341]: Software Engineer New Grad
+              - generic [ref=f51e342]:
+                - heading [level=3] [ref=f51e343]: Software Engineer New Grad
+                - paragraph [ref=f51e344]:
+                  - link [ref=f51e345] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/valon-technologies?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Valon
+                - generic [ref=f51e346]:
+                  - generic [ref=f51e347]: San Francisco, CA
+                  - generic [ref=f51e348]: $135,000 - $160,000
+                  - time [ref=f51e349]: 2 weeks ago
+          - listitem [ref=f51e350]:
+            - generic [ref=f51e351]:
+              - link [ref=f51e352] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-graduate-ai-infrastructure-%E2%80%94-compute-efficiency-scheduling-2027-start-at-bytedance-4448135816?refId=f8bq%2FeyORLSIfTntNPOUlA%3D%3D&trackingId=h01ikNwI5HNnMrS2mJjZUA%3D%3D
+                - generic [ref=f51e353]: Software Engineer Graduate (AI Infrastructure — Compute Efficiency & Scheduling) - 2027 Start
+              - generic [ref=f51e354]:
+                - heading [level=3] [ref=f51e355]: Software Engineer Graduate (AI Infrastructure — Compute Efficiency & Scheduling) - 2027 Start
+                - paragraph [ref=f51e356]:
+                  - link [ref=f51e357] [cursor=pointer]:
+                    - /url: https://cn.linkedin.com/company/bytedance?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: ByteDance
+                - generic [ref=f51e358]:
+                  - generic [ref=f51e359]: San Jose, CA
+                  - time [ref=f51e360]: 1 week ago
+          - listitem [ref=f51e361]:
+            - generic [ref=f51e362]:
+              - link [ref=f51e363] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-ai-platform-new-grad-at-nuro-4317707969?refId=f8bq%2FeyORLSIfTntNPOUlA%3D%3D&trackingId=D8Zmc5aZbSKmfydXgEbkNA%3D%3D
+                - generic [ref=f51e364]: Software Engineer, AI Platform - New Grad
+              - generic [ref=f51e365]:
+                - heading [level=3] [ref=f51e366]: Software Engineer, AI Platform - New Grad
+                - paragraph [ref=f51e367]:
+                  - link [ref=f51e368] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/nuro-inc.?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Nuro
+                - generic [ref=f51e369]:
+                  - generic [ref=f51e370]: Mountain View, CA
+                  - time [ref=f51e371]: 5 days ago
+          - listitem [ref=f51e372]:
+            - generic [ref=f51e373]:
+              - link [ref=f51e374] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-applied-emerging-talent-2027-at-openai-4466121937?refId=f8bq%2FeyORLSIfTntNPOUlA%3D%3D&trackingId=ZjGqE%2FWhptmrvW7%2B%2B28SQQ%3D%3D
+                - generic [ref=f51e375]: Software Engineer, Applied Emerging Talent (2027)
+              - generic [ref=f51e376]:
+                - heading [level=3] [ref=f51e377]: Software Engineer, Applied Emerging Talent (2027)
+                - paragraph [ref=f51e378]:
+                  - link [ref=f51e379] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/openai?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: OpenAI
+                - generic [ref=f51e380]:
+                  - generic [ref=f51e381]: San Francisco, CA
+                  - generic [ref=f51e382]: $180,000 - $180,000
+                  - time [ref=f51e383]: 1 day ago
+          - listitem [ref=f51e384]:
+            - generic [ref=f51e385]:
+              - link [ref=f51e386] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/new-grads-2026-us-at-fortinet-4411842142?refId=f8bq%2FeyORLSIfTntNPOUlA%3D%3D&trackingId=t2znGSWb%2BrrUTj9CuwE%2Fxg%3D%3D
+                - generic [ref=f51e387]: New Grads 2026 (US)
+              - generic [ref=f51e388]:
+                - heading [level=3] [ref=f51e389]: New Grads 2026 (US)
+                - paragraph [ref=f51e390]:
+                  - link [ref=f51e391] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/fortinet?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Fortinet
+                - generic [ref=f51e392]:
+                  - generic [ref=f51e393]: Sunnyvale, CA
+                  - time [ref=f51e394]: 4 months ago
+          - listitem [ref=f51e395]:
+            - generic [ref=f51e396]:
+              - link [ref=f51e397] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-quantcast-4449893041?refId=f8bq%2FeyORLSIfTntNPOUlA%3D%3D&trackingId=WQU3YAcNaOKVEFkdohgurg%3D%3D
+                - generic [ref=f51e398]: Software Engineer (Full Stack)
+              - generic [ref=f51e399]:
+                - heading [level=3] [ref=f51e400]: Software Engineer (Full Stack)
+                - paragraph [ref=f51e401]:
+                  - link [ref=f51e402] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/quantcast?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Quantcast
+                - generic [ref=f51e403]:
+                  - generic [ref=f51e404]: San Francisco, CA
+                  - generic [ref=f51e405]: $138,500 - $162,000
+                  - time [ref=f51e406]: 1 week ago
+          - listitem [ref=f51e407]:
+            - generic [ref=f51e408]:
+              - link [ref=f51e409] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/software-engineer-at-supermicro-4466036462?refId=f8bq%2FeyORLSIfTntNPOUlA%3D%3D&trackingId=7H%2FdHuFnmftEyk2LtEDPzw%3D%3D
+                - generic [ref=f51e410]: Software Engineer
+              - generic [ref=f51e411]:
+                - heading [level=3] [ref=f51e412]: Software Engineer
+                - paragraph [ref=f51e413]:
+                  - link [ref=f51e414] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/supermicro?trk=public_jobs_people-also-viewed_aside-job-card-subtitle
+                    - text: Supermicro
+                - generic [ref=f51e415]:
+                  - generic [ref=f51e416]: San Jose, CA
+                  - time [ref=f51e417]: 5 days ago
+      - generic [ref=f51e418]:
+        - heading [level=2] [ref=f51e419]: Similar Searches
+        - generic [ref=f51e421]:
+          - list [ref=f51e422]:
+            - listitem [ref=f51e423]:
+              - link [ref=f51e424] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/j2ee-developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f51e425]:
+                  - heading [level=3] [ref=f51e426]: J2Ee Developer jobs
+                  - generic [ref=f51e427]: 13,921 open jobs
+            - listitem [ref=f51e428]:
+              - link [ref=f51e429] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/software-engineer-intern-jobs?trk=public_jobs_full-click
+                - generic [ref=f51e430]:
+                  - heading [level=3] [ref=f51e431]: Software Engineer Intern jobs
+                  - generic [ref=f51e432]: 1,941 open jobs
+            - listitem [ref=f51e433]:
+              - link [ref=f51e434] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/computer-software-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f51e435]:
+                  - heading [level=3] [ref=f51e436]: Computer Software Engineer jobs
+                  - generic [ref=f51e437]: 224,521 open jobs
+            - listitem [ref=f51e438]:
+              - link [ref=f51e439] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/web-development-specialist-jobs?trk=public_jobs_full-click
+                - generic [ref=f51e440]:
+                  - heading [level=3] [ref=f51e441]: Web Development Specialist jobs
+                  - generic [ref=f51e442]: 227,596 open jobs
+            - listitem [ref=f51e443]:
+              - link [ref=f51e444] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/software-intern-jobs?trk=public_jobs_full-click
+                - generic [ref=f51e445]:
+                  - heading [level=3] [ref=f51e446]: Software Intern jobs
+                  - generic [ref=f51e447]: 3,845 open jobs
+            - listitem [ref=f51e448]:
+              - link [ref=f51e449] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/web-programmer-jobs?trk=public_jobs_full-click
+                - generic [ref=f51e450]:
+                  - heading [level=3] [ref=f51e451]: Web Programmer jobs
+                  - generic [ref=f51e452]: 4,657 open jobs
+            - listitem [ref=f51e453]:
+              - link [ref=f51e454] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/back-end-developer-jobs?trk=public_jobs_full-click
+                - generic [ref=f51e455]:
+                  - heading [level=3] [ref=f51e456]: Back End Developer jobs
+                  - generic [ref=f51e457]: 51,032 open jobs
+            - listitem [ref=f51e458]:
+              - link [ref=f51e459] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/junior-software-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f51e460]:
+                  - heading [level=3] [ref=f51e461]: Junior Software Engineer jobs
+                  - generic [ref=f51e462]: 233,545 open jobs
+            - listitem [ref=f51e463]:
+              - link [ref=f51e464] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/graduate-software-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f51e465]:
+                  - heading [level=3] [ref=f51e466]: Graduate Software Engineer jobs
+                  - generic [ref=f51e467]: 221,089 open jobs
+            - listitem [ref=f51e468]:
+              - link [ref=f51e469] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/game-programmer-jobs?trk=public_jobs_full-click
+                - generic [ref=f51e470]:
+                  - heading [level=3] [ref=f51e471]: Game Programmer jobs
+                  - generic [ref=f51e472]: 958 open jobs
+            - listitem [ref=f51e473]:
+              - link [ref=f51e474] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/student-software-engineer-jobs?trk=public_jobs_full-click
+                - generic [ref=f51e475]:
+                  - heading [level=3] [ref=f51e476]: Student Software Engineer jobs
+                  - generic [ref=f51e477]: 5,569 open jobs
+            - listitem [ref=f51e478]:
+              - link [ref=f51e479] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/developer-internship-jobs?trk=public_jobs_full-click
+                - generic [ref=f51e480]:
+                  - heading [level=3] [ref=f51e481]: Developer Internship jobs
+                  - generic [ref=f51e482]: 362 open jobs
+          - button [ref=f51e483] [cursor=pointer]: Show more
+      - generic [ref=f51e487]:
+        - heading [level=2] [ref=f51e489]: Explore top content on LinkedIn
+        - paragraph [ref=f51e490]: Find curated posts and insights for relevant topics all in one place.
+        - link [ref=f51e491] [cursor=pointer]:
+          - /url: https://www.linkedin.com/top-content/
+          - text: View top content
+  - button [ref=f51e496] [cursor=pointer]: More searches
+  - contentinfo [aria-hidden] [ref=f51e498]:
+    - list [ref=f51e499]:
+      - generic [ref=f51e500]: LinkedIn
+      - generic [ref=f51e502]: © 2026
+      - listitem [ref=f51e503]:
+        - link [ref=f51e504] [cursor=pointer]:
+          - /url: https://about.linkedin.com?trk=d_jobs_guest_details_footer-about
+          - text: About
+      - listitem [ref=f51e505]:
+        - link [ref=f51e506] [cursor=pointer]:
+          - /url: https://www.linkedin.com/accessibility?trk=d_jobs_guest_details_footer-accessibility
+          - text: Accessibility
+      - listitem [ref=f51e507]:
+        - link [ref=f51e508] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/user-agreement?trk=d_jobs_guest_details_footer-user-agreement
+          - text: User Agreement
+      - listitem [ref=f51e509]:
+        - link [ref=f51e510] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/privacy-policy?trk=d_jobs_guest_details_footer-privacy-policy
+          - text: Privacy Policy
+      - listitem [ref=f51e511]:
+        - link [ref=f51e512] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/california-privacy-disclosure?trk=d_jobs_guest_details_footer-california-privacy-rights-act
+          - text: Your California Privacy Choices
+      - listitem [ref=f51e513]:
+        - link [ref=f51e514] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/cookie-policy?trk=d_jobs_guest_details_footer-cookie-policy
+          - text: Cookie Policy
+      - listitem [ref=f51e515]:
+        - link [ref=f51e516] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/copyright-policy?trk=d_jobs_guest_details_footer-copyright-policy
+          - text: Copyright Policy
+      - listitem [ref=f51e517]:
+        - link [ref=f51e518] [cursor=pointer]:
+          - /url: https://brand.linkedin.com/policies?trk=d_jobs_guest_details_footer-brand-policy
+          - text: Brand Policy
+      - listitem [ref=f51e519]:
+        - link [ref=f51e520] [cursor=pointer]:
+          - /url: https://www.linkedin.com/psettings/guest-controls?trk=d_jobs_guest_details_footer-guest-controls
+          - text: Guest Controls
+      - listitem [ref=f51e521]:
+        - link [ref=f51e522] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/professional-community-policies?trk=d_jobs_guest_details_footer-community-guide
+          - text: Community Guidelines
+      - listitem [ref=f51e523]:
+        - button [ref=f51e525]: Language
+  - dialog [active] [ref=f51e528]:
+    - button "Dismiss" [ref=f51e529] [cursor=pointer]
+    - generic [ref=f51e534]:
+      - heading "Sign in to see who you already know at Miter" [level=2] [ref=f51e536]
+      - generic [ref=f51e537]:
+        - generic:
+          - generic:
+            - button "Continue with google"
+        - button "Sign in with Email" [ref=f51e538] [cursor=pointer]
+        - paragraph [ref=f51e544]: or
+        - generic:
+          - generic:
+            - button "Continue with google"
+        - paragraph [ref=f51e545]:
+          - text: New to LinkedIn?
+          - link "Join now" [ref=f51e546] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&trk=public_jobs_contextual-sign-in-modal_join-link
+        - paragraph [ref=f51e547]:
+          - text: By clicking Continue to join or sign in, you agree to LinkedIn’s
+          - link "User Agreement" [ref=f51e548] [cursor=pointer]:
+            - /url: /legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement
+          - text: ","
+          - link "Privacy Policy" [ref=f51e549] [cursor=pointer]:
+            - /url: /legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy
+          - text: ", and"
+          - link "Cookie Policy" [ref=f51e550] [cursor=pointer]:
+            - /url: /legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy
+          - text: .

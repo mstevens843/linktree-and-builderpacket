@@ -1,0 +1,4 @@
+[     825ms] [WARNING] Unrecognized feature: 'presentation'. @ https://automattic.com/work-with-us/?_live_review=1789403009431:564
+[     991ms] [LOG] Ready to wrangle JavaScript? https://automattic.com/work-with-us/ @ https://automattic.com/work-with-us/?_live_review=1789403009431:880
+[    1281ms] [INFO] vp9 support: yes @ https://video.wordpress.com/wp-content/plugins/video/assets/js/videojs/videopress-routes.min.js?m=1789150128:0
+[    1281ms] [INFO] hevc support: yes @ https://video.wordpress.com/wp-content/plugins/video/assets/js/videojs/videopress-routes.min.js?m=1789150128:0

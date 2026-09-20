@@ -1,0 +1,215 @@
+- generic [ref=f247e2]:
+  - banner [ref=f247e3]:
+    - generic [ref=f247e6]:
+      - generic [ref=f247e7]:
+        - generic [ref=f247e8]: Introducing SpeedrunBench 🎉
+        - link "Read Blog Post Here" [ref=f247e9] [cursor=pointer]:
+          - /url: /blog/ introducing-speedrunbench-a-challenging-benchmark-for-frontier-agents
+      - generic [ref=f247e14] [cursor=pointer]
+    - generic [ref=f247e18]:
+      - link "home" [ref=f247e19] [cursor=pointer]:
+        - /url: /
+      - navigation [ref=f247e21]:
+        - generic [ref=f247e23]:
+          - link "Products" [ref=f247e24] [cursor=pointer]:
+            - /url: /products
+          - button "Research" [ref=f247e26] [cursor=pointer]
+          - button "News" [ref=f247e29] [cursor=pointer]
+          - button "Resources" [ref=f247e32] [cursor=pointer]
+          - button "About Us" [ref=f247e35] [cursor=pointer]
+        - generic [ref=f247e37]:
+          - link "Contact us" [ref=f247e38] [cursor=pointer]:
+            - /url: /book-a-call
+          - link "Login" [ref=f247e39] [cursor=pointer]:
+            - /url: http://app.patronus.ai
+  - generic [ref=f247e40]:
+    - banner [ref=f247e41]:
+      - generic [ref=f247e47]:
+        - heading "Simulating the World's Intelligence" [level=1] [ref=f247e48]
+        - paragraph [ref=f247e50]: Patronus AI develops simulation research and infrastructure to accelerate progress toward human-aligned AGI
+        - link "Research" [ref=f247e53] [cursor=pointer]:
+          - /url: /research
+    - generic [ref=f247e60]:
+      - heading "Research-Backed, Real-World Inspired" [level=2] [ref=f247e63]: Research-Backed,Real-World Inspired
+      - generic [ref=f247e64]:
+        - paragraph [ref=f247e65]: We are a frontier lab training the first Digital World Models. Digital World Models predict and simulate agent actions in digital workflows.
+        - paragraph [ref=f247e66]: We use Digital World Models to scale the creation of high alpha simulations that frontier models can train on. Digital World Models constitute the foundational infrastructure for self-adaptive worlds necessary to achieve continual learning.
+    - generic [ref=f247e74]:
+      - heading "First Digital World Model" [level=2] [ref=f247e75]: First DigitalWorld Model
+      - generic [ref=f247e76]: Interactive Digital Worlds generated dynamically for AI agents
+      - generic [ref=f247e77]:
+        - link "Try in Playground" [ref=f247e78] [cursor=pointer]:
+          - /url: https://dwm.patronus.ai/playground
+        - link "Explore →" [ref=f247e80] [cursor=pointer]:
+          - /url: /dwm
+    - generic [ref=f247e89]:
+      - generic [ref=f247e90]:
+        - generic [ref=f247e91]: "01"
+        - heading "30–40% model lift" [level=3] [ref=f247e93]
+        - paragraph [ref=f247e95]: Measured on long-horizon tasks
+      - generic [ref=f247e96]:
+        - generic [ref=f247e97]: "02"
+        - heading "1M+ world data artifacts" [level=3] [ref=f247e99]
+        - paragraph [ref=f247e101]: Covering diverse domains
+      - generic [ref=f247e102]:
+        - generic [ref=f247e103]: "03"
+        - heading "85% UI/UX feature parity" [level=3] [ref=f247e105]
+        - paragraph [ref=f247e107]: With real-world products
+      - generic [ref=f247e108]:
+        - generic [ref=f247e109]: "04"
+        - heading "5k+ expert contributors" [level=3] [ref=f247e111]
+        - paragraph [ref=f247e113]: Across software, academia, finance, and more
+    - generic [ref=f247e1261]:
+      - generic [ref=f247e1262]:
+        - generic [ref=f247e1263]:
+          - heading "Research Science" [level=3] [ref=f247e1264]
+          - paragraph [ref=f247e1265]: Exploring research comprehension, synthesis, and extension
+        - generic [ref=f247e1266]:
+          - heading "Software Development" [level=3] [ref=f247e1267]
+          - paragraph [ref=f247e1268]: Delivering software across many tools, services, and frameworks
+        - generic [ref=f247e1269]:
+          - heading "Customer Service" [level=3] [ref=f247e1270]
+          - paragraph [ref=f247e1271]: Handling complex customer support cases end-to-end
+        - generic [ref=f247e1272]:
+          - heading "Product Applications" [level=3] [ref=f247e1273]
+          - paragraph [ref=f247e1274]: Navigating UI/UX across web and mobile applications
+        - generic [ref=f247e1275]:
+          - heading "Finance" [level=3] [ref=f247e1276]
+          - paragraph [ref=f247e1277]: M&A, private equity, quantitative trading, and strategic finance
+      - generic [ref=f247e1279]:
+        - heading "Simulation Domains" [level=2] [ref=f247e1280]
+        - paragraph [ref=f247e1281]: Mirroring real human work across key industries and functions
+    - generic [ref=f247e1286]:
+      - generic [ref=f247e1287]:
+        - heading "Simulation Capabilities" [level=2] [ref=f247e1289]: SimulationCapabilities
+        - paragraph [ref=f247e1290]: Designing scenarios that target core model skills and uncover brilliant learning signals
+      - generic [ref=f247e1291]:
+        - generic [ref=f247e1292]:
+          - generic [ref=f247e1293]: Capabilities
+          - heading "Deep Research" [level=3] [ref=f247e1294]
+          - paragraph [ref=f247e1295]: Understanding and reasoning over large semantic datasets
+        - generic [ref=f247e1296]:
+          - generic [ref=f247e1297]: Capabilities
+          - heading "Multi-Turn Dialogue" [level=3] [ref=f247e1298]
+          - paragraph [ref=f247e1299]: Collaborative problem solving or chit-chat in a dialogue setting
+        - generic [ref=f247e1300]:
+          - generic [ref=f247e1301]: Capabilities
+          - heading "Long Horizon" [level=3] [ref=f247e1302]
+          - paragraph [ref=f247e1303]: Task planning and execution that spans days to months
+        - generic [ref=f247e1304]:
+          - generic [ref=f247e1305]: Capabilities
+          - heading "Memory" [level=3] [ref=f247e1306]
+          - paragraph [ref=f247e1307]: Agentic memory with context windows and other tooling
+    - generic [ref=f247e1311]:
+      - generic [ref=f247e1312]:
+        - heading "Featured Research" [level=2] [ref=f247e1313]
+        - link "Research" [ref=f247e1314] [cursor=pointer]:
+          - /url: /research
+      - generic [ref=f247e1316]:
+        - generic [ref=f247e1319]:
+          - generic [ref=f247e1320]: Lynx
+          - generic:
+            - generic [ref=f247e1321]:
+              - paragraph [ref=f247e1326]: SOTA hallucination detection model
+              - paragraph [ref=f247e1331]: Lynx is the first model that beats GPT-4 on hallucination tasks
+              - paragraph [ref=f247e1336]: Lynx (70B) achieved the highest accuracy at detecting hallucinations
+            - link "View paper" [ref=f247e1337] [cursor=pointer]:
+              - /url: https://arxiv.org/abs/2407.08488
+        - generic [ref=f247e1340]:
+          - generic [ref=f247e1341]: FinanceBench
+          - generic:
+            - generic [ref=f247e1342]:
+              - paragraph [ref=f247e1347]: Industry-first benchmark for LLM performance on financial questions
+              - paragraph [ref=f247e1352]: High-quality, large-scale set of 10,000 Q&A pairs
+              - paragraph [ref=f247e1357]: Based on publicly available financial documents
+            - link "View paper" [ref=f247e1358] [cursor=pointer]:
+              - /url: https://arxiv.org/abs/2311.11944
+        - generic [ref=f247e1361]:
+          - generic [ref=f247e1362]: BLUR
+          - generic:
+            - generic [ref=f247e1363]:
+              - paragraph [ref=f247e1368]: Evaluate agent effectiveness in tip-of-the-tongue moments
+              - paragraph [ref=f247e1373]: Identify something a person can vaguely remember not name
+              - paragraph [ref=f247e1378]: Curated, high-quality dataset with 573 tip-of-the-tongue Q&A pairs
+            - link "View paper" [ref=f247e1379] [cursor=pointer]:
+              - /url: https://arxiv.org/abs/2503.19193
+        - generic [ref=f247e1382]:
+          - generic [ref=f247e1383]: GLIDER
+          - generic:
+            - generic [ref=f247e1384]:
+              - paragraph [ref=f247e1389]: Evaluation model that produces high-quality reasoning chains and highlights
+              - paragraph [ref=f247e1394]: Can help make its decisions more explainable
+              - paragraph [ref=f247e1399]: Cost-effective for companies requiring efficient, fast, and reliable guardrails
+            - link "View paper" [ref=f247e1400] [cursor=pointer]:
+              - /url: https://arxiv.org/abs/2412.14140
+    - generic [ref=f247e1403]:
+      - generic [ref=f247e1404]: First Digital World Model
+      - generic [ref=f247e1405]:
+        - link "Try in Playground" [ref=f247e1406] [cursor=pointer]:
+          - /url: https://dwm.patronus.ai/playground
+        - link "Explore" [ref=f247e1411] [cursor=pointer]:
+          - /url: /dwm
+  - generic [ref=f247e1424]:
+    - generic [ref=f247e1429]:
+      - heading "“Within our lifetimes, we will be able to push out enough computational power to simulate reality”" [level=2] [ref=f247e1430]
+      - heading "- Tim Sweeney" [level=2] [ref=f247e1431]
+      - link "Contact Us" [ref=f247e1433] [cursor=pointer]:
+        - /url: https://www.patronus.ai/book-a-call
+    - contentinfo [ref=f247e1438]:
+      - generic [ref=f247e1441]:
+        - generic [ref=f247e1443]:
+          - generic [ref=f247e1444]:
+            - generic [ref=f247e1445]:
+              - link:
+                - /url: "#"
+            - generic [ref=f247e1446]: Subscribe to our newsletter
+            - form "Email Form" [ref=f247e1449]:
+              - textbox "Enter your email" [ref=f247e1450]
+              - button "Subscribe" [ref=f247e1451] [cursor=pointer]
+            - generic [ref=f247e1452]:
+              - link [ref=f247e1453] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/patronus-ai-inc
+              - link [ref=f247e1457] [cursor=pointer]:
+                - /url: https://x.com/PatronusAI
+            - generic [ref=f247e1462]:
+              - link "contact@patronus.ai" [ref=f247e1463] [cursor=pointer]:
+                - /url: mailto:contact@patronus.ai
+              - link "security@patronus.ai" [ref=f247e1464] [cursor=pointer]:
+                - /url: mailto:security@patronus.ai
+          - generic [ref=f247e1465]:
+            - generic [ref=f247e1466]:
+              - generic [ref=f247e1467]: About Us
+              - generic [ref=f247e1469]:
+                - link "Company" [ref=f247e1470] [cursor=pointer]:
+                  - /url: /company
+                - link "Careers" [ref=f247e1471] [cursor=pointer]:
+                  - /url: /join
+            - generic [ref=f247e1472]:
+              - generic [ref=f247e1473]: News
+              - generic [ref=f247e1475]:
+                - link "Announcements" [ref=f247e1476] [cursor=pointer]:
+                  - /url: /announcements
+                - link "Press" [ref=f247e1477] [cursor=pointer]:
+                  - /url: /press
+                - link "Blog" [ref=f247e1478] [cursor=pointer]:
+                  - /url: /blog
+            - generic [ref=f247e1479]:
+              - generic [ref=f247e1480]: Resources
+              - generic [ref=f247e1482]:
+                - link "Docs" [ref=f247e1483] [cursor=pointer]:
+                  - /url: "#"
+                - link "Guide to LLM Testing" [ref=f247e1484] [cursor=pointer]:
+                  - /url: /llm-testing
+                - link "Guide to AI Agent Dev" [ref=f247e1485] [cursor=pointer]:
+                  - /url: /ai-agent-development
+                - link "Guide to AI Reliability" [ref=f247e1486] [cursor=pointer]:
+                  - /url: /ai-reliability
+                - link "Guide to RL Environments" [ref=f247e1487] [cursor=pointer]:
+                  - /url: /guide-to-rl-environments
+        - generic [ref=f247e1488]:
+          - generic [ref=f247e1489]: © 2026 Patronus AI, Inc.
+          - generic [ref=f247e1492]:
+            - link "Terms of Use" [ref=f247e1493] [cursor=pointer]:
+              - /url: /terms-of-use
+            - link "Privacy Policy" [ref=f247e1494] [cursor=pointer]:
+              - /url: /privacy-policy

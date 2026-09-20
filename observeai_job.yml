@@ -1,0 +1,189 @@
+- generic [ref=f372e2]:
+  - banner [ref=f372e3]:
+    - generic [ref=f372e6]:
+      - generic [ref=f372e7]:
+        - generic [ref=f372e8]: Introducing SpeedrunBench 🎉
+        - link "Read Blog Post Here" [ref=f372e9] [cursor=pointer]:
+          - /url: /blog/ introducing-speedrunbench-a-challenging-benchmark-for-frontier-agents
+      - generic [ref=f372e14] [cursor=pointer]
+    - generic [ref=f372e18]:
+      - link "home" [ref=f372e19] [cursor=pointer]:
+        - /url: /
+      - navigation [ref=f372e21]:
+        - generic [ref=f372e23]:
+          - link "Products" [ref=f372e24] [cursor=pointer]:
+            - /url: /products
+          - button "Research" [ref=f372e26] [cursor=pointer]
+          - button "News" [ref=f372e29] [cursor=pointer]
+          - button "Resources" [ref=f372e32] [cursor=pointer]
+          - button "About Us" [ref=f372e35] [cursor=pointer]
+        - generic [ref=f372e37]:
+          - link "Contact us" [ref=f372e38] [cursor=pointer]:
+            - /url: /book-a-call
+          - link "Login" [ref=f372e39] [cursor=pointer]:
+            - /url: http://app.patronus.ai
+  - generic [ref=f372e45]:
+    - link "Go back" [ref=f372e46] [cursor=pointer]:
+      - /url: /join
+    - heading "Member of Technical Staff - Product Engineer" [level=1] [ref=f372e48]
+    - generic [ref=f372e51]:
+      - generic [ref=f372e52]:
+        - heading [level=2] [ref=f372e53]:
+          - strong [ref=f372e55]: About Patronus AI
+        - paragraph [ref=f372e56]
+        - paragraph [ref=f372e57]: Patronus AI is a frontier lab developing simulation research and infrastructure to accelerate progress toward human-aligned AGI. We are on a mission to simulate all of the world’s intelligence.
+        - paragraph [ref=f372e58]:
+          - generic [ref=f372e59]:
+            - text: We are the team behind some of the earliest and most influential research in AI evaluation like
+            - link "FinanceBench" [ref=f372e60] [cursor=pointer]:
+              - /url: https://arxiv.org/pdf/2311.11944
+            - text: ","
+            - link "Lynx" [ref=f372e61] [cursor=pointer]:
+              - /url: https://www.forbes.com/sites/rashishrivastava/2024/07/11/this-ai-powered-coach-catches-hallucinations-in-other-ai-models/
+            - text: ","
+            - link "SimpleSafetyTests" [ref=f372e62] [cursor=pointer]:
+              - /url: https://arxiv.org/abs/2311.08370
+            - text: ","
+            - link "CopyrightCatcher" [ref=f372e63] [cursor=pointer]:
+              - /url: https://www.cnbc.com/2024/03/06/gpt-4-researchers-tested-leading-ai-models-for-copyright-infringement.html
+            - text: ","
+            - link "Humanity’s Last Exam" [ref=f372e64] [cursor=pointer]:
+              - /url: https://arxiv.org/abs/2501.14249
+            - text: ", and more. We are formerly AI researchers and engineers from companies like Meta AI, Amazon AGI, and Google. Our customers include foundation model labs and Fortune 500 enterprises like Adobe. We are backed by top-tier investors like Lightspeed Venture Partners, Notable Capital, Stanford University, Noam Brown, Gokul Rajaram, and more."
+      - heading [level=2] [ref=f372e65]:
+        - strong [ref=f372e66]: Responsibilities
+      - paragraph [ref=f372e67]
+      - paragraph [ref=f372e68]: As a Product Engineer at Patronus AI, you will build high-quality simulations used to train, evaluate, and improve AI agents. These environments model real-world applications and workflows, producing the interaction data frontier labs need to improve their models.
+      - paragraph [ref=f372e69]
+      - paragraph [ref=f372e70]: You will own complex agent environments end-to-end, working with Applied Researchers to turn specifications into robust software, subject-matter experts to deepen realism, and platform engineers to improve the tooling we build on.
+      - paragraph [ref=f372e71]
+      - paragraph [ref=f372e72]: Your work will help frontier labs stress-test and improve the next generation of AI agents, advancing progress toward safe, human-aligned general intelligence.
+      - paragraph [ref=f372e73]
+      - paragraph [ref=f372e74]:
+        - strong [ref=f372e75]: "In this role, you will:"
+      - list [ref=f372e76]:
+        - listitem [ref=f372e77]: Build RL environments end-to-end — frontend interfaces, backend services, APIs, data models, and workflows — using technologies like React/TypeScript, Next.js, Python, and SQLite.
+        - listitem [ref=f372e78]: Work closely with Applied Researchers, subject-matter experts, and QA specialists to ensure our simulations are realistic and recognize when something feels wrong in a simulation. Catch seed data that is suspiciously tidy, a workflow with no contradictions, or a UI with none of the accumulated scar tissue of real software.
+        - listitem [ref=f372e79]: Maintain a high bar for the internal tooling you work with, identifying where it falls short and helping improve our systems over time.
+        - listitem [ref=f372e80]: Think critically about task coverage, environment correctness, edge cases, and adversarial agent behavior.
+        - listitem [ref=f372e81]: Be a power user of AI coding tools (Claude Code, Codex, and similar), with ideas for extending them and building new tooling on top.
+      - heading [level=2] [ref=f372e82]:
+        - strong [ref=f372e83]: Qualifications
+      - paragraph [ref=f372e84]:
+        - emphasis [ref=f372e85]: "\"The number one qualification to succeed in this machine learning course is gumption” - John Lafferty, CS Professor at Yale"
+      - paragraph [ref=f372e86]
+      - paragraph [ref=f372e87]: "Above all, we look for a proactive mindset, willingness to learn, unlimited energy, and relentless optimism. You are a great fit if you have a background in the following:"
+      - list [ref=f372e88]:
+        - listitem [ref=f372e89]: BS, MS, or PhD in Computer Science, Machine Learning, Statistics, Mathematics, or a related field with 3+ years of experience as a software engineer, full-stack engineer, product engineer, or in a similar role.
+        - listitem [ref=f372e90]: A track record of owning complex products end-to-end, from ambiguous requirements through production launch, ideally at a startup or on a small, high-velocity team.
+        - listitem [ref=f372e91]: Experience with real enterprise SaaS tools, whether building them or using them deeply in your day-to-day work. CRMs, ticketing systems, billing platforms, or similarly complex applications. You understand how this software behaves after years of users, data, exceptions, and operational constraints.
+        - listitem [ref=f372e92]: Strong engineering judgment around correctness, failure modes, edge cases, and adversarial behavior.
+      - paragraph [ref=f372e93]
+      - paragraph [ref=f372e94]:
+        - strong [ref=f372e95]: Nice to have
+        - text: ":"
+      - list [ref=f372e96]:
+        - listitem [ref=f372e97]: Experience with reinforcement learning, agent evaluation, verifiers, reward models, or ML infrastructure — though deep applied research experience isn't required.
+        - listitem [ref=f372e98]: Experience with Playwright, Selenium, or browser automation.
+      - paragraph [ref=f372e99]
+      - strong [ref=f372e101]: To support close collaboration, this role is based in our San Francisco headquarters and requires in-office attendance 5 days a week.
+      - generic [ref=f372e103]:
+        - emphasis [ref=f372e104]: The expected base salary range for this role is
+        - emphasis [ref=f372e105]: $125,000 - $200,000 USD
+        - emphasis [ref=f372e106]: . In addition to base salary, we offer equity and benefits. Actual compensation will be determined based on experience, qualifications, skills, and location.
+      - generic [ref=f372e107]:
+        - heading [level=2] [ref=f372e108]:
+          - strong [ref=f372e109]: Benefits
+        - paragraph [ref=f372e110]
+        - list [ref=f372e111]:
+          - listitem [ref=f372e112]: Competitive salary and equity packages
+          - listitem [ref=f372e113]: 15 days of paid vacation per annum
+          - listitem [ref=f372e114]: Parental & sick leave
+          - listitem [ref=f372e115]: Health, dental, and vision insurance plans
+          - listitem [ref=f372e116]: 401(k) plan + matching
+          - listitem [ref=f372e117]: In-office lunch & dinner
+          - listitem [ref=f372e118]: Whoop band
+          - listitem [ref=f372e119]: Monthly meal stipend
+          - listitem [ref=f372e120]: Monthly health and wellness stipend
+          - listitem [ref=f372e121]: Equinox membership
+          - listitem [ref=f372e122]: Fun global offsites!
+        - paragraph [ref=f372e123]
+        - paragraph [ref=f372e124]:
+          - emphasis [ref=f372e126]: Patronus AI is an equal opportunity employer. We celebrate diversity in our workplace, and all qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or other legally protected
+          - emphasis [ref=f372e128]: characteristics.
+        - paragraph [ref=f372e129]
+        - paragraph [ref=f372e130]:
+          - generic [ref=f372e131]:
+            - text: By clicking ‘Apply’, you agree to Greenhouse's
+            - link "Terms of Service" [ref=f372e132] [cursor=pointer]:
+              - /url: https://www.greenhouse.com/legal
+            - text: and
+            - link "Privacy Policy" [ref=f372e133] [cursor=pointer]:
+              - /url: https://www.greenhouse.com/privacy-policy
+            - link "." [ref=f372e134] [cursor=pointer]:
+              - /url: https://app.rippling.com/legal/privacy
+        - paragraph [ref=f372e135]:
+          - generic [ref=f372e136]:
+            - text: By clicking 'Apply', you agree to Patronus AI, Inc.
+            - link "Privacy Policy" [ref=f372e137] [cursor=pointer]:
+              - /url: https://www.patronus.ai/privacy-policy
+            - text: .
+    - link "Apply now" [ref=f372e140] [cursor=pointer]:
+      - /url: https://job-boards.greenhouse.io/patronusaiinc/jobs/4326782009
+  - contentinfo [ref=f372e142]:
+    - generic [ref=f372e145]:
+      - generic [ref=f372e147]:
+        - generic [ref=f372e148]:
+          - link [ref=f372e150] [cursor=pointer]:
+            - /url: "#"
+          - generic [ref=f372e151]: Subscribe to our newsletter
+          - form "Email Form" [ref=f372e154]:
+            - textbox "Enter your email" [ref=f372e155]
+            - button "Subscribe" [ref=f372e156] [cursor=pointer]
+          - generic [ref=f372e157]:
+            - link [ref=f372e158] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/patronus-ai-inc
+            - link [ref=f372e162] [cursor=pointer]:
+              - /url: https://x.com/PatronusAI
+          - generic [ref=f372e167]:
+            - link "contact@patronus.ai" [ref=f372e168] [cursor=pointer]:
+              - /url: mailto:contact@patronus.ai
+            - link "security@patronus.ai" [ref=f372e169] [cursor=pointer]:
+              - /url: mailto:security@patronus.ai
+        - generic [ref=f372e170]:
+          - generic [ref=f372e171]:
+            - generic [ref=f372e172]: About Us
+            - generic [ref=f372e174]:
+              - link "Company" [ref=f372e175] [cursor=pointer]:
+                - /url: /company
+              - link "Careers" [ref=f372e176] [cursor=pointer]:
+                - /url: /join
+          - generic [ref=f372e177]:
+            - generic [ref=f372e178]: News
+            - generic [ref=f372e180]:
+              - link "Announcements" [ref=f372e181] [cursor=pointer]:
+                - /url: /announcements
+              - link "Press" [ref=f372e182] [cursor=pointer]:
+                - /url: /press
+              - link "Blog" [ref=f372e183] [cursor=pointer]:
+                - /url: /blog
+          - generic [ref=f372e184]:
+            - generic [ref=f372e185]: Resources
+            - generic [ref=f372e187]:
+              - link "Docs" [ref=f372e188] [cursor=pointer]:
+                - /url: "#"
+              - link "Guide to LLM Testing" [ref=f372e189] [cursor=pointer]:
+                - /url: /llm-testing
+              - link "Guide to AI Agent Dev" [ref=f372e190] [cursor=pointer]:
+                - /url: /ai-agent-development
+              - link "Guide to AI Reliability" [ref=f372e191] [cursor=pointer]:
+                - /url: /ai-reliability
+              - link "Guide to RL Environments" [ref=f372e192] [cursor=pointer]:
+                - /url: /guide-to-rl-environments
+      - generic [ref=f372e193]:
+        - generic [ref=f372e194]: © 2026 Patronus AI, Inc.
+        - generic [ref=f372e197]:
+          - link "Terms of Use" [ref=f372e198] [cursor=pointer]:
+            - /url: /terms-of-use
+          - link "Privacy Policy" [ref=f372e199] [cursor=pointer]:
+            - /url: /privacy-policy

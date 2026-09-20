@@ -1,0 +1,33 @@
+[     534ms] [ERROR] Failed to load resource: the server responded with a status of 410 () @ https://careers-githubinc.icims.com/jobs/5743/software-engineer-i%2c-secret-scanning/job?mode=view:0
+[    2127ms] [ERROR] Mixed Content: The page at 'https://careers-githubinc.icims.com/jobs/5743/software-engineer-i%2c-secret-scanning/job?mode=view' was loaded over HTTPS, but requested an insecure XMLHttpRequest endpoint 'http://githubinc.jibeapply.com/api/trackcdn/safe'. This request has been blocked; the content must be served over HTTPS. @ https://careers-githubinc.icims.com/jobs/5743/software-engineer-i%2c-secret-scanning/job?mode=view:0
+[    4448ms] [ERROR] ERROR Error: The selector "search-app" did not match any elements
+    at x.selectRootElement (https://app.jibecdn.com/prod/search/4.11.112/vendor-es2015.js:1:958608)
+    at pe.selectRootElement (https://app.jibecdn.com/prod/search/4.11.112/vendor-es2015.js:1:582417)
+    at https://app.jibecdn.com/prod/search/4.11.112/vendor-es2015.js:1:883137
+    at ol.create (https://app.jibecdn.com/prod/search/4.11.112/vendor-es2015.js:1:883246)
+    at t.bootstrap (https://app.jibecdn.com/prod/search/4.11.112/vendor-es2015.js:1:907771)
+    at https://app.jibecdn.com/prod/search/4.11.112/vendor-es2015.js:1:905482
+    at Array.forEach (<anonymous>)
+    at t._moduleDoBootstrap (https://app.jibecdn.com/prod/search/4.11.112/vendor-es2015.js:1:905469)
+    at https://app.jibecdn.com/prod/search/4.11.112/vendor-es2015.js:1:905174
+    at u.invoke (https://app.jibecdn.com/prod/search/4.11.112/polyfills-es2015.js:1:90158) @ https://app.jibecdn.com/prod/search/4.11.112/vendor-es2015.js:0
+[    4448ms] [LOG] Error: The selector "search-app" did not match any elements
+    at x.selectRootElement (https://app.jibecdn.com/prod/search/4.11.112/vendor-es2015.js:1:958608)
+    at pe.selectRootElement (https://app.jibecdn.com/prod/search/4.11.112/vendor-es2015.js:1:582417)
+    at https://app.jibecdn.com/prod/search/4.11.112/vendor-es2015.js:1:883137
+    at ol.create (https://app.jibecdn.com/prod/search/4.11.112/vendor-es2015.js:1:883246)
+    at t.bootstrap (https://app.jibecdn.com/prod/search/4.11.112/vendor-es2015.js:1:907771)
+    at https://app.jibecdn.com/prod/search/4.11.112/vendor-es2015.js:1:905482
+    at Array.forEach (<anonymous>)
+    at t._moduleDoBootstrap (https://app.jibecdn.com/prod/search/4.11.112/vendor-es2015.js:1:905469)
+    at https://app.jibecdn.com/prod/search/4.11.112/vendor-es2015.js:1:905174
+    at u.invoke (https://app.jibecdn.com/prod/search/4.11.112/polyfills-es2015.js:1:90158) @ https://app.jibecdn.com/prod/search/4.11.112/vendor-es2015.js:0
+[    4450ms] TypeError: Cannot read properties of null (reading 'appendChild')
+    at https://careers-githubinc.icims.com/jobs/5743/software-engineer-i%2c-secret-scanning/job?mode=view:1256:16
+    at nrWrapper (https://careers-githubinc.icims.com/jobs/5743/software-engineer-i%2c-secret-scanning/job?mode=view:48:23352)
+[    6478ms] [ERROR] Failed to load resource: the server responded with a status of 410 () @ https://careers-githubinc.icims.com/jobs/5743/software-engineer-i%2c-secret-scanning/job?mode=view&in_iframe=1:0
+[    7116ms] Unexpected end of input
+[    7596ms] TypeError: Cannot read properties of null (reading 'appendChild')
+    at https://www.github.careers/careers-home/jobs:1141:16
+[    7836ms] Unexpected end of input
+[    7836ms] [LOG] gdpr module loaded {apply_consent: undefined, pixel_consent: undefined} {enabled: true, pixel_consent: Object, apply_consent: Object, ttl: 2592000000} @ https://www.github.careers/dist/js/gdpr/gdpr.js?v=5.4.52:110

@@ -1,0 +1,20 @@
+[     977ms] [ERROR] The Content Security Policy directive 'frame-ancestors' is ignored when delivered via a <meta> element. @ https://kamino.com/careers:18
+[    1349ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://app.enzuzo.com/apps/enzuzo/static/js/__enzuzo-cookiebar.js?uuid=0cc29e6c-7d1e-11ed-b502-9fba2cc7807a:0
+[    2048ms] [WARNING] You have supplied a `Dispatcher` to `createHttpTransport()`. It has been ignored because Undici dispatchers only work in Node environments. To eliminate this warning, omit the `dispatcher_NODE_ONLY` property from your config when running in a non-Node environment. @ https://kamino.com/assets/vendor.1789474788.js:4
+[    2065ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://kamino.com/careers:0
+[    2152ms] [ERROR] Access to link prefetch resource at 'https://solana.tor.us/frame' from origin 'https://kamino.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://kamino.com/careers:0
+[    2152ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://solana.tor.us/frame:0
+[    2274ms] [ERROR] Refused to set unsafe header "Accept-Encoding" @ https://kamino.com/assets/vendor.1789474788.js:4
+[    2275ms] [ERROR] WebSocket connection to 'wss://nc2.nightly.app/app' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED @ https://kamino.com/assets/vendor.1789474788.js:2867
+[    2375ms] [ERROR] The Content Security Policy directive 'frame-ancestors' is ignored when delivered via a <meta> element. @ https://widget.intercom.io/widget/t5jkyhbz:0
+[    2376ms] [ERROR] The Content Security Policy directive 'frame-ancestors' is ignored when delivered via a <meta> element. @ https://widget.intercom.io/widget/t5jkyhbz:0
+[    2378ms] [ERROR] The Content Security Policy directive 'frame-ancestors' is ignored when delivered via a <meta> element. @ https://kamino.com/assets/vendor.1789474788.js:5
+[    2378ms] [ERROR] The Content Security Policy directive 'frame-ancestors' is ignored when delivered via a <meta> element. @ https://kamino.com/assets/vendor.1789474788.js:5
+[    2405ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://nc2.nightly.app/get_wallets_metadata:0
+[    2529ms] [ERROR] Access to XMLHttpRequest at 'https://lynx-cannel.kamino.com/track/?ip=0&_=1789524093848' from origin 'https://kamino.com' has been blocked by CORS policy: The 'Access-Control-Allow-Origin' header contains multiple values 'https://kamino.com, https://kamino.com', but only one is allowed. @ https://kamino.com/careers:0
+[    2530ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://lynx-cannel.kamino.com/track/?ip=0&_=1789524093848:0
+[    3171ms] [ERROR] The Content Security Policy directive 'frame-ancestors' is ignored when delivered via a <meta> element. @ https://kamino.com/assets/vendor.1789474788.js:7
+[    3171ms] [ERROR] The Content Security Policy directive 'frame-ancestors' is ignored when delivered via a <meta> element. @ https://kamino.com/assets/vendor.1789474788.js:7
+[    7422ms] [ERROR] Access to XMLHttpRequest at 'https://lynx-cannel.kamino.com/track/?verbose=1&ip=0&_=1789524098870' from origin 'https://kamino.com' has been blocked by CORS policy: The 'Access-Control-Allow-Origin' header contains multiple values 'https://kamino.com, https://kamino.com', but only one is allowed. @ https://kamino.com/404:0
+[    7425ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://lynx-cannel.kamino.com/track/?verbose=1&ip=0&_=1789524098870:0
+[    8496ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://senate-tryptase.kamino.com/api/4504237101809664/envelope/?sentry_version=7&sentry_key=1fd6efc75508c125dd3319642e2ef6fc&sentry_client=sentry.javascript.react%2F10.34.0:0

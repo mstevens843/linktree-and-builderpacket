@@ -1,0 +1,174 @@
+- generic [ref=f18e2]:
+  - 'link "Introducing Fireblocks Flow: capture stablecoin volume with your own stablecoin payment infrastructure. Read the announcement" [ref=f18e5] [cursor=pointer]':
+    - /url: https://www.fireblocks.com/blog/introducing-fireblocks-flow
+    - generic [ref=f18e6]: "Introducing Fireblocks Flow: capture stablecoin volume with your own stablecoin payment infrastructure."
+    - generic [ref=f18e8]: Read the announcement
+  - navigation [ref=f18e13]:
+    - banner [ref=f18e14]:
+      - generic [ref=f18e16]:
+        - link "home" [ref=f18e17] [cursor=pointer]:
+          - /url: /
+        - navigation [ref=f18e18]:
+          - generic [ref=f18e19]:
+            - generic [ref=f18e20]: Product
+            - generic [ref=f18e23]: Solutions
+            - link "Docs" [ref=f18e26] [cursor=pointer]:
+              - /url: https://www.dynamic.xyz/docs/overview/introduction/welcome
+            - link "Customers" [ref=f18e27] [cursor=pointer]:
+              - /url: /customers
+            - link "Pricing" [ref=f18e28] [cursor=pointer]:
+              - /url: /pricing
+            - link "Blog" [ref=f18e29] [cursor=pointer]:
+              - /url: https://www.fireblocks.com/blog?tag=dynamic
+            - generic [ref=f18e30]: Company
+          - generic [ref=f18e33]:
+            - link "Log in" [ref=f18e35] [cursor=pointer]:
+              - /url: https://app.dynamic.xyz/
+            - link "Live demo" [ref=f18e37] [cursor=pointer]:
+              - /url: https://demo.dynamic.xyz
+            - link "Talk to sales" [ref=f18e40] [cursor=pointer]:
+              - /url: /book-a-call
+  - main [ref=f18e42]:
+    - generic [ref=f18e47]:
+      - heading "Help shape the future of wallets and digital identity" [level=1] [ref=f18e48]
+      - paragraph [ref=f18e51]: As digital ownership and value transfer evolve, wallets are becoming the new gateway. Let's build the infrastructure that makes it all possible together.
+      - link "Apply to join us!" [ref=f18e53] [cursor=pointer]:
+        - /url: https://job-boards.greenhouse.io/fireblocks?keyword=dynamic
+    - generic [ref=f18e64]:
+      - heading "Why join Dynamic?" [level=2] [ref=f18e68]
+      - generic [ref=f18e70]:
+        - generic [ref=f18e71]:
+          - heading "Remote-first" [level=3] [ref=f18e78]
+          - paragraph [ref=f18e79]: Work from wherever you call home, with the flexibility to collaborate in-person at our offices in SF, Miami, NYC, and Florianópolis, Brazil.
+        - generic [ref=f18e80]:
+          - heading "Competitive pay and benefits" [level=3] [ref=f18e87]
+          - paragraph [ref=f18e88]: Enjoy a compensation package that matches your expertise and dedication, accompanied by top-tier employee benefits.
+        - generic [ref=f18e89]:
+          - heading "Work-life flexibility" [level=3] [ref=f18e96]
+          - paragraph [ref=f18e97]: We offer generous PTO and leave periods for new parents, alongside an extensive list of paid holidays.
+        - generic [ref=f18e98]:
+          - heading "Work with the best" [level=3] [ref=f18e105]
+          - paragraph [ref=f18e106]: Your contributions directly impact how the world’s biggest fintech and crypto companies adopt wallets and blockchain rails.
+    - generic [ref=f18e114]:
+      - heading "Our culture" [level=2] [ref=f18e116]
+      - paragraph [ref=f18e118]: "We’re serious about building the wallet infrastructure of the internet, but we also know how to take a beat: offsites in great locations, generous time off, and true respect for work-life balance. We move fast, support each other, and celebrate the wins along the way. Whether it's leave for new parents or recharging for your next big push, we’ve built a culture that prioritizes performance and people."
+      - link "Learn more about Dynamic" [ref=f18e119] [cursor=pointer]:
+        - /url: /company
+  - generic [ref=f18e140]:
+    - heading "Set up Dynamic in minutes" [level=2] [ref=f18e142]
+    - paragraph [ref=f18e144]: Free to start up to 1,000 MAUs
+    - generic [ref=f18e145]:
+      - link "Start for free" [ref=f18e146] [cursor=pointer]:
+        - /url: https://app.dynamic.xyz
+      - link "Talk to sales" [ref=f18e148] [cursor=pointer]:
+        - /url: https://www.dynamic.xyz/book-a-call
+  - contentinfo [ref=f18e151]:
+    - generic [ref=f18e152]:
+      - generic [ref=f18e153]:
+        - generic [ref=f18e154]:
+          - paragraph [ref=f18e156]: Dynamic combines authentication, smart wallets, and secure key management into one flexible SDK. Dynamic was acquired by Fireblocks in October 2025.
+          - paragraph [ref=f18e159]: Made with love in Sunnyv
+          - generic [ref=f18e160]:
+            - link [ref=f18e161] [cursor=pointer]:
+              - /url: https://join.slack.com/t/dynamiccustomers/shared_invite/zt-3r4vzldwi-_B8tQNoSJG3JRW3eua1tLA
+            - link [ref=f18e168] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/dynamiclabs/
+            - link [ref=f18e172] [cursor=pointer]:
+              - /url: https://twitter.com/dynamic_xyz
+          - link "dynamic@fireblocks.com" [ref=f18e176] [cursor=pointer]:
+            - /url: mailto:dynamic@fireblocks.com
+        - generic [ref=f18e177]:
+          - generic [ref=f18e179]:
+            - generic [ref=f18e180]: General
+            - link "Documentation" [ref=f18e181] [cursor=pointer]:
+              - /url: https://www.dynamic.xyz/docs/overview/introduction/welcome
+            - link "Ecosystems" [ref=f18e182] [cursor=pointer]:
+              - /url: /ecosystems
+            - link "Customers" [ref=f18e183] [cursor=pointer]:
+              - /url: /customers
+            - link "Pricing" [ref=f18e184] [cursor=pointer]:
+              - /url: /pricing
+            - link "Slack Support" [ref=f18e185] [cursor=pointer]:
+              - /url: https://join.slack.com/t/dynamiccustomers/shared_invite/zt-3r4vzldwi-_B8tQNoSJG3JRW3eua1tLA
+            - link "Bug Bounty Program" [ref=f18e186] [cursor=pointer]:
+              - /url: /submit-bug-bounty-report
+            - link "Status" [ref=f18e187] [cursor=pointer]:
+              - /url: https://status.dynamic.xyz/
+          - generic [ref=f18e188]:
+            - generic [ref=f18e189]:
+              - generic [ref=f18e190]: PRODUCT
+              - link "Wallet Infrastructure" [ref=f18e191] [cursor=pointer]:
+                - /url: /features/wallet-infrastructure
+              - link "Wallet Connectors" [ref=f18e192] [cursor=pointer]:
+                - /url: /features/wallet-connectors
+              - link "Stablecoin Accounts" [ref=f18e193] [cursor=pointer]:
+                - /url: /features/stablecoin-accounts
+              - link "Fireblocks Flow" [ref=f18e194] [cursor=pointer]:
+                - /url: /features/fireblocks-flow
+              - link "Server Wallets" [ref=f18e195] [cursor=pointer]:
+                - /url: /features/server-wallets
+              - link "Global Wallets" [ref=f18e196] [cursor=pointer]:
+                - /url: /features/global-wallet
+            - generic [ref=f18e197]:
+              - paragraph [ref=f18e198]: Platform
+              - link "Security" [ref=f18e199] [cursor=pointer]:
+                - /url: /security
+              - link "Fraud Protection" [ref=f18e200] [cursor=pointer]:
+                - /url: /fraud
+              - link "Key Management" [ref=f18e201] [cursor=pointer]:
+                - /url: /features/key-management
+              - link "Compliance Tools" [ref=f18e202] [cursor=pointer]:
+                - /url: /features/compliance-tools
+              - link "Money & Funding" [ref=f18e203] [cursor=pointer]:
+                - /url: /features/funding
+              - link "SDKs" [ref=f18e204] [cursor=pointer]:
+                - /url: /sdk
+          - generic [ref=f18e205]:
+            - generic [ref=f18e206]:
+              - generic [ref=f18e207]: Solutions
+              - link "Exhanges" [ref=f18e208] [cursor=pointer]:
+                - /url: /use-case/exchanges
+              - link "Fintechs" [ref=f18e209] [cursor=pointer]:
+                - /url: /use-case/fintechs
+              - link "Agentic" [ref=f18e210] [cursor=pointer]:
+                - /url: /use-case/agentic
+              - link "Payments" [ref=f18e211] [cursor=pointer]:
+                - /url: /use-case/payments
+              - link "Web3" [ref=f18e212] [cursor=pointer]:
+                - /url: /use-case/web3
+              - link "Creators and Payroll" [ref=f18e213] [cursor=pointer]:
+                - /url: /use-case/creators-and-payroll
+              - link "Bank" [ref=f18e214] [cursor=pointer]:
+                - /url: /use-case/banks
+            - generic [ref=f18e215]:
+              - generic [ref=f18e216]: Company
+              - link "About Us" [ref=f18e217] [cursor=pointer]:
+                - /url: /company
+              - link "Careers" [ref=f18e218] [cursor=pointer]:
+                - /url: /careers
+              - link "Dynamic Dispatch" [ref=f18e219] [cursor=pointer]:
+                - /url: /dynamic-dispatch
+              - link "Brand Kit" [ref=f18e220] [cursor=pointer]:
+                - /url: /brandingkit
+          - generic [ref=f18e221]:
+            - generic [ref=f18e222]:
+              - strong [ref=f18e224]: Insights
+              - link "Blog" [ref=f18e225] [cursor=pointer]:
+                - /url: https://www.fireblocks.com/blog?tag=dynamic
+              - generic [ref=f18e226]:
+                - paragraph [ref=f18e227]: Reports
+                - link "The Stablecoin Playbook" [ref=f18e228] [cursor=pointer]:
+                  - /url: https://www.dynamic.xyz/2025-stablecoin-playbook
+                - link "Guide to Blockchains" [ref=f18e229] [cursor=pointer]:
+                  - /url: /the-complete-guide-to-blockchains
+                - link "Agentic Report" [ref=f18e230] [cursor=pointer]:
+                  - /url: /agentic-finance-and-stablecoins
+            - generic [ref=f18e231]:
+              - generic [ref=f18e232]: Legal
+              - link "Terms" [ref=f18e233] [cursor=pointer]:
+                - /url: /terms-conditions
+              - link "Privacy" [ref=f18e234] [cursor=pointer]:
+                - /url: /privacy-policy
+              - link "Cookie Settings" [ref=f18e236] [cursor=pointer]:
+                - /url: javascript:openAxeptioCookies()
+      - paragraph [ref=f18e238]: © 2026 Dynamic Labs, Inc. All rights reserved.

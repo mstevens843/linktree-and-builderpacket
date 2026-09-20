@@ -1,0 +1,4 @@
+[     603ms] [ERROR] Sending form data to 'https://www.facebook.com/tr/' violates the following Content Security Policy directive: "form-action 'self'". The request has been blocked.
+ @ https://www.googletagmanager.com/:0
+[     603ms] [ERROR] Framing 'https://www.facebook.com/' violates the following Content Security Policy directive: "frame-src https://pipedream.com https://connect.pipedream.com https://www.googletagmanager.com https://calendar.google.com blob: https://*.taskletusercontent.com". The request has been blocked.
+ @ https://www.googletagmanager.com/:0

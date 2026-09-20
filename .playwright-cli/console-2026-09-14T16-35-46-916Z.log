@@ -1,0 +1,57 @@
+[    2833ms] [ERROR] Framing 'https://apply.talemetry.com/' violates the following report-only Content Security Policy directive: "frame-ancestors 'self' https://*.app.jobvite.com". The violation has been logged, but no further action has been taken.
+ @ :0
+[    3308ms] [WARNING] MUI: adaptV4Theme() is deprecated.
+Follow the upgrade guide on https://mui.com/r/migration-v4#theme. @ https://apply.talemetry.com/application/df31dbd6-9854-46e5-a856-2229696a18a9:8
+[    3310ms] [ERROR] Warning: ReactDOM.render is no longer supported in React 18. Use createRoot instead. Until you switch to the new API, your app will behave as if it's running React 17. Learn more: https://reactjs.org/link/switch-to-createroot @ https://apply.talemetry.com/application/df31dbd6-9854-46e5-a856-2229696a18a9:8
+[    3609ms] [LOG] brand_theme {breakpoints: Object, direction: ltr, components: Object, palette: Object, spacing: } @ https://apply.talemetry.com/application/df31dbd6-9854-46e5-a856-2229696a18a9:8
+[    3621ms] [ERROR] Warning: Component "%s" contains the string ref "%s". Support for string refs will be removed in a future major release. We recommend using useRef() or createRef() instead. Learn more about using refs safely here: https://reactjs.org/link/strict-mode-string-ref%s div cardhead 
+    at div
+    at eval (webpack-internal:///./node_modules/@emotion/react/dist/emotion-element-489459f2.browser.development.esm.js:55:66)
+    at Paper (webpack-internal:///./node_modules/@mui/material/Paper/Paper.js:83:88)
+    at eval (webpack-internal:///./node_modules/@emotion/react/dist/emotion-element-489459f2.browser.development.esm.js:55:66)
+    at Card (webpack-internal:///./node_modules/@mui/material/Card/Card.js:53:87)
+    at div
+    at JobDetails (webpack-internal:///./src/components/job_details.jsx:70:5)
+    at WithStyles (webpack-internal:///./node_modules/@mui/styles/withStyles/withStyles.js:67:21)
+    at _class (webpack-internal:///./node_modules/react-relay/lib/ReactRelayFragmentContainer.js:58:32)
+    at forwardRef (webpack-internal:///./node_modules/react-relay/lib/buildReactRelayContainer.js:55:19)
+    at div
+    at eval (webpack-internal:///./node_modules/@emotion/react/dist/emotion-element-489459f2.browser.development.esm.js:55:66)
+    at Paper (webpack-internal:///./node_modules/@mui/material/Paper/Paper.js:83:88)
+    at div
+    at ApplyApp (webpack-internal:///./src/components/apply_app_new.jsx:121:5)
+    at WithStyles (webpack-internal:///./node_modules/@mui/styles/withStyles/withStyles.js:67:21)
+    at _class (webpack-internal:///./node_modules/react-relay/lib/ReactRelayFragmentContainer.js:58:32)
+    at forwardRef (webpack-internal:///./node_modules/react-relay/lib/buildReactRelayContainer.js:55:19)
+    at div
+    at DefaultPropsProvider (webpack-internal:///./node_modules/@mui/system/esm/DefaultPropsProvider/DefaultPropsProvider.js:20:3)
+    at RtlProvider (webpack-internal:///./node_modules/@mui/system/esm/RtlProvider/index.js:22:7)
+    at ThemeProvider (webpack-internal:///./node_modules/@mui/private-theming/ThemeProvider/ThemeProvider.js:45:5)
+    at ThemeProvider (webpack-internal:///./node_modules/@mui/system/esm/ThemeProvider/ThemeProvider.js:64:5)
+    at ThemeProvider (webpack-internal:///./node_modules/@mui/material/styles/ThemeProvider.js:26:14)
+    at StyledEngineProvider (webpack-internal:///./node_modules/@mui/styled-engine/StyledEngineProvider/StyledEngineProvider.js:42:5)
+    at BrandThemeProvider (webpack-internal:///./commonComponents/relay/BrandThemeProvider.jsx:51:5)
+    at _class (webpack-internal:///./node_modules/react-relay/lib/ReactRelayFragmentContainer.js:58:32)
+    at forwardRef (webpack-internal:///./node_modules/react-relay/lib/buildReactRelayContainer.js:55:19)
+    at ApplySessionBrandedTheme (webpack-internal:///./src/components/apply_session_branded_theme_provider.jsx:34:5)
+    at _class (webpack-internal:///./node_modules/react-relay/lib/ReactRelayFragmentContainer.js:58:32)
+    at forwardRef (webpack-internal:///./node_modules/react-relay/lib/buildReactRelayContainer.js:55:19)
+    at ReactRelayQueryRenderer (webpack-internal:///./node_modules/react-relay/lib/ReactRelayQueryRenderer.js:63:30)
+    at ApplyInfrastructure (webpack-internal:///./src/components/apply_infrastructure.jsx:52:5)
+    at WithTheme (webpack-internal:///./node_modules/@mui/styles/withTheme/withTheme.js:31:74)
+    at DefaultPropsProvider (webpack-internal:///./node_modules/@mui/system/esm/DefaultPropsProvider/DefaultPropsProvider.js:20:3)
+    at RtlProvider (webpack-internal:///./node_modules/@mui/system/esm/RtlProvider/index.js:22:7)
+    at ThemeProvider (webpack-internal:///./node_modules/@mui/private-theming/ThemeProvider/ThemeProvider.js:45:5)
+    at ThemeProvider (webpack-internal:///./node_modules/@mui/system/esm/ThemeProvider/ThemeProvider.js:64:5)
+    at ThemeProvider (webpack-internal:///./node_modules/@mui/material/styles/ThemeProvider.js:26:14)
+    at StyledEngineProvider (webpack-internal:///./node_modules/@mui/styled-engine/StyledEngineProvider/StyledEngineProvider.js:42:5)
+    at StylesProvider (webpack-internal:///./node_modules/@mui/styles/StylesProvider/StylesProvider.js:55:7)
+    at rtlJssProvider (webpack-internal:///./commonComponents/react/RtlJssProvider.jsx:36:24) @ https://apply.talemetry.com/application/df31dbd6-9854-46e5-a856-2229696a18a9:8
+[    3622ms] [WARNING] Warning: componentWillReceiveProps has been renamed, and is not recommended for use. See https://reactjs.org/link/unsafe-component-lifecycles for details.
+
+* Move data fetching code or side effects to componentDidUpdate.
+* If you're updating state whenever props change, refactor your code to use memoization techniques or move it to static getDerivedStateFromProps. Learn more at: https://reactjs.org/link/derived-state
+* Rename componentWillReceiveProps to UNSAFE_componentWillReceiveProps to suppress this warning in non-strict mode. In React 18.x, only the UNSAFE_ name will work. To rename all deprecated lifecycles to their new names, you can run `npx react-codemod rename-unsafe-lifecycles` in your project source folder.
+
+Please update the following components: %s ApplyApp @ https://apply.talemetry.com/application/df31dbd6-9854-46e5-a856-2229696a18a9:8
+[    3628ms] [INFO] Loading the image 'https://apply.app.jobvite.com/workflow_brandings/production/company_logo/85744/original/Norstella_TM_color_positive_RGB.svg?1699896373' violates the following Content Security Policy directive: "img-src 'self' data: https://employ-app-assets.production.app.employinc.com https://cdn.walkme.com https://ec.walkme.com https://s3.walkmeusercontent.com https://*.aptrinsic.com https://storage.googleapis.com". The policy is report-only, so the violation has been logged but no further action has been taken. @ https://apply.talemetry.com/application/df31dbd6-9854-46e5-a856-2229696a18a9:0

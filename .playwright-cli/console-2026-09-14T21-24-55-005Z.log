@@ -1,0 +1,5 @@
+[    1315ms] [WARNING] Amplitude Logger [Warn]: Event not tracked, no destination plugins on the instance @ https://www.notion.com/_next/static/chunks/2-8yass6f93_v.js:1
+[    1315ms] [INFO] 2026-09-14T21:24:56.320Z [error] eventTrailApiHelpers: trackFailure {error: Object} @ https://www.notion.com/_next/static/chunks/1lyqlpwxywx_d.js:1
+[    1440ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ https://transcend-cdn.com/cm/a36a42ad-3a71-444f-9e8a-b19950129dc6/airgap.js:10
+[    1736ms] [WARNING] [GSI_LOGGER]: Your client application uses one of the Google One Tap prompt UI status methods that may stop functioning when FedCM becomes mandatory. Refer to the migration guide to update your code accordingly and opt-in to FedCM to test your changes. Learn more: https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#display_moment and https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#skipped_moment @ https://www.notion.com/_next/static/chunks/018ztl1xvnm15.js:12
+[    1738ms] [ERROR] Not signed in with the identity provider. @ https://www.notion.com/careers?_live_review=1789421095018:0
