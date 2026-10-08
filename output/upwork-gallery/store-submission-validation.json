@@ -1,0 +1,55 @@
+[
+  {
+    "listing": "ios-app-store-submission",
+    "field_lengths": {
+      "Title": "58/75",
+      "Tier title": "24/30",
+      "Tier description": "74/80",
+      "Summary": "1148/1200",
+      "Requirement 1": "216/250",
+      "Requirement 2": "210/250",
+      "Requirement 3": "211/250",
+      "Requirement 4": "243/250",
+      "Step 1 title": "47/75",
+      "Step 2 title": "36/75",
+      "Step 3 title": "42/75",
+      "Step 4 title": "42/75",
+      "Step 1 description": "195/250",
+      "Step 2 description": "239/250",
+      "Step 3 description": "216/250",
+      "Step 4 description": "206/250",
+      "FAQ 1 answer": "222/250",
+      "FAQ 2 answer": "219/250",
+      "FAQ 3 answer": "229/250",
+      "FAQ 4 answer": "243/250",
+      "FAQ 5 answer": "242/250"
+    }
+  },
+  {
+    "listing": "android-play-store-submission",
+    "field_lengths": {
+      "Title": "54/75",
+      "Tier title": "22/30",
+      "Tier description": "77/80",
+      "Summary": "1186/1200",
+      "Requirement 1": "217/250",
+      "Requirement 2": "242/250",
+      "Requirement 3": "225/250",
+      "Requirement 4": "220/250",
+      "Requirement 5": "241/250",
+      "Step 1 title": "40/75",
+      "Step 2 title": "39/75",
+      "Step 3 title": "42/75",
+      "Step 4 title": "42/75",
+      "Step 1 description": "184/250",
+      "Step 2 description": "205/250",
+      "Step 3 description": "205/250",
+      "Step 4 description": "206/250",
+      "FAQ 1 answer": "231/250",
+      "FAQ 2 answer": "232/250",
+      "FAQ 3 answer": "210/250",
+      "FAQ 4 answer": "242/250",
+      "FAQ 5 answer": "236/250"
+    }
+  }
+]

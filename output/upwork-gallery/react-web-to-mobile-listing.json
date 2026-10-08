@@ -1,0 +1,142 @@
+{
+  "key": "react-web-to-mobile",
+  "name": "React Web App to Mobile App",
+  "title": "your existing React app adapted for iOS or Android",
+  "category": "Development & IT > Mobile Apps",
+  "categoryNote": "Choose Mobile Apps (or Mobile App Development if that is the displayed label). The app uses Capacitor and remains a hybrid app; do not label it React Native or a native rewrite.",
+  "attributes": {
+    "Platform": "Android & iOS as supported capabilities if available; each order includes ONE selected platform.",
+    "App Type": "Hybrid App",
+    "Development Technology": "Capacitor if available, or Other if available. Do not choose React Native, Flutter, or Ionic unless actually used. Leave optional fields blank if none fit.",
+    "App Purpose": "Leave optional selection blank.",
+    "Expertise": "Cross Browser & Device Compatibility and Design, if those options appear.",
+    "Programming Languages, if shown": "TypeScript, JavaScript, HTML & CSS"
+  },
+  "tags": [
+    "Website to Mobile App Conversion",
+    "Capacitor",
+    "React",
+    "iOS Development",
+    "Android App Development"
+  ],
+  "tier": "React to Mobile: One Platform",
+  "tierDescription": "Up to 5 React screens adapted for one platform, with test build and source code.",
+  "price": 2000,
+  "days": 14,
+  "revisions": 2,
+  "pricingFields": {
+    "Number of Mobile Operating Systems": "1",
+    "Number of Screens, if shown": "5",
+    "Source Code": "Checked",
+    "Splash Screen": "Checked; uses supplied branding.",
+    "App Icon Design": "Unchecked; existing artwork is resized/configured, no new logo/icon design.",
+    "App Store Upload": "Unchecked; internal testing is included, public store submission is separate.",
+    "Ad Network Integration": "Unchecked"
+  },
+  "addons": "None. Quote a second platform, native features, or public store submission only after reviewing the app.",
+  "scope": [
+    "One existing browser-buildable React application with source access, adapted with Capacitor for either iOS OR Android, up to five agreed existing screens. Login counts toward the five if included.",
+    "One app and one existing backend. Client supplies a working HTTPS backend, existing business logic, sample data, and an authentication approach compatible with the selected mobile platform.",
+    "Compatibility review before ordering. Frameworks dependent on server-rendered pages, unavailable source exports, desktop-only APIs, or major redesign may require separate work.",
+    "Capacitor project setup, app identity, configuration of supplied app icon assets and splash screen, and platform build/signing configuration.",
+    "Adjustments within the five screens for mobile layout, safe areas, keyboard behavior, scrolling, navigation/back behavior, and foreground/resume states.",
+    "Adapt one existing compatible login/session flow where present, including agreed allowed origins and redirects. No new identity provider, custom OAuth protocol work, native payment system, or backend auth redesign.",
+    "Verify up to three agreed user journeys, loading/error states, and network-loss handling on one physical phone and a second screen size through simulator/emulator. Document device and OS versions; no full compatibility matrix.",
+    "Source code, Xcode or Android Studio project, build instructions, verification notes, and a signed internal test build. iOS: upload to the client's internal TestFlight group. Android: signed test APK and release AAB, with internal track setup if the client's console is ready.",
+    "Two revisions to the agreed mobile adaptation. One platform, five screens and existing functionality remain fixed.",
+    "Store listing creation, public store submission/review, a second platform, new backend features, offline synchronization, push notifications, subscriptions/in-app purchases, custom native plugins, Bluetooth and background processing are separately scoped.",
+    "Client supplies source, branding, working backend, test accounts and required signing/developer-account access. Client pays account, hosting and provider fees. Internet-dependent functionality remains internet-dependent.",
+    "Apple minimum-functionality rules mean a repackaged website alone may not qualify for public distribution. Review fit before purchase; delivery of a test build does not guarantee store approval."
+  ],
+  "gallery": {
+    "cover": "react-web-to-mobile-cover.png",
+    "video": "Leave blank initially. An existing Agentic/SolPulse demo can be an additional clearly labeled prior-work sample if suitable; do not alter the original videos.",
+    "documents": "Leave blank.",
+    "portfolio": "Agentic and SolPulse, with emphasis on your cross-platform apps and mobile UX."
+  },
+  "requirements": [
+    {
+      "required": true,
+      "text": "Choose iOS OR Android. Share the React repository, framework, install/build instructions, and current web URL. Confirm source access and a working browser build. Identify the existing HTTPS backend and any server-rendered or desktop-only features."
+    },
+    {
+      "required": true,
+      "text": "List up to 5 existing screens and 3 user journeys to adapt. Include login in the screen count if needed. Provide test credentials, sample data, expected outcomes, and details of authentication redirects or external app handoffs."
+    },
+    {
+      "required": true,
+      "text": "Provide the app name, bundle/package ID preference, icon artwork, brand colors, and splash assets. Invite access to your developer/signing account. For iOS, provide an active Apple Developer account and an internal TestFlight user."
+    },
+    {
+      "required": true,
+      "text": "Describe required permissions, purchases, push notifications, camera/location use, offline behavior, and other native features. Confirm which are already working. New native integrations, billing, and backend changes need separate scope."
+    },
+    {
+      "required": false,
+      "text": "Optional: share mobile design references, current phone screenshots, and device/OS priorities. Mention any previous store feedback. The package covers one platform and an internal test build; public store submission is separate."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Map the web app to the selected mobile platform",
+      "description": "I review the browser build, backend, authentication, and selected screens, then define the mobile navigation and three test journeys. I identify any features that need separate native or backend work."
+    },
+    {
+      "title": "Set up the mobile project and adapt the screens",
+      "description": "I configure Capacitor, app identity, supplied branding, and signing. I adapt up to 5 screens for phone layouts, safe areas, keyboard behavior, scrolling, navigation, and the existing compatible login/session flow."
+    },
+    {
+      "title": "Test the mobile experience and revise",
+      "description": "I verify the agreed journeys on a physical phone and a second simulated screen size, including errors, connection loss, and app resume. I document the tested devices and address issues within the agreed scope."
+    },
+    {
+      "title": "Deliver the source and internal test build",
+      "description": "I provide the source, platform project, build instructions, and verification notes. You receive an internal TestFlight build for iOS or signed Android test build. Two revisions to the agreed adaptation are included; public submission is separate."
+    }
+  ],
+  "summary": "Bring your existing React web app to iOS or Android with a mobile experience built around your current product.\n\nI adapt one working React app using Capacitor for one selected platform, covering up to 5 existing screens.\n\nIncluded:\n- Mobile project setup, app identity, and signing configuration\n- Phone layouts, safe areas, keyboard, scrolling, and navigation\n- Adaptation of one existing compatible login/session flow\n- App icon setup and splash screen using your supplied branding\n- Checks of up to 3 user journeys on a physical phone and a second screen size\n- Source code, platform project, build instructions, and test notes\n- An internal test build and 2 revisions\n\nI built and shipped Agentic and SolPulse across web and mobile, including their app experiences and release workflows.\n\nYou provide the React source, working backend, branding, and developer access. New native features, backend changes, payments, offline sync, a second platform, and public store submission need separate scope. Account and service fees are paid by you.\n\nSend your repository, target platform, and 5 priority screens before ordering so I can confirm compatibility.",
+  "faqs": [
+    {
+      "q": "Does the package include both iOS and Android?",
+      "a": "One order covers one selected platform and up to 5 existing screens. A second platform requires its own build, signing, device checks, and scope. Send your repository and screen list before ordering so I can confirm compatibility."
+    },
+    {
+      "q": "Can you convert any website or React project?",
+      "a": "I need source access and a working browser-buildable React app with compatible backend and login behavior. Server-rendered pages, desktop-only features, and apps without source export may need separate work. This package uses Capacitor."
+    },
+    {
+      "q": "Will the app be published in the stores?",
+      "a": "You receive an internal test build: TestFlight for iOS or a signed Android test build. Public store listing and submission are separate. Store acceptance depends on the app's functionality, content, and policies and is not guaranteed."
+    },
+    {
+      "q": "Are push notifications, payments, or offline use included?",
+      "a": "New native features, push notifications, in-app purchases, offline sync, and custom plugins need separate scope. Existing web functionality is retained where compatible with the mobile platform. Internet-based features still need a connection."
+    },
+    {
+      "q": "What do I own, and what do revisions cover?",
+      "a": "You receive the source code, platform project, build instructions, and test notes. Two revisions cover the agreed screens, navigation, and mobile behavior. Extra screens, new features, a different backend, or another platform require separate scope."
+    }
+  ],
+  "review": [
+    "Maximum simultaneous projects: 1.",
+    "One tier: $2,000, 14 days, 2 revisions, 1 operating system, up to 5 existing screens.",
+    "Source Code and Splash Screen checked; App Store Upload, App Icon Design, and Ad Network Integration unchecked.",
+    "Internal TestFlight/Android testing is included; public store submission is separate.",
+    "Use Hybrid App. Do not mislabel Capacitor as React Native or a native rewrite."
+  ],
+  "sources": [
+    [
+      "Mobile Apps category",
+      "https://www.upwork.com/services/mobile-apps"
+    ],
+    [
+      "Apple minimum functionality",
+      "https://developer.apple.com/app-store/review/guidelines/#minimum-functionality"
+    ],
+    [
+      "Internal TestFlight testing",
+      "https://developer.apple.com/help/app-store-connect/test-a-beta-version/add-internal-testers"
+    ]
+  ]
+}
+

@@ -1,0 +1,10 @@
+Use case: ads-marketing
+Asset type: original Upwork Project Catalog service cover, part of an existing charcoal and emerald software engineering gallery.
+Format: landscape 4:3, target 1600 x 1200 pixels, PNG.
+Style: premium restrained editorial 3D software illustration, matte charcoal surfaces, subtle emerald/teal rim light, crisp white sans-serif typography, generous negative space. Match the established series: large title on the left, one elegant software illustration on the right. Keep everything within generous crop-safe margins and legible at a small thumbnail.
+Constraints: original conceptual service artwork, no actual customer screenshot. No company or platform logos, no store/provider branding, URLs, contact details, prices, stars, ratings, guarantees, fake business statistics, watermarks, people, robots, brains, or crypto imagery. Only the specified words may appear. Use abstract bars and shapes for all UI detail; no tiny unreadable labels.
+Primary request: Create a polished cover for adapting an existing React web application into a mobile app for one selected platform.
+Subject: On the right, an elegant browser window behind and slightly left of a large upright generic phone. The same simple abstract list-and-card interface is visibly reflowed from the wide browser into a neat narrow mobile layout. One restrained curved arrow connects the two, indicating adaptation. Clearly show a browser-to-phone transformation. Keep the phone fully visible.
+Text (verbatim): Main title on two lines: "Web to" and "Mobile". Smaller subtitle: "Adapt. Build. Test."
+No React, Apple, Android, store or hosting logos. No suggestion that both operating systems or store publishing are included. No extra labels. Use the same calm charcoal background and emerald lighting as the series.
+

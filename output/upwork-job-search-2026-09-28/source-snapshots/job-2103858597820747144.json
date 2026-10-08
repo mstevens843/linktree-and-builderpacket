@@ -1,0 +1,162 @@
+{
+  "url": "https://www.upwork.com/jobs/Freelance-Release-Engineer-Next-PostgreSQL_~022103858597820747144/?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2F",
+  "title": "Freelance QA / Release Engineer \u2013 Next.js / PostgreSQL - QA Testing",
+  "text": "Search\nHome\n9+\nNotifications\nOpportunities\nContracts\nFinances\nMessages\nUma\nHelp\nFreelance QA / Release Engineer \u2013 Next.js / PostgreSQL - QA Testing\nFreelance QA / Release Engineer \u2013 Next.js / PostgreSQL\nPosted 2 days ago\n\nWorldwide\n\nSend a proposal for: 18 Connects\nAvailable Connects: 114\nSummary\n\nFreelance Test Automation / Release Engineer \u2013 Next.js / PostgreSQL\n\nWe are looking for an experienced freelance Test Automation / Release Engineer to help prepare Itanera for launch.\n\nItanera is a multilingual travel platform for Morocco, Egypt and Jordan, running in EN, DE, FR, IT and ES.\n\nStack: Next.js / TypeScript, PostgreSQL / PostGIS, Directus, Docker, GitHub Actions, Bunny CDN and Scaleway.\n\nTesting and CI already exist. We want an independent engineer to review the current setup and strengthen the automated testing and release gates before production.\n\nYou will receive a current technical handoff from the existing developer and database architect covering the deployed code/database state, CI/tests, critical flows, migrations, architecture baseline and known open issues.\n\nImmediate availability is required.\n\nEngagement\n\nThis is an hourly / time-and-materials engagement.\n\nI currently estimate the initial work at approximately 20\u201330 hours, depending on what is found.\n\nWe will have an initial checkpoint after approximately 4\u20136 hours to review findings, approach and progress before continuing.\n\nScope\n\n- Review the existing automated tests and CI setup.\n- Strengthen GitHub Actions gates so required failures are explicit and block merge.\n- Build Playwright E2E automation for launch-critical flows.\n- Add repeatable automated testing of PostgreSQL migrations on both fresh and existing databases.\n- Identify which existing manual QA checks should become automated.\n- Define checks for staging \u2192 production releases, rollback and post-deployment verification.\n- Establish the automated QA gate used before merge/release.\n- Document the setup and findings clearly.\n\nCritical flows include the traveller request form and, where implemented, partner assignment.\n\nBoundaries\n\nThis is not an architecture, general code-review or feature-development role.\n\nThe database architect owns architecture decisions. The product owner owns product and business approval.\n\nRequired\n\n- Playwright or similar E2E framework\n- GitHub Actions\n- PostgreSQL and migration testing\n- CI/CD\n- Docker\n- Next.js / TypeScript testing\n- Clear written English\n\nNice to have: Directus, Scaleway, multilingual/i18n testing.\n\nLess than 30 hrs/week\nHourly\n< 1 month\nDuration\nExpert\nExperience Level\n\n$45.00\n\n-\n\n$65.00\n\nHourly\nProject Type:One-time project\nSkills and Expertise\nPostgreSQL\nDocker\nEnd-to-End Testing\nPlaywright\nGitHub Actions\nCI/CD\nActivity on this job\nProposals:\n50+\nLast viewed by client:\n1 hour ago\nInterviewing:\n7\nInvites sent:\n1\nUnanswered invites:\n1\nBid range - High $110.00 | Avg $45.91 | Low $10.00\nAbout the client\nPayment method verified\nPhone number verified\nRating is 4.9 out of 5.\n4.9\n4.87 of 3 reviews\nDNK\nSm\u00f8rum10:48 AM\n9 jobs posted\n78% hire rate, 1 open job\n$11K total spent\n7 hires, 4 active\nMember since Jun 29, 2026\nClient's recent history (7)\nJobs in progress\nKeyword Research & Search Intent Specialist \u2014 Google Ads + pSEO (Morocco Travel)\nThis feedback has been removed\nTo freelancer: Abdul R.\nRating is 4.0 out of 5.\n4.0\nJul 2026 - Jul 2026\nFixed-price\nSEO Keyword Research Specialist / Search Intent Strategist\nRating is 5.0 out of 5.\n5.0\nA real pleasure to work with. Jonas gives clear, detailed briefs and fast, specific feedback, and he holds a high standard that pushes the work in the right direction. He communicates like a true product owner who knows exactly what his business needs, and he is fair and professional throughout, including in how he closed things out. I would gladly work with him again and recommend him to any freelancer who values a client with real standards and clear expectations.less\nTo freelancer: Anatolii U.\nRating is 4.0 out of 5.\n4.0\nJul 2026 - Jul 2026\nFixed-price $100.00\nFreelance PPC / Google Ads Keyword Specialist\nRating is 5.0 out of 5.\n5.0\nGreat client. Clear briefing, detailed feedback, and prompt payment. Communication was professional throughout. Would work with again.\nTo freelancer: Jaime G.\nRating is 4.0 out of 5.\n4.0\nJul 2026 - Jul 2026\nFixed-price $133.00\nFlag as inappropriate\nApply now\nSave job\nFooter navigation\n\u00a9 2015 - 2026 Upwork\u00ae Global LLC\nTerms\nPrivacy\nYour Privacy Choices\nCalifornia Consumer Privacy Act (CCPA) Opt-Out",
+  "links": [
+    {
+      "text": "Home",
+      "href": "https://www.upwork.com/nx/find-work"
+    },
+    {
+      "text": "Messages",
+      "href": "https://www.upwork.com/ab/messages/rooms/"
+    },
+    {
+      "text": "Uma",
+      "href": "https://www.upwork.com/apps/uma"
+    },
+    {
+      "text": "PostgreSQL",
+      "href": "https://www.upwork.com/nx/search/jobs/?ontology_skill_uid=996364628000108546"
+    },
+    {
+      "text": "Docker",
+      "href": "https://www.upwork.com/nx/search/jobs/?ontology_skill_uid=1031626732393185280"
+    },
+    {
+      "text": "End-to-End Testing",
+      "href": "https://www.upwork.com/nx/search/jobs/?ontology_skill_uid=1225465939337908224"
+    },
+    {
+      "text": "CI/CD",
+      "href": "https://www.upwork.com/nx/search/jobs/?ontology_skill_uid=1110580518297522176"
+    },
+    {
+      "text": "Learn how this affects your payment protection.",
+      "href": "https://support.upwork.com/hc/en-us/articles/211063098-Unverified-Billing-Methods"
+    },
+    {
+      "text": "Keyword Research & Search Intent Specialist \u2014 Google Ads + pSEO (Morocco Travel)",
+      "href": "https://www.upwork.com/jobs/~022077422400794531893/?referrer_url_path=/jobs/Freelance-Release-Engineer-Next-PostgreSQL_~022103858597820747144/"
+    },
+    {
+      "text": "Abdul R.",
+      "href": "https://www.upwork.com/freelancers/~015cfe80919e2e4fab/?referrer_url_path=/jobs/Freelance-Release-Engineer-Next-PostgreSQL_~022103858597820747144/"
+    },
+    {
+      "text": "SEO Keyword Research Specialist / Search Intent Strategist",
+      "href": "https://www.upwork.com/jobs/~022074445221642177245/?referrer_url_path=/jobs/Freelance-Release-Engineer-Next-PostgreSQL_~022103858597820747144/"
+    },
+    {
+      "text": "Anatolii U.",
+      "href": "https://www.upwork.com/freelancers/~01d2b9c09325d36951/?referrer_url_path=/jobs/Freelance-Release-Engineer-Next-PostgreSQL_~022103858597820747144/"
+    },
+    {
+      "text": "Freelance PPC / Google Ads Keyword Specialist",
+      "href": "https://www.upwork.com/jobs/~022071866124336601061/?referrer_url_path=/jobs/Freelance-Release-Engineer-Next-PostgreSQL_~022103858597820747144/"
+    },
+    {
+      "text": "Jaime G.",
+      "href": "https://www.upwork.com/freelancers/~01cb2f6f28ef8fbf5b/?referrer_url_path=/jobs/Freelance-Release-Engineer-Next-PostgreSQL_~022103858597820747144/"
+    },
+    {
+      "text": "Terms",
+      "href": "https://www.upwork.com/legal"
+    },
+    {
+      "text": "Privacy",
+      "href": "https://privacy.upwork.com/"
+    },
+    {
+      "text": "Your Privacy Choices\nCalifornia Consumer Privacy Act (CCPA) Opt-Out",
+      "href": "javascript:"
+    }
+  ],
+  "buttons": [
+    {
+      "text": "",
+      "label": "Expand"
+    },
+    {
+      "text": "Search",
+      "label": null
+    },
+    {
+      "text": "9+\nNotifications",
+      "label": "notifications, 29 unread"
+    },
+    {
+      "text": "Opportunities",
+      "label": null
+    },
+    {
+      "text": "Contracts",
+      "label": null
+    },
+    {
+      "text": "Finances",
+      "label": null
+    },
+    {
+      "text": "Help",
+      "label": null
+    },
+    {
+      "text": "",
+      "label": "Toggle sidebar"
+    },
+    {
+      "text": "Close the tooltip",
+      "label": null
+    },
+    {
+      "text": "Close the tooltip",
+      "label": null
+    },
+    {
+      "text": "Close the tooltip",
+      "label": null
+    },
+    {
+      "text": "Jobs in progress",
+      "label": null
+    },
+    {
+      "text": "more",
+      "label": null
+    },
+    {
+      "text": "less",
+      "label": null
+    },
+    {
+      "text": "more",
+      "label": null
+    },
+    {
+      "text": "more",
+      "label": null
+    },
+    {
+      "text": "more",
+      "label": null
+    },
+    {
+      "text": "Flag as inappropriate",
+      "label": null
+    },
+    {
+      "text": "Apply now",
+      "label": "Apply now"
+    },
+    {
+      "text": "Close the tooltip",
+      "label": null
+    },
+    {
+      "text": "Save job",
+      "label": null
+    }
+  ],
+  "observed_at": "2026-09-28 01:48:53 -0700"
+}

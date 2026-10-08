@@ -1,0 +1,129 @@
+{
+  "tiers": 1,
+  "addons": "None.",
+  "maxSimultaneousProjects": 1,
+  "key": "csv-cleanup-record-matching",
+  "name": "CSV Cleanup & Record Matching",
+  "title": "cleaned CSV files with duplicate checks and a record matching report",
+  "category": "Development & IT > Data Analysis & Reports > Data Entry & Cleaning",
+  "categoryNote": "This is the Data Entry & Cleaning option visible in your earlier category menu. It is a one-time cleanup of supplied files, not web scraping or manual lead research.",
+  "attributes": {
+    "Data Tool": "Python, if offered. If Python is absent, choose Other if available. The exact tool menu has not been shown.",
+    "Service / Data Type, if offered": "Data Cleaning and Data Matching, only where these options appear."
+  },
+  "tags": [
+    "Data Cleaning",
+    "Data Matching",
+    "Data Deduplication",
+    "CSV",
+    "Python"
+  ],
+  "tier": "CSV Cleanup and Matching",
+  "tierDescription": "Up to 2 CSV files and 10,000 rows, with cleaned files and a matching report.",
+  "price": 500,
+  "days": 5,
+  "revisions": 1,
+  "pricingFields": {
+    "Number of Records / Rows, if shown": "10000 total across both files",
+    "Number of Files, if shown": "2",
+    "Data Cleaning / Formatting, if shown": "Checked; apply the agreed field rules",
+    "Duplicate Removal / Data Matching, if shown": "Checked; use agreed rules and flag uncertain cases",
+    "Source Code / Script, if shown": "Checked; one Python script for the agreed file structure",
+    "Summary Report / Documentation, if shown": "Checked",
+    "Data Mining / Web Research / Enrichment, if shown": "Unchecked",
+    "Visualizations / Dashboard / Forecasting, if shown": "Unchecked"
+  },
+  "scope": [
+    "One cleanup-and-matching task for one type of record, such as products, companies, or customer records. Up to two flat CSV files, 10,000 input data rows combined, 20 columns per file, and 20 MB combined. Header rows are excluded from the row count.",
+    "Client supplies exports with one header row and one record per row. This package handles CSV data, not Excel formulas/macros, scans, PDFs, nested JSON, scraping, or database migration.",
+    "Up to five agreed cleanup rules, such as trimming whitespace, normalizing specified labels, standardizing unambiguous dates/numbers, and flagging missing or invalid values. Each rule can apply to agreed columns. Missing facts are not invented.",
+    "One deduplication rule set and one matching configuration using up to three agreed identifying fields. Exact or normalized matches can be linked according to those rules. Optional similarity-based candidate suggestions use one agreed text field.",
+    "Original files remain preserved. IDs and leading zeros are treated as text where required. Unknown date locale, conflicting values, blank match keys, and non-unique identifiers are flagged rather than silently coerced.",
+    "Each input row gets a traceable source file/row reference. Output includes cleaned CSV files, a match/disposition report, and an exceptions list. Any dropped duplicate is accounted for with its retained row and reason.",
+    "Fuzzy similarities are candidate suggestions, not verified identities or probability claims. Ambiguous matches and conflicting duplicate groups stay in a review queue. No fuzzy auto-merging, unsourced enrichment, or promised match rate.",
+    "Check row counts, required columns, missing values, key uniqueness, and agreed exact-match cardinality. Manually spot-check up to 50 records or candidate pairs, in addition to automated file-wide validation.",
+    "Deliver one Python script/configuration for the agreed file schemas, run instructions, and a concise before/after quality summary. The script is a reusable handoff, not an ongoing hosted data pipeline.",
+    "One revision covers corrections or agreed rule adjustments on the same input files. New files, a new record type, extra rules, changed schemas, exhaustive manual adjudication, and ongoing updates require separate scope.",
+    "Client provides representative samples and matching/cleanup decisions, confirms permission to process the data, and supplies only the columns needed for the task. No client data is uploaded to external enrichment or AI services as part of this package.",
+    "Acceptance: all inputs are accounted for, agreed transformations and match rules are reproducible, and the cleaned files, record links, exceptions, script, and summary are delivered. Completeness depends on the supplied data; no guarantee that every record can be matched."
+  ],
+  "requirements": [
+    {
+      "required": true,
+      "text": "Provide up to 2 CSV files, with no more than 10,000 data rows combined, 20 columns per file, and 20 MB total. Describe what each row represents and the purpose of the cleaned output. Include a representative sample before ordering."
+    },
+    {
+      "required": true,
+      "text": "List up to 5 cleanup rules and your desired output columns. Specify date/number formats, missing-value markers, and IDs whose leading zeros must remain. Give examples of correct and incorrect values."
+    },
+    {
+      "required": true,
+      "text": "Define what makes two records the same and identify up to 3 matching fields. Provide known matches and non-matches if available. State which duplicate to keep and how conflicting values should be handled."
+    },
+    {
+      "required": true,
+      "text": "Confirm you may share and process the supplied data. Remove unnecessary sensitive columns. State the required CSV delimiter/encoding and any handling restrictions. Confirm uncertain matches should be flagged for review rather than merged."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Profile the files and define the rules",
+      "description": "I inspect the file structure, missing values, duplicate patterns, and candidate matching fields. I document the cleanup rules, retained identifiers, and examples used to verify the results."
+    },
+    {
+      "title": "Clean the data and link matching records",
+      "description": "I apply the agreed formatting and duplicate rules, then match records using the selected fields. I retain source-row references and separate uncertain candidates, missing keys, and conflicting values for review."
+    },
+    {
+      "title": "Validate the outputs and review exceptions",
+      "description": "I check row accounting, key uniqueness, required fields, and match counts. I spot-check up to 50 records or candidate pairs and document unresolved cases without guessing missing facts."
+    },
+    {
+      "title": "Deliver the files and repeatable process",
+      "description": "I deliver cleaned CSV files, the matching report, exceptions list, quality summary, and a Python script with run instructions. One revision covers the agreed rules on the same input files."
+    }
+  ],
+  "summary": "Turn messy CSV exports into consistent files with traceable duplicate checks and record-matching results.\n\nThis package covers up to 2 CSV files, 10,000 rows combined, 20 columns per file, and 20 MB total, for one type of record.\n\nIncluded:\n- Up to 5 agreed cleanup rules\n- Duplicate handling and matching on up to 3 identifying fields\n- Cleaned CSV files and a record-matching report\n- A review list for missing values, conflicts, and uncertain matches\n- Row-count checks and spot checks of up to 50 records or pairs\n- A reusable Python script, run instructions, and quality summary\n- One revision using the same input files\n\nExact matches follow your rules. Similarity-based suggestions are flagged for review. I preserve source-row references and do not invent missing data or silently merge uncertain records.\n\nI bring professional analytics experience and Python-based data processing to the work.\n\nWeb research, enrichment, PDFs, complex Excel workbooks, database imports, and ongoing data pipelines need separate scope.\n\nSend a sample, row counts, and your cleanup/matching goals before ordering so I can confirm the fit.",
+  "faqs": [
+    {
+      "q": "How much data does the package cover?",
+      "a": "Up to 2 CSV files, 10,000 data rows combined, 20 columns per file, and 20 MB total, for one record type. It includes up to 5 cleanup rules and matching on up to 3 identifying fields. Larger or more complex jobs need separate scope."
+    },
+    {
+      "q": "Can you match records without a shared ID?",
+      "a": "Yes, if the available fields support useful matching. I can normalize agreed fields and suggest similar candidates. Ambiguous results are flagged for your review. Similarity does not establish identity, and no match rate is guaranteed."
+    },
+    {
+      "q": "Will you merge uncertain records or fill missing details?",
+      "a": "I apply agreed duplicate and matching rules. Uncertain matches, conflicts, and missing values are flagged, not silently merged or invented. I spot-check up to 50 records or pairs; exhaustive manual review and external enrichment are separate."
+    },
+    {
+      "q": "Can I send Excel files or request a database import?",
+      "a": "This package uses CSV inputs and outputs. Export the relevant Excel sheets as CSV first. Formulas, macros, workbook formatting, PDFs, live database changes, and CRM imports need separate scope."
+    },
+    {
+      "q": "What do I receive, and what does the revision cover?",
+      "a": "Cleaned CSVs, a matching report, exceptions, a quality summary, and a Python script with instructions. One revision covers the agreed rules on the same files. New data, changed schemas, extra rules, or an ongoing pipeline need separate scope."
+    }
+  ],
+  "sources": [
+    [
+      "Upwork Data Entry & Cleaning category",
+      "https://www.upwork.com/services/data-analysis-reports/data-entry-cleaning"
+    ],
+    [
+      "pandas CSV parsing and data types",
+      "https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html"
+    ],
+    [
+      "pandas merge indicators and validation",
+      "https://pandas.pydata.org/docs/reference/api/pandas.merge.html"
+    ]
+  ],
+  "gallery": {
+    "cover": "csv-cleanup-record-matching-cover.png",
+    "video": "Leave blank for now.",
+    "documents": "Leave blank for now."
+  }
+}
+

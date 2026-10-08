@@ -1,0 +1,135 @@
+{
+  "key": "web-app-deployment",
+  "name": "Web App Deployment",
+  "title": "your web app deployed with a custom domain and launch checks",
+  "category": "Development & IT > Support & IT",
+  "categoryNote": "Choose Support & IT directly under Development & IT. Select Cloud Services in the project attributes. Cloud Services is an attribute, not necessarily another category step.",
+  "attributes": {
+    "Support & IT Services": "Cloud Services",
+    "Device": "Server/Hosting",
+    "Operating System": "Linux/Unix",
+    "Cloud Platforms": "Other, unless Render or Vercel appears explicitly. Do not select AWS, Azure or Google Cloud merely because a host uses their infrastructure."
+  },
+  "tags": [
+    "Web App Deployment",
+    "Render",
+    "Vercel",
+    "Cloud Deployment",
+    "DNS"
+  ],
+  "tier": "Web App Launch",
+  "tierDescription": "One app deployed with domain, HTTPS, configuration, flow checks and handoff.",
+  "price": 600,
+  "days": 5,
+  "revisions": 1,
+  "pricingFields": {
+    "Documentation": "Checked",
+    "Remote Connection Support": "Unchecked. Work uses invited repository and hosting access, not remote desktop support.",
+    "Source Code, if shown": "Checked; configuration changes and scripts are included."
+  },
+  "addons": "None.",
+  "scope": [
+    "One existing, functional application from one repository, deployed into one environment on either Render or Vercel.",
+    "Up to one frontend and one Node.js or Python backend, where supported by the selected host. A combined application also qualifies. Compatibility is confirmed before ordering.",
+    "Build/start configuration, environment variables, platform Git deployment configuration, and deployment-specific settings such as allowed origins or callback URLs.",
+    "Connection to one existing, reachable database, with the required schema already in place. No new database provisioning, data movement, or schema migration.",
+    "One client-owned domain with up to two application hostnames, such as www and api, DNS configuration and managed HTTPS. No email DNS changes.",
+    "Verification of up to three agreed existing user flows, relevant logs, route refreshes, and frontend/backend connectivity.",
+    "Working public URL, configuration changes, a list of required environment-variable names without secret values, verification notes, and deployment/code-rollback instructions.",
+    "One revision to the agreed deployment configuration and handoff.",
+    "Application must already run and build with supplied instructions. Configuration-related deployment fixes are included; application rewrites, dependency upgrades, new features, and functional bug repairs require separate scope.",
+    "First launch into the chosen environment. Existing live-service migrations, custom CI systems, extra workers/services, database recovery, ongoing monitoring, load testing, and availability guarantees are outside scope.",
+    "Client supplies repository access, a funded hosting account, ready domain/DNS access, required existing services, and test credentials. Client pays hosting, domain and provider charges."
+  ],
+  "gallery": {
+    "cover": "web-app-deployment-cover.png",
+    "video": "Leave blank.",
+    "documents": "Leave blank.",
+    "portfolio": "Agentic and SolPulse. Their shipped web applications support your deployment experience."
+  },
+  "requirements": [
+    {
+      "required": true,
+      "text": "Share repository access, the target branch, stack, and working install/build/start instructions. Describe the frontend, backend, and existing database. Confirm the app runs locally and list any known failures."
+    },
+    {
+      "required": true,
+      "text": "Provide access to a client-owned Render or Vercel account with billing ready, plus permission to connect the repository. If unsure which host fits, share the app architecture before ordering. Invite access instead of sharing account passwords."
+    },
+    {
+      "required": true,
+      "text": "Provide the domain and DNS access, and specify up to 2 application hostnames. Confirm this is a first launch in the chosen environment. Identify any existing website or email records that the setup must preserve."
+    },
+    {
+      "required": true,
+      "text": "List up to 3 existing user flows to verify and provide test-user access. Identify required APIs, an existing database with its schema ready, and environment-variable names. Configure secret values securely through the hosting platform."
+    },
+    {
+      "required": false,
+      "text": "Optional: attach previous deployment errors, logs, or screenshots, with secrets removed. Share any launch date or hosting-budget constraint that could affect the deployment plan."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Check the app and hosting fit",
+      "description": "I reproduce the documented build, review runtime and database requirements, and confirm the deployment layout for the selected host. I identify existing application issues before making hosting changes."
+    },
+    {
+      "title": "Configure and deploy the application",
+      "description": "I configure the build, start command, environment, repository connection, and existing database access. I deploy the application and check the temporary hosting URL before connecting the custom domain."
+    },
+    {
+      "title": "Connect the domain and verify key flows",
+      "description": "I configure the agreed DNS records and HTTPS, then check up to 3 existing user flows, route refreshes, API connectivity, and relevant logs. I document the observed results and any hosting-plan limitations."
+    },
+    {
+      "title": "Deliver the launch handoff",
+      "description": "You receive the working URL, configuration changes, verification notes, and instructions for redeployment and code rollback. One revision to the agreed deployment configuration or handoff is included."
+    }
+  ],
+  "summary": "Move your working web app from a local machine to a public URL your users can access.\n\nI deploy existing React, Next.js, Node.js, or Python applications to Render or Vercel, with the host chosen to fit your app.\n\nIncluded:\n- One app from one repository, in one environment\n- Up to one frontend and one compatible backend\n- Build/start settings, environment variables, and Git deployment setup\n- Connection to one existing database\n- One domain with up to 2 app hostnames and HTTPS\n- Checks of up to 3 agreed user flows, API connectivity, and logs\n- Configuration changes, launch notes, and code-rollback instructions\n- One revision\n\nI built and launched Agentic and SolPulse across web and mobile, owning backend services, frontend integration, and release workflows.\n\nYour app must already run and build. Deployment configuration fixes are included. App rewrites, new features, database creation or migration, extra services, and ongoing monitoring need separate scope. You pay hosting and domain fees.\n\nSend your stack, repository details, and hosting needs before ordering so I can confirm the fit.",
+  "faqs": [
+    {
+      "q": "What apps and hosting platforms do you support?",
+      "a": "Existing React, Next.js, Node.js, or Python apps that fit Render or Vercel. One repository, one environment, up to one frontend and one backend. I confirm runtime compatibility before ordering; dedicated servers and other hosts need separate scope."
+    },
+    {
+      "q": "What if my app does not build or has bugs?",
+      "a": "The package assumes a working app and reproducible build. I fix deployment settings such as build commands, environment variables, ports, origins, and callback URLs. App logic fixes, rewrites, or major dependency upgrades need separate scope."
+    },
+    {
+      "q": "Are hosting, a domain, and database setup included?",
+      "a": "You provide and pay for hosting and the domain. I configure one domain and connect one existing database with its schema ready. Database provisioning, migration, backups, recovery, and additional services need separate scope."
+    },
+    {
+      "q": "Will I own the deployment and configuration?",
+      "a": "Yes. The app stays in your repository and hosting account. I work through invited access and provide configuration changes, verification notes, and redeployment instructions. Keep secret values in the hosting platform, not in the source code."
+    },
+    {
+      "q": "What do the revision and rollback instructions cover?",
+      "a": "One revision covers the agreed hosting configuration or handoff. Rollback notes explain how to redeploy a previous code version once one exists; they do not restore database data. Ongoing support and additional environments need separate scope."
+    }
+  ],
+  "review": [
+    "Maximum simultaneous projects: 1.",
+    "One tier: $600, 5 days, 1 revision.",
+    "Documentation checked; Remote Connection Support unchecked.",
+    "Confirm the app/repository/environment limits, existing database requirement, and client-paid hosting.",
+    "The public URL and agreed flow checks are the deliverable; this does not promise unrestricted production readiness or uptime."
+  ],
+  "sources": [
+    [
+      "Support & IT / Cloud Services category and attribute",
+      "https://www.upwork.com/services/support-it/get/cloud-services"
+    ],
+    [
+      "Render deployment documentation",
+      "https://render.com/docs/deploys"
+    ],
+    [
+      "Vercel deployment promotion documentation",
+      "https://vercel.com/docs/deployments/promoting-a-deployment"
+    ]
+  ]
+}
+

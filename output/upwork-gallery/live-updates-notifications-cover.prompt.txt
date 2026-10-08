@@ -1,0 +1,9 @@
+Use case: ads-marketing
+Asset type: Upwork Project Catalog service cover. One finished landscape PNG, requested dimensions 1448 x 1086 pixels, 4:3 aspect ratio.
+Primary request: Original polished software/data service artwork in an established portfolio family: charcoal-black background, emerald-teal highlights, large white text at left, sophisticated 3D interface illustration at right.
+Style: Crisp editorial typography and high-end 3D product illustration. Credible, restrained, professional. Soft emerald rim light, matte dark metal, translucent charcoal glass. Subtle floor reflection and generous negative space.
+Composition: Left about 45 percent is the title, right about 50 percent is the illustration. Generous safe margins, no cropped or overlapping words. Big bold modern sans-serif title in exactly two lines, smaller emerald subtitle beneath. The title must stay legible at thumbnail size.
+Constraints: Only the exact title and subtitle below may be readable. Abstract UI rows and cells contain bars and shapes, not tiny fake words or real personal data. Original conceptual artwork, no claimed client screenshot. No company/provider logos, Upwork marks, contact information, URLs, watermarks, prices, review stars, performance numbers, certification badges, or guarantees. No generic robots.
+Subject: On the right, a polished floating web application panel with an abstract job-status list and three thin progress indicators. A small in-app notification card with a simple unbranded bell icon floats just in front of the panel. Subtle emerald signal paths connect a compact server/event tile to the browser view. Show live changes inside an open web app, not email, SMS, or phone push. Add a tasteful small connection-status dot. No phone, no inbox full of messages, no numbers.
+Text (verbatim): First title line "Live Updates"; second title line "& Alerts". Subtitle "Connect. Update. Notify."
+

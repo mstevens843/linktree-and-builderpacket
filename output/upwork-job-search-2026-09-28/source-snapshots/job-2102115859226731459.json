@@ -1,0 +1,114 @@
+{
+  "url": "https://www.upwork.com/jobs/Senior-Engineer-for-SaaS-Platform_~022102115859226731459/?referrer_url_path=%2Fnx%2Fsearch%2Fjobs",
+  "title": "Senior QA Engineer for SaaS Platform - QA Testing",
+  "text": "Search\nHome\n9+\nNotifications\nOpportunities\nContracts\nFinances\nMessages\nUma\nHelp\nSenior QA Engineer for SaaS Platform - QA Testing\nSenior QA Engineer for SaaS Platform\nPosted last week\n\nOnly freelancers located in the U.S. may apply.\n\nSend a proposal for: 15 Connects\nAvailable Connects: 114\nSummary\n\nSenior QA Engineer \u2014 Independent Final Pre-Launch QA for SaaS Platform\n\nProject Overview\nI am preparing to launch Prism Cyber Core, a commercial privacy-first SaaS platform with web and mobile components. The application has undergone extensive internal development, automated testing, regression testing, security review, and pre-launch QA.\n\nI am now looking for an experienced independent QA engineer to perform a final pre-launch assessment from the perspective of a real customer. The objective is not to redesign the product or provide general development consulting. I want an independent tester to attempt to break the complete customer experience, identify genuine defects, and determine whether there are any material release risks that internal testing has missed.\n\nScope of Testing\nTesting should cover the public website and application, account creation and authentication, login/logout/session behavior, navigation and links, privacy/scanning functionality, plan/tier behavior, forms and validation, error handling, responsive behavior, downloads where applicable, and general usability.\n\nNote: Prism utilizes a local-first browser scanning architecture; testing should verify that local privacy boundaries are maintained during standard operations.\n\nA particularly important part of this engagement is testing the complete subscription and entitlement workflow:\nPlan selection \u2192 Lemon Squeezy checkout \u2192 successful payment \u2192 webhook processing \u2192 Prism account/subscription state \u2192 correct entitlement \u2192 correct product/software access.\n\nTesting should include successful transactions as well as reasonable failure and edge cases, including canceled checkout, cancellation, duplicate actions/events, failed or delayed processing, incorrect/stale entitlement state, and upgrade/downgrade behavior where applicable.\n\nThe tester should also examine relevant API/network behavior where useful and verify that obvious authorization or entitlement problems are not exposed through the user interface.\n\nTesting must cover the web application alongside native mobile experiences (iOS via TestFlight/simulators and Android via emulators/internal testing tracks utilizing Expo mobile components), ensuring seamless cross-platform account and entitlement consistency. Applicants must have their own active access to iOS TestFlight environments, physical devices, or simulators/emulators ready on hand to perform independent mobile verification without setup assistance.\n\nPlease perform exploratory, functional, end-to-end, regression, and smoke testing rather than simply following a supplied happy-path script.\n\nRequired Experience\nI am looking for someone with substantial professional QA experience involving commercial SaaS/web applications, end-to-end testing, authentication/account systems, API testing, webhooks or third-party integrations, subscription/payment systems, cross-browser/device testing, regression testing, and professional defect documentation.\n\nExperience with Postman or equivalent API testing tools is strongly preferred. Experience testing Lemon Squeezy is particularly desirable, although strong experience with Stripe or comparable subscription/payment systems is acceptable.\n\nThis is not an entry-level website-testing assignment. I am specifically looking for someone capable of independently investigating failures across a multi-step SaaS architecture.\n\nDeliverables\nAt completion, I need a concise test plan/coverage report plus a documented defect list. Each defect should include severity/priority, affected platform/device/browser, exact reproduction steps, expected behavior, actual behavior, screenshots or video where useful, reproducibility, and retest status after any fixes.\n\nI also want a final release-risk summary identifying any issues the tester believes should block launch, issues that can reasonably be addressed after launch, and areas successfully tested with no material defects discovered.\n\nPlease do not make production changes directly. All testing should be performed against designated staging/test environments and test stores (utilizing Lemon Squeezy test mode). Findings should be documented and returned to me for review and remediation.\n\nEstimated Engagement: Approximately 8\u201312 focused QA hours.\n\nWhen Applying\nPlease briefly describe a recent SaaS product you independently tested prior to release, your experience testing subscription/payment and webhook-based systems, the devices/browsers you can test, and the tools you normally use for API/network testing.\n\nPlease also answer this screening question:\n\u201cHow would you test a payment \u2192 webhook \u2192 account-entitlement workflow to determine whether a customer who successfully pays actually receives the correct product access?\u201d\n\nFeatured Job\nLess than 30 hrs/week\nHourly\n1-3 months\nDuration\nExpert\nExperience Level\n\n$40.00\n\n-\n\n$75.00\n\nHourly\nProject Type:Ongoing project\n\nYou will be asked to answer the following questions when submitting a proposal:\n\nPlease briefly describe a recent SaaS product you independently tested prior to release, your experience testing subscription/payment and webhook-based systems, the devices/browsers you can test, and the tools you normally use for API/network testing.\nWhat is your exact workflow for inspecting API responses and verifying client-side entitlement states during a pre-launch test?\nDescribe your recent experience with similar projects\nPlease list any certifications related to this project\nInclude a link to your GitHub profile and/or website\nSkills and Expertise\nWeb Testing\nTestFlight\nExpo.io\nrevenue cat\nPreferred qualifications\nTalent Type:\nIndependent\nActivity on this job\nProposals:\n15 to 20\nLast viewed by client:\nyesterday\nInterviewing:\n1\nInvites sent:\n0\nUnanswered invites:\n0\nBid range - High $150.00 | Avg $67.75 | Low $34.00\nAbout the client\nPayment method verified\nPhone number verified\nUnited States\nPortsmouth4:48 AM\n2 jobs posted\n0% hire rate, 1 open job\nMember since Sep 20, 2026\nFlag as inappropriate\nApply now\nSave job\nFooter navigation\n\u00a9 2015 - 2026 Upwork\u00ae Global LLC\nTerms\nPrivacy\nYour Privacy Choices\nCalifornia Consumer Privacy Act (CCPA) Opt-Out",
+  "links": [
+    {
+      "text": "Home",
+      "href": "https://www.upwork.com/nx/find-work"
+    },
+    {
+      "text": "Messages",
+      "href": "https://www.upwork.com/ab/messages/rooms/"
+    },
+    {
+      "text": "Uma",
+      "href": "https://www.upwork.com/apps/uma"
+    },
+    {
+      "text": "Web Testing",
+      "href": "https://www.upwork.com/nx/search/jobs/?ontology_skill_uid=1031626795412602880"
+    },
+    {
+      "text": "TestFlight",
+      "href": "https://www.upwork.com/nx/search/jobs/?ontology_skill_uid=1484275080512589824"
+    },
+    {
+      "text": "Expo.io",
+      "href": "https://www.upwork.com/nx/search/jobs/?ontology_skill_uid=1192876971608522752"
+    },
+    {
+      "text": "Learn how this affects your payment protection.",
+      "href": "https://support.upwork.com/hc/en-us/articles/211063098-Unverified-Billing-Methods"
+    },
+    {
+      "text": "Terms",
+      "href": "https://www.upwork.com/legal"
+    },
+    {
+      "text": "Privacy",
+      "href": "https://privacy.upwork.com/"
+    },
+    {
+      "text": "Your Privacy Choices\nCalifornia Consumer Privacy Act (CCPA) Opt-Out",
+      "href": "javascript:"
+    }
+  ],
+  "buttons": [
+    {
+      "text": "",
+      "label": "Expand"
+    },
+    {
+      "text": "Search",
+      "label": null
+    },
+    {
+      "text": "9+\nNotifications",
+      "label": "notifications, 29 unread"
+    },
+    {
+      "text": "Opportunities",
+      "label": null
+    },
+    {
+      "text": "Contracts",
+      "label": null
+    },
+    {
+      "text": "Finances",
+      "label": null
+    },
+    {
+      "text": "Help",
+      "label": null
+    },
+    {
+      "text": "",
+      "label": "Toggle sidebar"
+    },
+    {
+      "text": "Close the tooltip",
+      "label": null
+    },
+    {
+      "text": "Close the tooltip",
+      "label": null
+    },
+    {
+      "text": "Close the tooltip",
+      "label": null
+    },
+    {
+      "text": "Close the tooltip",
+      "label": null
+    },
+    {
+      "text": "Flag as inappropriate",
+      "label": null
+    },
+    {
+      "text": "Apply now",
+      "label": "Apply now"
+    },
+    {
+      "text": "Close the tooltip",
+      "label": null
+    },
+    {
+      "text": "Save job",
+      "label": null
+    }
+  ],
+  "observed_at": "2026-09-28 01:48:20 -0700"
+}

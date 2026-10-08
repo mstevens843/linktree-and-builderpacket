@@ -1,0 +1,208 @@
+# API Integration
+
+Prepared September 27, 2026. Draft for manual entry into Upwork. Proposed package price; no marketplace performance guarantee.
+
+## Overview
+
+Title (Upwork supplies "You will get"):
+```text
+a tested API integration connecting your app to an external service
+```
+
+Recommended category: Development & IT > Web Programming
+
+Choose API Integration if the editor offers that subcategory. Web Programming is confirmed as an available category; its current leaf options have not been shown. Use the API-focused option rather than promising website design.
+
+Attributes when those fields appear:
+- **Programming Languages:** TypeScript, JavaScript, Python
+- **Coding Expertise:** Security only, for credential handling and input validation. No security audit is included.
+
+Search tags:
+- API Integration
+- RESTful API
+- Backend Development
+- Node.js
+- Python
+
+## Pricing
+
+3 Tiers: OFF.
+Custom title: One API Integration
+
+Custom description:
+```text
+One app, one REST API, up to 3 endpoints, automated checks and handoff notes.
+```
+
+- Price: $750
+- Delivery days: 5
+- Revisions: 1
+- Number of Pages, if shown: 0, or leave blank if optional; no new page is included
+- Source Code: Checked
+- Design Customization: Unchecked
+- Content Upload: Unchecked
+- Responsive Design: Unchecked
+
+Add-ons: None.
+
+## Scope and acceptance
+
+- Integrate one documented external REST/JSON API into one working Node.js/TypeScript/JavaScript or Python application repository, for one agreed business workflow.
+- Up to three endpoint operations. One operation means one HTTP method plus path; extra entities, independent workflows, or distinct versions add scope. One provider account and one environment.
+- One existing API-key or service-token authentication method. Provider account approval, OAuth consent/refresh flows, new identity systems, and provider-side access approvals are separate.
+- Map requests and responses, validate input, configure credentials outside source/browser code, apply request timeouts, and handle agreed error/status responses. Retry only where the operation/provider supports safe repetition.
+- Wire the integration into one existing backend route, handler, or service workflow. Existing UI may call that route without a redesign; a new frontend, database schema, or backend platform is not included.
+- Add at least six automated success/error checks with fixtures or mocks, plus one verified end-to-end run in an accessible sandbox/staging environment. Simulate non-reproducible failures and label them as such.
+- Deliver code in the client repository, a secret-free configuration template, request/response examples, test results, and setup/maintenance notes. One revision corrects the agreed connection and field mapping.
+- Provider fees, hosting, production deployment, webhooks, scheduled/two-way synchronization, bulk migration, full billing flows, financial transactions, and ongoing maintenance require separate scope.
+- Client supplies a working app, API documentation, test/sandbox access, examples, and repository permissions before delivery work begins.
+- Acceptance: the agreed app workflow calls the selected API operations, maps the documented fields, returns agreed outcomes, handles tested errors, and can be configured from the handoff notes.
+
+## Gallery
+
+Upload [api-integration-cover.png](api-integration-cover.png) and set it as project cover.
+
+Video: Leave blank for now.
+Sample documents: Leave blank for now.
+
+## Client requirements
+
+Add each as a separate requirement. Check 'Client needs to answer before I can start working' for every requirement below.
+
+**Requirement 1**
+
+```text
+Share the app repository, stack, working setup instructions, and test/staging environment. Identify the existing route, handler, or workflow where the API connection belongs. Confirm the app already runs.
+```
+
+**Requirement 2**
+
+```text
+Provide the API documentation and up to 3 endpoint operations, including HTTP method and path. Describe one business workflow and the fields to send or receive. Include sample requests, responses, and expected outcomes.
+```
+
+**Requirement 3**
+
+```text
+Arrange secure access to one provider test account using an API key or service token. Do not paste secrets here. Confirm sandbox availability, permissions, quotas, and any provider approvals are ready.
+```
+
+**Requirement 4**
+
+```text
+Define expected behavior for missing data, invalid input, timeouts, and rate limits. Identify any operation that creates or changes records and its duplicate-handling rules. Provide representative test data and safe test actions.
+```
+
+## Project steps
+
+**Step 1 title**
+```text
+Map the app workflow to the API
+```
+
+Description:
+```text
+I review the working app, API docs, authentication, and test access. I define up to 3 endpoint operations, field mappings, expected results, and failure behavior for one agreed workflow.
+```
+
+**Step 2 title**
+```text
+Implement the connection and error handling
+```
+
+Description:
+```text
+I connect the API to the existing app workflow, configure credentials, map data, and add validation, timeouts, and error handling. Retry behavior follows the provider's rules and the safety of each operation.
+```
+
+**Step 3 title**
+```text
+Verify success and failure cases
+```
+
+Description:
+```text
+I add at least 6 automated checks and verify the agreed workflow against the provider's test environment. I cover relevant response errors and document which scenarios use mocks or fixtures.
+```
+
+**Step 4 title**
+```text
+Deliver code and maintenance notes
+```
+
+Description:
+```text
+I deliver the source changes, configuration template, request examples, test results, and setup notes. One revision covers the agreed endpoints and field mappings. Additional providers or workflows need separate scope.
+```
+
+## Project summary
+
+```text
+Connect your existing app to an external service with a tested API integration your team can maintain.
+
+This package covers one working Node.js or Python app, one documented REST/JSON API, and up to 3 endpoint operations for one business workflow.
+
+Included:
+- One existing API-key or service-token connection
+- Request/response mapping and input validation
+- Timeouts, clear error handling, and safe retry behavior
+- Connection to one existing app route or workflow
+- At least 6 automated checks and a sandbox/staging verification
+- Source code, configuration examples, handoff notes, and 1 revision
+
+My Agentic and SolPulse work includes backend services, external integrations, and live data flows.
+
+You provide a working app, API docs, repository access, and ready test credentials. Provider and hosting fees are yours.
+
+New frontends, OAuth flows, webhooks, ongoing synchronization, full billing systems, migrations, and production deployment need separate scope.
+
+Send your app stack, API docs, and the outcome you need before ordering. I will confirm the endpoints and access fit this package.
+```
+
+## FAQs
+
+**What counts as one API integration?**
+
+```text
+One external provider connected to one existing app workflow, using up to 3 HTTP method/path combinations. Examples include fetching a status or creating a test record. Additional providers, independent workflows, or migrations need separate scope.
+```
+
+**Which apps and APIs fit this package?**
+
+```text
+Working Node.js/TypeScript/JavaScript or Python apps and documented REST/JSON APIs with ready API-key or service-token access. Share docs before ordering. OAuth, SOAP, GraphQL, and provider approval work need separate scope.
+```
+
+**Are webhooks, payments, or data sync included?**
+
+```text
+Those need separate scope. This package covers a bounded API connection, not a full payment lifecycle, recurring sync service, or webhook delivery system. We agree on the business workflow and safe test actions before starting.
+```
+
+**How do you test the integration?**
+
+```text
+I add at least 6 automated success/error checks and verify the workflow in a sandbox or staging environment. Failures that cannot be safely triggered use mocks or fixtures. I document results, known limits, and configuration.
+```
+
+**What do I receive, and what does the revision cover?**
+
+```text
+Source changes, configuration examples, request/response samples, test results, and handoff notes. One revision covers the agreed endpoints and field mapping. New features, extra providers, production hosting, and ongoing support are separate.
+```
+
+## Finalize
+
+Maximum simultaneous projects: 1. This limit is per listing, not across the account.
+
+Confirm the category-specific checkboxes match this scope. Only complete copyright and other declarations that are true.
+
+## Asset record
+
+Cover: api-integration-cover.png. Exact prompt: [api-integration-cover.prompt.txt](api-integration-cover.prompt.txt). Built-in image generation used.
+
+## Sources checked
+
+- [Upwork Web Programming](https://www.upwork.com/services/web-programming)
+- [Provider-specific example of idempotency semantics](https://docs.stripe.com/api/idempotent_requests)
+

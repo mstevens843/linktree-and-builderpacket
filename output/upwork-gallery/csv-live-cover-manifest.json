@@ -1,0 +1,30 @@
+[
+  {
+    "key": "csv-cleanup-record-matching",
+    "cover": "/Users/devlegacy/Desktop/resume/linktree-and-builderpacket/output/upwork-gallery/csv-cleanup-record-matching-cover.png",
+    "source": "/Users/devlegacy/.codex/generated_images/01a0df64-5138-73e0-80af-b154bf2cfb01/exec-92180c89-5316-43d5-adfb-083ab06b0ecd.png",
+    "dimensions": [
+      1448,
+      1086
+    ],
+    "bytes": 1496473,
+    "sha256": "c65a257c7ca7c6fb1f77eea5d6d07f95b60b353de50bf7e908f6b17d1690f6dc",
+    "mode": "new image generation",
+    "prompt": "/Users/devlegacy/Desktop/resume/linktree-and-builderpacket/output/upwork-gallery/csv-cleanup-record-matching-cover.prompt.txt",
+    "visual_review": "passed: correct title and subtitle, clear illustrative graphic, no unsubstantiated metrics"
+  },
+  {
+    "key": "live-updates-notifications",
+    "cover": "/Users/devlegacy/Desktop/resume/linktree-and-builderpacket/output/upwork-gallery/live-updates-notifications-cover.png",
+    "source": "/Users/devlegacy/.codex/generated_images/01a0df64-5138-73e0-80af-b154bf2cfb01/exec-e5f8ac0a-ed3a-4fdd-a80d-dee2f72db394.png",
+    "dimensions": [
+      1447,
+      1087
+    ],
+    "bytes": 1399397,
+    "sha256": "fd1b34cbb0b717f99bad5b7c39f021e22bdae812bcf7ed5f6921e6c10659dbfb",
+    "mode": "new image generation",
+    "prompt": "/Users/devlegacy/Desktop/resume/linktree-and-builderpacket/output/upwork-gallery/live-updates-notifications-cover.prompt.txt",
+    "visual_review": "passed: correct title and subtitle, clear illustrative graphic, no unsubstantiated metrics"
+  }
+]

@@ -1,0 +1,207 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>AI Edits by Matt — Make it your moment.</title>
+  <meta name="description" content="Custom AI video edits by Matt. A $50 edit, paid in two steps: $25 to start your agreed project and $25 after you approve your preview.">
+  <meta name="theme-color" content="#f1efe7">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="AI Edits by Matt — Make it your moment.">
+  <meta property="og:description" content="Custom AI video edits. $25 to start. $25 after preview approval.">
+  <link rel="icon" type="image/svg+xml" href="./favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;650;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+  <script src="./payment-config.js" defer></script>
+  <script src="./script.js" defer></script>
+  <script src="./request.js" defer></script>
+</head>
+<body>
+  <div class="page-shell">
+    <header class="masthead">
+      <a class="wordmark" href="./" aria-label="AI Edits by Matt home">
+        <svg viewBox="0 0 36 36" aria-hidden="true"><path d="M18 0 22.2 13.8 36 18 22.2 22.2 18 36 13.8 22.2 0 18 13.8 13.8Z"/></svg>
+        <span>matt<span class="wordmark-period">.</span><span class="wordmark-label">AI EDITS</span></span>
+      </a>
+      <a class="creator-link" href="https://www.tiktok.com/@mattsoicy" target="_blank" rel="noopener noreferrer">@mattsoicy <span aria-hidden="true">↗</span></a>
+    </header>
+
+    <main>
+      <section class="hero" aria-labelledby="page-title">
+        <div class="eyebrow"><span class="mini-frame" aria-hidden="true"></span> YOUR PHOTOS. A NEW SCENE.</div>
+        <h1 id="page-title">Make it <span class="headline-accent">your</span><br>moment<span class="headline-dot">.</span></h1>
+        <p class="intro">Custom AI video edits, made by Matt.<br>A little unreal. Completely you.</p>
+        <div class="price-chip"><span>ONE CUSTOM EDIT</span><span class="chip-divider" aria-hidden="true"></span><strong>$50 total</strong></div>
+        <div class="contact-links" aria-label="Contact Matt">
+          <a href="mailto:mathew@solpulse.trade"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="3"/><path d="m4 7 8 6 8-6"/></svg><span>mathew@solpulse.trade</span></a>
+          <a href="https://www.instagram.com/mathewstevens_/" target="_blank" rel="noopener noreferrer"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/></svg><span>@mathewstevens_</span></a>
+        </div>
+      </section>
+
+      <section class="checkout" aria-label="Request and pay for your AI edit">
+        <div class="checkout-topline"><span class="checkout-eyebrow">YOUR EDIT STARTS HERE</span><span class="checkout-number" aria-hidden="true">01 / 02</span></div>
+        <div class="payment-tabs" role="tablist" aria-label="Pay or request an edit">
+          <button type="button" id="deposit-tab" class="payment-tab" role="tab" aria-selected="true" aria-controls="payment-panel" tabindex="0" data-stage="deposit"><span>01</span> Pay deposit</button>
+          <button type="button" id="final-tab" class="payment-tab" role="tab" aria-selected="false" aria-controls="payment-panel" tabindex="-1" data-stage="final"><span>02</span> Pay final</button>
+          <button type="button" id="request-tab" class="payment-tab request-tab" role="tab" aria-selected="false" aria-controls="request-panel" tabindex="-1" data-stage="request"><svg viewBox="0 0 20 20" fill="none" aria-hidden="true"><path d="M10 4v12M4 10h12"/></svg> Request an AI edit</button>
+        </div>
+
+        <div id="payment-panel" role="tabpanel" aria-labelledby="deposit-tab">
+          <div class="payment-summary" aria-live="polite" aria-atomic="true">
+            <div><p id="stage-label" class="stage-label">LET’S GET STARTED</p><h2 id="checkout-title">Your deposit.</h2></div>
+            <div class="amount"><span class="currency">$</span>25<span class="currency-code">USD</span></div>
+          </div>
+          <p id="stage-description" class="stage-description">The first half of your $50 edit. Pay after we’ve agreed on your scene and delivery date.</p>
+          <p id="deposit-turnaround" class="turnaround-note"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg><span>Estimated turnaround: <strong>3–5 days</strong> after your deposit is received.</span></p>
+
+          <form id="payment-form" action="https://formsubmit.co/mathew@solpulse.trade" method="POST">
+            <fieldset class="payment-providers">
+              <legend>Choose how to pay</legend>
+              <div class="photo-methods" role="radiogroup" aria-label="Payment method">
+                <label><input type="radio" name="Payment_provider" value="cashapp" checked><span>Cash App</span></label>
+                <label><input type="radio" name="Payment_provider" value="square"><span>Card · Square</span></label>
+              </div>
+            </fieldset>
+            <div id="square-info" class="square-info" hidden>
+              <strong>Secure checkout with Square</strong>
+              <p id="square-details">Enter the name or username from your request at checkout. Square collects your contact details and sends your receipt.</p>
+              <span>Cards · Apple Pay · Google Pay</span>
+            </div>
+            <input type="hidden" name="_subject" id="payment-email-subject" value="[AI Edits] Deposit reported — verify in Cash App">
+            <input type="hidden" name="_template" value="table">
+            <input type="hidden" name="_next" id="payment-return-url">
+            <input type="hidden" name="_url" id="payment-source-url">
+            <input type="hidden" name="Payment_stage" id="payment-stage-value" value="Deposit">
+            <input type="hidden" name="Reported_amount_USD" value="25">
+            <input type="hidden" name="Payment_recipient" id="payment-recipient-value">
+            <input type="hidden" name="Payment_status" value="Customer reports payment sent. NOT verified. Check the actual Cash App receipt before starting work or delivering files.">
+            <input type="hidden" name="Payment_note" id="payment-note-value">
+            <div class="honeypot" aria-hidden="true"><label for="payment-website">Leave this empty</label><input id="payment-website" name="_honey" type="text" tabindex="-1" autocomplete="off"></div>
+            <div class="cashapp-only">
+            <label class="input-label" for="tiktok-handle">Your TikTok username</label>
+            <div class="input-wrap"><span aria-hidden="true">@</span><input id="tiktok-handle" name="username" type="text" autocomplete="off" autocapitalize="none" spellcheck="false" maxlength="25" placeholder="yourusername" required aria-describedby="handle-help" pattern="@?[A-Za-z0-9._]{1,24}"></div>
+            <p id="handle-help" class="input-help">So I can match your payment to your edit.</p>
+
+            <fieldset id="delivery-fields" class="delivery-fields" hidden disabled>
+              <legend>Where should I send your video?</legend>
+              <div class="photo-methods delivery-methods" role="radiogroup" aria-label="Video delivery method">
+                <label><input type="radio" name="Delivery_method" value="Google Drive" checked><span>Google Drive</span></label>
+                <label><input type="radio" name="Delivery_method" value="Dropbox link"><span>Dropbox</span></label>
+              </div>
+              <div class="request-field">
+                <label id="delivery-email-label" for="delivery-email">Google account email</label>
+                <div class="contact-input-wrap"><svg class="contact-input-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="3"/><path d="m4 7 8 6 8-6"/></svg><input id="delivery-email" name="email" type="email" inputmode="email" autocomplete="email" autocapitalize="none" spellcheck="false" maxlength="254" placeholder="you@gmail.com" aria-describedby="delivery-email-help" required></div>
+                <p id="delivery-email-help" class="field-help">Use the email you sign in to Google Drive with. It doesn’t have to be a Gmail address.</p>
+              </div>
+              <p class="delivery-note">I’ll send your finished video after I confirm your final payment. Submit the payment notice below so I receive these details.</p>
+            </fieldset>
+
+            <div class="payment-note">
+              <div><span class="note-label">ADD THIS NOTE IN CASH APP</span><p id="payment-note">AI edit deposit · @yourusername</p></div>
+              <button type="button" id="copy-note" class="copy-button" aria-label="Copy payment note"><svg viewBox="0 0 20 20" fill="none" aria-hidden="true"><rect x="7" y="7" width="9" height="10" rx="2"/><path d="M5 13H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h7a2 2 0 0 1 2 2v1"/></svg><span id="copy-label">Copy</span></button>
+            </div>
+            </div>
+
+            <label class="agreement"><input type="checkbox" id="agreement" required><span id="agreement-label">Matt and I have confirmed my edit and delivery date.</span></label>
+
+            <button class="pay-button" type="button" id="pay-button" disabled aria-describedby="cashapp-return-help"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M14.9 6.3c-.8-.7-1.7-1-2.9-1-2.1 0-3.5 1.1-3.5 2.8 0 3.5 7 1.6 7 5.5 0 1.8-1.5 3.1-3.7 3.1-1.4 0-2.7-.5-3.8-1.6M13.5 2.5l-3 18"/></svg><span id="pay-button-label">Pay $25 with Cash App</span><span class="button-arrow" aria-hidden="true">↗</span></button>
+            <p id="payment-availability" class="payment-availability" role="status">Payments open soon. Please check back before paying.</p>
+            <p id="payment-recipient" class="recipient" hidden></p>
+            <p class="checkout-footnote cashapp-only">Enter $25 and add the note above in Cash App.<br>Review the recipient before confirming your payment.</p>
+            <p id="cashapp-return-help" class="cashapp-return-help">Keep this page open. After paying in Cash App, come back and notify me below.</p>
+            <p id="form-status" class="form-status" role="status" aria-live="polite"></p>
+
+            <section class="payment-notice cashapp-only" aria-labelledby="payment-notice-title">
+              <p class="stage-label">AFTER YOU PAY</p>
+              <h3 id="payment-notice-title">Let me know it’s sent.</h3>
+              <p class="notice-intro">Once Cash App shows your payment as completed, send me this notice so I can match it to your edit.</p>
+              <div class="request-field"><label for="cashapp-sender">Your Cash App name or $Cashtag</label><input id="cashapp-sender" name="Cash_App_sender" type="text" autocomplete="off" autocapitalize="none" spellcheck="false" maxlength="100" placeholder="The name shown on your payment" aria-describedby="cashapp-sender-help" required><p id="cashapp-sender-help" class="field-help">Use the sender name or $Cashtag on your Cash App receipt.</p></div>
+              <label class="agreement"><input id="payment-sent" name="Customer_confirmation" type="checkbox" value="I confirm that I completed this payment in Cash App." required><span id="payment-sent-label">I completed my $25 deposit to $mathewstevens in Cash App.</span></label>
+              <button class="pay-button notice-submit" id="notify-payment" type="submit"><span>I’ve paid — notify Matt</span><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="m4 4 17 8-17 8 3-8-3-8ZM7 12h14"/></svg></button>
+              <p class="request-privacy">Your details go to Matt via <a href="https://formsubmit.co/privacy.pdf" target="_blank" rel="noopener noreferrer">FormSubmit</a>. This sends a notice; Matt confirms receipt in Cash App.</p>
+              <p id="payment-notice-status" class="form-status" role="status" aria-live="polite"></p>
+            </section>
+          </form>
+          <p class="new-request-hint">Have an idea? <a href="#request">Request your edit first <span aria-hidden="true">↗</span></a></p>
+        </div>
+
+        <div id="request-panel" role="tabpanel" aria-labelledby="request-tab" hidden>
+          <div class="request-heading"><p class="stage-label">TELL ME WHAT YOU’RE THINKING</p><h2>Let’s make your edit.</h2><p>Send your idea and reference photos. Choose how you’d like me to get back to you about timing and next steps.</p><span class="request-badge">No payment needed to request</span></div>
+          <form id="request-form" action="https://formsubmit.co/mathew@solpulse.trade" method="POST" enctype="multipart/form-data">
+            <input type="hidden" name="_subject" value="[AI Edits] New request — mattsoicy">
+            <input type="hidden" name="_template" value="table">
+            <input type="hidden" name="_next" id="request-return-url">
+            <input type="hidden" name="_url" id="request-source-url">
+            <div class="honeypot" aria-hidden="true"><label for="request-website">Leave this empty</label><input id="request-website" name="_honey" type="text" tabindex="-1" autocomplete="off"></div>
+
+            <fieldset class="request-section"><legend><span>01</span> About you</legend>
+              <div class="request-field"><label for="request-name">Your name <span class="optional">optional</span></label><input id="request-name" name="Name" type="text" autocomplete="given-name" maxlength="100" placeholder="What should I call you?"></div>
+              <div class="request-field">
+                <p id="contact-method-label" class="contact-question">How should I contact you?</p>
+                <div class="contact-methods" role="radiogroup" aria-labelledby="contact-method-label">
+                  <label><input type="radio" name="Reply_via" value="TikTok" checked><span>TikTok</span></label>
+                  <label><input type="radio" name="Reply_via" value="Instagram"><span>Instagram</span></label>
+                  <label><input type="radio" name="Reply_via" value="Email"><span>Email</span></label>
+                </div>
+                <label id="request-contact-label" for="request-contact">TikTok username</label>
+                <div class="contact-input-wrap">
+                  <span id="request-contact-at" class="contact-input-icon" aria-hidden="true">@</span>
+                  <svg id="request-contact-mail" class="contact-input-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true" hidden><rect x="3" y="5" width="18" height="14" rx="3"/><path d="m4 7 8 6 8-6"/></svg>
+                  <input id="request-contact" name="Contact_details" type="text" inputmode="text" autocapitalize="none" autocomplete="off" spellcheck="false" maxlength="25" pattern="@?[A-Za-z0-9._]{1,24}" placeholder="yourusername" aria-describedby="request-contact-help" required>
+                </div>
+                <p id="request-contact-help" class="field-help">I’ll message you on TikTok. Make sure you can receive DMs.</p>
+              </div>
+            </fieldset>
+
+            <fieldset class="request-section"><legend><span>02</span> Choose your scene</legend>
+              <div class="request-field"><label for="request-video">Video link</label><input id="request-video" name="Video_link" type="url" inputmode="url" autocomplete="url" maxlength="2000" placeholder="Paste a TikTok, YouTube, or shared video link" pattern="https?://.+" required><p class="field-help">Link the video you’d like me to work with. Make sure I can open it.</p></div>
+              <div class="field-grid timestamp-fields"><div class="request-field"><label for="request-start">Start timestamp</label><input id="request-start" name="Start_timestamp" type="text" inputmode="text" maxlength="12" placeholder="0:12" aria-describedby="timestamp-help" required></div><div class="request-field"><label for="request-end">End timestamp</label><input id="request-end" name="End_timestamp" type="text" inputmode="text" maxlength="12" placeholder="0:21" aria-describedby="timestamp-help" required></div></div>
+              <p id="timestamp-help" class="field-help">Use minutes:seconds, e.g. 0:12–0:21. Hours:minutes:seconds also works.</p>
+            </fieldset>
+
+            <fieldset class="request-section"><legend><span>03</span> Your reference photos</legend>
+              <p class="section-intro">Send as many clear, good-quality photos as you can: <strong>at least 2 front-facing and 2 side-profile photos.</strong> Good lighting, no heavy filters, and an unobstructed face work best.</p>
+              <div class="photo-methods" role="group" aria-label="How will you share your photos?"><label><input type="radio" name="Photo_delivery" value="Photo uploads" checked><span>Upload photos</span></label><label><input type="radio" name="Photo_delivery" value="Shared folder"><span>Share a folder</span></label></div>
+              <div id="photo-upload-fields">
+                <div class="upload-grid">
+                  <div class="upload-group" data-photo-group="front"><label class="upload-zone" for="front-photos"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="12" cy="8" r="4"/><path d="M4 21v-2a8 8 0 0 1 16 0v2M3 3V1h3M21 3V1h-3"/></svg><strong>Front-facing</strong><span>2 photos minimum</span><span class="upload-add">+ Add photos</span><input id="front-photos" type="file" name="front_photos" accept="image/jpeg,image/png,image/webp,image/heic,image/heif,.heic,.heif" multiple aria-describedby="photo-upload-help"></label><div class="file-list" id="front-file-list" aria-live="polite"></div></div>
+                  <div class="upload-group" data-photo-group="side"><label class="upload-zone" for="side-photos"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M7 21v-5a7 7 0 1 1 11-5l3 3-4 1v3h-5v3"/></svg><strong>Side profile</strong><span>2 photos minimum</span><span class="upload-add">+ Add photos</span><input id="side-photos" type="file" name="side_photos" accept="image/jpeg,image/png,image/webp,image/heic,image/heif,.heic,.heif" multiple aria-describedby="photo-upload-help"></label><div class="file-list" id="side-file-list" aria-live="polite"></div></div>
+                </div>
+                <div class="upload-group wardrobe-group" data-photo-group="wardrobe"><label class="upload-zone wardrobe-zone" for="wardrobe-photos"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="m8 3-6 4 3 5 3-2v11h8V10l3 2 3-5-6-4a4 4 0 0 1-8 0Z"/></svg><span><strong>Wardrobe references <span class="optional">optional</span></strong><span>Have a specific outfit in mind? Add photos.</span></span><span class="upload-add">+</span><input id="wardrobe-photos" type="file" name="wardrobe_photos" accept="image/jpeg,image/png,image/webp,image/heic,image/heif,.heic,.heif" multiple></label><div class="file-list" id="wardrobe-file-list" aria-live="polite"></div></div>
+                <p id="photo-upload-help" class="field-help">JPG, PNG, WebP, or HEIC. Up to 10 MB combined. You can add photos in several batches.</p>
+                <div class="upload-meter"><span id="photo-count">No photos selected</span><span id="photo-size">0 / 10 MB</span></div>
+                <p class="folder-hint">Lots of photos or larger originals? <button type="button" id="use-folder">Share a folder</button> to keep full quality.</p>
+              </div>
+              <div id="photo-folder-fields" hidden><div class="request-field"><label for="photo-folder-link">Photo folder link</label><input id="photo-folder-link" name="Photo_folder_link" type="url" inputmode="url" maxlength="2000" placeholder="Google Drive, Dropbox, or iCloud link" pattern="https?://.+" disabled><p class="field-help">Include at least 2 front-facing and 2 side-profile photos, plus any extras or wardrobe references. Give mathew@solpulse.trade access or use a link I can open.</p></div><label class="agreement"><input id="folder-confirmation" name="Folder_has_required_photos" type="checkbox" value="Yes" disabled><span>The folder includes at least 2 front-facing and 2 side-profile photos.</span></label></div>
+              <p id="photo-error" class="field-error" role="alert" hidden></p>
+            </fieldset>
+
+            <fieldset class="request-section"><legend><span>04</span> Tell me your idea</legend><div class="request-field"><label for="request-brief">What would you like me to make?</label><textarea id="request-brief" name="Creative_brief" rows="5" maxlength="6000" placeholder="Replacing someone in a scene is the most common request. Tell me who you want replaced, the look or outfit you want, and anything else I should know. Other ideas are welcome too." required></textarea><p class="field-help">Be as specific as you like. I’ll confirm what I can do before you pay.</p></div><div class="request-field"><label for="request-deadline">Have a deadline? <span class="optional">optional</span></label><input id="request-deadline" name="Requested_deadline" type="date"><p class="field-help">This is a preference. We’ll agree on the delivery date together.</p></div></fieldset>
+
+            <label class="agreement request-consent"><input type="checkbox" name="Photo_permission" value="Confirmed" required><span>I have permission to use the photos and source material I’m sharing and to request this edit.</span></label>
+            <div class="request-total"><span>Custom AI edit</span><strong>$50 total <span>$25 deposit + $25 after approval</span></strong></div>
+            <button class="pay-button request-submit" id="request-submit" type="submit"><span>Send my edit request</span><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="m4 4 17 8-17 8 3-8-3-8ZM7 12h14"/></svg></button>
+            <p class="request-privacy">Your request and photos go to Matt via <a href="https://formsubmit.co/privacy.pdf" target="_blank" rel="noopener noreferrer">FormSubmit</a>. You may see a spam-prevention check before sending. No payment is taken here.</p>
+            <p id="request-status" class="form-status" role="status" aria-live="polite"></p>
+          </form>
+        </div>
+        <noscript><p class="no-script">Please enable JavaScript to choose a payment stage. Contact Matt before making a payment.</p></noscript>
+      </section>
+
+      <section class="how-it-works" aria-label="How your edit works">
+        <div class="process-step"><span class="step-index">01</span><h3>Plan it.</h3><p>Send your request. Agree on<br> the details and date with Matt.</p></div>
+        <div class="process-step"><span class="step-index">02</span><h3>Preview it.</h3><p>Pay $25 to start.<br> Get your watermarked preview.</p></div>
+        <div class="process-step"><span class="step-index">03</span><h3>Make it yours.</h3><p>Approve it. Pay the final $25.<br> Get your finished video.</p></div>
+      </section>
+
+      <section class="details" aria-label="Before you pay">
+        <details><summary>A couple of things before you pay <span aria-hidden="true">+</span></summary><div class="details-content"><p>Start with an edit request. Confirm the clip length, delivery date, revisions, and cancellation/refund terms with Matt before paying a deposit.</p><p>The total is $50: a $25 deposit and a $25 final payment after preview approval. Only use the final-payment tab when your preview is ready and you’ve approved it.</p><p>Use photos and source material you have permission to use. AI edits are creative interpretations, so results can vary. Matt confirms your payment in Cash App or Square before starting work or sending finished files.</p><p>Questions? Email <a href="mailto:mathew@solpulse.trade">mathew@solpulse.trade</a> or message <a href="https://www.instagram.com/mathewstevens_/" target="_blank" rel="noopener noreferrer">@mathewstevens_ on Instagram</a>.</p></div></details>
+      </section>
+    </main>
+
+    <footer><span>HUMAN CREATIVITY. AI POSSIBILITIES.</span><a href="https://www.tiktok.com/@mattsoicy" target="_blank" rel="noopener noreferrer">Made by Matt <span aria-hidden="true">↗</span></a></footer>
+  </div>
+</body>
+</html>

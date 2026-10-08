@@ -1,0 +1,62 @@
+{
+  "source": "/Users/devlegacy/Desktop/resume/linktree-and-builderpacket/builder-packet/assets/agentic-demo.mp4",
+  "backup": "/Users/devlegacy/Desktop/resume/linktree-and-builderpacket/output/upwork-gallery/video-backups/agentic-demo-before-orientation-fix-20260926-232950.mp4",
+  "sha256": "4644407014e8fb474d53ca58cc368ee3a490ac00c69ed5c0687b7eff1160ac8a",
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "aac",
+        "codec_type": "audio"
+      },
+      {
+        "index": 1,
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 2092,
+        "height": 976,
+        "side_data_list": [
+          {
+            "side_data_type": "Display Matrix",
+            "displaymatrix": "\n00000000:            0       65536           0\n00000001:       -65536           0           0\n00000002:     63963136           0  1073741824\n",
+            "rotation": -90
+          }
+        ]
+      }
+    ],
+    "format": {
+      "duration": "21.714300",
+      "size": "16090646"
+    }
+  },
+  "temporary": "/Users/devlegacy/Desktop/resume/linktree-and-builderpacket/builder-packet/assets/agentic-demo.orientation-fix.tmp.mp4",
+  "verified": {
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 976,
+          "height": 2092,
+          "nb_frames": "1099"
+        },
+        {
+          "codec_type": "audio",
+          "nb_frames": "935"
+        }
+      ],
+      "format": {
+        "duration": "21.705882",
+        "size": "3713270"
+      }
+    },
+    "audio_unchanged": true,
+    "frame_count_unchanged": true,
+    "frame": "/Users/devlegacy/Desktop/resume/linktree-and-builderpacket/output/upwork-gallery/video-backups/agentic-original-fixed-no-autorotate.png"
+  },
+  "completed_at": "2026-09-26T23:31:15.817328",
+  "corrected_sha256": "fb2e05b86e468f5903a412da9aaaf765bcc1f2394dadd1cb849810342a6ce42c"
+}

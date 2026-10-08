@@ -1,0 +1,35 @@
+[
+  {
+    "listing": "mcp-server-integration",
+    "cover": "/Users/devlegacy/Desktop/resume/linktree-and-builderpacket/output/upwork-gallery/mcp-server-integration-cover.png",
+    "size": [
+      1447,
+      1087
+    ],
+    "bytes": 1569842,
+    "generation": "built-in image generation",
+    "prompt": "/Users/devlegacy/Desktop/resume/linktree-and-builderpacket/output/upwork-gallery/mcp-server-integration-cover.prompt.txt"
+  },
+  {
+    "listing": "api-integration",
+    "cover": "/Users/devlegacy/Desktop/resume/linktree-and-builderpacket/output/upwork-gallery/api-integration-cover.png",
+    "size": [
+      1447,
+      1087
+    ],
+    "bytes": 1630794,
+    "generation": "built-in image generation",
+    "prompt": "/Users/devlegacy/Desktop/resume/linktree-and-builderpacket/output/upwork-gallery/api-integration-cover.prompt.txt"
+  },
+  {
+    "listing": "automated-web-app-testing",
+    "cover": "/Users/devlegacy/Desktop/resume/linktree-and-builderpacket/output/upwork-gallery/automated-web-app-testing-cover.png",
+    "size": [
+      1448,
+      1086
+    ],
+    "bytes": 1562076,
+    "generation": "built-in image generation",
+    "prompt": "/Users/devlegacy/Desktop/resume/linktree-and-builderpacket/output/upwork-gallery/automated-web-app-testing-cover.prompt.txt"
+  }
+]

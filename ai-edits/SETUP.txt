@@ -1,0 +1,129 @@
+AI EDITS — LAUNCH NOTES
+
+This is a standalone static page. Upload the whole ai-edits directory to your
+existing host. It has no shared navigation or stylesheet dependencies on the
+portfolio, Linktree, or builder packet. It has not been published by this change.
+
+EMAIL DELIVERY — OWNER ACTIVATION REQUIRED
+The request form uses https://formsubmit.co/mathew@solpulse.trade and native
+multipart submission for photo attachments. No mail server credentials are
+stored in this project. FormSubmit is disclosed beside the submit button.
+
+Before sharing the form with customers, make an owner setup submission from
+the final public website and click FormSubmit's activation link sent to
+mathew@solpulse.trade. Check spam if needed. Do not use real customer photos
+for activation: FormSubmit says uploads made before activation are not retained.
+The Shared folder option can be used for setup without uploading any files.
+Activation must be completed for the final website/domain; do not assume a
+local-preview submission activates a future public deployment.
+
+No request or activation email has been sent as part of this change, and inbox
+delivery has not been verified. FormSubmit performs any spam check on its own
+page, then redirects back to thanks.html. A redirect is not proof of inbox
+delivery or payment. Keep FormSubmit's CAPTCHA enabled.
+
+Photo uploads require at least 2 front-facing and 2 side-profile files.
+Wardrobe photos are optional. The provider limits attachments to 10 MB total;
+customers can instead share a folder of full-quality originals. The webpage
+does not store selected photos in browser storage or compress them.
+
+Provider references:
+https://formsubmit.co/documentation
+https://formsubmit.co/help
+https://formsubmit.co/privacy.pdf
+
+CASH APP
+payment-config.js contains the seller-supplied profile link and recipient.
+Both payment stages open https://cash.app/$mathewstevens. Customers must enter
+$25 themselves and paste the generated deposit/final note with their TikTok
+username. This profile link does not prefill an amount, submit a payment, or
+confirm that payment arrived. Verify receipts in Cash App before starting work
+or delivering the finished file. Do not treat a customer screenshot as a receipt.
+
+SQUARE — SECOND PAYMENT OPTION
+Created in the owner's signed-in Square dashboard on October 8, 2026:
+Deposit: https://square.link/u/ZMB38lKL
+Final:   https://square.link/u/6koxElmt
+
+Both links have a fixed $25 one-time amount and tipping disabled. No subscription
+was purchased and no payment was made. The public checkout pages were reviewed
+and display the correct $25 total. Both require the request name or username.
+Final payment also requires "Delivery: Google Drive or Dropbox + email".
+Customers enter contact details and payment information on Square, not this site.
+Wallet availability depends on the customer's browser/device.
+
+The local page keeps Cash App first and adds Card / Square as the second option
+on both payment tabs. Square customers use Square's checkout and do not submit
+the Cash App payment-notice form. Payment verification and file delivery are
+still manual; there is no Square webhook connected to this static website.
+
+Square Settings > General > Email notifications > Dashboard or mobile add-on
+links is enabled. Square sends these emails to the email in the Square account,
+which is separate from the FormSubmit destination. The account currently shows
+"Verification needed" beside its email. The owner must complete verification
+and check payout/bank setup. Neither banking nor identity details were changed.
+Actual notification delivery has not been verified with a real transaction.
+No guarantee that Square's email subject matches the Gmail "AI Edits" filter;
+check the first real receipt and add a sender/subject filter if necessary.
+Custom field answers are collected by Square; review the payment/order details
+if they are not included in its notification email.
+
+Cash App and Square are separate payment methods. Do not pay through both for
+the same stage. Clicking a checkout link does not mean a payment succeeded.
+Square processing fees apply according to the account's pricing; creating
+these links did not add a monthly subscription.
+
+CASH APP PAYMENT NOTICES AND VIDEO DELIVERY
+Both Cash App payment tabs include an "I've paid — notify Matt" form. Opening Cash App
+does not send an email. Customers pay separately, return to the form, enter the
+Cash App sender name or $Cashtag, and confirm they completed the selected $25
+payment before submitting the notice. They can also report a payment already
+made without reopening Cash App. The Cash App button opens a separate tab/app
+so their filled form can stay open; a fallback link appears if it did not open.
+
+The notice includes the selected stage (Deposit or Final payment), reported
+amount, TikTok username, sender name/$Cashtag, recipient, and payment note.
+Final-payment notices also require a delivery method and email. Google Drive
+uses the Google account email (not necessarily Gmail). Dropbox uses an email
+address to send a download link; no Dropbox username/account is needed.
+
+Both the email subject and body say the payment is CUSTOMER-REPORTED and must
+be checked in Cash App. There is no Cash App API, webhook, automatic receipt
+verification, order database, or automatic file delivery. All form data is
+customer-supplied. Never start work/release a file based solely on this email.
+The provider sends the notice to mathew@solpulse.trade and redirects to
+payment-thanks.html. The existing request thank-you page remains separate.
+
+The payment-notice form also requires FormSubmit activation before launch.
+No payment notice or activation request has been sent during implementation;
+email delivery is not verified. Publish and activate the forms before sharing.
+
+DIRECT LINKS
+Use the page URL with #request, #deposit, or #final to open the corresponding
+tab. For example, the local request preview is:
+http://127.0.0.1:8768/ai-edits/#request
+
+GMAIL ORGANIZATION
+All form emails use the same subject prefix, [AI Edits]:
+  [AI Edits] New request — mattsoicy
+  [AI Edits] Deposit reported — verify in Cash App
+  [AI Edits] Final payment reported — verify in Cash App
+
+In Gmail on desktop, open the search options beside the search bar and enter
+"AI Edits" (including the quotation marks) in Subject. Click Create filter,
+choose Apply the label, create/select the AI Edits label, then Create filter.
+Leave Skip the Inbox unchecked to keep new leads visible in your usual inbox
+as well as the label. Check it only if you want matching messages archived out
+of the main inbox and will check the label separately. Do not mark them as read.
+The label appears in Gmail's left sidebar. Gmail's built-in category tabs
+(Primary, Promotions, Social, Updates, Forums) cannot be given custom names.
+This code change has not created a Gmail label or filter in the owner's account.
+The prefix only applies to form submissions; unrelated manual emails and
+FormSubmit activation emails may not match. Keep the prefix when replying to
+retain automatic sorting. Payment notices still need receipt verification.
+
+CONTENT TO DECIDE BEFORE LAUNCH
+Confirm the included clip length, delivery window, revision allowance, and
+cancellation/refund terms. The current page asks customers to agree those
+details with Matt before paying; it does not invent a policy on his behalf.
+Add real example edits only when you have permission to showcase them.

@@ -1,0 +1,15 @@
+Use case: ads-marketing
+Asset type: Upwork technical consultation gallery cover, landscape 4:3, target 1448 x 1086 pixels.
+Primary request: Create an elegant, finished cover for an independent developer's App & AI Consultation service. Match the established gallery style: nearly black charcoal background, emerald and turquoise glow, clean frosted glass software panels, polished restrained 3D illustration, large crisp white typography. This is professional technical advice about app architecture, integrations, and launches.
+
+Composition: Keep every essential element inside generous 6% safe margins. On the left half, very large bold white sans-serif headline with exactly these two lines:
+"App & AI"
+"Consultation"
+Under it, smaller but clearly readable emerald subtitle:
+"Plan. Connect. Launch."
+Only these three lines of text. Ensure the word Consultation fits comfortably without clipping or overlapping graphics. Prioritize legibility at small thumbnail size.
+
+Right half: an isometric frosted-glass planning board showing a simple app architecture diagram with a browser window node, a mobile screen node, and three connected service nodes. In front of it, one small elegant panel with two overlapping speech-bubble symbols suggesting a one-to-one discussion, and a compact checklist card with three emerald checkmarks. Panels should be symbolic illustrations, not screenshots and not dense dashboards. Use abstract short muted bars instead of tiny text. The imagery should communicate discussing a practical plan for web, mobile, and AI apps. No people or invented headshots.
+
+Lighting and palette: deep charcoal (#0c1113), restrained emerald and mint highlights, premium soft studio reflections, subtle green ambient background glow. Match a coherent collection of dark software-service covers. Plenty of visual breathing room, mature and trustworthy, no visual clutter.
+Avoid: logos, company names, platform badges, ratings, testimonials, stock chart metrics, prices, contact details, URLs, watermarks, robots, exaggerated sci-fi effects, extra wording, tiny technical code, busy circuitry. Do not imply completed client work, certification, or guaranteed outcomes. Deliver one finished flat image without an external frame.

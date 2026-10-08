@@ -1,0 +1,11 @@
+Generated using the built-in image-generation tool.
+
+Use case: ads-marketing.
+Create a polished landscape 4:3 raster cover image, ideally 1600 by 1200 pixels, for an independent developer's fixed-scope web application bug-fixing service. The buyer should understand the service instantly at thumbnail size.
+Visual direction: professional editorial software-service graphic, matte near-black and charcoal backdrop with a restrained emerald accent matching a dark developer portfolio. Generous negative space, strong typography, refined tactile depth, crisp edges, minimal visual clutter. A single substantial abstract code-window illustration with a magnifying lens over one highlighted line and a small integrated green verification check, composed alongside the headline. This is clearly a conceptual service illustration, not a fabricated client screenshot or test report. No readable pretend code is needed.
+Exact text only:
+"Web App"
+"Bug Fix"
+"Reproduce. Fix. Verify."
+Set the first two lines as the large, dominant, highly readable white headline. Set the third line smaller, with generous spacing. Keep text and main illustration within crop-safe margins at least 8 percent away from canvas edges. The two-line title should be readable in a small marketplace card.
+No additional words. No company names, framework logos, Upwork logos or badges, contact information, URLs, prices, stars, claims about jobs completed, ratings, crypto imagery, people, stock-photo laptops, busy grids, neon gradients, or cartoon insects. The image should look like a considered professional service cover.

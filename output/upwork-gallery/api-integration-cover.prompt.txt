@@ -1,0 +1,10 @@
+Use case: ads-marketing
+Asset type: Professional Upwork Project Catalog cover. One finished landscape PNG, requested size 1448 x 1086 pixels, approximately 4:3.
+Primary request: Create an original, polished cover for a software service, matching an existing family of charcoal-black and emerald-teal portfolio covers.
+Style: Sophisticated 3D software/product illustration with crisp editorial typography, restrained lighting and credible technical detail.
+Scene: Matte near-black studio background, subtle emerald halo on the right, softly reflective dark floor. Minimal geometry and generous breathing room.
+Composition: Left 45 percent is typography, right 50 percent is the main illustration. Safe margins at least 90 pixels. Large bold white modern sans-serif title in exactly two lines, smaller emerald subtitle below. Readable at thumbnail size. No overlap or cropped words.
+Constraints: Original conceptual artwork, not a real customer screenshot. The only readable words are the title and subtitle specified below. Interface cards use abstract bars, icons, and rows instead of tiny fake text. No brand logos, provider marks, Upwork logo, contact information, URLs, watermarks, certifications, prices, performance numbers, testimonials, fake customer metrics, or guarantees. No unrelated robot heads or sci-fi clutter.
+Subject: Two elegant angled dark browser/application panels on the right connected by a single bright emerald bridge carrying a few small geometric data packets. One panel contains abstract form fields and the other neatly mapped structured rows. A subtle interlocking connector shape communicates API integration. Clear one-to-one connection, polished glass and brushed charcoal materials, restrained studio light.
+Text (verbatim): First title line "API"; second title line "Integration". Subtitle "Connect. Map. Verify."
+

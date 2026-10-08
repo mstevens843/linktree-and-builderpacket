@@ -1,0 +1,332 @@
+[
+  {
+    "listing": "mcp-server-integration",
+    "fields": [
+      {
+        "name": "title",
+        "length": 70,
+        "limit": 75
+      },
+      {
+        "name": "tier",
+        "length": 18,
+        "limit": 30
+      },
+      {
+        "name": "tierDescription",
+        "length": 73,
+        "limit": 80
+      },
+      {
+        "name": "summary",
+        "length": 1118,
+        "limit": 1200
+      },
+      {
+        "name": "requirement 1",
+        "length": 221,
+        "limit": 250
+      },
+      {
+        "name": "requirement 2",
+        "length": 207,
+        "limit": 250
+      },
+      {
+        "name": "requirement 3",
+        "length": 220,
+        "limit": 250
+      },
+      {
+        "name": "requirement 4",
+        "length": 208,
+        "limit": 250
+      },
+      {
+        "name": "step title 1",
+        "length": 40,
+        "limit": 75
+      },
+      {
+        "name": "step title 2",
+        "length": 39,
+        "limit": 75
+      },
+      {
+        "name": "step title 3",
+        "length": 40,
+        "limit": 75
+      },
+      {
+        "name": "step title 4",
+        "length": 41,
+        "limit": 75
+      },
+      {
+        "name": "step description 1",
+        "length": 195,
+        "limit": 250
+      },
+      {
+        "name": "step description 2",
+        "length": 206,
+        "limit": 250
+      },
+      {
+        "name": "step description 3",
+        "length": 175,
+        "limit": 250
+      },
+      {
+        "name": "step description 4",
+        "length": 218,
+        "limit": 250
+      },
+      {
+        "name": "FAQ 1",
+        "length": 218,
+        "limit": 250
+      },
+      {
+        "name": "FAQ 2",
+        "length": 238,
+        "limit": 250
+      },
+      {
+        "name": "FAQ 3",
+        "length": 216,
+        "limit": 250
+      },
+      {
+        "name": "FAQ 4",
+        "length": 250,
+        "limit": 250
+      },
+      {
+        "name": "FAQ 5",
+        "length": 248,
+        "limit": 250
+      }
+    ]
+  },
+  {
+    "listing": "api-integration",
+    "fields": [
+      {
+        "name": "title",
+        "length": 67,
+        "limit": 75
+      },
+      {
+        "name": "tier",
+        "length": 19,
+        "limit": 30
+      },
+      {
+        "name": "tierDescription",
+        "length": 77,
+        "limit": 80
+      },
+      {
+        "name": "summary",
+        "length": 1100,
+        "limit": 1200
+      },
+      {
+        "name": "requirement 1",
+        "length": 204,
+        "limit": 250
+      },
+      {
+        "name": "requirement 2",
+        "length": 219,
+        "limit": 250
+      },
+      {
+        "name": "requirement 3",
+        "length": 201,
+        "limit": 250
+      },
+      {
+        "name": "requirement 4",
+        "length": 229,
+        "limit": 250
+      },
+      {
+        "name": "step title 1",
+        "length": 31,
+        "limit": 75
+      },
+      {
+        "name": "step title 2",
+        "length": 43,
+        "limit": 75
+      },
+      {
+        "name": "step title 3",
+        "length": 32,
+        "limit": 75
+      },
+      {
+        "name": "step title 4",
+        "length": 34,
+        "limit": 75
+      },
+      {
+        "name": "step description 1",
+        "length": 186,
+        "limit": 250
+      },
+      {
+        "name": "step description 2",
+        "length": 208,
+        "limit": 250
+      },
+      {
+        "name": "step description 3",
+        "length": 190,
+        "limit": 250
+      },
+      {
+        "name": "step description 4",
+        "length": 218,
+        "limit": 250
+      },
+      {
+        "name": "FAQ 1",
+        "length": 248,
+        "limit": 250
+      },
+      {
+        "name": "FAQ 2",
+        "length": 224,
+        "limit": 250
+      },
+      {
+        "name": "FAQ 3",
+        "length": 227,
+        "limit": 250
+      },
+      {
+        "name": "FAQ 4",
+        "length": 225,
+        "limit": 250
+      },
+      {
+        "name": "FAQ 5",
+        "length": 243,
+        "limit": 250
+      }
+    ]
+  },
+  {
+    "listing": "automated-web-app-testing",
+    "fields": [
+      {
+        "name": "title",
+        "length": 66,
+        "limit": 75
+      },
+      {
+        "name": "tier",
+        "length": 22,
+        "limit": 30
+      },
+      {
+        "name": "tierDescription",
+        "length": 80,
+        "limit": 80
+      },
+      {
+        "name": "summary",
+        "length": 1129,
+        "limit": 1200
+      },
+      {
+        "name": "requirement 1",
+        "length": 228,
+        "limit": 250
+      },
+      {
+        "name": "requirement 2",
+        "length": 185,
+        "limit": 250
+      },
+      {
+        "name": "requirement 3",
+        "length": 211,
+        "limit": 250
+      },
+      {
+        "name": "requirement 4",
+        "length": 211,
+        "limit": 250
+      },
+      {
+        "name": "step title 1",
+        "length": 25,
+        "limit": 75
+      },
+      {
+        "name": "step title 2",
+        "length": 26,
+        "limit": 75
+      },
+      {
+        "name": "step title 3",
+        "length": 28,
+        "limit": 75
+      },
+      {
+        "name": "step title 4",
+        "length": 33,
+        "limit": 75
+      },
+      {
+        "name": "step description 1",
+        "length": 209,
+        "limit": 250
+      },
+      {
+        "name": "step description 2",
+        "length": 178,
+        "limit": 250
+      },
+      {
+        "name": "step description 3",
+        "length": 193,
+        "limit": 250
+      },
+      {
+        "name": "step description 4",
+        "length": 221,
+        "limit": 250
+      },
+      {
+        "name": "FAQ 1",
+        "length": 225,
+        "limit": 250
+      },
+      {
+        "name": "FAQ 2",
+        "length": 226,
+        "limit": 250
+      },
+      {
+        "name": "FAQ 3",
+        "length": 187,
+        "limit": 250
+      },
+      {
+        "name": "FAQ 4",
+        "length": 233,
+        "limit": 250
+      },
+      {
+        "name": "FAQ 5",
+        "length": 211,
+        "limit": 250
+      }
+    ]
+  }
+]

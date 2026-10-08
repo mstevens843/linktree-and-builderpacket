@@ -1,0 +1,118 @@
+{
+  "url": "https://www.upwork.com/jobs/Integrate-Google-Play-Billing-Android-span-class-highlight-Capacitor-span-App_~022103475464099580287/?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2F",
+  "title": "Integrate Google Play Billing in Android Capacitor App - Mobile Development",
+  "text": "Search\nHome\n9+\nNotifications\nOpportunities\nContracts\nFinances\nMessages\nUma\nHelp\nIntegrate Google Play Billing in Android Capacitor App - Mobile Development\nIntegrate Google Play Billing in Android Capacitor App\nPosted 3 days ago\n\nWorldwide\n\nSend a proposal for: 10 Connects\nAvailable Connects: 114\nSummary\n\nI have a live Android app on Google Play (package com.nuomyko.twa). It's a Capacitor app with server.url pointing to my live web app (app.nuomyko.com), so the web app is loaded live, not bundled. The web app is React, TypeScript, and Supabase, built with Lovable, with code on GitHub. The website takes payments with Razorpay.\n\nI need Google Play Billing inside the Android app only:\n\nTwo subscriptions (monthly and yearly) and several one-time products (question packs and reports), using a Capacitor billing plugin\nPurchase buttons open Google Play checkout when running inside the Android app; the website keeps Razorpay exactly as it is\nServer-side purchase verification with the Google Play Developer API, plus real-time developer notifications for renewals, cancellations, and refunds, updating the same Supabase entitlements the website uses\nEnable R8 code shrinking and optimization in the release build (Play Console has flagged low DEX optimization)\nBuild and upload the new version to Google Play\n\nThe Play merchant account is set up and enrolled in the 15% service fee. Please include proof that website payments still work after your changes, and that the in-app purchase works for both new and existing users. Milestone-based payment preferred.\n\n$1,000.00\n\nFixed-price\nExpert\nExperience Level\nProject Type:Ongoing project\n\nYou will be asked to answer the following questions when submitting a proposal:\n\nHave you implemented Google Play Billing in a Capacitor app before? Which plugin did you use? Please share an example.\nHow will you verify purchases on the server and handle renewals and cancellations?\nHow will you make sure the website's Razorpay checkout keeps working after your changes?\nWhat is your fixed price and timeline for this scope, split into milestones?\nInclude a link to your GitHub profile and/or website\nSkills and Expertise\nJavaScript\nIonic Framework\nIn-App Purchases\nKotlin\nAndroid App Development\nCapacitor\nActivity on this job\nProposals:\n10 to 15\nLast viewed by client:\n2 days ago\nInterviewing:\n0\nInvites sent:\n0\nUnanswered invites:\n0\nBid range - High $2,400.00 | Avg $1,073.54 | Low $556.00\nAbout the client\nPayment method not verified\nPhone number verified\nIndia\n2:19 PM\n1 job posted\n0% hire rate, 1 open job\nMember since Sep 24, 2026\nFlag as inappropriate\nApply now\nSave job\nFooter navigation\n\u00a9 2015 - 2026 Upwork\u00ae Global LLC\nTerms\nPrivacy\nYour Privacy Choices\nCalifornia Consumer Privacy Act (CCPA) Opt-Out",
+  "links": [
+    {
+      "text": "Home",
+      "href": "https://www.upwork.com/nx/find-work"
+    },
+    {
+      "text": "Messages",
+      "href": "https://www.upwork.com/ab/messages/rooms/"
+    },
+    {
+      "text": "Uma",
+      "href": "https://www.upwork.com/apps/uma"
+    },
+    {
+      "text": "JavaScript",
+      "href": "https://www.upwork.com/nx/search/jobs/?ontology_skill_uid=996364628025274383"
+    },
+    {
+      "text": "Ionic Framework",
+      "href": "https://www.upwork.com/nx/search/jobs/?ontology_skill_uid=1031626749644357632"
+    },
+    {
+      "text": "In-App Purchases",
+      "href": "https://www.upwork.com/nx/search/jobs/?ontology_skill_uid=996364628016885776"
+    },
+    {
+      "text": "Kotlin",
+      "href": "https://www.upwork.com/nx/search/jobs/?ontology_skill_uid=996364628025274384"
+    },
+    {
+      "text": "Android App Development",
+      "href": "https://www.upwork.com/nx/search/jobs/?ontology_skill_uid=1031626712726093824"
+    },
+    {
+      "text": "Learn how this affects your payment protection.",
+      "href": "https://support.upwork.com/hc/en-us/articles/211063098-Unverified-Billing-Methods"
+    },
+    {
+      "text": "Terms",
+      "href": "https://www.upwork.com/legal"
+    },
+    {
+      "text": "Privacy",
+      "href": "https://privacy.upwork.com/"
+    },
+    {
+      "text": "Your Privacy Choices\nCalifornia Consumer Privacy Act (CCPA) Opt-Out",
+      "href": "javascript:"
+    }
+  ],
+  "buttons": [
+    {
+      "text": "",
+      "label": "Expand"
+    },
+    {
+      "text": "Search",
+      "label": null
+    },
+    {
+      "text": "9+\nNotifications",
+      "label": "notifications, 29 unread"
+    },
+    {
+      "text": "Opportunities",
+      "label": null
+    },
+    {
+      "text": "Contracts",
+      "label": null
+    },
+    {
+      "text": "Finances",
+      "label": null
+    },
+    {
+      "text": "Help",
+      "label": null
+    },
+    {
+      "text": "",
+      "label": "Toggle sidebar"
+    },
+    {
+      "text": "Close the tooltip",
+      "label": null
+    },
+    {
+      "text": "Close the tooltip",
+      "label": null
+    },
+    {
+      "text": "Close the tooltip",
+      "label": null
+    },
+    {
+      "text": "Flag as inappropriate",
+      "label": null
+    },
+    {
+      "text": "Apply now",
+      "label": "Apply now"
+    },
+    {
+      "text": "Close the tooltip",
+      "label": null
+    },
+    {
+      "text": "Save job",
+      "label": null
+    }
+  ],
+  "observed_at": "2026-09-28 01:49:32 -0700"
+}

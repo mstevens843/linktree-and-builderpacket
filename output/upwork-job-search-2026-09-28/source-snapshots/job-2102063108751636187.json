@@ -1,0 +1,118 @@
+{
+  "url": "https://www.upwork.com/jobs/span-class-highlight-Python-span-Developer-Needed-Fix-amp-Stabilize-Existing-Real-Estate-Scraper-Proxy-Pipeline_~022102063108751636187/?referrer_url_path=%2Fnx%2Fsearch%2Fjobs%2F",
+  "title": "Python Developer Needed to Fix & Stabilize Existing Real Estate Scraper / Proxy Pipeline - Data Extraction/ETL",
+  "text": "Search\nHome\n9+\nNotifications\nOpportunities\nContracts\nFinances\nMessages\nUma\nHelp\nPython Developer Needed to Fix & Stabilize Existing Real Estate Scraper / Proxy Pipeline - Data Extraction/ETL\nPython Developer Needed to Fix & Stabilize Existing Real Estate Scraper / Proxy Pipeline\nPosted last week\n\nWorldwide\n\nSend a proposal for: 18 Connects\nAvailable Connects: 114\nSummary\n\nWe are looking for an experienced Python / web scraping developer to take over an existing real estate scraping pipeline and fix the remaining production issues.\n\nThis is not a project from scratch. The existing system already includes:\n\nPython scraper\nPostgreSQL database\nFastAPI\nDocker setup\nRedis / worker processes\nPlaywright support\nProxy integration\nAdmin dashboard / monitoring\nData normalization and API endpoints\nExisting source code and documentation\n\nThe current source is Pincali.com, a Mexico real estate website.\n\nMain Goal\n\nThe scraper works, but it is not processing the remaining backlog reliably because of anti-bot / CAPTCHA responses and retry/requeue issues.\n\nWe need someone to review the existing codebase, identify the remaining problem, and stabilize the production scraping flow.\n\nMain Items to Fix / Verify\nReview the current proxy integration and scraper behavior\nImprove handling of Pincali anti-bot / CAPTCHA responses\nVerify the retry and requeue flow for failed URLs\nEnsure failed URLs are actually reprocessed instead of remaining permanently stuck\nReview Redis queues and worker behavior\nVerify Playwright/browser fallback is working correctly\nEnsure invalid/error pages are rejected and never stored as valid listings\nConfirm proxy rotation, cooldown, retry, and failover logic\nImprove scraping reliability and successful processing rate\nConfirm that new and existing listings are being processed and updated correctly\nReview dashboard / scraper-run metrics so successful and failed activity is clear\nProvide updated source code and documentation for any changes made\n\nAt the last production review, the system had a large number of failed URLs waiting to be reprocessed, while Pincali was intermittently returning CAPTCHA / anti-bot responses.\n\nThe goal of this job is to get the existing system into a state where the backlog can be processed reliably and we can clearly verify successful production scraping.\n\nDeliverable\n\nWe would consider the project complete when:\n\nfailed URLs can be successfully requeued and processed\nthe scraper is actively processing listings in production\nproxy usage is working reliably\nanti-bot / invalid pages are handled correctly\nsuccessful scrape activity can be verified through logs / dashboard\nupdated source code and documentation are delivered\nExisting Stack\nPython\nFastAPI\nPostgreSQL\nRedis\nPlaywright\nDocker\nRotating proxies\n\nExperience taking over and debugging another developer's scraping code is important.\n\nPotential Future Phase\n\nIf this project goes well, there is potential for additional work on the same system.\n\nOur next planned phase is an AI-powered real estate assistant that would use this property database for:\n\nnatural-language property searches\nproperty recommendations\nconversational real estate search\nstandalone AI assistant interface\nembeddable chatbot/widget for our websites\nlead capture and user search tracking\nfuture agent recommendations / routing\n\nStrong AI / LLM experience is a plus, but the priority for this job is solving the current scraper and data pipeline issues.\n\nWhen Applying\n\nPlease briefly explain:\n\nyour experience with Python scraping pipelines\nyour experience with Playwright and anti-bot / proxy systems\nwhether you have taken over and fixed existing scraper code before\nhow you would approach diagnosing the current retry / CAPTCHA problem\nwhether you would be comfortable working within the existing codebase rather than rebuilding it\n\nLess than 30 hrs/week\nHourly\n< 1 month\nDuration\nIntermediate\nExperience Level\nProject Type:One-time project\nSkills and Expertise\nPython\nWeb Scraping\nActivity on this job\nProposals:\n5 to 10\nLast viewed by client:\n5 days ago\nInterviewing:\n5\nInvites sent:\n0\nUnanswered invites:\n0\nBid range - High $85.00 | Avg $32.45 | Low $15.00\nAbout the client\nPayment method verified\nPhone number verified\nRating is 5.0 out of 5.\n5.0\n5.00 of 1 review\nMEX\nLa Paz1:49 AM\n4 jobs posted\n25% hire rate, 1 open job\n$706 total spent\n1 hire, 0 active\nReal Estate\nMid-sized company (10-99 people)\nMember since Aug 17, 2023\nClient's recent history (1)\nScraper Integration + API + Database Setup\nRating is 5.0 out of 5.\n5.0\nIt was great working with Oscar, likely to work more in future.\nTo freelancer: Arsalan Q.\nRating is 5.0 out of 5.\n5.0\nArsalan is great to work with, very knowledgeable in the field and highly responsable.\nMay 2026 - Aug 2026\nFixed-price $600.00\nFlag as inappropriate\nApply now\nSave job\nFooter navigation\n\u00a9 2015 - 2026 Upwork\u00ae Global LLC\nTerms\nPrivacy\nYour Privacy Choices\nCalifornia Consumer Privacy Act (CCPA) Opt-Out",
+  "links": [
+    {
+      "text": "Home",
+      "href": "https://www.upwork.com/nx/find-work"
+    },
+    {
+      "text": "Messages",
+      "href": "https://www.upwork.com/ab/messages/rooms/"
+    },
+    {
+      "text": "Uma",
+      "href": "https://www.upwork.com/apps/uma"
+    },
+    {
+      "text": "Python",
+      "href": "https://www.upwork.com/nx/search/jobs/?ontology_skill_uid=996364628025274386"
+    },
+    {
+      "text": "Web Scraping",
+      "href": "https://www.upwork.com/nx/search/jobs/?ontology_skill_uid=1504884906003529729"
+    },
+    {
+      "text": "Learn how this affects your payment protection.",
+      "href": "https://support.upwork.com/hc/en-us/articles/211063098-Unverified-Billing-Methods"
+    },
+    {
+      "text": "Arsalan Q.",
+      "href": "https://www.upwork.com/freelancers/~0179bee27b6b96ab94/?referrer_url_path=/jobs/span-class-highlight-Python-span-Developer-Needed-Fix-amp-Stabilize-Existing-Real-Estate-Scraper-Proxy-Pipeline_~022102063108751636187/"
+    },
+    {
+      "text": "Terms",
+      "href": "https://www.upwork.com/legal"
+    },
+    {
+      "text": "Privacy",
+      "href": "https://privacy.upwork.com/"
+    },
+    {
+      "text": "Your Privacy Choices\nCalifornia Consumer Privacy Act (CCPA) Opt-Out",
+      "href": "javascript:"
+    }
+  ],
+  "buttons": [
+    {
+      "text": "",
+      "label": "Expand"
+    },
+    {
+      "text": "Search",
+      "label": null
+    },
+    {
+      "text": "9+\nNotifications",
+      "label": "notifications, 29 unread"
+    },
+    {
+      "text": "Opportunities",
+      "label": null
+    },
+    {
+      "text": "Contracts",
+      "label": null
+    },
+    {
+      "text": "Finances",
+      "label": null
+    },
+    {
+      "text": "Help",
+      "label": null
+    },
+    {
+      "text": "",
+      "label": "Toggle sidebar"
+    },
+    {
+      "text": "Close the tooltip",
+      "label": null
+    },
+    {
+      "text": "Close the tooltip",
+      "label": null
+    },
+    {
+      "text": "Close the tooltip",
+      "label": null
+    },
+    {
+      "text": "more",
+      "label": null
+    },
+    {
+      "text": "more",
+      "label": null
+    },
+    {
+      "text": "Flag as inappropriate",
+      "label": null
+    },
+    {
+      "text": "Apply now",
+      "label": "Apply now"
+    },
+    {
+      "text": "Close the tooltip",
+      "label": null
+    },
+    {
+      "text": "Save job",
+      "label": null
+    }
+  ],
+  "observed_at": "2026-09-28 01:49:28 -0700"
+}

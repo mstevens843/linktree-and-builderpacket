@@ -1,0 +1,273 @@
+[
+  {
+    "key": "csv-cleanup-record-matching",
+    "fields": [
+      {
+        "name": "title",
+        "length": 68,
+        "limit": 75
+      },
+      {
+        "name": "tier",
+        "length": 24,
+        "limit": 30
+      },
+      {
+        "name": "tierDescription",
+        "length": 76,
+        "limit": 80
+      },
+      {
+        "name": "summary",
+        "length": 1128,
+        "limit": 1200
+      },
+      {
+        "name": "requirement1",
+        "length": 231,
+        "limit": 250
+      },
+      {
+        "name": "requirement2",
+        "length": 199,
+        "limit": 250
+      },
+      {
+        "name": "requirement3",
+        "length": 204,
+        "limit": 250
+      },
+      {
+        "name": "requirement4",
+        "length": 238,
+        "limit": 250
+      },
+      {
+        "name": "step1Title",
+        "length": 38,
+        "limit": 75
+      },
+      {
+        "name": "step1Description",
+        "length": 189,
+        "limit": 250
+      },
+      {
+        "name": "step2Title",
+        "length": 40,
+        "limit": 75
+      },
+      {
+        "name": "step2Description",
+        "length": 211,
+        "limit": 250
+      },
+      {
+        "name": "step3Title",
+        "length": 42,
+        "limit": 75
+      },
+      {
+        "name": "step3Description",
+        "length": 185,
+        "limit": 250
+      },
+      {
+        "name": "step4Title",
+        "length": 40,
+        "limit": 75
+      },
+      {
+        "name": "step4Description",
+        "length": 188,
+        "limit": 250
+      },
+      {
+        "name": "faq1Question",
+        "length": 37,
+        "limit": 150
+      },
+      {
+        "name": "faq1Answer",
+        "length": 231,
+        "limit": 250
+      },
+      {
+        "name": "faq2Question",
+        "length": 42,
+        "limit": 150
+      },
+      {
+        "name": "faq2Answer",
+        "length": 235,
+        "limit": 250
+      },
+      {
+        "name": "faq3Question",
+        "length": 57,
+        "limit": 150
+      },
+      {
+        "name": "faq3Answer",
+        "length": 242,
+        "limit": 250
+      },
+      {
+        "name": "faq4Question",
+        "length": 52,
+        "limit": 150
+      },
+      {
+        "name": "faq4Answer",
+        "length": 193,
+        "limit": 250
+      },
+      {
+        "name": "faq5Question",
+        "length": 52,
+        "limit": 150
+      },
+      {
+        "name": "faq5Answer",
+        "length": 242,
+        "limit": 250
+      }
+    ]
+  },
+  {
+    "key": "live-updates-notifications",
+    "fields": [
+      {
+        "name": "title",
+        "length": 63,
+        "limit": 75
+      },
+      {
+        "name": "tier",
+        "length": 20,
+        "limit": 30
+      },
+      {
+        "name": "tierDescription",
+        "length": 73,
+        "limit": 80
+      },
+      {
+        "name": "summary",
+        "length": 1132,
+        "limit": 1200
+      },
+      {
+        "name": "requirement1",
+        "length": 221,
+        "limit": 250
+      },
+      {
+        "name": "requirement2",
+        "length": 207,
+        "limit": 250
+      },
+      {
+        "name": "requirement3",
+        "length": 220,
+        "limit": 250
+      },
+      {
+        "name": "requirement4",
+        "length": 240,
+        "limit": 250
+      },
+      {
+        "name": "step1Title",
+        "length": 46,
+        "limit": 75
+      },
+      {
+        "name": "step1Description",
+        "length": 202,
+        "limit": 250
+      },
+      {
+        "name": "step2Title",
+        "length": 40,
+        "limit": 75
+      },
+      {
+        "name": "step2Description",
+        "length": 193,
+        "limit": 250
+      },
+      {
+        "name": "step3Title",
+        "length": 38,
+        "limit": 75
+      },
+      {
+        "name": "step3Description",
+        "length": 220,
+        "limit": 250
+      },
+      {
+        "name": "step4Title",
+        "length": 37,
+        "limit": 75
+      },
+      {
+        "name": "step4Description",
+        "length": 226,
+        "limit": 250
+      },
+      {
+        "name": "faq1Question",
+        "length": 44,
+        "limit": 150
+      },
+      {
+        "name": "faq1Answer",
+        "length": 237,
+        "limit": 250
+      },
+      {
+        "name": "faq2Question",
+        "length": 58,
+        "limit": 150
+      },
+      {
+        "name": "faq2Answer",
+        "length": 227,
+        "limit": 250
+      },
+      {
+        "name": "faq3Question",
+        "length": 39,
+        "limit": 150
+      },
+      {
+        "name": "faq3Answer",
+        "length": 229,
+        "limit": 250
+      },
+      {
+        "name": "faq4Question",
+        "length": 48,
+        "limit": 150
+      },
+      {
+        "name": "faq4Answer",
+        "length": 239,
+        "limit": 250
+      },
+      {
+        "name": "faq5Question",
+        "length": 47,
+        "limit": 150
+      },
+      {
+        "name": "faq5Answer",
+        "length": 243,
+        "limit": 250
+      }
+    ]
+  }
+]
+

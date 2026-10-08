@@ -1,0 +1,24 @@
+[
+  {
+    "file": "/Users/devlegacy/Desktop/resume/linktree-and-builderpacket/output/upwork-gallery/ios-app-store-submission-cover.png",
+    "dimensions": [
+      1448,
+      1086
+    ],
+    "bytes": 1478306,
+    "format": "PNG",
+    "prompt": "/Users/devlegacy/Desktop/resume/linktree-and-builderpacket/output/upwork-gallery/ios-app-store-submission-cover.prompt.txt",
+    "generation": "built-in image generation"
+  },
+  {
+    "file": "/Users/devlegacy/Desktop/resume/linktree-and-builderpacket/output/upwork-gallery/android-play-store-submission-cover.png",
+    "dimensions": [
+      1447,
+      1087
+    ],
+    "bytes": 1523300,
+    "format": "PNG",
+    "prompt": "/Users/devlegacy/Desktop/resume/linktree-and-builderpacket/output/upwork-gallery/android-play-store-submission-cover.prompt.txt",
+    "generation": "built-in image generation"
+  }
+]
