@@ -167,8 +167,11 @@
     start.setCustomValidity(start.value && from === null ? "Enter a timestamp like 0:12 or 1:02:12." : "");
     end.setCustomValidity(end.value && to === null ? "Enter a timestamp like 0:21 or 1:02:21." : "");
     if (from !== null && to !== null && to <= from) end.setCustomValidity("The end timestamp must come after the start timestamp.");
+    const selected = window.AI_EDIT_PAYMENTS.packages[document.getElementById("request-package").value];
+    if (selected?.maxSeconds && from !== null && to !== null && to - from > selected.maxSeconds) end.setCustomValidity(`Choose a clip up to ${selected.maxSeconds} seconds, or select a different package or custom request.`);
   }
 
+  document.addEventListener("editpackagechange", validateTimestamps);
   [start, end].forEach(input => input.addEventListener("input", validateTimestamps));
   [document.getElementById("request-video"), folderLink].forEach(input => {
     input.addEventListener("blur", () => {
@@ -179,6 +182,8 @@
 
   form.addEventListener("formdata", event => {
     const data = event.formData;
+    const selectedId = document.getElementById("request-package").value;
+    data.set("Edit_package", window.AI_EDIT_PAYMENTS.packages[selectedId]?.label || "Custom request");
     const details = contact.value.trim();
     data.set("Contact_details", contactMethod === "Email" ? details : `@${details.replace(/^@/, "")}`);
     // Only actual email addresses become the provider's reply-to address.

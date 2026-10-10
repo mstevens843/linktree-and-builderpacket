@@ -1,8 +1,89 @@
+OCTOBER 10, 2026 — THREE PACKAGE UPDATE
+
+Local implementation is ready. Publishing via the existing Cloudflare Worker
+was blocked by browser upload approval; the live page has NOT been updated.
+No git commands or test suites were run.
+
+Packages:
+  single-10: one person, up to 10 seconds, $50 total ($25 + $25)
+  single-30: one person, up to 30 seconds, $70 total ($35 + $35)
+  multi: multiple people, $100 total ($50 + $50)
+Multi-person clip length and people are confirmed before payment.
+Custom requests remain available and are quoted before payment.
+
+Square links, fixed one-time amounts, tipping disabled:
+  Single 10s deposit $25: https://square.link/u/ZMB38lKL (existing)
+  Single 10s final   $25: https://square.link/u/6koxElmt (existing)
+  Single 30s deposit $35: https://square.link/u/0JdqDXhl
+  Single 30s final   $35: https://square.link/u/aMVAoxHd
+  Multi-person deposit $50: https://square.link/u/jKyccs7G
+  Multi-person final   $50: https://square.link/u/IoTETqLD
+
+The four new checkouts were opened and displayed the intended total.
+Each collects the name or username from the request. Both new final-payment
+links also require "Delivery: Google Drive or Dropbox + email".
+No payment was made, and no request/notice form was submitted.
+
+Cash App still uses the existing https://cash.app/$mathewstevens profile.
+There is no additional Cash App setup: the site supplies the appropriate
+$25, $35, or $50 amount and package/stage-specific note for manual entry.
+Requests and Cash App notices now include the selected package and pricing.
+Existing manual payment verification and FormSubmit delivery remain unchanged.
+
+Direct links retain #request, #deposit, and #final. Add ?edit=single-10,
+?edit=single-30, or ?edit=multi before the hash to select a package.
+Example: https://mathewstevens.dev/ai-edits/?edit=multi#deposit
+
+Publishing handoff:
+  Prepared asset folder: /private/tmp/ai-edits-20261010-publish/public
+  Preservation manifest: /private/tmp/ai-edits-20261010-publish/preserved-assets.json
+The folder includes the 92 existing live assets byte-for-byte and the 8
+AI edits assets. This matters because the live homepage differs from local
+linktree/index.html; deploying the local homepage would overwrite live work.
+Only local files under ai-edits were edited. Keep SETUP.txt out of public assets.
+The existing dashboard's New deployment uploader is ready for this folder.
+A direct deployment will not synchronize the repository: include these local
+ai-edits changes in the owner's next push before triggering a repository build.
+
+Desktop package, payment, and custom-request views were reviewed in the browser.
+Mobile emulation was blocked by browser approval and was not verified.
+The responsive CSS keeps all three package tabs visible on small screens.
+
+The October 8 launch record below is historical and describes the original
+single $50 offering. The package configuration above supersedes its $25-only
+payment instructions.
+
+--------------------------------------------------------------------------
+
 AI EDITS — LAUNCH NOTES
 
-This is a standalone static page. Upload the whole ai-edits directory to your
-existing host. It has no shared navigation or stylesheet dependencies on the
-portfolio, Linktree, or builder packet. It has not been published by this change.
+This is a standalone static page, published on October 8, 2026:
+https://mathewstevens.dev/ai-edits/
+Bio/request link: https://mathewstevens.dev/ai-edits/#request
+It has no shared navigation or stylesheet dependencies on the portfolio,
+Linktree, or builder packet.
+
+HOSTING — CLOUDFLARE WORKERS
+Worker: linktree-and-builderpacket
+Repository: mstevens843/linktree-and-builderpacket
+Production branch: master
+Root directory: /
+Dashboard: https://dash.cloudflare.com/7aa14b895ee43c3e0abf5bd287730088/workers/services/view/linktree-and-builderpacket/production
+
+The original build only copied linktree and builder-packet, causing /ai-edits/
+to return 404 even after a successful push. The Cloudflare build command now is:
+mkdir -p public/builder-packet public/portfolio public/ai-edits && cp -R linktree/. public/ && cp -R builder-packet/. public/builder-packet/ && cp -R builder-packet/. public/portfolio/ && cp ai-edits/*.html ai-edits/*.css ai-edits/*.js ai-edits/*.svg public/ai-edits/
+
+Deploy command:
+npx wrangler deploy --name linktree-and-builderpacket --assets ./public --compatibility-date 2026-06-05
+
+The updated command was saved in Cloudflare Settings > Builds > Production,
+then the current master revision was rebuilt successfully. Both custom domains,
+mathewstevens.dev and mattinfra.dev, point to this Worker. Future builds include
+the AI edits HTML, CSS, JS and SVG files. This SETUP.txt stays out of the public
+asset directory. New asset types (for example, example videos) need to be added
+to the copy step if introduced later. No repository commands were run by the
+assistant; this deployment used the revision the owner had already pushed.
 
 EMAIL DELIVERY — OWNER ACTIVATION REQUIRED
 The request form uses https://formsubmit.co/mathew@solpulse.trade and native
@@ -96,12 +177,12 @@ payment-thanks.html. The existing request thank-you page remains separate.
 
 The payment-notice form also requires FormSubmit activation before launch.
 No payment notice or activation request has been sent during implementation;
-email delivery is not verified. Publish and activate the forms before sharing.
+email delivery is not verified. Activate the forms on the public site before sharing.
 
 DIRECT LINKS
 Use the page URL with #request, #deposit, or #final to open the corresponding
-tab. For example, the local request preview is:
-http://127.0.0.1:8768/ai-edits/#request
+tab. The public request link is:
+https://mathewstevens.dev/ai-edits/#request
 
 GMAIL ORGANIZATION
 All form emails use the same subject prefix, [AI Edits]:
